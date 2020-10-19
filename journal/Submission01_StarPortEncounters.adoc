@@ -1,0 +1,51 @@
+== Introduction
+
+So what distinguishes a Class-E starport from no starport at all? Usually, the answer is not much. The Scout service has three criteria for the "E" classification.
+
+1. A landing area that can safely support small to medium starships (up to 1000 tons).
+
+2. A plentiful supply of hydrogen, usually in the form of open water.
+
+3.  There must be a functional beacon that provides basic navigational information to nearby ships. 
+
+Many frontier starports are actually the remnants of the early Scout survey missions, dating back to the Grand Surveys of the Imperium. During the ground exploration phase of a planetary survey, a base camp would be set up. First a large flat area of suitable land would be cleared, then temporary facilities installed, sufficient to support several months of operations. At the end of the survey it was customary to leave the cleared landing zone intact, just in case analysis of survey data prompted a follow-up mission. 
+
+At the time of the Third Imperium, many frontier starports have been operating for hundreds of years, some for much longer. Over such long periods, even the most out of the way starports accumulate 'litter', in the form of discarded equipment and material. Occasionally, a starship makes its final landing at a Class-E port, If it's too costly to repair it may well be declared derelict. Scavengers and salvage crews will often strip these vessels down to their shell, although it's just as likely that smaller, well worn vessels will be left to 'rust'.
+
+There's still a lot of scope within the  Class-E designation. A few starports will have fully paved landing areas, installed lighting, maybe some storage shacks. It's possible that berms (walls of bulldozed earth etc) have been raised to provide some protection from the elements, or local animal life. There might be an embedded power plant, or a pumping system to supply water for easier refueling.
+
+Common class E starport facilities.
+The following list is representative of the things you'd find at any given Class E starport. It's not a definitive list though.
+
+Nav sat::
+Placed in Geo-synchronous orbit above the starport is a small navigation satellite. It provides a marker for ships that are making their way to the starport, it also acts as a booster for transmissions routed through the starport's up-link cabinet.
+
+Landing Pad::
+Mounted on the starport's bedrock base are individual landing pads, of various shapes and sizes. These may be ringed by lighting elements that illuminate the landing pad during periods of low light.
+
+Up-link cabin::
+A simple communications array, usually enclosed in a concrete block, about the size of a small garage. Sometimes the up-link cabin is built under the landing pad, with a trap door access.  The cabin provides two other important functions, firstly, it contains an emergency locker that that provides first aid supplies and when appropriate, basic survival equipment, such as tools, and some rations. The local government is responsible for the upkeep of this store. Depending on the local conditions, it may be well stocked, vandalised, or stripped clean.
+
+Port Notice Board "P.N.B"::
+The second common facility that is built into the up-link cabin is a bulletin board / messaging system, usually referred to as the 'Port Board' or 'PB'. Important announcements can be delivered to all visiting ships, including information about travel restrictions and temporary hazards. As well as providing a means of broadcasting information to visiting starship, the system also allows visitors to create a personal message account, so that others can leave messages for them.  The system is commonly used for communication between crews on different ships, that might pass through the same places at different times. It's not unheard of for friends to maintain correspondence, or even play games of chess for many years, using the PNB system. Security is reasonable, although few people would use the board for very sensitive information. In high population systems with multiple starports and space ports, the PNB system is often integrated so that a messages are synchronized between all ports. Attempts to connect the PNB system with the Imperial Mail service have never been successful. There is a popular conspiracy theory that the Imperial Navy monitors all drop box messaging, looking for signs of piracy and organised crime, although nobody takes the story seriously because most doubt that serious criminals would use such an open means of communication.
+
+The 'PB' can be accessed from a ship's computer console, or personal computer, although usually there's a single console built into the up-link cabit. Very often these will be surrounded by business cards that offer local services, anything from supplies of refined fuel to 'specialist' masseurs.
+
+Water supply duct
+Often, water is provided at a convenient tap or channel, next to each landing pad. There are still a lot of starports that don't provide any amenities, in which case water can be drawn from a nearby river or lake.
+
+Port Warden::
+Most starports have a warden who is responsible for maintaining the port facilities, administering visas, overseeing duties and tariffs.
+
+
+Valhalla Down (Rylanor 0401 Spinward Marches) E365432-5
+
+Starport: E
+Size: 4,500 km 
+Atmosphere: Standard
+Hyrosphere: 50%
+Population: 18,000 in hundreds of small coastal communities
+Government: Self Perpetuating Oligarchy (Ruling noble family)
+Law: 3 (low)
+
+Coastal pad, surrounding by thick jungle. There's a derelicts scout ship. on the edge of one of the landing pads. It's over a hundred years old and covered in creepers and moss.
