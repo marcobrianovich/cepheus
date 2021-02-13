@@ -5,9 +5,9 @@
 
 ==== Synopsis
 
-The adventurers are recently returned from recovering the patrician's strongbox from the bandit cave. The patrician is so appreciative of the PCs' efforts that he immediately assigns them to an even more dangerous task.
+The adventurers have recently returned from recovering the patrician's strongbox from the bandit cave. The patrician is so appreciative of the their efforts that he immediately assigns them to an even more dangerous task.
 
-The distant village of Mengers Knoll has refused to pay its tithe (10% of its collective coinage) for the third year. The patrician had been ignoring the fact but THREE YEARS, damn it! So he had sent a five-man unit of his elite Tarnished legion to assist the village in finding some of the missing coins.
+The distant village of Mengers Knoll has refused to pay its tithe (10% of its collective coinage) for the months. The patrician had been ignoring the fact but IT'S NOW FOUR MONTHS, DAMN IT! So he had sent a five-man unit of his elite Tarnished legion to assist the village in finding some of the missing coins.
 
 That was a  month ago. The fact that his elite soldiers have failed to return is considerable  more upsetting than the missing contribution, which would be a triffling amount compared to the worth of his soldiers.
 
@@ -17,9 +17,79 @@ The player characters are to take the north road until they reach the Red moors.
 
 Tam Battersworth, the village mayor was digging out his mansion's large cellar in order to add a new drainage pipe. He broke through into a hidden stone chamber, filled with luminous egg-shaped crystals. He filled a bucket with the beautiful objects and stored them in a bowl in his study, using their light to read at night.
 
-Tam wasn't to know that he'd recovered Zharker seeds, stolen from a hostile alien dimension by a long-dead wizard. After a few weeks the seeds lost their glow, and Tam lost his interest in them. He handed out a few to some of the villagers as gifts, most were tossed into his back yard. When they fell into the dirt they took root and began to grow into a strange dark plant, as big as a man and made up of large clusters of head-sized balls, eld together by long waxy vines. Tam didn't know what to make of the growth, it looked freakish and smelled something rotten. Other villagers found similar growths where their own gifted seeds had ended up taking root, although these growths were small, not like Tam's which kept on growing to the size of a large tree.
+Tam wasn't to know that he'd recovered Zharker seeds, stolen from a hostile alien dimension by a long-dead wizard. After a few weeks the seeds lost their glow, and Tam lost his interest in them. He handed out a few to some of the villagers as gifts, most were tossed into his back yard. When they fell into the dirt they took root and began to grow into a strange dark plant, as big as a man and made up of large clusters of head-sized balls, held together by long waxy vines. Tam didn't know what to make of the growth, it looked freakish and smelled something rotten. Other villagers found similar growths where their own gifted seeds had ended up taking root, although these growths were small, not like Tam's which kept on growing to the size of a large tree.
 
 Tam tried to have the growth destroyed, paying two of the village's biggest farm hands to chop and burn the thing down -- nobody could have known that it would fight back, grabbing the two men with its vines and strangling them. The men's corpses became wrapped in the plant-fiend's vines and nobody could summon up the courage to approach the demon plant again.
 
-Panic spead throughout the village. Many fled right away.
+Panic spead throughout the village. Many fled right away, leaving their homes with just what they could carry. Others stayed, but only to pack wagons. Within a week only the mayor and a couple of elders remained in the village, the elders stayed because regardless of the dangers, they could not leave their homes. The mayor stayed because he had lost his mind.
+
+When the Patrician's troopers arrived, only two people remained. Edgar Drumph and Tam, the mayor. The troopers couldn't get anything meaningful out of the mayor who had locked himself in his house, but Edgar told them what had happended and of the demon tree thing. The soldiers wasted no time, going straight up to the mansion to confront the thing. The battle was swift, Zharker growths are extremely resistant to blades, the soldiers caused some limited injury but two were killed, while the remaining three all got a bite from the Zharker's beak, infecting them with seedblood, dooming them to horrible deaths as they turn into Zharker growth themselves. The three surviving soldiers crawled into a nearby cottage barred the windows and doors. Over the weeks since the encounter, each soldier underwent a terrifying transformation, sprouting vines and large pustules, while their human bodies whithered away, leaving a head attached to a writhing collection of weird growths held together by tenticle-like vines. When the PCs arrive, two of the Zharker-soldiers have been absorbed by the third, leaving a single monsterous entity -- though most horrifying is that the soldier's head remains partly alive and is able to converse with the PCs.
+
+=== Exploring the village
+
+[MAP HERE]
+
+
+The PCs arrive at the village at midday, unless they choose to hold back until a time of their choosing. The day is cloudy and dull. There's a chance of drizzle, but it never comes. 
+
+The village is deathly quiet, as they approach from the main road, they see no activity at all. Nothing. It's obvious that the village is diserted. Mengers Knoll is small, there are fewer than 20 properties, in addition to a chapel, a log boarded-up in house just acros the Mirklaw river and rising above the village, an old mansion house which looks to predate the village by hundreds of years.
+
+Not only are there no people out, there are no animals.
+
+The PCs can explore the village, they find each cottage to be deserted, some look to have been left untouched with food in mid-preparation, tasks seemingly dropped in a moment. Other cottages have been quickly stripped, heavy items left in piles outside their doors. Something caused people to run, although there are no signs of an attack, no burning or apparently damage to the village itself.
+
+==== A sickly horse called Tubin
+
+The PCs hear something close to the village centre, something big struggling to draw breath... The PCs find a tinker's cart, piled with wooden boxes in the adjacement garden of one of the cottages is a horse, accompanied by a the tinker. When he sees the PCs he'll act quite manic. Thankful to see people. He is very spooked. His horse looks sickly, it has wounds around its face. The tinker explains that he comes to the village a couple of times a year. On arriving a few days ago he found the place deserted. He took his horse into the garden to each grass, while he searched for signs of life, however when he got back it had been caught in a horrible black/blue plant growth, with vines attached to its head. He managed to cut the vines away but his horse, Tubin is still too sickly to move.
+
+When asked what has happened here, he says that he heard movement and murmering from old Tomberlin Tooky's house, which has been fortified from the inside. He points out the house which is cross the road from the chapel.
+
+==== Tomberlin's place
+
+A large stone build house, one of a number in the village that look grander than the smaller cottages. It's windows have been blocked by furniture and timber. The two doors have also been locked and quickly baracaded.
+
+If the PCs call in they'll hear movement. If the shout from a window they'll hear movement and then rasping and ...is that a voice. The voice will tell them to run. 
+
+*Questions that get answers:* +
+. Who are you?   _I'm captain James Creed of the Tarnished batalion, dispatched....  I don't know how long ago.
+. Will you let us in?  _NO! NO! NO! I can't, too dangerous, too dangerous. Gone really, I'm not here. Not any more. Go away. Go away._
+. What happened? _We came to take possession of the village's due taxes or repossess possessions of equivalent value. We found the village deserted. Only the major and an old farmer remained. They told us that the major had found some glowing crystals in a hidden room he found in his cellar. The things stopped glowing and ended up being tossed into his garden, a few in also ended up in some of the villager's homes, but they didn't grow. A horror. A demon plant.
+
+The only other thing that the Zharker-Creed will say is "Get away from here, it's dangerous", or "Burn this place, burn everything. BURN ME"...
+
+If the PCs break into the Tomberlin house, they'll be confronted by a terrifying thing - a cluster of head-sized balls surrounded by writhing tenticle-vines. Attached to the thing is the head of James  Creed, attached to a withered lifeless body that dangles from the thing like a bag of bones. It will attach the nearest player.
+
+==== The Mansion House
+
+Up the hill is a large old house, surrounded by a crumbling stone wall. The mansion has been deserted and can be explored. The main points of interest are the study and the cellar. 
+
+In the Study is a large journal. The last pages tell the story of Tam Battersworth's discovery. The thing that grew, the horrible deaths of the two villagers. After that the notes become almost unreadible. It seems that Battersworth had a grimouire in his library that was part of the house when he moved here as a boy. His father called the book evil and had it burned, but he remembered looking through the book as a small child, it was full of descriptions of monsters and demons. One was a demon tree called a Zharker. He didn't remember this or realise until it was too late.  
+
+In the cellar, where digging appears to have uncovered a door to a carved stone room. On the walls are strange pictures, showing what look like strange worlds connected by doors. It looks like the chamber might have been secretly made by the mansion's original builder, hundreds of years ago. There are a handful of glowing crystals scattered on the floor.
+
+==== The thing in the grounds
+
+Behind the mansion is a strange black growth, 4 metres tall. It's body is a stack of black and grey pods some spherical, others shaped like kidney beans, wrapped by countless thin vines that seem to flex and squirm.
+
+The Zhirker will not move unless attacked. The PCs can roll an tactics to think that they know that attacking with weapons will almost certainly fail, and that it may attack back. Maybe the best thing to do is the prepare some indirect attack that the thing won't be able to resist. Good ideas should be effective, bad ideas will result in a battle with the flailing Zhirker, which might run away, if it sense a danger that it cannot fight.
+
+* Make a bomb - there are enough materials in the village to create a primitive explosive. If comined with scrap metal, it could mortally wound the Zhirker.
+
+* Burn it - surrounding the thing with a mountain of wood will work but unless its path is blocked it will uproot and try to escape the fire.
+
+* Poisonous chemicals, such as caustics might slowly kill the thing, but it would take too long. 
+
+* Any physical attack will awaken the thing and begin a terrible fight. The PCs are unlikely to best it in a sword fight and will quickly realise that they just need to escape.
+
+==== Aftermath
+
+The PCs can uncover a small box of coins in the mansion. More than enough to cover the tithe. The patrician will be extremely sad to learn of the loss of his soldiers. _"I won't make the mistake of sending my best men, next time. Not now I have you .... also very fine people to call upon..."_
+
+
+
+
+
+
+
+
 
