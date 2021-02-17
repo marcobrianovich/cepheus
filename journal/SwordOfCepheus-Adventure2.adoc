@@ -8,9 +8,9 @@ NOTE: This adventure has lots of horror overtones. If you are sensitive to yucky
 
 The adventurers have recently returned from recovering the patrician's strongbox from the bandit cave. The patrician is so appreciative of the their efforts that he immediately assigns them to an even more dangerous task.
 
-The distant village of Mengers Knoll has refused to pay its tithe (10% of its collective coinage) for the months. The patrician had been ignoring the fact but IT'S NOW FOUR MONTHS, DAMN IT! So he had sent a five-man unit of his elite Tarnished legion to assist the village in finding some of the missing coins.
+The distant village of Mengers Knoll has refused to pay its tithe (10% of its collective coinage) for the last three months. The patrician had been ignoring the fact but IT'S NOW FOUR MONTHS, DAMN IT! So he had sent a five-man unit of his elite Tarnished Legion to assist the village in finding some of the missing coins.
 
-That was a  month ago. The fact that his elite soldiers have failed to return is considerable  more upsetting than the missing contribution, which would be a triffling amount compared to the worth of his soldiers.
+That was a month ago. The fact that his elite soldiers have failed to return is considerably more upsetting than the missing coins, which would be a triffling amount compared to the worth of his best soldiers.
 
 The player characters are to take the north road until they reach the Red moors. The sleepy village of Mengers Knoll is located on a, well a small hill. Logical! That's what a knoll is, after all.
 
@@ -22,7 +22,7 @@ Tam wasn't to know that he'd recovered Zharker seeds, stolen from a hostile alie
 
 Tam tried to have the growth destroyed, paying two of the village's biggest farm hands to chop and burn the thing down -- nobody could have known that it would fight back, grabbing the two men with its vines and strangling them. The men's corpses became wrapped in the plant-fiend's vines and nobody could summon up the courage to approach the demon plant again.
 
-Panic spead throughout the village. Many fled right away, leaving their homes with just what they could carry. Others stayed, but only to pack wagons. Within a week only the mayor and a couple of elders remained in the village, the elders stayed because regardless of the dangers, they could not leave their homes. The mayor stayed because he had lost his mind.
+Panic spead throughout the village. Many fled right away, leaving their homes with just what they could carry. Others stayed, but only to pack wagons. Within a week only the mayor and a couple of elders remained in the village, the elders stayed because regardless of the dangers, they simply refused to leave their homes. The mayor stayed because he had lost his mind.
 
 When the Patrician's troopers arrived, only two people remained. Edgar Drumph and Tam, the mayor. The troopers couldn't get anything meaningful out of the mayor who had locked himself in his house, but Edgar told them what had happened and of the demon tree thing. The soldiers wasted no time, going straight up to the mansion to confront the thing. The battle was swift, Zharker growths are extremely resistant to blades, the soldiers caused some limited injury but two were killed, while the remaining three all got a bite from the Zharker's beak, infecting them with seedblood, dooming them to horrible deaths as they turn into Zharker growth themselves. The three surviving soldiers crawled into a nearby cottage barred the windows and doors. Over the weeks since the encounter, each soldier underwent a terrifying transformation, sprouting vines and large pustules, while their human bodies whithered away, leaving a head attached to a writhing collection of weird growths held together by tenticle-like vines. When the PCs arrive, two of the Zharker-soldiers have been absorbed by the third, leaving a single monsterous entity -- though most horrifying is that the soldier's head remains partly alive and is able to converse with the PCs.
 
@@ -33,8 +33,14 @@ When the Patrician's troopers arrived, only two people remained. Edgar Drumph an
 
 The PCs arrive at the village at midday, unless they choose to hold back until a time of their choosing. The day is cloudy and dull. There's a chance of drizzle, but it never comes. 
 
-The village is deathly quiet, as they approach from the main road, they see no activity at all. Nothing. It's obvious that the village is diserted. Mengers Knoll is small, there are fewer than 20 properties, in addition to a chapel, a log boarded-up in house just acros the Mirklaw river and rising above the village, an old mansion house which looks to predate the village by hundreds of years.
+.readout
+****
+Mengers Knoll village is situated at the base of a flat-topped rise, on which an ancient mansion house is situated. To the south, > the red moors stretch for more than ten miles. To the north the terrain becomes more rocky and barren, although the Mirklaw river  which runs past the eastern edge of the village carries its chalky waters from the northern mountains right down to the central    plains.
 
+The village is old. Walls crumble, roofs show patchy repairs on earlier repairs. Most of the houses are more than a hundred years  old, with the mansion being the oldest. 
+
+The village is deathly quiet, as they approach from the main road, they see no activity at all. Nothing. It's obvious that the village is diserted. Mengers Knoll is small, there are fewer than 20 properties, in addition to a chapel, a log boarded-up in house just acros the Mirklaw river and rising above the village, an old mansion house which looks to predate the village by hundreds of years.
+****
 Not only are there no people out, there are no animals.
 
 The PCs can explore the village, they find each cottage to be deserted, some look to have been left untouched with food in mid-preparation, tasks seemingly dropped in a moment. Other cottages have been quickly stripped, heavy items left in piles outside their doors. Something caused people to run, although there are no signs of an attack, no burning or apparently damage to the village itself.
