@@ -33,14 +33,16 @@ When the Patrician's troopers arrived, only two people remained. Edgar Drumph an
 
 The PCs arrive at the village at midday, unless they choose to hold back until a time of their choosing. The day is cloudy and dull. There's a chance of drizzle, but it never comes. 
 
-.readout
-****
-Mengers Knoll village is situated at the base of a flat-topped rise, on which an ancient mansion house is situated. To the south, > the red moors stretch for more than ten miles. To the north the terrain becomes more rocky and barren, although the Mirklaw river  which runs past the eastern edge of the village carries its chalky waters from the northern mountains right down to the central    plains.
+
+____
+*Readout* +
+Mengers Knoll village is situated at the base of a flat-topped rise, on which an ancient mansion house is situated. To the south, the red moors stretch for more than ten miles. To the north the terrain becomes more rocky and barren, although the Mirklaw river  which runs past the eastern edge of the village carries its chalky waters from the northern mountains right down to the central    plains.
 
 The village is old. Walls crumble, roofs show patchy repairs on earlier repairs. Most of the houses are more than a hundred years  old, with the mansion being the oldest. 
+____
 
 The village is deathly quiet, as they approach from the main road, they see no activity at all. Nothing. It's obvious that the village is diserted. Mengers Knoll is small, there are fewer than 20 properties, in addition to a chapel, a log boarded-up in house just acros the Mirklaw river and rising above the village, an old mansion house which looks to predate the village by hundreds of years.
-****
+
 Not only are there no people out, there are no animals.
 
 The PCs can explore the village, they find each cottage to be deserted, some look to have been left untouched with food in mid-preparation, tasks seemingly dropped in a moment. Other cottages have been quickly stripped, heavy items left in piles outside their doors. Something caused people to run, although there are no signs of an attack, no burning or apparently damage to the village itself.
