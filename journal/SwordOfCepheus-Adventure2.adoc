@@ -8,11 +8,17 @@ NOTE: This adventure has lots of horror overtones. If you are sensitive to yucky
 
 The adventurers have recently returned from recovering the patrician's strongbox from the bandit cave. The patrician is so appreciative of the their efforts that he immediately assigns them to an even more dangerous task.
 
-The distant village of Mengers Knoll has refused to pay its tithe (10% of its collective coinage) for the last three months. The patrician had been ignoring the fact but IT'S NOW FOUR MONTHS, DAMN IT! So he had sent a five-man unit of his elite Tarnished Legion to assist the village in finding some of the missing coins.
+The distant village of Mengers Knoll has failed to pay its yearly tithe (10% of its collective coinage). At the point then the payment was three months overdue, the patrician sent a 5-man unit of his Tarnished Battalion to "assist" the village in finding some of the missing coins.
 
 That was a month ago. The fact that his elite soldiers have failed to return is considerably more upsetting than the missing coins, which would be a triffling amount compared to the worth of his best soldiers.
 
 The player characters are to take the north road until they reach the Red moors. The sleepy village of Mengers Knoll is located on a, well a small hill. Logical! That's what a knoll is, after all.
+
+
+____
+*Readout* +
+Find out what's happend. Most importantly, try to find my missing soldiers, and if possible, bring back the money. If things look really, really dangerous - remember how good you were getting my strongbox back from those damned bandits - you'll be fine. You'll be fine.
+____
 
 ===== The fate of Menger's Knoll
 
@@ -28,30 +34,79 @@ When the Patrician's troopers arrived, only two people remained. Edgar Drumph an
 
 === Exploring the village
 
-[MAP HERE]
-
-
 The PCs arrive at the village at midday, unless they choose to hold back until a time of their choosing. The day is cloudy and dull. There's a chance of drizzle, but it never comes. 
+
+==== Map key
+
+1. Small wooden house. Next to the front of the house is a table on which it looks like items for trade where place. There's nothing there now. THe house has been stripped clean.
+
+2. Small wooden house. Plain and empty. Its door is open.
+
+3. Small Wooden house. It looks to have been boarded up long ago. 
+
+4. Stone cottage. The yard has store for charcoal. Judging by the mess, the charcoal was hurriedly removed.
+
+5. Stone cottage. Well maintained garden is starting to get overrun. There's an odd small. Nobody can quite place where it is coming from. A really, really deep investigation will find some odd growths under the overgrown flowers.
+
+6. Medium stone house. Surrounded by some fenced-off land for horses. Horses are gone. House stripped clean.
+
+7. Large 3-storey stone house. The grounds are a mess with discarded stuff. Two long-ruined carts and various empty crates. The house is shabby but most of the contents remain. 
+
+8. Two near identical large stone houses, but have land at the back. Both are stripped. On the door of one of the houses is scrawled a note in charcoal. "We're gone, devil"
+
+9. Second near-identical stone house (see above)
+
+10. A large stone well, almost certainly fed by the river to the east.
+
+11. Large stone house. It looks like the house was ransacked. Outside is a cart, laden with furniture and possessions, only one of the cart's wheels broke.
+
+To the north of the house is a near identical house. See "Tomberlin's place", below
+
+12. Small stone cottage. Empty. No sign of a rush. Just very small and modest.
+
+13,14,15. Small wooden cottages. Farming tools are hung on walls. These look like the houses of farm workers.
+
+16. Large wooden house.Surounded by old wooden decking. The house is boarded up.
+
+17. Small stone cottage. Windows and doors are boarded up.
+
+18. Small stone cottage. Stripped.
+
+19. Communal shelter, suitable for visitors passing through the village to use, since the inn shut down. It's stripped clean.
+
+20. A tiny house, which appears to be untouched. It looks like someone left without taking anything. Rummaging through the house will uncover a stash of coins worth 200G
+
+==== Derelict Inn
+
+A large wooden building that has clearly been left to rot for decades. A sign remains up saying "The last stop". All doors and windows are boarded up. There are signs of rot and breaks in the wall. 
+
+==== Chapel
+
+The chapel is a modest place of worship. It remains untouched, but is only very lightly decorated.
 
 
 ____
 *Readout* +
-Mengers Knoll village lays at the base of a flat-topped rise, on which an ancient mansion house is perched. To the south, the red moors stretch for more than ten miles. To the north the terrain becomes more rocky and barren, although the Mirklaw river  which runs past the eastern edge of the village carries spring waters from the northern mountains right down to the central plains.
+Mengers Knoll village lays at the base of a flat-topped rise, on which an ancient mansion house is perched. To the south, the red moors stretch for more than ten miles. To the north the terrain becomes more rocky and barren, the Mirklaw river flows from the northern mountains, carrying spring waters along the eastern edge of the village, down to the central plains.
 
-The village is old. Most walls have crumble, roofs show patchy repairs laid upon earlier repairs. All the houses are more than a hundred years old, with the mansion being the oldest, by far. Its tall, dark stone walls give the house an out-of-place grandeur. While the village is old, it clearly isn't poor. There are nearly as many large houses as there are small rustic cottages, giving the impression that while the village's generations of children might have left for pastures new, the money always stayed home.
+The village is old. It's gritstone walls have crumble, roofs show patchy repairs laid upon earlier repairs. All the houses are more than a hundred years old, but the mansion, that looks ancient. Its tall, dark stone walls give the house an out-of-place grandeur. While the village is old, it clearly isn't poor. There are nearly as many large houses as there are small rustic cottages, giving the impression that while the village's generations of children might have left for new pastures, the money always stayed home.
+
+Nothing in the village is moving. No people, no visible life. Not even the twitter of birds. Just the sounds that the wind makes through trees and old roofing.
 ____
 
-The village is deathly quiet, as the PCs approach from the main road, they see no activity at all. Nothing. It's obvious that the village is diserted. Mengers Knoll is small, there are fewer than 20 properties, in addition to a chapel, there's a long boarded-up inn house just across the Mirklaw river and rising above the village, an old mansion house which looks to predate the village by hundreds of years.
-
-Not only are there no people out, there are no animals.
+The village is deathly quiet, as the PCs approach from the main road, they see no activity at all. Nothing. It's obvious that the village is diserted. Mengers Knoll is small, there are fewer than 25 properties, in addition to a chapel, there's a long boarded-up inn house just across the Mirklaw river and rising above the village, an old mansion house which looks to predate the village by hundreds of years.
 
 The PCs can explore the village, they find each cottage to be deserted, some look to have been left untouched with food in mid-preparation, tasks seemingly dropped in a moment. Other cottages have been quickly stripped, heavy items left in piles outside their doors. Something caused people to run, although there are no signs of an attack, no burning or apparently damage to the village itself.
+
+==== A dog and a ....thing
+
+The PCs see a dog, it's running full speed between two houses. Then the PCs see something else. Not much bigger than a dog, something hard to describe. A collection of black bods entwined in narrow tenticle-like vines that act as legs. It appears to be chasing the dog. Both dog and thing are gone almost as soon as they're seen. Neither are seen again.
 
 ==== A sickly horse called Tubin
 
 The PCs hear something close to the village centre, something big struggling to draw breath... The PCs find a tinker's cart, piled with wooden boxes in the adjacement garden of one of the cottages is a horse, accompanied by a the tinker. When he sees the PCs he'll act quite manic. Thankful to see people. He is very spooked. His horse looks sickly, it has wounds around its face. The tinker explains that he comes to the village a couple of times a year. On arriving a few days ago he found the place deserted. He took his horse into the garden to each grass, while he searched for signs of life, however when he got back it had been caught in a horrible black/blue plant growth, with vines attached to its head. He managed to cut the vines away but his horse, Tubin is still too sickly to move.
 
-When asked what has happened here, he says that he heard movement and murmering from old Tomberlin Tooky's house, which has been fortified from the inside. He points out the house which is cross the road from the chapel.
+When asked what has happened here, he says that he heard movement and murmering from old Tomberlin Tooky's house, which has been fortified from the inside. He points out the largest house off the village square, which is across the road from the chapel.
 
 ==== Tomberlin's place
 
