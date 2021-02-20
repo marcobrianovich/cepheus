@@ -138,6 +138,8 @@ In the cellar, where digging appears to have uncovered a door to a carved stone 
 
 Behind the mansion is a strange black growth, 4 metres tall. It's body is a stack of black and grey pods some spherical, others shaped like kidney beans, wrapped by countless thin vines that seem to flex and squirm.
 
+image:Zharker_sketch.png[width="600px",Zharker!]
+
 The Zhirker will not move unless attacked. The PCs can roll an tactics to think that they know that attacking with weapons will almost certainly fail, and that it may attack back. Maybe the best thing to do is the prepare some indirect attack that the thing won't be able to resist. Good ideas should be effective, bad ideas will result in a battle with the flailing Zhirker, which might run away, if it sense a danger that it cannot fight.
 
 * Make a bomb - there are enough materials in the village to create a primitive explosive. If comined with scrap metal, it could mortally wound the Zhirker.
