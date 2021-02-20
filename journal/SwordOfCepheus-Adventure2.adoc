@@ -35,6 +35,8 @@ When the Patrician's troopers arrived, only two people remained. Edgar Drumph an
 
 The PCs arrive at the village at midday, unless they choose to hold back until a time of their choosing. The day is cloudy and dull. There's a chance of drizzle, but it never comes. 
 
+image:MapMongersKnoll.png[width="600px",Mongers Knoll]
+
 ==== Map key
 
 1. Small wooden house. Next to the front of the house is a table on which it looks like items for trade where place. There's nothing there now. THe house has been stripped clean.
