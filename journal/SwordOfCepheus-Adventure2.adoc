@@ -140,6 +140,20 @@ Behind the mansion is a strange black growth, 4 metres tall. It's body is a stac
 
 image:Zharker_sketch.png[alt="Zharker!",width="400px"]
 
+____
+**Zharker Growth** +
+1000kg Beast (Trapper), Forest Walker 68F100
+
+Melee Combat-2 Athletics-1 Intoxicate with spray-1 (Causes target to lose D6 actions)
+Attacks on 5+ flees on -5
+Vines (1D) Beak (2D) + Zharker infection if two or more characteristics drop below 0.
+Armour:2
+Neutral;Moralse DM+1
+
+*Description:*
+The black towering form quivered, its body was a tall cluster of fleshy pods wreathed in pulsating leathery grey vines that swayed through the air, feeling for prey. It seemed anchored to the ground by 5-6 strong root-like vines but as it moved it quickly become apparent that it could scurry at speed if pressed. Then I noticed that one of its pods sprouting from its base had a large razor sharp beak, sheathed in dark purple petals that I thought my be sensory organs. The beak dripped an oily liquid that must have been the source of the infactions I'd seen. The thought of a bite from that horrible beak filled me with dread.                                               
+____
+
 The Zhirker will not move unless attacked. The PCs can roll an tactics to think that they know that attacking with weapons will almost certainly fail, and that it may attack back. Maybe the best thing to do is the prepare some indirect attack that the thing won't be able to resist. Good ideas should be effective, bad ideas will result in a battle with the flailing Zhirker, which might run away, if it sense a danger that it cannot fight.
 
 * Make a bomb - there are enough materials in the village to create a primitive explosive. If comined with scrap metal, it could mortally wound the Zhirker.
@@ -150,6 +164,8 @@ The Zhirker will not move unless attacked. The PCs can roll an tactics to think 
 
 * Any physical attack will awaken the thing and begin a terrible fight. The PCs are unlikely to best it in a sword fight and will quickly realise that they just need to escape.
 
+
+___
 ==== Aftermath
 
 The PCs can uncover a small box of coins in the mansion. More than enough to cover the tithe. The patrician will be extremely sad to learn of the loss of his soldiers. _"I won't make the mistake of sending my best men, next time. Not now I have you .... also very fine people to call upon..."_
