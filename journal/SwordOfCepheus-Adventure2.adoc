@@ -8,23 +8,22 @@ NOTE: This adventure has lots of horror overtones. If you are sensitive to yucky
 
 The adventurers have recently returned from recovering the patrician's strongbox from the bandit cave. The patrician is so appreciative of the their efforts that he immediately assigns them to an even more dangerous task.
 
-The distant village of Mengers Knoll has failed to pay its yearly tithe (10% of its collective coinage). At the point then the payment was three months overdue, the patrician sent a 5-man unit of his Tarnished Battalion to "assist" the village in finding some of the missing coins.
+The distant village of Mengers Knoll had failed to pay its yearly tithe (10% of its collective coinage). Three months after the payment was due, the patrician sent a 5-man unit of his Tarnished Battalion to "assist" the village in finding some of the missing coins.
 
 That was a month ago. The fact that his elite soldiers have failed to return is considerably more upsetting than the missing coins, which would be a triffling amount compared to the worth of his best soldiers.
 
-The player characters are to take the north road until they reach the Red moors. The sleepy village of Mengers Knoll is located on a, well a small hill. Logical! That's what a knoll is, after all.
-
-
 ____
 *Readout* +
+Take the north road until you reach the Red Moor. Mengers Knoll is located on the western bank of the Mirklaw, next to a small hill. Logical, really! That's what a knoll is, after all.
+
 Find out what's happend. Most importantly, try to find my missing soldiers, and if possible, bring back the money. If things look really, really dangerous - remember how good you were getting my strongbox back from those damned bandits - you'll be fine. You'll be fine.
 ____
 
 ===== The fate of Menger's Knoll
 
-Tam Battersworth, the village mayor was digging out his mansion's large cellar in order to add a new drainage pipe. He broke through into a hidden stone chamber, filled with luminous egg-shaped crystals. He filled a bucket with the beautiful objects and stored them in a bowl in his study, using their light to read at night.
+Tam Battersworth, the village mayor was digging out his mansion's large cellar in order to add a new drainage pipe. He broke through into a hidden stone chamber that contained piles of luminous egg-shaped crystals. Tam filled a bucket with the beautiful objects and stored them in a bowl in his study, using their light to read at night.
 
-Tam wasn't to know that he'd recovered Zharker seeds, stolen from a hostile alien dimension by a long-dead wizard. After a few weeks the seeds lost their glow, and Tam lost his interest in them. He handed out a few to some of the villagers as gifts, most were tossed into his back yard. When they fell into the dirt they took root and began to grow into a strange dark plant, as big as a man and made up of large clusters of head-sized balls, held together by long waxy vines. Tam didn't know what to make of the growth, it looked freakish and smelled something rotten. Other villagers found similar growths where their own gifted seeds had ended up taking root, although these growths were small, not like Tam's which kept on growing to the size of a large tree.
+Tam wasn't to know that he'd recovered Zharker seeds, stolen from a hostile alien dimension by a long-dead original owner of the mansion -- a wizard called Kend Aborax. After a few weeks the seeds lost their glow, and Tam lost his interest in them. He handed out a few to some of the villagers as gifts, most were tossed into his back yard. When they fell into the dirt they took root and began to grow into a strange dark plant, as big as a man and made up of large clusters of head-sized balls, held together by long waxy vines. Tam didn't know what to make of the growth, it looked freakish and smelled something rotten. Other villagers found similar growths where their own gifted seeds had ended up taking root, although these growths were small, not like Tam's which kept on growing to the size of a large tree.
 
 Tam tried to have the growth destroyed, paying two of the village's biggest farm hands to chop and burn the thing down -- nobody could have known that it would fight back, grabbing the two men with its vines and strangling them. The men's corpses became wrapped in the plant-fiend's vines and nobody could summon up the courage to approach the demon plant again.
 
@@ -119,7 +118,7 @@ _I'm captain James Creed of the Tarnished batalion, dispatched....  I don't know
 * Will you let us in?  +
 _NO! NO! NO! I can't, too dangerous, too dangerous. Gone really, I'm not here. Not any more. Go away. Go away._
 * What happened? +
-_We came to take possession of the village's due taxes or repossess possessions of equivalent value. We found the village deserted. Only the major and an old farmer remained. They told us that the major had found some glowing crystals in a hidden room he found in his cellar. The things stopped glowing and ended up being tossed into his garden, a few in also ended up in some of the villager's homes, but they didn't grow. A horror. A demon plant._
+_We came to take possession of the village's due taxes or repossess possessions of equivalent value. We found the village deserted. Only the mayor and an old farmer remained. They told us that the mayor had found some glowing crystals in a hidden room he found in his cellar. The things stopped glowing and ended up being tossed into his garden, a few in also ended up in some of the villager's homes, but they didn't grow. A horror. A demon plant._
 
 The only other thing that the Zharker-Creed will say is "Get away from here, it's dangerous", or "Burn this place, burn everything. BURN ME"...
 
@@ -133,7 +132,7 @@ In the Study is a large journal. The last pages tell the story of Tam Batterswor
 
 In the cellar, where digging appears to have uncovered a door to a carved stone room. On the walls are strange pictures, showing what look like strange worlds connected by doors. It looks like the chamber might have been secretly made by the mansion's original builder, hundreds of years ago. There are a handful of glowing crystals scattered on the floor.
 
-==== The thing in the grounds
+==== The thing in the back yard.
 
 Behind the mansion is a strange black growth, 4 metres tall. It's body is a stack of black and grey pods some spherical, others shaped like kidney beans, wrapped by countless thin vines that seem to flex and squirm.
 
