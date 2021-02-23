@@ -1,0 +1,301 @@
+= Cobalt
+
+A Setting for the Cepheus Engine Sword and Sorcery RPG.
+
+The *Sword of Cepheus* rules supplment from link:https://www.drivethrurpg.com/browse/pub/9571/Stellagama-Publishing[*Stellagamma Publishing*], introduces a fantasy/sword and sorcery setting to the popular oldschool 2D6 tabletop role playing game system.
+
+*Cobalt* is a world setting supplement for use with Sword of Cepheus, it offers a gaming world for sword and sorcery, with a classic Traveller vibe. Keeping Traveller's grounded, combat deadly, it's magic-light, yet magic is tightly bound to the setting.
+
+IMPORTANT: "*Cobalt*" is supposed to be a temporary name. All names are provisional. Its likely that I'll settle on a name that relates to the crystals from which magical energies are channeled, e.g. Crystalline Wars, Dark Crystallines. If you're reading this then the temporary name laid down roots and couldn't be budged.
+
+== Cepheus: Crucible of the gods
+
+.Ingredients
+* *Lovecraftian overtones*, in that there is an unknowable, unspeakable evil trying to consume the world. The game takes place at a time when this evil is held at bay, but the wards that protect the world are coming under and increasing threats.
+* *Magic Light*, as most forms of reality-bending magic need a precious energy that is only available close to certain magical locations. This makes magic and very powerful in a few select places, but almostly non-existant in the world-at-large. The state of affairs has lead to inumerous conflicts over the possession of magical sources, and a kind of magical arms race.
+
+* *Think a fantasy version of Firefly/Serenity*. The Cepheus game mechanics are swift and potentially deadly. Sword of Cepheus inherits some of Traveller RPG's tone. Long term successful play comes, not from the application of overwhelming force (your power doesn't work here, D&D player!), but knowing when to stand and fight, and when to run away like sissies.
+
+TIP: Sword of Cepheus is based on Cepheus light, which was, itself, an link:https://en.wikipedia.org/wiki/Open_Game_License[OGL^] riff on the classic 1970 incarnation of Traveller, the far future Role Playing Game.
+
+* *Sandbox environments* that permit for strange and exotic landscapes 
+* No orcs or Elves, although there are denizens of Cepheus that may outwardly look like them.
+
+TIP: Cepheus is not fantasy Earth!
+
+=== Welcome to Cepheus
+
+The world of Cepheus has been molded by a god-like race, called the Pandrim, who dominated Cepheus many thousands of years ago. The Pandrim travelled through time and space and beyond, exploring and colonising many worlds. Some of the intelligent races they encountered were brought back to Cepheus after being magically adapted to be compatible with Cepheus. Many different races were brought back, including Humans, although some of the races have died out, and at least one has mysteriously disapeared. The Pandrim used these races as servants and companions, each race operating in one or more occupational niches. Humans and Pantro found themselves in all niches and were considered to be favoured races, although it is possible that the other races were just judged to be ill-suited to any but their primary roles. For example, the Drenn are uncomfortable when not underground or at least indoors and the Ohnadine are too large and unwieldy to perform delicate work. 
+
+=== The Valderaad: Twilight of the gods
+
+One day, the Pandmin ventured onto a world or into a dimension that was occupied by a powerful, malignant entity, later, called the Valderaad, which asserted a kind of psychic domination over the Pandrim,that ravaged the Pandrim, destroying their civilization, almost overnight. Any surviving Pandrim scattered, fleeing to distant dimensions, never to return. The invading entity could only gain entry to the Cepheus as a consciousness, a dark shadow, its physical form(s) were blocked by the protective wards built into the magical portals (the gateways build under the pyramids). 
+
+The servitor races quickly moved to fill the vacuum left by their masters, falling into land-grabbing wars. Developing distinct cultures and slowly forming into nations. 
+
+Thousands of years past, in this time the remaining races learned to harness the remaining magical forces in the world, discovering that magic flows through rifts, where the barrier between our world and the magical world are punctured. The greatest source of magic in the world was found to be at the base of the ancient Pandrim pyramids, built at the heart of the six greatest Pandrim cities.
+
+[width=70%,cols=3*, stripes=even]
+.Great Pyramids
+|===
+|Location (City) / Kingdom | Magical School | Description
+|Adanth | Adanneen School | The Adanneen emphasize scholarship and learning over action. In learning magic without actually using it much, they have become experts in collecting and distributing power. The Adanthi council is fabulously wealthy and decadent. 
+|Kytal  | Kytarno School| Kharjar dominate the school and focus on barrier magic. The Kytarno shields store a supply of magic that wards off strikes.
+|Ha'Nabba | Bo'Rik School | 
+|Nabarure| Kanthic School| Pantro school is the most powerful and sophisticated school, but also the most insular. It's practitioners rarely travel far from the school. The Kanthic school can create portals.
+|Ebban Kran |Ko Shan School  | The Ko Shan are warrior magicians who combine magic for a form of martial arts. The Ko Shan School deals exclusively with magic of applied force or protective barriers.
+|Maigea /Maigea (Fallen lands) | The fallen ones | The broken pyramid, in the fallen lands. It's magical order was mostly destroyed, leaving 
+|===
+
+==== Magic makes the world go round
+
+In most civilizations, the pursuit of power and money are driving force of history. On Cepheus the acquisition of magical energy is the primary motive of all nation states. Those nations that have one of the remaining five great pyramids are essentially superpowers. Wielding magic to dominate or possess your neighbours, accelerate development, defend your territory, make huge boulders float through the air -- everything becomes possible for the magically powerful. 
+
+=== Themes and riffs
+
+* The tone is realistic. Science Fiction as Fantasy, like various other games/settings -- Skyrealms of Jourune is really a story about people whose ancestors were settlers on an Alien world that just happens to have Isho energy. 
+* Cobalt is driven by economic forces and bound by mechanics.
+* War and Peace
+* Chaos and Law
+* Lords of Midnight vs Eldritch
+* Cults vs religions
+* Good vs Evil
+* Intelligent Races
+* War in the heavens
+* Ancient evil stalks
+* Economic forces drive the world - "Whale oil" / Slave economies, etc
+* Secret knowledge about the origins of the world
+* Affinity bonds
+ 
+== The world
+
+The world of Cepheus is a mix of contradictions. It has many landscapes and much plant and animal life that looks to be native to Earth. Green grasses, cats and horses, seagulls, etc. However, there are biomes, flaura and fauna that would be alien to Earth. 
+
+Cepheus has undergone a kind of terraforming, merging aspects of several worlds that the Pandrim visited or inhabitated. It's possible that the humans of Cepheus were transplanted from Earth, although this not something that should concern Cepheus denizens.
+
+
+
+=== Cepheus facts:
+
+* Cepheus has Earth air and water and comparable surface temperatures. The days are 26 hours long and the years are 252.2 days long. There are 12 months of 21 days.
+
+* Seasons are essentially the same, although they have a formal long name and a short name:
++
+[width=50%,cols=2*, stripes=even]
+.Months of Cepheus
+|===
+| Month of dreams| *Dremon*
+| Month of chills| *Chilem*
+| Month of grey| *Greymon*
+| Month of awakenings| *Wakem* 
+| Month of brightness| *Brimon*
+| Month of balance| *Balamon*
+| Month of sun| *Sunmon*
+| Month of dust| *Dusmon*
+| Month of high storms| *Stormon*
+| Month of darkness| *Darmon*
+| Month of embers| *Emmon*
+| Month of slumber| *Slumon*
+|===
+
+* There are two suns, Lume, the primary and a distant Dinn. Dinn orbits Lume at a fair distance, so when Dinn appears in the night sky it provides about the same amount of light as the moon. When both the moon and Dinn appear in the sky, there is the high dawn.
+
+=== History
+
+20,000 years ago, the world was inhabitated by an race of immortal superbeings, known is the Pandrim. These beings lived in huge cities, carved out of mountains. They mastered energy and matter, could open doors to other worlds, from where they harvested mysterious magical energies and uplifted and enslaved races, putting them to work. The god-like Pandrim brought many sentient races back to Cepheus, putting each to work in separate areas. Some of the races occupied niche roles, based on prestigious physical strength, manual dexterity, toughness or intelligence. Within this group, humans occupied a factotum role, not the best at any task, but flexible enough to be used for most slave work. 
+
+As far as we can tell, the Pandrim continued for another 10,000 years before, one day they openned a doorway to the wrong world, one occupied by an unknown alien entity so terrible that the Pandrim society was destroyed.
+
+IMPORTANT: The Pandrim encountered a hostile Alien entity that was able to possess them. Because the Pandrim had a communal layer of consciousness, it was able to drive most of the Pandrim into a homocidal frenzy. A small number of Pandrim are born without access to the shared connection, previously considered second-class citizens, they were the only ones to survive.
+
+With the Pandrim gone, the slave races began to form their own civilizations. Most gathered into race-specific groups. A few consisting of multiple slave races. From these early civilizations, all the modern nations of Cepheus were formed.
+
+The Pandrim left great ruins, and a series of huge, mysterious black pyramids, one on each contintent. It was soon discovered that the pyramids are a source of magic. Magic power is infused in those who sleep near a pyramid and is retained in people until it is used up or until the magic user sleeps. This greatly limits the use of powerful magic and ensures that those nations that control a pyramid are essentially Cepheus super powers.
+
+Today each pyramid represents a different school of magic, placing emphasis on different disciplines and styles.
+
+
+==== Chronology
+
+The following list of historical events provides a broad-stroke explanation of the contemporary world of Cepheus. The nation states, power players and racial tensions can all be traced to earlier events.
+
+10,000 PA:: The peak of the Pandrim civilization. The great cities are cut out of mountains, the landscape is altered, creating the great sink holes. New races and flora and fauna are introduced into Cepheus. The servitor races are modified so that they can live as natives, while some life forms are transplanted into one of many great sink holes. These holes are up to 10,000m across and up to 2000m deep, with sheer cliffs. The land at their base is transplanted from another world and features its own delicate ecosystem.
+
+
+16,000 PA:: The Pandrim open a portal to a new world. A world in which stands a truely colossal structure, like a temple or a mausaleum. Their interest piqued, the Pandrim begin to study and investigate this new world with its mysteries. During their investigations they break a powerful magical seal, opening what they believe to be an alien portal to a homeworld, instead they release an alien god from its magical prison. This malignant entity invades the Pandrim's shared consciousness causing 90% of the Pandrim to go homocidally mad. However, the alien god is unable to physically use the Pandrim portal, blocked by wards that prevent unauthorised intrusion. The entity broods, waiting for an opportunity to feed on a new world.
+
+17,000 PA:: A thousand years after the fall of the Pandrim, the few remaining members of the race apparently leave Cepheus for a new world, or some speculate, to return to their homeworld. In the power vacuum created by the fall, the servitor races have created their own nation states.
+
+19,000  PA/ 0 NA:: Beginning of the Dian Calendar
+
+61:: The great philosopher Dian Shah dies.
+
+
+100::
+
+900::
+
+1200::
+
+1400:: The rise of Maigea, the large island nation, situated at the centre of the Middle Sea or Alvo Sea. Maigean sailors and traders dominate the Alvo Sea. Maigea establishes settlements along the coastline of the sea, sending trade missions to make contact with many inland nations. Within a hundred years, these traderoutes become paved roads. Maigea's influence grows quickly.
++
+Over the following 200 years, Maigea's far-flung colonies fall inline, under the control of the Maigean sea lords, who themselves offer fealty to the Saphire Empress. Maigea becomes the first global power, since the fall of the Pandrim. 
++
+Critical to the dominance of the Maigean Sea Lords is their ability to control the leviathans, huge highly territorial sea mammals that live in the outer seas, and enter the Inner Sea to spawn.
++
+The Maigeans learned to domesticate the leviathans, using a secret underwater cavern system where leviathan calves could be trapped and trained. Later, magic was used to transfer the minds of Maigean warriors into particularly strong bulls, giving the Maigeans a formidable sea power, a small number of intelligent leviathans that were capable of smashing any competing navy into driftwood.
+
+1827:: The Fall of the Maigean. The Maigean Empire, a world-spanning human civilization managed to unlock many ancient secrets. They had the strongest armies and most powerful sorcerors, using essoteric knowledge, recovered from ancient ruins and successfully translated. However, their great pyramid was not sufficient to power Maigea's great size. The Maigean nobility became obsessed with finding a way to unlock more magical power, their wisest geomancers held the belief that the great pyramids were actually closed, when the old gods left, and that the magic currently released is but a trickle of the available magic, which is why magical energies are so limited, today, when it is known that in the ancient times, powerful magic was everywhere. After many years of study, the Maigeans discovered the secret to opening their pyramid. The empire began a grand projct to have their pyramid lifted into the air, revealing a great black portal beneath it, from which poured creatures of the shadow chasm. The Maigean empire fell, its lands burned and its people either fled or fell to chasm blight.
+
+2000::
+
+2100::
+
+2105:: Today
+
+
+*The fall of Maigea* +
+
+Today, Maigea is a cursed land, and is more commonly referred to as the "Shadow lands". Its coastline patrolled. Those brave or foolhardy enough to venture into its lands risk a terrible death at the hands and claws of unspeakable fiends, or falling, themselves to chasm blight, which would change them into fiends. Rumours persist that a power that stirs in the land, an army of the blight, waiting to sweep into the rest of the world. There is a cult that works to open the remaining pyramids because they worship the darkness that took Maigea. All that remains of the Maigeans are small independent nations and Maigean Ghettos that exist in most cities, across the world.
+
+The fall of Maigea forced many nations, human and non-human to work together, ushering a period of stability and relative peace. Today this peace hangs in shreads, as the great nations once again, work against each other.
+
+
+=== Magic
+
+The ancient Pandrim managed to open portals into other dimensions, allowing them to travel through time and space. However, their greatest power was their capacity to tap into a magical energy that can be used to affect supernatural changes. This energy is absorbed by living entities, when they sleep close to warp crystals. This energy is stored in body and slowly leaks out over time. After two or three nights of sleep, a magic user is drained of power, until they return to a pyramid or other source of magical energy.
+
+TIP: *Potions of sustainence* There are a number of special potions that may be consumed, that will allow a magic user to forgoe sleep for up to a week with minimal ill effects, or slow the leakage of energy by several days, although this potion is readily available it comes with negative side-effects, such as a light fever.
+
+==== High Magic
+
+Wielding magic as a weapon, being able to manipulate matter and energy requires a great deal of magical. All living things have a small reservoir of magical energy, but not enough to perform great magical feats, like throwing fireballs or resisting an arrow strike. 
+
+==== Base Magic
+
+Magic dealing with perception, illusion or other powers that don't required a lot of real world energy, such as creating a spark, do not drain magic in the same way. Many base magic spell casting doesn't consume magic and can be cast continuously until the caster is fatigued.
+
+
+==== Crystals of power
+
+Extremely rare, these crystal fragments are carried by the magic user, allowing them to slowly charge up their magic, while away from a pyramid.
+
+
+==== Waystones
+
+Standing stone sized rocks that sport various glyphs. These are quite common, and appear on roadsides, although its likely that the roads where built to connect the stones, not the other way around. They offer a trickle of charge that can stop magic users from draining. This allows magicians to travel distances from a pyramid, while sustaining their charge, but would take a very long time to build up charge. Waystones have become stopping points for all travellers, not just magic users. There are sometimes inns or shelters build next to them.
+
+==== Powerstones
+
+There are mysterious standing stones, some on mountain tops, others in grotos or deep in ancient forests. Their positions a closely guarded secret. They offer the recharging power of a pyramid but require that the magic user sleep next to them, in some isolated and probably dangerous place.
+
+IMPORTANT: All places of power are essentially small dimensional rifts. The pyramids are stabilized and safe, so long as the pyramid is not damaged. However, Powerstones are not safe. While magical energy leaks out of them, its also possible that creatures from beyond may reach out of the rift and possess/warp the hapless traveller. 
+
+==== Diviners
+
+There is a class of miner/prospector who tracks down magical sources. These brave individuals explore the wilds, digging deep or climbing high, searching for a secret source of magical energy. 
+
+=== Races
+
+The there are an unfeasibly large number of intelligent races on Cepheus. The reason for this is well known to the world-at-large, thanks to ancient writings that talk of the Age of Pandrim, when the world was young and a race of gods lived in the world. These gods visited many worlds in may times, occasionally bringing back peoples, changing their biology to allow them to survive and thrive on Cepheus, then setting them to work as slaves. One day, the Pandrim visited a place and found it occupied by an manevolent entity that reached out and ravaged the Pandrim. The slave races, freed from their shackles settled across the world. In the thousands of years that have passed, civilizations have risen and fallen. The races of suffered infighting and benefited from occasional eras of cooperation and peace. Most of the time the world exists somewhere between.
+
+Human:: *Factotums* Seemingly identical to terrestrial humans, with the same a broad racial mix, including some races that are unique to Cepheus. 
+
+Drenn:: *Miners and Builders* Stout muscular race, half the average height of a human but with bulk enough to make them equal or greater in weight. The Drenn appear to have a similar range of races to Humans, although skin colour is always white. The Drenn are natural miners and favour living underground. Their eyes are capable of operating in near total darkness but quickly adapt to daylight, if required. Drenn society is based on dens, social groups ranging from a few families to a few hundred. There are no larger forms of social organisation, Dens don't grow because all children past the second leave the Den when they become adults. These seedlings make their way in the world, independant of a Den, until such time that a new Den is created.
+
+
+Adronn:: *Leaders and Organisers* Averaging 2 metres in height, Adronn people are slender and tall.
+
+Kharjar:: *Fighters* Reptilian-like humanoids covered in strong plates of carapace, and sporting sharp claws. Slightly shorter but heavier than humans, more muscular. Kharjar societies are tribal, ruled by warlords. Some tribes are extremely hostile and xenophobic although most Kharjar are driven by very strong territorialism, they fight only to protect their land or capture new land. 
+
+Ohnadine:: *Heavy lifters* Massive, three metre tall, grey skilled humanoids. Ohnadine appear in two discrete forms. Domestic and Wildings. Elevated Ohnadine are peaceful, gentle giants that live within the the borders of the other races. 
+
+Ohnadine that are not tied to other races are extremely dangerous, almost ferral. They have very low intelligence, almost no language or tool use. They usually live in an extended family group. The size of the Ohnadine prohibits large social groups as their need for food is massive. The Ohnadine are the least populace of the races, and while being the most physically dangerous race on the planet, they are, conversely, the most endangered.   
+
+Krat Curri:: *Menial Workers* Intelligent, tree-climbing mammal. Slightly larger than a chimp. Krat Curri have adapted to all types of forests, from frozen taiga to tropical rain forests and jungles.
+
+Pantro:: *Wise and learned* Slender hairless humanoids
+
+Brytar:: Small, slender humanoids with membrane wings.
+
+NOTE: The Pantro are not actually a slave race, they're a regressed form of the Pandrim, having lost most of their powers and no longer immortal. This fact is not know to the people of Cepheus, although it might become know, at the end of an epic campaign.
+
+=== Geography
+
+.4 continents
+
+The landmass of Cepheus consists of two great continents. Nahrad, straddles the northern hemisphere, stretching from the frozen deserts of Tretagore down to the beach-lined coasts of the Hab Orree. 
+
+The southern hemisphere is dominated by Anvah, formed from Western Anvah and Easter Anvha, joined together by the Isthmus of Anvah, known locally as Hakanval or "The Neck"  Its southern coastline touches the glaciar sea, which is frozen for half the year. It's northern coastline reaches the equatorial Cobalt sea.
+
+Nestled between the two great continents are the Greater and lesser islands. The greatest island is Maigea, the fallen land. 
+
+* Nahrad
+
+** Great northern contintent, cold steppes pine forrests and glaciars temperate southern cost.
+
+* Khettan
+* Anvah
+* Kebvorran
+* Kanta Gesha
+
+** Tretagore
+** Terrega
+
+** Ahbon
+** Bronn
+** Cante 
+** Hel
+
+** Jutan Mountains
+** Maigea
+** Nebi
+** Sangwei
+** Teskalyn
+** Deegeran
+** Hamboree
+** Mandalo
+
+
+==== Great Cities
+
+The three greatest cities on Cepheus are built upon ancient Pandrim cities, passive granite structures carved into mountains or dug out of the ground. The current inhabitants have built regular structures on top of or arround the massively oversized Pandrim structures.
+
+* Yaharam
+* Bayarvad
+* Lanhad
+
+
+
+==== Great Basins
+
+Along the equator are a series of huge, very deep unnatural depressions, like sinkholes, perfectly circular in shape, up to a mile deep, tens of miles in diameter. Within these depressions are distinct ecosystems, some are completely alien, with plants and animals that are unknown on outside of the depression. It seems clear that the Pandrim somehow managed to create these depressions. Limited exploration of some of the depressions suggests that there were originally portals at their base of the depressions that connected them to other worlds. 
+
+Each basin is a microcosm that contains unique ecosystems, structures and physical challenges. Some basins appear to be unreachable, short of climbing up and down sheer cliffs. Some have tunnels that provide a straightforward means of entry.
+
+The Basins were essentially rockpools into which the Pandrim could maintain various ecosystems. Some basins have normalized, in that native life has taken root and displaced the alien flora and fauna, while other basins successfully hold back native lifeforms - these basics may have working portals, allowing creatures to wander in and back out to their homeworld.
+
+
+==== Begranda Basin
+
+
+==== Havalax
+
+A tropical forest, with which many giant alien trees grow. These trees intermingle and connect with surrounding trees, creating vast continuous canopy on which a completely separate ecosystem lives, up to 200 metres above the floor. It is possible to walk this canopy, as branches grow to be several metres wide. The forest floor is said to be lethal with poisonous little bugs, ravenous man-sized bugs and huge elephant sized people-stomping bugs. 
+
+
+==== Trium Navo
+
+
+=== Notes and scribbles 
+
+
+=== Names
+
+
+* Kryt Yahlat
+* Pantroline
+
+
+* Glight - mysterious corruption that spreads across a land, resulting 
+
