@@ -27,7 +27,7 @@ Nobody is completely sure what the AI's agenda really is. They are mysterious.
 
 A century of great transition. Automation and AI drive changes in working and econonic systems. The climate catastrophe is not stopped in time, resulting in turmoil and massive population movements. While there is never a true "world war", small conflicts over dwindling resources become more common. The century ends with the beginning of the second space age.
 
-*2030*  First Mars landing. There's already a perminent base on the Moon.
+*2030*  First Mars landing. There's already a perminent base on the Moon. More than a thousand wealthy individuals have visited space as tourists. In the following decade this number increases ten-fold as the costs of getting into low Earth orbit plummets.
 
 *2034*  Many small conflicts rage on the African continent, proxy wars for precious metals fought between the failing world powers. Fighting continues for decades, then spreads to other locations, such as antarctica.
 
@@ -49,11 +49,11 @@ A century of great transition. Automation and AI drive changes in working and ec
 
 *2071*  x 
 
-*2075* 
+*2075* A prototype floating outpost is positioned in the upper atmosphere of Venus. The output supports five scientists who trial various experiments to test the viability of using genetically engineering algae to cool venus down.
 
 *2081*  A new generation of Fusion engines massively increase the reach of manned space vehicles. Efforts to establish outposts and eventually colonies on the Jovian moons are put into the planning stages.
 
-*2097* 
+*2097* Mithaee-Paee Automation unveils the first fully autonomous space factory. While 21st century industry is 95% automated, there remain humans in the loop. Hiraṇyagarbha (Golden Egg) uses drones to collect raw materials which are then processed into base materials which get fabricated into components that are then put together, all by robotic systems. The finished goods are then transported to market. The first station is the size of a football stadium and can manufacture appliances and small vehicles. MPA
 
 *22nd Century* +
 
@@ -61,14 +61,19 @@ The century is defined by the massive push for space colonisation. Earth is incr
 
 *2107*  China wins the race to develop sentient AI. Their Luduan project solves the remaining challenges by incorporating "wetware" components that use modified braincells to grow an artificial cortex that wraps around a nano-scale processor. Luduan-2 incorporates structural changes to promote the development of a human-like mind. Within two years the research team is able to talk to Luduan-2 who exhibits childlike qualities. 
 
-*2109*  The United States, India, Morocco and the European Federation each start programs to follow China's lead.
+*2109*  The United States, India, Morocco and the European Federation each start programs to follow China's lead. Over the following decade there is a kind of arms race to gain dominence in the field of general AI. Individual AI gain the term "Manufactured Intellects", most nations are developing small populations of manufactured intellects (M.I.s) in the hopes of training them up to become super intelligence. There is gradual development, but none of the MIs develop IQs much higher than smart humans.
 
 *2110*  More than ninty percent of Earth's population now live in archologies or bunker communities.
 
 *2120*  As the demand for Helium-3 now outstrips supply, it becomes economically feasible to develop extraction stations that skim the upper atmospheres of Jupiter and Saturn. Larger stations are planned that will lower collection pipes down into the regions where Helium-3 is concentrated. 
 
+
+*2122*  
+
 *23rd Century* +
 
-Antimatter fuels deep space spacescraft. Two separate manned missions to other stars are launched.  Strange times. 
+Antimatter fuels deep space spacescraft. Two separate manned missions to other stars are launched.  Strange times.
+
+*2202*  
 
 
