@@ -1,0 +1,39 @@
+== Solar Gazetteer
+
+The following guide covers all the main stations and colonies located in the solar system.
+
+
+=== Sun
+
+=== Mercury
+
+=== Venus
+
+==== Experimental Atmospheric Outpost
+
+
+
+=== Earth
+
+
+
+==== Luna
+
+=== Mars
+
+==== Phoebos
+
+==== Deimos
+
+=== Ceres
+
+=== Belt
+
+=== Jupiter
+
+====
+
+=== Saturn
+
+====
+
