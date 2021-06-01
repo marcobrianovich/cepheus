@@ -70,16 +70,23 @@ The century is defined by the massive push for space colonisation. Earth is incr
 
 *2109*  The United States, India, Morocco and the European Federation each start programs to follow China's lead. Over the following decade there is a kind of arms race to gain dominence in the field of general AI. Individual AI gain the term "Manufactured Intellects", most nations are developing small populations of manufactured intellects (M.I.s) in the hopes of training them up to become super intelligence. There is gradual development, but none of the MIs develop IQs much higher than smart humans.
 
-*2110*  More than ninty percent of Earth's population now live in archologies. Autonomous Manufacturing Plants can quickly and cheaply build weather-proof underground habitats, allowing archologies to establish bunker communities to aleviate population pressure. M
+*2110*  More than ninty percent of Earth's population now live in archologies. Autonomous Manufacturing Plants can quickly and cheaply build weather-proof underground habitats, allowing archologies to establish satellite bunker communities to aleviate population pressure and help establish supply lines. However, the archologies still prefer to set up space-based facilities, due to the availability of unlimited natural resources.
 
 *2120*  As the demand for Helium-3 now outstrips supply it becomes economically feasible to develop extraction stations that skim the upper atmospheres of Jupiter and Saturn. Larger stations are planned that will lower collection pipes down into the regions where Helium-3 is concentrated. 
 
+*2122* Most archologies have an AI that handles monitoring and advises human government officials. Most large Automated Manufacturing Plants have AIs. While some colonies and outputs have incorporated AIs into their management systems, many others are hostile to AI. Many small colonies have been established by religious groups or people who want to live by their own rules. A few are deeply regressive and hostile to any form of outside interference.  
 
-*2122*  
+*2165* There are now more than 100 colonies or outposts stretching across the whole solar system. Nearest the sun is a solar research station that orbits at a blisteringly close range. Only specially shielded ships can travel there. The most distant habitat is Eris, a dwarf planet that spends most of its 557 journey around the sun outside of the orbit of Pluto. There have been expeditions out into the Kuiper belt, but no perminemt outposts have been established there.
 
-*2165* There are now more than 100 colonies or outposts stretching from a solar research station that orbits close to the sun, right out to Kuiper belt with outposts on 
+*2169* On the two-hundred-year anniversary of the first Moon landing, the population of Luna is more than 30-million, spread across three cities and hundreds of small communities. Luna remains an important industrial hub, feeding both Earth's archologies and the inner colony worlds, although Helium-3 supplies are dwindling. 
+
+*2171* Trident Monorail disaster occurs in Olympus City, Mars, results in thousands dead. The blame for the accident is laid at the city's AI. Later investigations suggested that government officials had essential framed the AI, but at the time the public becomes more weary of AI. Some of the more extreme colonies ban AI. An international court judges that any AI that is verified as sentient essentially has human rights.
+
+*2183* 
 
 *23rd Century* +
+
+
 
 Antimatter fuels deep space spacescraft. Two separate manned missions to other stars are launched.  Strange times.
 
