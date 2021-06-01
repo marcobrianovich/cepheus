@@ -8,7 +8,10 @@ Orbital Elements is set in a future where Earth is ravaged by polution and clima
 
 === Tribes
 
-OE is a game about nationalism/tribalism. The old nations of Earth still exist, although they are much changed. As the human colonisation of the solar system has progressed, new nations have formed. New alliences and new adversaries. Earth's population live in fifty two archologies, huge structures that itegrate all requirements for their inhabitants; food is grown in vat farms, utilities and industry are housed in the basement levels while appartments, public and commerical spaces occupy domes and towers. After generations of living in these communities.
+OE is a game about nationalism/tribalism. The old nations of Earth still exist, although they are much changed. As the human colonisation of the solar system has progressed, new nations have formed. New alliences and new adversaries. Earth's population live in fifty two archologies, huge structures that itegrate all requirements for their inhabitants; food is grown in vat farms, utilities and industry are housed in the basement levels while appartments, public and commerical spaces occupy domes and towers. Each archology develops its own distinct culture so that after a century each can be considered a nation-state in its own right.
+
+By the end of the 22nd century, these archologies are setting up their own extra-terrestrial colonies, driven by the need for natural resources.
+
 
 === AI
 
@@ -19,7 +22,7 @@ Nobody is completely sure what the AI's agenda really is. They are mysterious.
 
 === Extra-terrestrials
 
-
+TBD
 
 === Chronology
 
