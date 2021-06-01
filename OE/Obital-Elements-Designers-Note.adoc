@@ -4,11 +4,11 @@
 
 === Solar system-based
 
-OE is set in a widely colonised solar system. There are missions to nearby starts, but for the beginning of the game, these are outside the scope of play.
+Orbital Elements is set in a future where Earth is ravaged by polution and climate instability. Humanity has established colonies and outposts throughout the solar system. There have been several expeditions to nearby stars, but for the beginning of the game, these are outside the scope of play.
 
 === Tribes
 
-OE is a game about nationalism / tribalism. The old nations of Earth still exist, although they are much changed. As the human colonisation of the solar system has progressed, new nations have formed. New alliences and new adversaries. 
+OE is a game about nationalism/tribalism. The old nations of Earth still exist, although they are much changed. As the human colonisation of the solar system has progressed, new nations have formed. New alliences and new adversaries. Earth's population live in fifty two archologies, huge structures that itegrate all requirements for their inhabitants; food is grown in vat farms, utilities and industry are housed in the basement levels while appartments, public and commerical spaces occupy domes and towers. After generations of living in these communities.
 
 === AI
 
