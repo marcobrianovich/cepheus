@@ -56,17 +56,21 @@ A century of great transition. Automation and AI drive changes in working and ec
 
 *2081*  A new generation of Fusion engines massively increase the reach of manned space vehicles. Efforts to establish outposts and eventually colonies on the Jovian moons are put into the planning stages.
 
-*2097* Mithaee-Paee Automation unveils the first fully autonomous space factory. While 21st century industry is 95% automated, there remain humans in the loop. Hiraṇyagarbha (Golden Egg) uses drones to collect raw materials which are then processed into base materials which get fabricated into components that are then put together, all by robotic systems. The finished goods are then transported to market. The first station is the size of a football stadium and can manufacture appliances and small vehicles. MPA
+*2097* Mithaee-Paee Automation (MPA) unveils the first fully autonomous space factory. While 21st century industry is 95% automated, there remain humans in the loop. Hiraṇyagarbha (Golden Egg) uses drones to collect raw materials which are then processed into base materials which get fabricated into components that are then put together, all by robotic systems. The finished goods are then transported to market. The first station is the size of a football stadium and can manufacture appliances and small vehicles. MPA quickly becomes the dominant player in the field of automation as their autonomous manufacturing plants AMPs create a new industrial revolution. 
+
+
 
 *22nd Century* +
 
 The century is defined by the massive push for space colonisation. Earth is increasingly inhospitable, old agricultural practices become increasingly unreliable and in may places unfeasible. Efforts to repair Earth's biosphere prove to be very slow and little improvement is made over several decades.
 
+*2102* A specialised autonomous manufacturing plant is landed on a large nickel-iron asteroid. The plant then mines out the asteroid's core, coverning the cavern into a fully-kitted-out habitat, suitable for 30,000 inhabitants. There is an explosive growth in new space colonies over the next hundred years, as the cost of establishing a space habitat drops so low that wealthy individuals or groups of individuals can now set up their own colonies. 
+
 *2107*  China wins the race to develop sentient AI. Their Luduan project solves the remaining challenges by incorporating "wetware" components that use modified braincells to grow an artificial cortex that wraps around a nano-scale processor. Luduan-2 incorporates structural changes to promote the development of a human-like mind. Within two years the research team is able to talk to Luduan-2 who exhibits childlike qualities. 
 
 *2109*  The United States, India, Morocco and the European Federation each start programs to follow China's lead. Over the following decade there is a kind of arms race to gain dominence in the field of general AI. Individual AI gain the term "Manufactured Intellects", most nations are developing small populations of manufactured intellects (M.I.s) in the hopes of training them up to become super intelligence. There is gradual development, but none of the MIs develop IQs much higher than smart humans.
 
-*2110*  More than ninty percent of Earth's population now live in archologies or bunker communities.
+*2110*  More than ninty percent of Earth's population now live in archologies. Autonomous Manufacturing Plants can quickly and cheaply build weather-proof underground habitats, allowing archologies to establish bunker communities to aleviate population pressure.
 
 *2120*  As the demand for Helium-3 now outstrips supply it becomes economically feasible to develop extraction stations that skim the upper atmospheres of Jupiter and Saturn. Larger stations are planned that will lower collection pipes down into the regions where Helium-3 is concentrated. 
 
