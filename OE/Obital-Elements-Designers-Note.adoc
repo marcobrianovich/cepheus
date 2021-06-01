@@ -38,7 +38,7 @@ A century of great transition. Automation and AI drive changes in working and ec
 
 *2042*  The first extra-terrestrial colony is founded on the Moon (Luna). While efforts to establish a Marsian colony is stalled by numerous technical and economic challenges, Luna grows fast, driven by the development of mining and resource extraction.
 
-*2050*  The impact of global warming accelerates faster that predicted, leading to a generation of economic collapse, countless low-level conflicts and seemingly endless destructive extreme weather events. 
+*2050*  The impact of global warming accelerates faster that predicted, leading to a generation of economic collapse, countless low-level conflicts and seemingly endless destructive extreme weather events. The oceans rise much faster than forecast, forcing the relocation of peoples on an unimaginable scale. Some of the worlds most important cities are de-populated in a couple of decades
 
 *2051*  Phosphorous War. The global supply of phosphorous has dwindled creating pressure on global agriculuture. Morocco capitalises on its possession of 70% of the world's Phosphate rock, controlling supply to increase market price. The global powers, invade Morocco and force its government to place Phosphorus supply under the control over an international organisation. Morocco becomes increadibly wealthly, Rhabat and Morocco become global cities.
 
@@ -50,7 +50,7 @@ A century of great transition. Automation and AI drive changes in working and ec
 
 *2061*  First armed conflict on the Moon, when a legal fight the over ownership of a huge Helium-3 reserve boils into a skirmish between European Federation mercenaries and Pacific Aliance soldiers. Fighting is quickly brought to an end by the signing of the Mumbai Accords which set up an international committee for arbitrating settlement and exploitation rights. Helium-3 is the new "oil", its value rockets as Fusion becomes the preferred power source. All nations want to claim it and control its supply. As with oil, in the previous century, the thirst for Helium-3 begins to poison national interests, to the extent that a space arms industry is born out of the will to keep this strategically vital resource from being taken by adversaries.
 
-*2071*  A prototype space elevator is planned for construction   
+*2071*  A prototype space elevator is planned for construction, although the project runs out of money after a decade.   
 
 *2075* A prototype floating outpost is positioned in the upper atmosphere of Venus. The output supports five scientists who trial various experiments to test the viability of using genetically engineering algae to cool venus down.
 
@@ -70,12 +70,14 @@ The century is defined by the massive push for space colonisation. Earth is incr
 
 *2109*  The United States, India, Morocco and the European Federation each start programs to follow China's lead. Over the following decade there is a kind of arms race to gain dominence in the field of general AI. Individual AI gain the term "Manufactured Intellects", most nations are developing small populations of manufactured intellects (M.I.s) in the hopes of training them up to become super intelligence. There is gradual development, but none of the MIs develop IQs much higher than smart humans.
 
-*2110*  More than ninty percent of Earth's population now live in archologies. Autonomous Manufacturing Plants can quickly and cheaply build weather-proof underground habitats, allowing archologies to establish bunker communities to aleviate population pressure.
+*2110*  More than ninty percent of Earth's population now live in archologies. Autonomous Manufacturing Plants can quickly and cheaply build weather-proof underground habitats, allowing archologies to establish bunker communities to aleviate population pressure. M
 
 *2120*  As the demand for Helium-3 now outstrips supply it becomes economically feasible to develop extraction stations that skim the upper atmospheres of Jupiter and Saturn. Larger stations are planned that will lower collection pipes down into the regions where Helium-3 is concentrated. 
 
 
 *2122*  
+
+*2165* There are now more than 100 colonies or outposts stretching from a solar research station that orbits close to the sun, right out to Kuiper belt with outposts on 
 
 *23rd Century* +
 
