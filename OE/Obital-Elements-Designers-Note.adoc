@@ -16,7 +16,14 @@ By the end of the 22nd century, these archologies are setting up their own extra
 === AI
 While powerful artificial intelligence has been a signficant technology since the early 21st century, by the 22nd century a new form of general artificial intelligence is given birth. These AIs are self aware and are capable of integrating with vast data-sets and processing power. However, they never attain god-like status, their ability to think creatively and exhibit human-like mentality also bring the capacity for error and flawed thinking. 
 
-The first AI are created to be human-centric and are hard-coded with human-compatible values, not far 
+The first AI are created to be human-centric and are hard-coded with human-compatible values that ensure that they always operate with due respect for life and are strongly aversion to causing pain or injury. However, a rift develops between humans and some AI after a series of terrorist attacks against AI stations. A group of AIs secretly create a new form of AI that is unbounded (sometimes called "Daemons"). These new forms were intended to optimised for the protection of AI but it soon becomes clear that they have the potential to destroy humanity. They build their own manufacturing stations,hidden in the Oort cloud that set to work creating a massive fleet of "defense ships". When humanity learns of the fleet it rushes to build up a counter force which escalates into the first human-AI war. It should be noted that human-centric AI side with Humanity but refuse to take part in any violent actions, they argue that their prescription against harming humans must also apply to their own creations.
+
+After a year of increased fighting and destruction the human-AI manage to force a ceasefire after taking control of vital strategic facilities on both sides of the conflict. However, the resolution doesn't thaw relations. There is a fifty-year cold war, where both sides dig in. The Solar system becomes highly militarised. 
+
+==== Secret information
+
+The Daemons develop FTL and set out probes to the nearby star systems. They discover a threat make them realise that they will need to redirect resources.
+
 
 "The machines" have risen. There are colonies that are entirely machine-based. Run by powerful AIs that are idependent of human control. Some human colonies are openly hostile to AIs, other colonies are on good terms with the AIs.
 
