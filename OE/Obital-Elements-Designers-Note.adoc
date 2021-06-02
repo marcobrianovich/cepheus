@@ -8,12 +8,15 @@ Orbital Elements is set in a future where Earth is ravaged by polution and clima
 
 === Tribes
 
-OE is a game about nationalism/tribalism. The old nations of Earth still exist, although they are much changed. As the human colonisation of the solar system has progressed, new nations have formed. New alliences and new adversaries. Earth's population live in fifty two archologies, huge structures that itegrate all requirements for their inhabitants; food is grown in vat farms, utilities and industry are housed in the basement levels while appartments, public and commerical spaces occupy domes and towers. Each archology develops its own distinct culture so that after a century each can be considered a nation-state in its own right.
+OE is a game about nationalism/tribalism. The old nations of Earth still exist, although they are much changed. As the human colonisation of the solar system has progressed, new nations have formed. New alliences and new adversaries. Earth's population of six billion live in fifty two archologies, huge structures that itegrate all requirements for their inhabitants; food is grown in vat farms, utilities and industry are housed in the basement levels, while appartments, public and commerical spaces occupy domes and towers. Each archology develops its own distinct culture so that after a century each can be considered a nation-state in its own right.
 
 By the end of the 22nd century, these archologies are setting up their own extra-terrestrial colonies, driven by the need for natural resources.
 
 
 === AI
+While powerful artificial intelligence has been a signficant technology since the early 21st century, by the 22nd century a new form of general artificial intelligence is given birth. These AIs are self aware and are capable of integrating with vast data-sets and processing power. However, they never attain god-like status, their ability to think creatively and exhibit human-like mentality also bring the capacity for error and flawed thinking. 
+
+The first AI are created to be human-centric and are hard-coded with human-compatible values, not far 
 
 "The machines" have risen. There are colonies that are entirely machine-based. Run by powerful AIs that are idependent of human control. Some human colonies are openly hostile to AIs, other colonies are on good terms with the AIs.
 
