@@ -82,6 +82,8 @@ The century is defined by the massive push for space colonisation. Earth is incr
 
 *2110*  More than ninty percent of Earth's population now live in archologies. Autonomous Manufacturing Plants can quickly and cheaply build weather-proof underground habitats, allowing archologies to establish satellite bunker communities to aleviate population pressure and help establish supply lines. However, the archologies still prefer to set up space-based facilities, due to the availability of unlimited natural resources.
 
+*2119* The rapid growth in the AI "population" brings about the formation of an international treaty organisation for policing AI activities. The Agathos Foundation carries the function of a police force, although it is mostly a public relations organisation, given that all AI are "bound" with human-centric inhibitors that prevent them from intentionally taking action that might kill, injure or threaten humans.
+
 *2120*  As the demand for Helium-3 now outstrips supply it becomes economically feasible to develop extraction stations that skim the upper atmospheres of Jupiter and Saturn. Larger stations are planned that will lower collection pipes down into the regions where Helium-3 is concentrated. 
 
 *2122* Most archologies have an AI that handles monitoring and advises human government officials. Most large Automated Manufacturing Plants have AIs. While some colonies and outputs have incorporated AIs into their management systems, many others are hostile to AI. Many small colonies have been established by religious groups or people who want to live by their own rules. A few are deeply regressive and hostile to any form of outside interference.  
@@ -98,7 +100,7 @@ The century is defined by the massive push for space colonisation. Earth is incr
 
 A joint taskforce made up of European and Chinese fast patrol ships identifies the vessel that was believed to have struck the station, tracking it to a distant location in the oort belt. High-speed drones, capable of reaching 10% of the speed of like are sent to the region, where they return signitures of a large number of stations and spacecraft.
 
-Before the stations can be indentified, Some AI communicate with the United Nations that they believe that a faction of AI has established its own stations, as a response to recent attacks on AI.
+Before the stations can be indentified, Some AI communicate with the United Nations and the Agathos Foundation that they believe that a faction of AI has established its own stations, as a response to recent attacks on AI.
 
 *23rd Century* +
 
