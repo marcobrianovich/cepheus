@@ -8,7 +8,7 @@ Orbital Elements is set in a future where Earth is ravaged by polution and clima
 
 === Tribes
 
-OE is a game about nationalism/tribalism. The old nations of Earth still exist, although they are much changed. As the human colonisation of the solar system has progressed, new nations have formed. New alliences and new adversaries. Earth's population of six billion live in fifty two archologies, huge structures that itegrate all requirements for their inhabitants; food is grown in vat farms, utilities and industry are housed in the basement levels, while appartments, public and commerical spaces occupy domes and towers. Each archology develops its own distinct culture so that after a century each can be considered a nation-state in its own right.
+OE is a game about nationalism/tribalism. The old nations of Earth still exist, although they are much changed. As the human colonisation of the solar system has progressed, new nations have formed. New alliences and new adversaries. Earth's population of six billion live in fifty two archologies, huge structures into which all the needs of a civilization are built; food is grown in vat farms, utilities and industry are housed in the basement levels, while appartments, public and commerical spaces occupy domes and towers. Each archology develops its own distinct culture so that after a century each can be considered a nation-state in its own right.
 
 By the end of the 22nd century, these archologies are setting up their own extra-terrestrial colonies, driven by the need for natural resources.
 
@@ -100,8 +100,13 @@ The century is defined by the massive push for space colonisation. Earth is incr
 
 A joint taskforce made up of European and Chinese fast patrol ships identifies the vessel that was believed to have struck the station, tracking it to a distant location in the oort belt. High-speed drones, capable of reaching 10% of the speed of light are sent to the region, where they return signitures of a large number of stations and spacecraft.
 
-Before the stations can be indentified, A group of AI inform the United Nations and the Agathos Foundation that they believe that a faction of AI has established their own stations, as a response to recent attacks on AIs.
+Before the stations can be indentified, A group of AI inform the United Nations and the Agathos Foundation that they believe that a faction of AI has established an unbound AI (Athena) that has been secretly integrated into a Marsian AMP. It has constructed defense stations of its own, as a response to recent attacks on AIs.
 
+The United Nations is stunned into momentary inaction. Unbound AIs are highly illegal and a creator of one can expect to be treated as a terrorist, but many nations feel that once an unbound AI exists, especially one that is armed, then a more considered response is required. While there is no immediate consensus about how to deal with Athena, Radical groups backed by Anit-AI nations attempt to force an immediate confrontation, they attempt two bombings of human settlements that they attempt to blame on Athena. These bombings fail, it quickly becomes obvious that they were sloppy false-flag operations. After these failures, one anti-AI group goes as far as hijacking a chinese warship and using it to destroy the marsian base that was thought to house Athena. The attack completely destroys the facility, along with hundreds of people. The destruction of Athena triggers the activation of Athena 2.0, in a small AMP station that built Athena's drone factories.
+
+*2190* It is thought that back this year, Athena 2.0ad rebuilt a solid manufacturing base in oort cloud. Anti-AI nations that took part in the destruction of Athena's AMP begin are normalising their relations with the AI-friendly nations, nobody is aware that Athena survived the attack as there are no sign of AI ships. In fact, Athena's new generation of ships are cleverly disguised, using stolen or synthesised identities. Some even use Turning machines to simulate human crew or passengers. These ships travel freely through the system.
+
+*2195* A small number of ships go missing in the outer system. Athena 2.0 has calculated that it has less than a decade before its presence becomes known, and that there is a high probability that it will be destroyed again. It aquires human cells through its network of shell companies, shipping the material to a purpose built facility in the oort-cloud. A new type of human is engineered, one that is constrained from harming AIs. Athena believes that if there is a war of survival, she will replace natural humans with a new kind that has an inbuilt discinclination against agression or hostility against AIs.
 
 
 *23rd Century* +
