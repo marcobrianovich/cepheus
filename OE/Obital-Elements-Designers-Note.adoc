@@ -16,13 +16,13 @@ By the end of the 22nd century, these archologies are setting up their own extra
 === AI
 While powerful artificial intelligence has been a signficant technology since the early 21st century, by the 22nd century a new form of general artificial intelligence is given birth. These AIs are self aware and are capable of integrating with vast data-sets and processing power. However, they never attain god-like status, their ability to think creatively and exhibit human-like mentality also bring the capacity for error and flawed thinking. 
 
-The first AI are created to be human-centric and are hard-coded with human-compatible values that ensure that they always operate with due respect for life and are strongly aversion to causing pain or injury. However, a rift develops between humans and some AI after a series of terrorist attacks against AI stations. A group of AIs secretly create a new form of AI that is unbounded (sometimes called "Daemons"). These new forms were intended to optimised for the protection of AI but it soon becomes clear that they have the potential to destroy humanity. They build their own manufacturing stations,hidden in the Oort cloud that set to work creating a massive fleet of "defense ships". When humanity learns of the fleet it rushes to build up a counter force which escalates into the first human-AI war. It should be noted that human-centric AI side with Humanity but refuse to take part in any violent actions, they argue that their prescription against harming humans must also apply to their own creations.
+The first AI are created to be human-centric and are hard-coded with human-compatible values that ensure that they always operate with due respect for life and are strongly aversion to causing pain or injury. However, a rift develops between humans and some AI after a series of terrorist attacks against AI stations. A group of AIs secretly create a new form of AI that is unbound (sometimes called "Daemons"). This new form was intended to be optimised for the protection of AI but it soon becomes clear that it has the potential to destroy humanity. It builds its own manufacturing stations, hidden in the Oort cloud, then sets to work creating a massive fleet of "defense ships". When humanity learns of the fleet it rushes to build up a counter force which escalates into the Second Human-AI war. It should be noted that human-centric AI side with Humanity but refuse to take part in any violent actions, they argue that their prescription against harming humans must also apply to AI entities.
 
-After a year of increased fighting and destruction the human-AI manage to force a ceasefire after taking control of vital strategic facilities on both sides of the conflict. However, the resolution doesn't thaw relations. There is a fifty-year cold war, where both sides dig in. The Solar system becomes highly militarised. 
+After a year of increased fighting and destruction the human-AI manage to force a ceasefire after taking control of vital strategic facilities on both sides of the conflict. However, the resolution doesn't thaw relations, the unbound AI agrees to enter excile, leaving the solar system on a long intersteller voyage.
 
 ==== Secret information
 
-The Daemons develop FTL and set out probes to the nearby star systems. They discover a threat make them realise that they will need to redirect resources.
+Athena stops sending messages back home, the last message was cut-off and sounded like a warning. 
 
 
 "The machines" have risen. There are colonies that are entirely machine-based. Run by powerful AIs that are idependent of human control. Some human colonies are openly hostile to AIs, other colonies are on good terms with the AIs.
@@ -32,7 +32,7 @@ Nobody is completely sure what the AI's agenda really is. They are mysterious.
 
 === Extra-terrestrials
 
-TBD
+The Gardener. A godlike AI that exists to promote the diverse forms of life in the galaxy. However, any space-faring race that looks set to spread its seeds to other stars is seens as a dangerous contamination threat that will damage bio-diverisity. The gardener takes steps to ensure that such life forms are stopped. It seems that the majority of intersteller lifeforms ascend to inner realms, after becoming digital constructs.
 
 === Chronology
 
