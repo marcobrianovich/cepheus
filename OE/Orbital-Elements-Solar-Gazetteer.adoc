@@ -7,6 +7,50 @@ The following guide covers all the main stations and colonies located in the sol
 
 === Mercury
 
+The planet closest to the Sun, Mercury is  characterised by extreme heat (450 degrees Celsius under the sun) and extreme cold (minus 170 C in the shade). A research outpost was established on a large crater wall, close to the south pole. Large deposits of water was found, which was soon mined. Mercury has accumulated lots of minerals from asteroid and comet strikes, making it a buffet of useful construction materials. 
+
+There are three major settlements on the planet, mostly supporting water and mineral mining. There would have been far more colonization but for the frequent quakes, caused by the fact that Mercury is contracting as its core cools.
+
+*Diameter:* 4880 km
+*Mass:* 0.055 Earths
+*Gravity:* 0.38
+
+*Surface Settlements*
+
+==== Demmeuter
+
+*Alignment:* Controlled by German and Italian archologies. +
+*Population:* 75,000 +
+German-Italian colony, situated on the northern pole. +
+
+==== Hidayatullah
+
+*Population:* 50,000 +
+Indian settlement that oversees water and rare earth metal mining. 
+
+==== AMP DX229-71
+
+*Population:* 10
+Autonomous Manufacturing Plant DX229-71 processes various raw materials, then launches them into an orbital stockpile using a mass driver. A caretaker contingent of humans live at the station. 
+
+*Orbital*
+
+==== Idunn
+
+*Population:* 7000
+Originally a German-built research station. When the research ended, the station was sold a Swiss businessman who expanded the station to become a Swiss-German Colony.
+
+==== Garaventa
+
+*Population:* 12,000
+Italian fledgeling colony, has the best orbital spaceport around Mercury which manages 90% of shipping to and from Mercury.
+
+==== USEDS Finingley
+
+*Population:* 300
+United States of European Defense Station, monitors the inner system. Maintains two active warships.
+
+
 === Venus
 
 ==== Experimental Atmospheric Outpost
