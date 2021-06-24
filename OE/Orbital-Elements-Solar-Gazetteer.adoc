@@ -11,9 +11,9 @@ The planet closest to the Sun, Mercury is  characterised by extreme heat (450 de
 
 There are three major settlements on the planet, mostly supporting water and mineral mining. There would have been far more colonization but for the frequent quakes, caused by the fact that Mercury is contracting as its core cools.
 
-*Diameter:* 4880 km
-*Mass:* 0.055 Earths
-*Gravity:* 0.38
+*Diameter:* 4880 km +
+*Mass:* 0.055 Earths +
+*Gravity:* 0.38 +
 
 *Surface Settlements*
 
@@ -21,33 +21,38 @@ There are three major settlements on the planet, mostly supporting water and min
 
 *Alignment:* Controlled by German and Italian archologies. +
 *Population:* 75,000 +
-German-Italian colony, situated on the northern pole. +
+German-Italian colony, situated on the northern pole. The settlement is deep underground, occupying an artificial cavern. +
 
 ==== Hidayatullah
 
 *Population:* 50,000 +
-Indian settlement that oversees water and rare earth metal mining. 
+Indian settlement that oversees water and rare earth metal mining. The settlement stretches through an extensive tunnel system. While it has a smaller population than Demmeuter, it currently has about twice the available living space. There are plans to try to double the population in the next decade.
 
 ==== AMP DX229-71
 
-*Population:* 10
+*Population:* 10 +
 Autonomous Manufacturing Plant DX229-71 processes various raw materials, then launches them into an orbital stockpile using a mass driver. A caretaker contingent of humans live at the station. 
 
-*Orbital*
+==== Other settlements
+
+There are between thirty and fifty independent mining settlements that pop-up and the disappear. 
+
+
+*Orbital Settlements*
 
 ==== Idunn
 
-*Population:* 7000
+*Population:* 7000 +
 Originally a German-built research station. When the research ended, the station was sold a Swiss businessman who expanded the station to become a Swiss-German Colony.
 
 ==== Garaventa
 
-*Population:* 12,000
+*Population:* 12,000 +
 Italian fledgeling colony, has the best orbital spaceport around Mercury which manages 90% of shipping to and from Mercury.
 
 ==== USEDS Finingley
 
-*Population:* 300
+*Population:* 300 +
 United States of European Defense Station, monitors the inner system. Maintains two active warships.
 
 
