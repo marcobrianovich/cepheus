@@ -14,8 +14,9 @@ There are three major settlements on the planet, mostly supporting water and min
 *Diameter:* 4880 km +
 *Mass:* 0.055 Earths +
 *Gravity:* 0.38 +
+*Atmosphere:* Trace +
 
-*Surface Settlements*
+*Ground Settlements*
 
 ==== Demmeuter
 
@@ -31,7 +32,7 @@ Indian settlement that oversees water and rare earth metal mining. The settlemen
 ==== AMP DX229-71
 
 *Population:* 10 +
-Autonomous Manufacturing Plant DX229-71 processes various raw materials, then launches them into an orbital stockpile using a mass driver. A caretaker contingent of humans live at the station. 
+Autonomous Manufacturing Plant DX229-71 processes various raw materials, then launches them into an orbital stockpile using a mass driver. A caretaker contingent of humans live at the station. The station is mostly surface-based. 
 
 ==== Other settlements
 
@@ -53,18 +54,41 @@ Italian fledgeling colony, has the best orbital spaceport around Mercury which m
 ==== USEDS Finingley
 
 *Population:* 300 +
-United States of European Defense Station, monitors the inner system. Maintains two active warships.
+United States of Europe Defense Station, monitors the inner system. Maintains two active warships.
 
 
 === Venus
 
+A planet named for its beauty, Venus is a hellish world with some of the most hostile surface conditions in the entire solar system. Surface temperatures so high that anything not made of a high-melting point metal or ceramics is quickly melted or erroded. There have been several attempts to begin terraforming operations but each has ended up discontinued.
+
+*Diameter:* 4880 km +
+*Mass:* 0.94 Earths +
+*Gravity:* 0.8 +
+*Atmosphere:* 92 atmospheres
+
 ==== Experimental Atmospheric Outpost
 
+Historical site. Like a floating museum, maintaining the original research output.
 
+*Atmopheric Settlements*
+
+==== Pegasus Station
+
+*Population:* 1500 +
+
+An under-construction fully-fledged colony. The pegasus project is constructing a vast floating platform, situated 70km above the burning surface of Venus. While the surface of Venus is like the inside of a kiln, the upper atmosphere has a zone where settlers can walk around with just an oxygen mask and acid resistent suit. When completed, Pegasus will provide more than a square kilometer of surface area on which to construct inflatable habitats. The top of the habitation is used for greenhouses and a shuttle recovery platform.
+
+*Ground Settlements*
+
+==== Hadius Base
+
+*Population:* 70,000 +
+
+Settlement built by a specially designed AMPs which landed on the surface then tunneled underground. Th e AMPs dug out a huge pressure-sealed tunnel system. The original aim was to create a very large colony. However, getting on and off Venus is still difficult. The heat and pressure force surface operations to be very limited. Only specialised rocket systems can be used to land on Venus, and these rockets wear out quickly. As a result Hadius base never become a large-scale colony. Instead it attracted groups that specifially wanted isolation, somewhere close to Earth but also hard to visit. The population of Habius base is actually spread over hundreds of miles of tunnels, although most of the bases essential facilities (hospital, manufacturing and agriculture is located at a central hub.
 
 === Earth
 
-
+*Archologies* +
 
 ==== Luna
 
