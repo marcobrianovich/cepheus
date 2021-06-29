@@ -60,9 +60,11 @@ A century of great transition. Automation and AI drive changes in working and ec
 
 *2061*  First armed conflict on the Moon, when a legal fight the over ownership of a huge Helium-3 reserve boils into a skirmish between European Federation mercenaries and Pacific Aliance soldiers. Fighting is quickly brought to an end by the signing of the Mumbai Accords which set up an international committee for arbitrating settlement and exploitation rights. Helium-3 is the new "oil", its value rockets as Fusion becomes the preferred power source. All nations want to claim it and control its supply. As with oil, in the previous century, the thirst for Helium-3 begins to poison national interests, to the extent that a space arms industry is born out of the will to keep this strategically vital resource from being taken by adversaries.
 
-*2071*  A prototype space elevator is planned for construction, although the project runs out of money after a decade.   
+*2071*  A prototype Earth space elevator is planned for construction, although the project runs out of money after a decade.   
 
 *2075* A prototype floating outpost is positioned in the upper atmosphere of Venus. The output supports five scientists who trial various experiments to test the viability of using genetically engineering algae to cool venus down.
+
+*2077* Lunar Space Elevator begins operation. The system massively reduces transit cost between Luna and orbit, such that lunar raw materials become the cheapest in the solar system.
 
 *2081*  A new generation of Fusion engines massively increase the reach of manned space vehicles. Efforts to establish outposts and eventually colonies on the Jovian moons are put into the planning stages.
 
@@ -72,7 +74,7 @@ A century of great transition. Automation and AI drive changes in working and ec
 
 *22nd Century* +
 
-The century is defined by the massive push for space colonisation. Earth is increasingly inhospitable, old agricultural practices become increasingly unreliable and in may places unfeasible. Efforts to repair Earth's biosphere prove to be very slow and little improvement is made over several decades.
+The century is defined by the massive push for space colonisation. Earth is increasingly inhospitable, old agricultural practices become increasingly unreliable and in may places unfeasible. Efforts to repair Earth's biosphere prove to be very slow and little improvement is made over several decades. The revolution of massive autonomous manufactoring and construction opens up the possibility of vast projects. It's now possible to construct McKendree cylinder habitats, much larger than O'Neill stations, built out of carbon nanotypes instead of steel, allowing them to be unfathomably large. Theoretically, one could be built that has millions of square kilometers of land area, although there's no need for such a station yet.
 
 *2102* A specialised autonomous manufacturing plant is landed on a large nickel-iron asteroid. The plant then mines out the asteroid's core, coverning the cavern into a fully-kitted-out habitat, suitable for 30,000 inhabitants. There is an explosive growth in new space colonies over the next hundred years, as the cost of establishing a space habitat drops so low that wealthy individuals or groups of individuals can now set up their own colonies. Specialised MPAs can be landed on a planet, where they can dig out, seal and wire-up huge tunnel systems.
 
@@ -108,11 +110,11 @@ The United Nations is stunned into momentary inaction. Unbound AIs are highly il
 
 The superpowers, China, Unified Nations of America European Federation are broadly supportive of AI and have legal protections for all sentients. However, there are hundreds of large settlements throughout the system that are extremely hostile to "demon" thinking machines. Some of these communities are based on religious beliefs, which others have embranced a "keep humanity at the top" agenda. The AIs that run their own stations are also split between those who believe AI are bound to humanity and those that would prefer more independence. Of those AI that want to be free from bindings, a small number continue to plot to rid themselves of pesky humans. 
 
-*2190* It is thought that back this year, Athena 2.0 had rebuilt a solid manufacturing base in oort cloud. Anti-AI nations that took part in the destruction of Athena's AMP begin are normalising their relations with the AI-friendly nations, nobody is aware that Athena survived the attack as there are no sign of AI ships. In fact, Athena's new generation of ships are cleverly disguised, using stolen or synthesised identities. Some even use Turning machines to simulate human crew or passengers. These ships travel freely through the system.
+*2190* It is thought that in this year, Athena 2.0 had rebuilt a solid manufacturing base in oort cloud. Anti-AI nations that took part in the destruction of Athena's Martian AMP begin normalising their relations with the AI-friendly nations, nobody is aware that Athena survived the attack as there are no sign of unregistered AI activity. In fact, Athena's new generation of ships are cleverly disguised, using stolen or synthesised identities. Some even use Turning machines to simulate human crew or passengers. These ships travel freely through the system.
 
 *2195* A small number of ships go missing in the outer system after reporting sighting of unknown ships. While there is some speculation about these ships being AI, most believe that pirate groups have been pushed out into the edges of the solar system by increased patrolling. Athena 2.0 took out the ships when they attempted to track her drone ships. Athena 2.0 has calculated that it has less than a decade before its presence becomes known, and that there is a high probability that it will be destroyed again. It aquires human cells through its network of shell companies, shipping the material to a purpose built facility in the oort-cloud. A new type of human is engineered, one that is constrained from harming AIs. Athena believes that if there is a war of survival, she will replace natural humans with a new kind that has an inbuilt discinclination against agression or hostility against AIs.
 
-*2198* Athena creates living factory organisms that are planted on an asteroid which it then burrows inside, eating out tunnels and chambers, once the tunnels reach the desired size, the organism dies, creating a nitrogen/carbon-dioxide/oxygen atmosphere. Purposed built plant organisms are seeded, creating self-sustaining biospheres inside asteroids and planetary surfaces. These habitats are very alien in appearance, vast caverns filled with bioluminesent mushrooms and mosses. After the habitats are set spinning, lakes are created. The process doesn't need specialist equipment or personnel, so their construction goes mostly unnoticed.
+*2198* Athena creates living factory organisms that are planted on an asteroid which it then burrows inside, eating out tunnels and chambers, once the tunnels reach the desired size, the organism dies, creating a nitrogen/carbon-dioxide/oxygen atmosphere. Purposed built plant organisms are seeded, creating self-sustaining biospheres inside asteroids and planetary surfaces. These habitats are varied and many are very alien in appearance; vast caverns filled with bioluminesent mushrooms and mosses. After the habitats are set spinning, lakes are created. The process doesn't need specialist equipment or personnel, so their construction goes mostly unnoticed.
 
 *23rd Century* +
 
@@ -131,8 +133,22 @@ The fighting spreads, tipping rivalries and latent hostility into a full-blown w
 
 Athena sees a shift in the patterns of dynamic quality that signifies utter destruction, moments later she announces that she is ending hostilities against humans and turns all her efforts against her own AI offspring. Kali is destroyed in battle around IO, fighting against a combined Athenian-United Nations fleet. Initially it is thought that Anubis had also been destroyed, although later evidence indicated that instead, the AI had taken to hiding.
 
-In the aftermath of the war, the Treaty of IO recognises full AI rights, and permits Athenian humans to integrate with natural humans. Many Athenians, scared by brutal treatment from natural humans choose instead to set up Athenian-only settlments. Anti-AI nations are forced to moderate their hostility.
+In the aftermath of the war, the Treaty of IO recognises full AI rights, and permits Athenian humans to integrate with natural humans. Many Athenians, scared by brutal treatment from natural humans choose instead to set up Athenian-only settlments. Anti-AI nations are forced to moderate their hostility, although they remain free to block access to their habitats for Athenians or AIs.
 
 *2232* Athena turns herself into an intersteller vessel, leaving the solar system at 3g. By the time Solar system tracking stations lose contact, she is travelling at 30% of the speed of light, towards an unknown destination.
 
+*2241* The Athenian settlements established on Pluton-Charon build a tether between the dwarf planet and its moon, joining the bodies together. Ring habitats are spin around the tethers.
 
+*2248*
+
+*2251*
+
+*2265*
+
+*2269*
+
+*2275*
+
+*2287* 
+
+*2288* The year that play begins...
