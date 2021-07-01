@@ -60,6 +60,8 @@ A century of great transition. Automation and AI drive changes in working and ec
 
 *2061*  First armed conflict on the Moon, when a legal fight the over ownership of a huge Helium-3 reserve boils into a skirmish between European Federation mercenaries and Pacific Aliance soldiers. Fighting is quickly brought to an end by the signing of the Mumbai Accords which set up an international committee for arbitrating settlement and exploitation rights. Helium-3 is the new "oil", its value rockets as Fusion becomes the preferred power source. All nations want to claim it and control its supply. As with oil, in the previous century, the thirst for Helium-3 begins to poison national interests, to the extent that a space arms industry is born out of the will to keep this strategically vital resource from being taken by adversaries.
 
+*2065* A
+
 *2071*  A prototype Earth space elevator is planned for construction, although the project runs out of money after a decade.   
 
 *2075* A prototype floating outpost is positioned in the upper atmosphere of Venus. The output supports five scientists who trial various experiments to test the viability of using genetically engineering algae to cool venus down.
@@ -74,7 +76,7 @@ A century of great transition. Automation and AI drive changes in working and ec
 
 *22nd Century* +
 
-The century is defined by the massive push for space colonisation. Earth is increasingly inhospitable, old agricultural practices become increasingly unreliable and in may places unfeasible. Efforts to repair Earth's biosphere prove to be very slow and little improvement is made over several decades. The revolution of massive autonomous manufactoring and construction opens up the possibility of vast projects. It's now possible to construct McKendree cylinder habitats, much larger than O'Neill stations, built out of carbon nanotypes instead of steel, allowing them to be unfathomably large. Theoretically, one could be built that has millions of square kilometers of land area, although there's no need for such a station yet.
+The century is defined by the massive push for space colonisation. Earth is increasingly inhospitable, old agricultural practices become increasingly unreliable and in may places unfeasible. Efforts to repair Earth's biosphere prove to be very slow and little improvement is made over several decades. The revolution of massive autonomous manufactoring and construction opens up the possibility of vast projects. It's now possible to construct McKendree cylinder habitats, much larger than O'Neill stations, built out of carbon nanotubes instead of steel, allowing them to be unfathomably large. Theoretically, one could be built that has millions of square kilometers of land area, although such a station is far beyond the needs of the time.
 
 *2102* A specialised autonomous manufacturing plant is landed on a large nickel-iron asteroid. The plant then mines out the asteroid's core, coverning the cavern into a fully-kitted-out habitat, suitable for 30,000 inhabitants. There is an explosive growth in new space colonies over the next hundred years, as the cost of establishing a space habitat drops so low that wealthy individuals or groups of individuals can now set up their own colonies. Specialised MPAs can be landed on a planet, where they can dig out, seal and wire-up huge tunnel systems.
 
@@ -86,9 +88,9 @@ The century is defined by the massive push for space colonisation. Earth is incr
 
 *2119* The rapid growth in the AI "population" brings about the formation of an international treaty organisation for policing AI activities. The Agathos Foundation carries the function of a police force, although it is mostly a public relations organisation, given that all AI are "bound" with human-centric inhibitors that prevent them from intentionally taking action that might kill, injure or threaten humans.
 
-*2120*  As the demand for Helium-3 now outstrips supply it becomes economically feasible to develop extraction stations that skim the upper atmospheres of Jupiter and Saturn. Larger stations are planned that will lower collection pipes down into the regions where Helium-3 is concentrated. 
+*2120*  As the demand for Helium-3 now outstrips supply from Luna and Mercury it becomes economically feasible to develop extraction stations that skim the upper atmospheres of Jupiter and Saturn. Larger stations are planned that will lower collection pipes down into the regions where Helium-3 is concentrated. 
 
-*2122* Most archologies have an AI that handles monitoring and advises human government officials. Most large Automated Manufacturing Plants have AIs. While some colonies and outputs have incorporated AIs into their management systems, many others are hostile to AI. Many small colonies have been established by religious groups or people who want to live by their own rules. A few are deeply regressive and hostile to any form of outside interference.  
+*2122* Most archologies have an AI that handles monitoring and advises human government officials. Most large Automated Manufacturing Plants have AIs. While some colonies and outputs have incorporated AIs into their management systems, others are hostile to AI. Many small colonies have been established by religious groups or people who want to live by their own rules. A few are deeply regressive and hostile to any form of outside interference.  
 
 *2165* There are now more than 100 colonies or outposts stretching across the whole solar system. Nearest the sun is a solar research station that orbits at a blisteringly close range. Only specially shielded ships can travel there. The most distant habitat is Eris, a dwarf planet that spends most of its 557 journey around the sun outside of the orbit of Pluto. There have been expeditions out into the Kuiper belt, but no perminemt outposts have been established there.
 
@@ -122,10 +124,10 @@ Antimatter fuels deep space spacescraft. Two separate manned missions to other s
 
 *2202*  
 
-*2220* So called "Children of Athena" or "Athenians" begin to slip into the general population. Athenians see themselves as separate from natural humans, not better. They are less inclined to ideas based on racism. However, they share a secret mission to take steps to protect Athena, in the event of a conflict.
+*2220* So called "Children of Athena" or "Athenians" begin to slip into the general population. Athenians see themselves as separate from natural humans, not better. They are less inclined to ideas based on racism. However, they share a secret mission to take steps to protect Athena, in the event of a another Human-AI conflict.
 
 
-*2225* 
+*2225* Massacre 
 
 *2231* Second AI war. After the existence of AI-created humans is revealed, Anti-AI nations respond aggressively. They see the Athenians as an abomination, as evil sleeper agents plotting to destroy "natural" humans. Some groups immediately attack Athenian stations and ships. Athena responds quickly to defend her people. Conflict escalates quickly. Earth-based nations are slower to react as even the most pro-AI nations are disturbed by the idea that an AI has created new human-derivitive subspecies.
 
