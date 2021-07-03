@@ -7,7 +7,7 @@ The following guide covers all the main stations and colonies located in the sol
 
 There are no perminent settlements inside the orbit of Mercury. There are a number of "weather" stations that maintain close watch on solar activity and give early warning of storms. Most of these are based on small asteroids that have been artifically placed in close orbit. The asteroids are rotated to simulate gravity and to ensure that their surfaces are evenly cooked. The crew habitats are burried deep to provide adequate shielding. The stations are loney places as only highly specialised, heavily shielded ships can reach them.
 
-NOTE: There's now an inflatable heat blanket that can be deployed across the hull of a spaceship, allowing regular ships to travel closer to the Sun. Make sure you pack strong sun block. 
+NOTE: There's now an inflatable heat blanket that can be deployed across the hull of a spaceship, allowing regular ships to travel closer to the Sun. The heat shield is intended for short emergency transit as more than a few days of heavy neutron exposure is dangerous. 
 
 === Mercury
 
@@ -108,9 +108,11 @@ There are broadly three types of archology:
 
 Life in the archologies is reasonably comfortable and safe, but for most inhabitants, day-to-day living is highly regulated, with limits on personal freedom. Employment rates are below 25%, leaving the majority of people to occupy themselves through leisure, hobbies or self employment producing artifacts.
 
+Most archologies are extremely insular. Built to be completely self-sufficient, and following very similar plans, so life in one archology is pretty much the same as another. The exceptions are the archologies at the base of the two space elevators, Cayambe in Equador and Mame no ki, 
+
 Raising families remains popular, although most archologies limit family sizes to keep population growth under control. Couples wanting more than two children are encouraged to emigrate to a colony/habitat. 
 
-By the 2300s most archologies have become rundown. While automated systems continue to repair essential infrastructure, the massive scale of these structures make the task of renovation extremely difficult.
+By the 2280s most archologies have become rundown. While automated systems continue to repair essential infrastructure, the massive scale of these structures make the task of renovation or replacement extremely difficult. Most archologies have shifted to space emigration to handle population pressure. 
 
 ==== Luna
 
@@ -118,7 +120,7 @@ By the 2300s most archologies have become rundown. While automated systems conti
 
 **Chang-Er** Chinese Luna settlement, less developed than Appollo but spread over a larger area, located in the southern pole.  
 
-**Tsiolkovskygrad** Russian 
+**Tsiolkovskygrad** Russian industry-focused colony 
 
 === Mars
 
