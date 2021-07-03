@@ -1,1 +1,20 @@
 
+== Campaign Types
+
+Orbital Elements supports any kind of campaign that Game Master and Players want. Here are some pre-designed campaign types to choose from:
+
+=== Agents of the Solar System Defense Directorate
+
+The PCs operate as part of an international organisation that attempts to project the Solar System from serious threats. The organisation's key goal is to capture or destroy Anubis. This campaign type is investigative/combat orientated
+
+=== Spacer life
+
+The PCs have a small ship, which takes them across the system. This is a good pick-and-mix campaign style, just like your pappy's old Traveller games. 
+
+=== Space Mercs
+
+The PCs are members of a mercenary cadre. This is your regular military campaign.
+
+=== Citizens
+
+Regular folks, getting into adventures. Staying home or travelling across the system.
