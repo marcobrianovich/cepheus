@@ -5,6 +5,10 @@ The following guide covers all the main stations and colonies located in the sol
 
 === Sun
 
+There are no perminent settlements inside the orbit of Mercury. There are a number of "weather" stations that maintain close watch on solar activity and give early warning of storms. Most of these are based on small asteroids that have been artifically placed in close orbit. The asteroids are rotated to simulate gravity and to ensure that their surfaces are evenly cooked. The crew habitats are burried deep to provide adequate shielding. The stations are loney places as only highly specialised, heavily shielded ships can reach them.
+
+NOTE: There's now an inflatable heat blanket that can be deployed across the hull of a spaceship, allowing regular ships to travel closer to the Sun. Make sure you pack strong sun block. 
+
 === Mercury
 
 The planet closest to the Sun, Mercury is  characterised by extreme heat (450 degrees Celsius under the sun) and extreme cold (minus 170 C in the shade). A research outpost was established on a large crater wall, close to the south pole. Large deposits of water was found, which was soon mined. Mercury has accumulated lots of minerals from asteroid and comet strikes, making it a buffet of useful construction materials. 
