@@ -40,7 +40,7 @@ Autonomous Manufacturing Plant DX229-71 processes various raw materials, then la
 
 ==== Other settlements
 
-There are between thirty and fifty independent mining settlements that pop-up and the disappear. 
+There are between thirty and fifty independent mining settlements. These pop up and then dissapear as they're mostly looking for small lodes of rare earth metals delivered to the surface by asteroid impact.
 
 
 *Orbital Settlements*
@@ -91,6 +91,8 @@ An under-construction fully-fledged colony. The pegasus project is constructing 
 Settlement built by a specially designed AMPs which landed on the surface then tunneled underground. Th e AMPs dug out a huge pressure-sealed tunnel system. The original aim was to create a very large colony. However, getting on and off Venus is still difficult. The heat and pressure force surface operations to be very limited. Only specialised rocket systems can be used to land on Venus, and these rockets wear out quickly. As a result Hadius base never become a large-scale colony. Instead it attracted groups that specifially wanted isolation, somewhere close to Earth but also hard to visit. The population of Habius base is actually spread over hundreds of miles of tunnels, although most of the bases essential facilities (hospital, manufacturing and agriculture is located at a central hub.
 
 === Earth
+
+
 
 image:https://db3pap001files.storage.live.com/y4mVH80D8qYEGpGJt9tiTHyTisxxqr4TmW5wqnBHROA6J91TErF0t0pPFgqfooEZMqPeNcgy6kFBqmvOfoh5SiHyXkvnnIkHK4Og_ySld9unJl5SDMZNVkxPJIjZiO3tU5DA21Pxf_tAUMeFzj85s1BxSZXop6Ba6ISu_b4i-x1QqOfaMGYtAlrSBsuE1xG1NLR?width=1024&height=795&cropmode=none[image of the world]
 
