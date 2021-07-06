@@ -1,6 +1,6 @@
 == Space vehicles
 
-Orbital Elements is a game about space travel, so space vehicles are a very big deal. You notice we don't call them ships? Well that nautical analogy didn't manage to survive the 21st century. There are no oceans to travel, no round windows in the hull, no sails -- actually sometimes there are sails, but we're not calling them ships. There are no battleships, no cruisers. Ships fall into the following classification system:
+Orbital Elements is a game about space travel, so space vehicles are a very big deal. You notice we don't call them ships? Well that nautical analogy didn't manage to survive the 21st century. There are no oceans to travel, no round windows in the hull, no sails -- actually sometimes there are sails, but we're not calling them ships. There are no battleships, no cruisers. Space vehicles fall into the following classification system:
 
 A rig is a simple, cheap to build and maintain space vehicle. They're suitable for transporting small payloads between facilities that are both situated in the same locality. Some Heavy rigs can make a full interplanetary journey, but really only between planets in the inner system. The majority of space vehicles fall into the Rig category.
 
