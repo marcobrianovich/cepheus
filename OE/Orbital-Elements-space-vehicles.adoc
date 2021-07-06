@@ -1,0 +1,3 @@
+== Space vehicles
+
+Orbital Elements is a game about space travel, so space vehicles are a very big deal. You notice we don't call them ships? Well that nautical analogy didn't manage to survive the 21st century. There are no oceans to travel, no round windows in the hull, no sails -- actually sometimes there are sails, but we're not calling them ships.
