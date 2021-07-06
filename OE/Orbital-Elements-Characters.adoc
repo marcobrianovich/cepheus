@@ -1,0 +1,62 @@
+== Character Careers
+
+OE uses the Cepheus Faster Thank Light engine as a starting point for most game mechanics. The following careers are available for player characters.
+
+=== Mercenary
+
+In 2288 there are no standing national armies. Fighting forces are small scale and operate as commerical ventures that are contracted to governments/large organisations or even small settlements. Some mercernary outfits have long standing tickets, such that they are mistakenly seen as a standing army. Most though are not and could over the course of a few years find themselves fighting on both sides of a conflict.
+
+There are many famous mercenary companies, some are celebrated for their honour and bravery, and a few that are infamous for dark deeds or suspected of war crimes.
+
+* List of companies for follow..
+
+
+==== Specialistations
+
+* Infantry
+* Vehicular operations
+* Flight operations
+* Covert operations
+* Heavy weapons
+* Drone operations
+
+=== Spacer
+
+Space has become a busy place. The solar system is chock full of habitats, space factories and outposts, all hungry for raw materials, supplies or fresh personnel. While there might be a post-scarcity economy, it only works if your "space truck" delivers the goods on time, and while the basics of life are cheap enough to not make them worth stealing, there are plenty of things that can make piracy worth the risk. Most large stations have a defense force, patrols and responds to piracy. Smaller stations have defense contracts, allowing them to call on the cavalry, as and when required.
+
+The Spacer career encompasses different areas of specialism, pilots, navigators, engineers, drone operators (gunners) and operations. Most traines spacers are crossed trained in at least two areas, some old hands can do it all.
+
+
+==== Specialisations
+
+* Space combat operations
+* Space craft operations
+* EVA operations
+* Drone operations
+
+=== Trader
+
+
+
+=== Pirate
+
+Piracy i
+
+
+=== Colonist
+
+==== Specialisations
+
+* Journalist
+* Government Official
+* Medical Doctor
+* Scientist
+
+
+=== Scout
+
+* Planetary Operations
+* Asteroid Operations
+* Deep Space Operations
+
+=== 
