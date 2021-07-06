@@ -5,7 +5,7 @@ Orbital Elements supports any kind of campaign that Game Master and Players want
 
 === Agents of the Solar System Defense Directorate
 
-The PCs operate as part of an international organisation that attempts to project the Solar System from serious threats. The organisation's key goal is to capture or destroy Anubis. This campaign type is investigative/combat orientated
+The PCs operate as part of an international organisation that protects the solar system from serious threats. The organisation's key goal is to capture or destroy Anubis or its offspring. This campaign type is investigative/combat orientated. 
 
 === Spacer life
 
