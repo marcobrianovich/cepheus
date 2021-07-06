@@ -1,3 +1,33 @@
 == Space vehicles
 
-Orbital Elements is a game about space travel, so space vehicles are a very big deal. You notice we don't call them ships? Well that nautical analogy didn't manage to survive the 21st century. There are no oceans to travel, no round windows in the hull, no sails -- actually sometimes there are sails, but we're not calling them ships.
+Orbital Elements is a game about space travel, so space vehicles are a very big deal. You notice we don't call them ships? Well that nautical analogy didn't manage to survive the 21st century. There are no oceans to travel, no round windows in the hull, no sails -- actually sometimes there are sails, but we're not calling them ships. There are no battleships, no cruisers. Ships fall into the following classification system:
+
+A rig is a simple, cheap to build and maintain space vehicle. They're suitable for transporting small payloads between facilities that are both situated in the same locality. Some Heavy rigs can make a full interplanetary journey, but really only between planets in the inner system. The majority of space vehicles fall into the Rig category.
+
+=== Light Rig
+
+* 1-10 displacement tons. Suitable for short range. Types include: Landers, Orbiters, Taxis, Shuttles.
+
+=== Medium Rig
+
+10-100 displacement tons. 
+
+=== Heavy Rig 
+
+100-500 displacement tons. Types include: 
+
+
+
+=== Cyclers
+
+Increasingly redundant, the cycler is a very large ship that is set on a orbit between Earth and Mars and between Earth and Jupiter. Once established, these ships would make the journey between these destinations in a few weeks, without needing to expend much fuel. While most ships slow down to enter orbit with their destination, instead powerful shuttles are deployed to handle to transit of cargo and personnel.
+
+In the past century space vehicles have massively increased their travel speeds, negating the need for cyclers. However, they're now very cheap to travel on, and now have a cruise ship vibe, because they are so roomy and are focused on passenger comfort.
+
+=== Sail Ships
+
+Sound quaint, don't they. Well they're not, they were the fastest ships available before matter anhilation drives become available. High powered lasers gently push sail ships towards their destination, but because the ship doesn't need to carry propulsion and the lasers can provide thrust indefinitely, a sail ship could  reach a good fraction of the speed of light. 
+
+=== Heavy Transport
+
+Space vehicles over 1000 displacement tons.
