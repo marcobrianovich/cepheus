@@ -6,25 +6,38 @@ A rig is a simple, cheap to build and maintain space vehicle. They're suitable f
 
 === Light Rig
 
-* 1-10 displacement tons. Sometimes referred to as a gig, this is the smallest available class of space vehicle for carrying people. Some drone ships are smaller, but they typically don't have crew. Types include: Landers, Orbiters, Taxis, Shuttles.
+* 1-10 displacement tons. 
+
+* Sometimes referred to as a gig, this is the smallest available class of space vehicle for carrying people. Some drone ships are smaller, but they typically don't have crew. 
+
+* *Types include:* Landers, Orbiters, Taxis, Shuttles.
 
 === Medium Rig
 
-10-100 displacement tons. Medium rig is the workhorse class of space vehicles. Older rigs in this class would be limited to travel between locations in the inner system, but recent models have an operating range that allow travel to the outer planets, although not to the Keiper belt, beyond.
+* 10-100 displacement tons. 
 
-Types include: Module transporters, Explorers, Mobile Outposts. 
+* Medium rig is the workhorse class of space vehicles. Older rigs in this class would be limited to travel between locations in the inner system, but recent models have an operating range that allow travel to the outer planets, although not to the Keiper belt, beyond.
+
+* *Types include:* Module transporters, Explorers, Mobile Outposts. 
 
 === Heavy Rig 
 
-100-500 displacement tons. Types include: Tugs, Mobile Repair vehicles, Gunships (military), Modular transporter.
+* 100-500 displacement tons. 
+
+* *Types include:* Tugs, Mobile Repair vehicles, Gunships (military), Modular transporter.
 
 === Heavy Transports
 
-1000-10,000 Bulk carriers, Tankers, Mobile factories, Drone carrier (civilian and military types), Troop carrier (military) Mobile defense platform (military).
+* 1000-10,000 displacement tons.
+
+The heavy transports are the largest general space vehicles in operation. Larger vehicles are small in number and are purpose built, so can't be generalised. The majority of heavy transports carry raw materials or large numbers of shipping containers. 
+
+* Types include:* Bulk carriers, Tankers, Mobile factories, Drone carrier (civilian and military types), Troop carrier (military) Mobile defense platform (military).
+
 
 === Cyclers
 
-200,000 tons
+* 200,000 tons
 
 Increasingly redundant, the cycler is a very large ship that is set on a orbit between Earth and Mars and between Earth and Jupiter. Once established, these ships would make the journey between these destinations in a few weeks, without needing to expend much fuel. While most ships slow down to enter orbit with their destination, instead powerful shuttles are deployed to handle to transit of cargo and personnel.
 
@@ -32,7 +45,12 @@ In the past century space vehicles have massively increased their travel speeds,
 
 === Sail Ships
 
+* 200-20,000 displacement tons.
+
 Sound quaint, don't they? Well they're not, they were the fastest ships available before matter anhilation drives arrived, about 50-years-ago. High powered lasers, based throughout the system gently push sail ships towards their destination. Other laser systems at the destination then slow the ships down. As the ship doesn't need to carry propulsion and the lasers can provide thrust indefinitely, a sail ship could  reach a good fraction of the speed of light. 
+
+* *Types include:* Bulkers.
+
 
 === Mobile Stations
 
