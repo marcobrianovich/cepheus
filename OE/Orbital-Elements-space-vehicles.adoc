@@ -2,33 +2,37 @@
 
 Orbital Elements is a game about space travel, so space vehicles are a very big deal. You notice we don't call them ships? Well that nautical analogy didn't manage to survive the 21st century. There are no oceans to travel, no round windows in the hull, no sails -- actually sometimes there are sails, but we're not calling them ships. There are no battleships, no cruisers. Space vehicles fall into the following classification system:
 
-A rig is a simple, cheap to build and maintain space vehicle. They're suitable for transporting small payloads between facilities that are both situated in the same locality. Some Heavy rigs can make a full interplanetary journey, but really only between planets in the inner system. The majority of space vehicles fall into the Rig category.
+=== Rig
 
-=== Light Rig
+A rig is a simple, cheap to build and maintain space vehicle. They're suitable for transporting small payloads between facilities that are both situated in the same locality. Some Heavy rigs can make a full interplanetary journey, but really only between planets in the inner system. Rigs are the space trucks that zip people and packages between orbitals and space-based destinations on or around a planet. Larger rigs can make interplanetary trips, although they're not the best fit for long distance travel.
+
+==== Light Rig
 
 image:https://db3pap001files.storage.live.com/y4m0r957IJ8IJX2aFCyh7_HGphF7-ymF7wHJZen-b0wZLIUd4HLO7ZOxn0VcoXc06izEKLzZ2xBluKtxWQ7L2b8ZRjCOI61Jz2xL_F6lNnE6a1xgaYXr_bH44OU9DrCn0YK9D0Hqx2CGHGwM1IBOGwggjOW-WEp8fmooSe2MUMrmKwDsd4JQ8VTjOpTFVX4yGDl?width=1024&height=360&cropmode=none[image]
 
-* 1-10 displacement tons. 
+* *Displacement:* 5-49 tons. 
 
-* Sometimes referred to as a gig, this is the smallest available class of space vehicle for carrying people. Some drone ships are smaller, but they typically don't have crew. 
+* Sometimes referred to as a gig, this is the smallest available class of space vehicle for carrying people. Drone carriers are smaller, but they typically don't have crew. The light rig is essentially a "space car" or transit van. They're cheap enough to be available for enthusiasts and private individuals. While outright ownership of vehicles by the public is rare, many people have a share of or a lease on one.
 
-* *Types include:* Landers, Orbiters, Taxis, Shuttles.
+* *Types include:* Landers, Orbiters, Taxis, Shuttles, Small Utility Vehicles (vans).
 
-=== Medium Rig
+==== Medium Rig
 
 image:https://db3pap001files.storage.live.com/y4mfZCdIis5qLJymBn-qGu-bCDaUAZVfSJtyp72iMBzDDTfIrUK9tdLpjE8zbqQWrrZihcyS2ruRbR3FvsQhPx1IrLh8EauI24Lm59rQJqDlBBmXbL1z-wMc0byHDrjWCrVF4OTWetyPTN06wi8SvSsComIwZmcic0BFF2qBXwxuC3OR1pX2NHJvoiF98d8ko5K?width=660&height=495&cropmode=none[image]
 
-* 10-100 displacement tons. 
+* *Displacement:* 50-100 tons. 
 
-* Medium rig is the workhorse class of space vehicles. Older rigs in this class would be limited to travel between locations in the inner system, but recent models have an operating range that allow travel to the outer planets, although not to the Keiper belt, beyond.
+* Medium rigs are the workhorse class of space vehicles. Older rigs in this class would be limited to travel between locations in the inner system, but recent models have an operating range that allow travel to the outer planets, although not to the Keiper belt, beyond.
 
 * *Types include:* Module transporters, Explorers, Mobile Outposts. 
 
-=== Heavy Rig 
+==== Heavy Rig 
 
 image:https://db3pap001files.storage.live.com/y4mnKoPTX4ut9cWJ-Cwk6YLRNsfLuUO5t6JpzbKW1sBAkJQqwpODDNmGHIUKZGZbFwqU6EwvR5t2vsQt1vREQV8Dl9_V07L8O9fkRCmFbxtxg7s92PsDXgY7mco_L73-n5dDHVVuAuLC2LkRiDrCiE-BlhI2ZU0d4vKZX4yr9sqVmKJd4Ag7LtSQwC8Le6WPLYe?width=660&height=433&cropmode=none[image]
 
-* 100-500 displacement tons. 
+* *Displacement:* 101-500 tons. 
+
+Heavy Rigs 
 
 * *Types include:* Tugs, Mobile Repair vehicles, Gunships (military), Modular transporter.
 
@@ -40,7 +44,7 @@ image:https://db3pap001files.storage.live.com/y4m8B_8y1gikAibDipU60sv2nzF3D8WSqn
 image:https://db3pap001files.storage.live.com/y4m0mpZaPPShUEFt-6nnAWpoIolU1JXeWndb1NLz-pGNnMqw2a7_xGjGskXdF_JtJNhTLccde5myINLw8tdDiV69IcHhqFMF49QUblpBfXbwtGTNEm-FROIKiiFQ9BITuoa7pXZGdFpggJ_5h4tcraoyJir_UanirvSUivAxzPyYox29JiDJJf9vmxO-HzzMU6D?width=660&height=221&cropmode=none[image]
 
 
-* 1000-10,000 displacement tons.
+* *Displacement:* 1000-10,000 tons.
 
 The heavy transports are the largest general space vehicles in operation. Larger vehicles are small in number and are purpose built, so can't be generalised. The majority of heavy transports carry raw materials or large numbers of shipping containers. 
 
@@ -48,7 +52,7 @@ The heavy transports are the largest general space vehicles in operation. Larger
 
 === Cyclers
 
-* 200,000 tons
+* *Displacement:* 200,000 tons
 
 Increasingly redundant, the cycler is a very large ship that is set on a orbit between Earth and Mars and between Earth and Jupiter. Once established, these ships would make the journey between these destinations in a few weeks, without needing to expend much fuel. While most ships slow down to enter orbit with their destination, instead powerful shuttles are deployed to handle to transit of cargo and personnel.
 
@@ -56,7 +60,7 @@ In the past century space vehicles have massively increased their travel speeds,
 
 === Sail Ships
 
-* 200-20,000 displacement tons.
+* *Displacement:* 200-20,000 tons.
 
 Sound quaint, don't they? Well they're not, they were the fastest ships available before matter anhilation drives arrived, about 50-years-ago. High powered lasers, based throughout the system gently push sail ships towards their destination. Other laser systems at the destination then slow the ships down. As the ship doesn't need to carry propulsion and the lasers can provide thrust indefinitely, a sail ship could  reach a good fraction of the speed of light. 
 
