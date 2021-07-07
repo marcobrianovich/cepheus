@@ -16,6 +16,8 @@ image:https://db3pap001files.storage.live.com/y4m0r957IJ8IJX2aFCyh7_HGphF7-ymF7w
 
 === Medium Rig
 
+image:https://db3pap001files.storage.live.com/y4mfZCdIis5qLJymBn-qGu-bCDaUAZVfSJtyp72iMBzDDTfIrUK9tdLpjE8zbqQWrrZihcyS2ruRbR3FvsQhPx1IrLh8EauI24Lm59rQJqDlBBmXbL1z-wMc0byHDrjWCrVF4OTWetyPTN06wi8SvSsComIwZmcic0BFF2qBXwxuC3OR1pX2NHJvoiF98d8ko5K?width=660&height=495&cropmode=none[image]
+
 * 10-100 displacement tons. 
 
 * Medium rig is the workhorse class of space vehicles. Older rigs in this class would be limited to travel between locations in the inner system, but recent models have an operating range that allow travel to the outer planets, although not to the Keiper belt, beyond.
