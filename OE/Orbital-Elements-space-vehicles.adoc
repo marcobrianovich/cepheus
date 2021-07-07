@@ -6,6 +6,8 @@ A rig is a simple, cheap to build and maintain space vehicle. They're suitable f
 
 === Light Rig
 
+image:https://db3pap001files.storage.live.com/y4m0r957IJ8IJX2aFCyh7_HGphF7-ymF7wHJZen-b0wZLIUd4HLO7ZOxn0VcoXc06izEKLzZ2xBluKtxWQ7L2b8ZRjCOI61Jz2xL_F6lNnE6a1xgaYXr_bH44OU9DrCn0YK9D0Hqx2CGHGwM1IBOGwggjOW-WEp8fmooSe2MUMrmKwDsd4JQ8VTjOpTFVX4yGDl?width=1024&height=360&cropmode=none[image]
+
 * 1-10 displacement tons. 
 
 * Sometimes referred to as a gig, this is the smallest available class of space vehicle for carrying people. Some drone ships are smaller, but they typically don't have crew. 
