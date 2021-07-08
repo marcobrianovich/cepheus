@@ -13,6 +13,9 @@ NOTE: There's now an inflatable heat blanket that can be deployed across the hul
 
 === Mercury
 
+
+image:https://db3pap001files.storage.live.com/y4mojBnBia67mDUvFxNUnVkk-uYHeZUrZB0UvJmQ9czKCCjEiU7JbFsDlv6Li23yEb-oKOp3lzfSxCca2sopkbWg69rjddlwwEjqd3FqyRbRVgAqgyFi1-b3BH81flDcW-tZW49dIdSzOllvDHSMKvUP45_n7_KreqlD-F_qbXhpXBu8stDTqCxfVJ3NL7cDO5z?width=660&height=385&cropmode=none[image]
+
 The planet closest to the Sun, Mercury is  characterised by extreme heat (450 degrees Celsius under the sun) and extreme cold (minus 170 C in the shade). A research outpost was established on a large crater wall, close to the south pole. Large deposits of water were found, which immediately makes getting resources off the planet a lot cheaper, as lots of water allow any settlements to create fuel locally and be essentially self sustaining.  Mercury has accumulated lots of minerals from asteroid and comet strikes, making it a buffet of useful construction materials. 
 
 There are three major settlements on the planet, mostly supporting water and mineral mining. There would have been far more colonization but for the frequent quakes, caused by the fact that Mercury is contracting as its core cools.
@@ -64,6 +67,8 @@ United States of Europe Defense Station, monitors the inner system. Maintains tw
 
 
 === Venus
+
+image:https:https://db3pap001files.storage.live.com/y4m0ua6XHTuQr3Qljcx1dy3_R12BoYp69Wvmr4KRyY6BSRwxgh8XYJ3e1J7EusjcFUG_LdtuUKDXyhZBZG0b-VN1EtSkHnxt07kho07YKlAKkrfBgP6cgBXGqLMe0vzqWkN7B6uZ6XgjadjHAdIdcrMXa_d_8Ql-IIxDTIaastIbUx_3uYQuP03-sKBb2SzLsde?width=660&height=385&cropmode=none[image]
 
 A planet named for its beauty, Venus is a hellish world with some of the most hostile surface conditions in the entire solar system. It's so hot down there on the Venusian surface that anything not made of a high-melting point metals or ceramics ends up melted or erroded. There have been several attempts to begin terraforming operations but each has ended up discontinued, in part because of the difficulty of operating in such conditions.
 
