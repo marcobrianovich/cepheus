@@ -38,6 +38,8 @@ Heavy Rigs
 
 === Space planes
 
+image:https://db3pap001files.storage.live.com/y4mALkVd1wLnYsJ4RDW9wPi4eAG3bPFWwAcW9OUFfNc3uU22dCVDviuWtPweXOivXsouaR2JicI9sHTtn5YHUhGrFr_lJrxXVQa0WkVWYqtI0-vtaTQROqhqOJqGd7XVrK0MiTvu__842MDNNiyR1n7EUVtsjQg18R00bhwaZVL2e1msX2VJnhWcms5aexFgDWJ?width=660&height=660&cropmode=none[image]
+
 * *Displacement:* 50-200 tons.
 
 * Space planes are specialised vehicles that operate both in atmosphere and low orbit. There are only a few places where wings provide any benefit, so space planes are rare. Also, those planets with atmospheres are all wildly different, so each planet has its own spaceplane design. For example, Mars has almost no atmosphere so Space planes need massive wingspans and generate most of their lift using vectored thrust. While Venus has a super thick atmosphere, making anything with modest lift generating surfaces into a potential space plane. However, Venus and Mars have not magnetosphere, so their space planes require shielding that isn't required on Earth-rated space planes.
