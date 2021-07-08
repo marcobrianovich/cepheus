@@ -14,7 +14,7 @@ image:https://db3pap001files.storage.live.com/y4m0r957IJ8IJX2aFCyh7_HGphF7-ymF7w
 
 * Sometimes referred to as a gig, this is the smallest available class of space vehicle for carrying people. Drone carriers are smaller, but they typically don't have crew. The light rig is essentially a "space car" or transit van. They're cheap enough to be available for enthusiasts and private individuals. While outright ownership of vehicles by the public is rare, many people have a share of or a lease on one.
 
-* *Types include:* Landers, Orbiters, Taxis, Shuttles, Small Utility Vehicles (vans).
+* *Types include:* Landers, Lifters, Orbiters, Taxis, Shuttles, Small Utility Vehicles (vans).
 
 ==== Medium Rig
 
@@ -34,7 +34,14 @@ image:https://db3pap001files.storage.live.com/y4mnKoPTX4ut9cWJ-Cwk6YLRNsfLuUO5t6
 
 Heavy Rigs 
 
-* *Types include:* Tugs, Mobile Repair vehicles, Gunships (military), Modular transporter.
+* *Types include:* Tugs, Heavy lifters, Mobile Repair vehicles, Gunships (military), Modular transporter.
+
+=== Space planes
+
+* *Displacement:* 50-200 tons.
+
+* Space planes are specialised vehicles that operate both in atmosphere and low orbit. There are only a few places where wings provide any benefit, so space planes are rare. Also, those planets with atmospheres are all wildly different, so each planet has its own spaceplane design. For example, Mars has almost no atmosphere so Space planes need massive wingspans and generate most of their lift using vectored thrust. While Venus has a super thick atmosphere, making anything with modest lift generating surfaces into a potential space plane. However, Venus and Mars have not magnetosphere, so their space planes require shielding that isn't required on Earth-rated space planes.
+
 
 === Heavy Transports
 
