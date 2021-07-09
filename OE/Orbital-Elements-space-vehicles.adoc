@@ -1,10 +1,12 @@
 == Space vehicles
 
-Orbital Elements is a game about space travel, so space vehicles are a very big deal. You notice we don't call them ships? Well that nautical analogy didn't manage to survive the 21st century. There are no oceans to travel, no round windows in the hull, no sails -- actually sometimes there are sails, but we're not calling them ships. There are no battleships, no cruisers. Space vehicles fall into the following classification system:
+Orbital Elements is a game about space travel, so space vehicles are a very big deal. Its a big solar system out there and most adventures will have the player characters constantly travelling between locations. Sometimes the adventure is the travel, and the vehicle becomes more than a backdrop.
+
+You notice we don't call them ships? The nautical analogy fell out of favour after the 21st century, and it never really made sense. No oceans in space, no round windows on hulls, no sails -- actually sometimes there are sails, but we're still not calling them ships. Space vehicles fall into the following classification system:
 
 === Rig
 
-A rig is a simple, cheap to build and maintain space vehicle. They're suitable for transporting small payloads between facilities that are both situated in the same locality. Some Heavy rigs can make a full interplanetary journey, but really only between planets in the inner system. Rigs are the space trucks that zip people and packages between orbitals and space-based destinations on or around a planet. Larger rigs can make interplanetary trips, although they're not the best fit for long distance travel.
+A rig is a simple, cheap to build and maintain space vehicle. They're suitable for transporting small payloads between facilities that are both situated in the same locality. Rigs are the space cars and trucks that zip people and packages between orbitals and space-based destinations on or around a planet. Larger rigs can make interplanetary trips, although they're not the best fit for long distance travel. Except for the largest rigs, most are intended for no more than a day or two of operation before turning to a dock.
 
 ==== Light Rig
 
@@ -12,7 +14,7 @@ image:https://db3pap001files.storage.live.com/y4m0r957IJ8IJX2aFCyh7_HGphF7-ymF7w
 
 * *Displacement:* 5-49 tons. 
 
-* Sometimes referred to as a gig, this is the smallest available class of space vehicle for carrying people. Drone carriers are smaller, but they typically don't have crew. The light rig is essentially a "space car" or transit van. They're cheap enough to be available for enthusiasts and private individuals. While outright ownership of vehicles by the public is rare, many people have a share of or a lease on one.
+* Sometimes referred to as a gig, this is the smallest available class of space vehicle for carrying people. The light rig is essentially a "space car" or transit van. They're cheap enough to be available for enthusiasts and private individuals. While private ownership of vehicles is rare, lots of people hold a lease or a part share.
 
 * *Types include:* Landers, Lifters, Orbiters, Taxis, Shuttles, Small Utility Vehicles (vans).
 
