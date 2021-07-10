@@ -127,11 +127,28 @@ By the 2280s most archologies have become rundown. While automated systems conti
 
 image:https://db3pap001files.storage.live.com/y4mOPiCDo26HbEBGetwt5JrFbQYwdobL4OaZN8QDYb_L5Afk1k5pCB2nsiXNDVMpZES-KyY25OlisPJbZNKr8Slmhy5dw9weDcsp6H2AA5Wc5M-TOgchf5OIOgFmoM6uNrYOejMTCIyIsIoFJHhdKAPYqCS92tY7iooKRZhDgpXkjEInspR5Ibpky72omElQlDZ?width=660&height=385&cropmode=none[image]
 
+The Earth's moon, now commonly called Luna, given that people are living on dozens of moons, is one of the most developed and populous places in the solar system. It was the location of the first perminent space settlement, it then because the main industrial hub for both space development and metal resources for Earth. Over the last two centuries six large settlements have grown to become nations in their own right. This development didn't run smoothly, Luna was the first readily available source of Helium-3, the crucial ingrediant for low-neutron-emission Fusion. Helium-3 was seen as stategically vital resouce -- if you had it, you had a foothold in the future, if you didn't, your nation would be left behind. In the early days, Luna saw nations scuffle over mining rights, then full-blown conflicts.
+
+Mining saw the construction of hundreds of small  temporarly settlements, build quickly and with not much care. The infamous Jobesville massacre occured when the desperate inhabitats of one such settlement suffered life support failure, a band of engineers lead of Tommy Logan travelled to the neighbouring Jobesvill to persaude the occupants to provide technical assistance and parts. The occupants of Jobesville refused to help as their own settlement's infrastructure was close to collapse. The resulting tussle turned bloody, resulting on Jobesville's destruction and the death of its entire population. It was seen as the darkest day in human space colonisation, the larger colonies tried to introduce a legal framework to ensure that future conflicts could be avoided, but nothing could be agreed. There was an on-going cold war among the Luna colonies and no colony wanted to be constrained from "defending" its own rights.
+
+Outside of the protected borders of each colony, Luna is a no man's land of deserted mining settlements and surviving failed-state settlements that breed piracy and cover the activities of the big criminal organizations.
+
 **Apollo City** US Luna hub city, located 
 
 **Chang-Er** Chinese Luna settlement, less developed than Appollo but spread over a larger area, located in the southern pole.  
 
 **Tsiolkovskygrad** Russian industry-focused colony 
+
+**Dubois** Jointed European colony, colonised by all European archologies.
+
+**Azania** Colonised by the African Federation
+
+**Tsukuyomii** Japanese colony
+
+==== Other settlements
+
+There are hundreds of smaller settlments dotted ado
+
 
 === Mars
 
