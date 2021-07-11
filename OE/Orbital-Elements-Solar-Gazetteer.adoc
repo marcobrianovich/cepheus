@@ -8,7 +8,7 @@ The following guide covers all the main stations and colonies located in the sol
 
 === Icurus Base
 
-There are no perminent settlements inside the orbit of Mercury. There are a number of "weather" satellites maintain from Icurus Station that keep close watch on solar activity and provide early warning of solar storms. The asteroid, Icurus was nudged into its close solar orbit to provide shielding from the intense heat and radiation. It rotates to simulate gravity and to ensure that intense heat is applied evenly across it's surface. The station's habitats are burried deep to provide adequate shielding. Icurus station is a loney place, only very specialised, heavily shielded ships can reach it and they follow a three of four times a year schedule.
+There are no perminent settlements inside the orbit of Mercury. There are a number of "weather" satellites maintained from Icurus Station that keep close watch on solar activity and provide early warning of solar storms. The asteroid, Icurus was nudged into its close solar orbit to provide shielding from the intense heat and radiation. It rotates to simulate gravity and to ensure that intense heat is applied evenly across it's surface, with the station's habitats burried deep to provide adequate shielding. The weather monitoring and solar reseach keep about 100 staff occupied, with most staff working three month terms before rotating back to Earth. Icurus station is a loney place, only very specialised, heavily shielded ships can reach it and they follow a three of four times a year schedule.
 
 NOTE: There's now an inflatable heat blanket that can be deployed across the hull of a spaceship, allowing regular ships to travel closer to the Sun. The heat shield is intended for short emergency transit as more than a few days of heavy neutron exposure is dangerous. 
 
@@ -98,8 +98,6 @@ An under-construction fully-fledged colony. The pegasus project is constructing 
 Settlement built by a specially designed AMPs which landed on the surface then tunneled underground. Th e AMPs dug out a huge pressure-sealed tunnel system. The original aim was to create a very large colony. However, getting on and off Venus is still difficult. The heat and pressure force surface operations to be very limited. Only specialised rocket systems can be used to land on Venus, and these rockets wear out quickly. As a result Hadius base never become a large-scale colony. Instead it attracted groups that specifially wanted isolation, somewhere close to Earth but also hard to visit. The population of Habius base is actually spread over hundreds of miles of tunnels, although most of the bases essential facilities (hospital, manufacturing and agriculture is located at a central hub.
 
 === Earth
-
-
 
 image:https://db3pap001files.storage.live.com/y4mVH80D8qYEGpGJt9tiTHyTisxxqr4TmW5wqnBHROA6J91TErF0t0pPFgqfooEZMqPeNcgy6kFBqmvOfoh5SiHyXkvnnIkHK4Og_ySld9unJl5SDMZNVkxPJIjZiO3tU5DA21Pxf_tAUMeFzj85s1BxSZXop6Ba6ISu_b4i-x1QqOfaMGYtAlrSBsuE1xG1NLR?width=1024&height=795&cropmode=none[image of the world]
 
