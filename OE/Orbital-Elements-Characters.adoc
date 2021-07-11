@@ -36,7 +36,7 @@ The Spacer career encompasses different areas of specialism, pilots, navigators,
 
 === Trader
 
-
+* 
 
 === Pirate
 
@@ -51,7 +51,8 @@ Piracy i
 * Government Official
 * Medical Doctor
 * Scientist
-
+* Engineer
+* Farmer
 
 === Scout
 
