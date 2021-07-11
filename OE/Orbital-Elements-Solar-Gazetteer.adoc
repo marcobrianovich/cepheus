@@ -6,17 +6,19 @@ The following guide covers all the main stations and colonies located in the sol
 
 === Sun
 
-There are no perminent settlements inside the orbit of Mercury. There are a number of "weather" stations that maintain close watch on solar activity and give early warning of storms. Most of these are based on small asteroids that have been artifically placed in close orbit. The asteroids are rotated to simulate gravity and to ensure that their surfaces are evenly cooked. The crew habitats are burried deep to provide adequate shielding. The stations are loney places as only highly specialised, heavily shielded ships can reach them.
+=== Icurus Base
+
+There are no perminent settlements inside the orbit of Mercury. There are a number of "weather" satellites maintain from Icurus Station that keep close watch on solar activity and provide early warning of solar storms. The asteroid, Icurus was nudged into its close solar orbit to provide shielding from the intense heat and radiation. It rotates to simulate gravity and to ensure that intense heat is applied evenly across it's surface. The station's habitats are burried deep to provide adequate shielding. Icurus station is a loney place, only very specialised, heavily shielded ships can reach it and they follow a three of four times a year schedule.
 
 NOTE: There's now an inflatable heat blanket that can be deployed across the hull of a spaceship, allowing regular ships to travel closer to the Sun. The heat shield is intended for short emergency transit as more than a few days of heavy neutron exposure is dangerous. 
 
-=== Mercury
+
 
 image:https://db3pap001files.storage.live.com/y4mojBnBia67mDUvFxNUnVkk-uYHeZUrZB0UvJmQ9czKCCjEiU7JbFsDlv6Li23yEb-oKOp3lzfSxCca2sopkbWg69rjddlwwEjqd3FqyRbRVgAqgyFi1-b3BH81flDcW-tZW49dIdSzOllvDHSMKvUP45_n7_KreqlD-F_qbXhpXBu8stDTqCxfVJ3NL7cDO5z?width=660&height=385&cropmode=none[image]
 
-The planet closest to the Sun, Mercury is  characterised by extreme heat (450 degrees Celsius under the sun) and extreme cold (minus 170 C in the shade). A research outpost was established on a large crater wall, close to the south pole. Large deposits of water were found, which immediately makes getting resources off the planet a lot cheaper, as lots of water allow any settlements to create fuel locally and be essentially self sustaining.  Mercury has accumulated lots of minerals from asteroid and comet strikes, making it a buffet of useful construction materials. 
+The planet closest to the Sun, Mercury is  characterised by extreme heat (450 degrees Celsius under the sun) and extreme cold (minus 170 C in the shade). A research outpost was established on a large crater wall, close to the south pole. Large deposits of water were found, which immediately makes getting resources off the planet a lot cheaper, as lots of water allow any settlements to create fuel locally and be essentially self sustaining.  Mercury has accumulated lots of minerals from asteroid and comet strikes, making it a buffet of useful construction materials. However, counting against early settlement and exploitation is the fact that reaching Mercury's orbit requires a lot of Delta-v. As the inner-most planet, it's zipping around the Sun at very high speed. Then, when a visitor arrives, they have to then ditch their high speed using fuel as there's no atmospheric breaking. For these reasons, Mercury was settled relatively recently, long after the other inner planets and the asteroid belt. 
 
-There are three major settlements on the planet, mostly supporting water and mineral mining. There would have been far more colonization but for the frequent quakes, caused by the fact that Mercury is contracting as its core cools.
+There are medium-sized settlements on the planet, mostly supporting water, Helium-3 and mineral mining. A further complication for colonization are the frequent quakes, caused by the fact that Mercury is contracting as its core cools.
 
 *Diameter:* 4880 km +
 *Mass:* 0.055 Earths +
