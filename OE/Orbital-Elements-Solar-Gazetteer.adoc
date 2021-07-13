@@ -70,7 +70,7 @@ United States of Europe Defense Station, monitors the inner system. Maintains tw
 
 image:https://db3pap001files.storage.live.com/y4m0ua6XHTuQr3Qljcx1dy3_R12BoYp69Wvmr4KRyY6BSRwxgh8XYJ3e1J7EusjcFUG_LdtuUKDXyhZBZG0b-VN1EtSkHnxt07kho07YKlAKkrfBgP6cgBXGqLMe0vzqWkN7B6uZ6XgjadjHAdIdcrMXa_d_8Ql-IIxDTIaastIbUx_3uYQuP03-sKBb2SzLsde?width=660&height=385&cropmode=none[image]
 
-A planet named for its beauty, Venus is a hellish world with some of the most hostile surface conditions in the entire solar system. It's so hot down there on the Venusian surface that anything not made of a high-melting point metals or ceramics ends up melted or erroded. There have been several attempts to begin terraforming operations but each has ended up discontinued, in part because of the difficulty of operating in such conditions.
+A planet named for its beauty, Venus is a hellish world with some of the most hostile surface conditions in the entire solar system. It's so hot down there on the Venusian surface that anything not made of a high-melting point metals or ceramics ends up melted or erroded. There have been several attempts to begin terraforming operations but each has ended up discontinued, in part because of the difficulty of operating in such hostile conditions.
 
 *Diameter:* 4880 km +
 *Mass:* 0.94 Earths +
@@ -95,7 +95,9 @@ An under-construction fully-fledged colony. The pegasus project is constructing 
 
 *Population:* 70,000 +
 
-Settlement built by a specially designed AMPs which landed on the surface then tunneled underground. Th e AMPs dug out a huge pressure-sealed tunnel system. The original aim was to create a very large colony. However, getting on and off Venus is still difficult. The heat and pressure force surface operations to be very limited. Only specialised rocket systems can be used to land on Venus, and these rockets wear out quickly. As a result Hadius base never become a large-scale colony. Instead it attracted groups that specifially wanted isolation, somewhere close to Earth but also hard to visit. The population of Habius base is actually spread over hundreds of miles of tunnels, although most of the bases essential facilities (hospital, manufacturing and agriculture is located at a central hub.
+The Hadius base was built by a specially designed AMP which landed on the surface then quickly tunneled underground to avoid being melted. The AMP dug out a huge pressure-sealed actively cooled tunnel system. The original aim was to create a very large colony. However, getting on and off Venus is still difficult. The heat and pressure force surface operations to be very limited. Only specialised rocket systems can be used to land on Venus, and these rockets wear out quickly. As a result Hadius base never become a large-scale colony. 
+
+
 
 === Earth
 
