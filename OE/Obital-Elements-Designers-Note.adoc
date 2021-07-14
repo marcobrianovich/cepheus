@@ -68,7 +68,9 @@ A century of great transition. Automation and AI drive changes in working and ec
 
 *2077* Lunar Space Elevator begins operation. The system massively reduces transit cost between Luna and orbit, such that lunar raw materials become the cheapest in the solar system.
 
-*2081*  A new generation of Fusion engines massively increase the reach of manned space vehicles. Efforts to establish outposts and eventually colonies on the Jovian moons are put into the planning stages.
+*2081*  A new generation of Fusion engines, usually referred to as Quan-Ebrahimi or QE-Drives massively increase the reach of manned space vehicles. Efforts to establish outposts and eventually colonies on the Jovian moons are put into the planning stages.
+
+*2082* First manned mission to Mercury. Before the arrival of QE-Drives, the delta-V requirement for getting people to Mercury were considered too high. Immediately plans for a perminent settlement.
 
 *2097* Mithaee-Paee Automation (MPA) unveils the first fully autonomous space factory. While 21st century industry is 95% automated, there remain humans in the loop. Hiraṇyagarbha (Golden Egg) uses drones to collect raw materials which are then processed into base materials which get fabricated into components that are then put together, all by robotic systems. The finished goods are then transported to market. The first station is the size of a football stadium and can manufacture appliances and small vehicles. MPA quickly becomes the dominant player in the field of automation as their autonomous manufacturing plants AMPs create a new industrial revolution. 
 
