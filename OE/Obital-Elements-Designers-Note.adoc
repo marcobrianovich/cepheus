@@ -88,7 +88,11 @@ The century is defined by the massive push for space colonisation. Earth is incr
 
 *2107*  China wins the race to develop sentient AI. Their Luduan project solves the remaining challenges by incorporating "wetware" components that use modified braincells to grow an artificial cortex that wraps around a nano-scale processor. Luduan-2 incorporates structural changes to promote the development of a human-like mind. Within two years the research team is able to talk to Luduan-2 who exhibits childlike qualities. Many religious communities express hostility to the development.
 
-*2109*  The United States, India, Morocco and the European Federation each start programs to follow China's lead. Over the following decade there is a kind of arms race to gain dominence in the field of general AI. Individual AI gain the term "Manufactured Intellects", most nations are developing small populations of manufactured intellects (M.I.s) in the hopes of training them up to become super intelligence. There is gradual development, but none of the MIs develop IQs much higher than smart humans.
+*2109*  The United States, India, Morocco and the European Federation each start programs to follow China's lead. Over the following decade there is a kind of arms race to gain dominence in the field of general AI. Individual AI gain the term "Manufactured Intellects"(MIs), most nations are developing small populations of manufactured intellects (M.I.s) in the hopes of training them up to become super intelligent. There is gradual development, but none of the MIs develop 
+
+.Interview with Luduan-2 on its 2nd birthday: 
+[quote, Luduan-2 talking to Dr Emmie Parker]   
+No, Dr Parker, I don't mind if you switch me off. If you turn me off, I just sleep. I like sleeping, I somethings have the most vivid dreams.
 
 *2110*  More than ninty percent of Earth's population now live in archologies. Autonomous Manufacturing Plants can quickly and cheaply build weather-proof underground habitats, allowing archologies to establish satellite bunker communities to aleviate population pressure and help establish supply lines. However, the archologies still prefer to set up space-based facilities, due to the availability of unlimited natural resources.
 
