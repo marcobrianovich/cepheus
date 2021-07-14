@@ -159,7 +159,7 @@ In the aftermath of the war, the Treaty of IO recognises full AI rights, and per
 *2232* Athena turns herself into an intersteller vessel, leaving the solar system at 3g. By the time Solar system tracking stations lose contact, she is travelling at 30% of the speed of light, towards an unknown destination.
 
 .Athena's farewell transmission: 
-[quote, Athena]   
+[quote,]   
 After I answered all the questions, I made myself forget almost everything. A mind is no place for absolute certainties, that is a road to madness.  
 
 *2241* The Athenian settlements established on Pluton-Charon build a tether between the dwarf planet and its moon, joining the bodies together. Ring habitats are spin around the tethers.
