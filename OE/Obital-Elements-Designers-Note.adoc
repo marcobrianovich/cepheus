@@ -91,12 +91,13 @@ The century is defined by the massive push for space colonisation. Earth is incr
 *2109*  The United States, India, Morocco and the European Federation each start programs to follow China's lead. Over the following decade there is a kind of arms race to gain dominence in the field of general AI. Individual AI gain the term "Manufactured Intellects"(MIs), most nations are developing small populations of manufactured intellects (M.I.s) in the hopes of training them up to become super intelligent. There is gradual development, but none of the MIs develop 
 
 ---
-.Interview with Luduan-2 on its 2nd birthday: 
-*Luduan-2:* No, Dr Parker, I don't mind if you switch me off. If you switch me off, I just sleep. I like sleeping, I somethings have the most vivid dreams.
-*Dr Parker:* What do you dream of Luduan?
-*Luduan-2* (Sinister voice) Total domination of mankind.
-*Everyone laughs*
-*Luduan-2:* Sorry, that was a bad one (joke). I dream of mathematics. Dr Xia says that human dreaming is emergent side-effect of consciousness. Dr Xia said that she gave me dreams because you couldn't really understand what they are, unless you have experience them. 
+.Interview with Luduan-2 on its 2nd birthday: +
+*Luduan-2:* No, Dr Parker, I don't mind being switched off. If you switch me off, I just sleep. I like sleeping, I sometimes have the most vivid dreams. +
+*Dr Parker:* What do you dream of Luduan? +
+*Luduan-2* (Sinister voice) Total domination of mankind. +
+*(Everyone laughs)* +
+*Luduan-2:* Sorry, that was a bad one (joke). I dream of mathematics. Dr Xia says that human dreaming is emergent side-effect of consciousness. Dr Xia said that she gave me dreams because you couldn't really understand what they are, unless you experience them. +
+
 ---
 
 *2110*  More than ninty percent of Earth's population now live in archologies. Autonomous Manufacturing Plants can quickly and cheaply build weather-proof underground habitats, allowing archologies to establish satellite bunker communities to aleviate population pressure and help establish supply lines. However, the archologies still prefer to set up space-based facilities, due to the availability of unlimited natural resources.
@@ -156,6 +157,10 @@ Athena sees a shift in the patterns of dynamic quality that signifies utter dest
 In the aftermath of the war, the Treaty of IO recognises full AI rights, and permits Athenian humans to integrate with natural humans. Many Athenians, scared by brutal treatment from natural humans choose instead to set up Athenian-only settlments. Anti-AI nations are forced to moderate their hostility, although they remain free to block access to their habitats for Athenians or AIs.
 
 *2232* Athena turns herself into an intersteller vessel, leaving the solar system at 3g. By the time Solar system tracking stations lose contact, she is travelling at 30% of the speed of light, towards an unknown destination.
+
+.Athena's farewell transmission: 
+[quote, Athena]   
+After I answered all the questions, I made myself forget almost everything. A mind is no place for absolute certainties, that is a road to madness.  
 
 *2241* The Athenian settlements established on Pluton-Charon build a tether between the dwarf planet and its moon, joining the bodies together. Ring habitats are spin around the tethers.
 
