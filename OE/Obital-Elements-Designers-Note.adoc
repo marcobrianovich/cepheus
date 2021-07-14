@@ -92,8 +92,9 @@ The century is defined by the massive push for space colonisation. Earth is incr
 
 .Interview with Luduan-2 on its 2nd birthday: 
 [quote, Luduan-2 talking to Dr Emmie Parker]   
-No, Dr Parker, I don't mind if you switch me off. If you turn me off, I just sleep. I like sleeping, I somethings have the most vivid dreams.
-
+No, Dr Parker, I don't mind if you switch me off. If you switch me off, I just sleep. I like sleeping, I somethings have the most vivid dreams.
++
++
 *2110*  More than ninty percent of Earth's population now live in archologies. Autonomous Manufacturing Plants can quickly and cheaply build weather-proof underground habitats, allowing archologies to establish satellite bunker communities to aleviate population pressure and help establish supply lines. However, the archologies still prefer to set up space-based facilities, due to the availability of unlimited natural resources.
 
 *2119* The rapid growth in the AI "population" brings about the formation of an international treaty organisation for policing AI activities. The Agathos Foundation carries the function of a police force, although it is mostly a public relations organisation, given that all AI are "bound" with human-centric inhibitors that prevent them from intentionally taking action that might kill, injure or threaten humans.
