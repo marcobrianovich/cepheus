@@ -123,6 +123,13 @@ Raising families remains popular, although most archologies limit family sizes t
 
 By the 2280s most archologies have become rundown. While automated systems continue to repair essential infrastructure, the massive scale of these structures make the task of renovation or replacement extremely difficult. Most archologies have shifted to space emigration to handle population pressure. 
 
+=== Low Earth Orbit
+
+There are hundreds of small to medium sized stations in low Earth orbit. Larger stations are not built there because of the need to occasionally adjust orbits would be difficult. Larger stations are built at the Lagrange points, where orbits are stable.
+
+==== Gateway stations
+
+
 ==== Luna
 
 image:https://db3pap001files.storage.live.com/y4mOPiCDo26HbEBGetwt5JrFbQYwdobL4OaZN8QDYb_L5Afk1k5pCB2nsiXNDVMpZES-KyY25OlisPJbZNKr8Slmhy5dw9weDcsp6H2AA5Wc5M-TOgchf5OIOgFmoM6uNrYOejMTCIyIsIoFJHhdKAPYqCS92tY7iooKRZhDgpXkjEInspR5Ibpky72omElQlDZ?width=660&height=385&cropmode=none[image]
@@ -148,6 +155,11 @@ Outside of the protected borders of each colony, Luna is a no man's land of dese
 ==== Other settlements
 
 There are hundreds of smaller settlments dotted ado
+
+==== Orbitals
+
+The following colonies are massive structures, or captured asteroids built at the Lagrange to house colonists from Earth's archologies. Most are now over 100 years old.
+
 
 
 === Mars
