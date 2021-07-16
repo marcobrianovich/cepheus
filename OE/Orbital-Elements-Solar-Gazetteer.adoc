@@ -20,6 +20,18 @@ The planet closest to the Sun, Mercury is  characterised by extreme heat (450 de
 
 There are medium-sized settlements on the planet, mostly supporting water, Helium-3 and mineral mining. A further complication for colonization are the frequent quakes, caused by the fact that Mercury is contracting as its core cools.
 
+
+.Mercury Stats
+[options="header"]
+|=======================
+|Mercury|      
+|Diameter   |4880 km
+     
+|Mass    |0.055 Earths    
+|Gravity    |0.38g     
+|Atmosphere    |>0 (trace)
+|=======================
+
 *Diameter:* 4880 km +
 *Mass:* 0.055 Earths +
 *Gravity:* 0.38 +
