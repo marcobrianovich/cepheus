@@ -164,7 +164,7 @@ There are hundreds of small to medium sized stations in low Earth orbit. Larger 
 
 ==== Luna
 
-image:https://db3pap001files.storage.live.com/y4mOPiCDo26HbEBGetwt5JrFbQYwdobL4OaZN8QDYb_L5Afk1k5pCB2nsiXNDVMpZES-KyY25OlisPJbZNKr8Slmhy5dw9weDcsp6H2AA5Wc5M-TOgchf5OIOgFmoM6uNrYOejMTCIyIsIoFJHhdKAPYqCS92tY7iooKRZhDgpXkjEInspR5Ibpky72omElQlDZ?width=660&height=385&cropmode=none[image]
+image:https://db3pap001files.storage.live.com/y4mIyqf2rVrPc0HCNc6hsvE_a7Ty9_ZTzXJdH-5tpwo2zfUV-hgZW5Egu9bxhMNq_JCR6icjcbrtQaZSjgdY1WDDUpfWOsZV0cej3MMwpmfDOSQPj-hJgQVFKKmGXmZAtj21xmVQ1XJlXszHK2ZPokwwNVTqseu4ATj22leNs16RSAWelCwcmbrFWBUxxH8XWEE?width=1024&height=480&cropmode=none[image]
 
 The Earth's moon, now commonly called Luna, given that people are living on dozens of moons, is one of the most developed and populous places in the solar system. It was the location of the first perminent space settlement, it then because the main industrial hub for both space development and metal resources for Earth. Over the last two centuries six large settlements have grown to become nations in their own right. This development didn't run smoothly, Luna was the first readily available source of Helium-3, the crucial ingrediant for low-neutron-emission Fusion. Helium-3 was seen as stategically vital resouce -- if you had it, you had a foothold in the future, if you didn't, your nation would be left behind. In the early days, Luna saw nations scuffle over mining rights, then full-blown conflicts.
 
@@ -196,9 +196,15 @@ The following colonies are massive structures, or captured asteroids built at th
 
 === Mars
 
+image:https://db3pap001files.storage.live.com/y4msK-xtuAOedDcgosE57w_YQ4tpe87VYrly4cSQsNnEC1lZuC55BKkiO1SLHsDYXps80Lkp1o_gSVlT20EbsyXSuLsvWimC9r1TV6dA5WUg0zf4JXW-mZVg8urVI5bJGNHcSpFIM24yyzzoCIs-Q9QaBB8ioPTTMVUkJKdFqbOKQOFVMQlgUczJfdW_342IOQz?width=1024&height=480&cropmode=none[image]
+
 ==== Phoebos
 
+image:https://db3pap001files.storage.live.com/y4mt8-96g06h6RKW1xz25JN0cBdK2oT8s4pPdoLTl5KexY2-BeHtpAwxcoB3zNo3jNpIzYEX-ajNXE0TxPM8IpaCNOo_yr9zfSq9KU6wq37y4QpBibEh6-xAX3qzLG6KxTaiL5hyP-MU1ggAJ4Xd3nOrDhEQKjNJc6dAfmHb0bGVD9NYjs8DmA-W95axUF3PXo3?width=1024&height=480&cropmode=none[image]
+
 ==== Deimos
+
+image:https://db3pap001files.storage.live.com/y4mTr2himi63sBjKkNwWT_n-w9qJpMIP3HFtm5xrYrAdldPWmJIHoar7x4mfLqgeIbgl5X25iTp9fR78zm0KXtyqRpZZtc9v8zwSq3nR9pheFO3f73u44_UkDPOG3cSXB9KUy8-uWoyCwDr2hzhdqNkfTs30JvwmctImfrRAqTUtXvEBtBcGuTEdyxnPCUk03If?width=1024&height=480&cropmode=none[image]
 
 === The Belt
 
