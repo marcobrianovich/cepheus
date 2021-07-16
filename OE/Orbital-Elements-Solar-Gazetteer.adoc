@@ -23,7 +23,7 @@ image:https://db3pap001files.storage.live.com/y4mojBnBia67mDUvFxNUnVkk-uYHeZUrZB
 |Gravity:    |0.38g     
 |Atmospheric pressure: |0 (vacuum)
 |Surface temperature|-180/+430
-|Surface radiation:|7
+|Surface radiation:|7 SDU
 |Solar Day: 176 days (
 |Year: 88 days
 |Distance from Sun: 
