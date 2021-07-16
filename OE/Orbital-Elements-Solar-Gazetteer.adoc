@@ -8,6 +8,19 @@ The following guide covers all the main stations and colonies located in the sol
 
 === Icurus Base
 
+|=======================
+2+| **Icurus**      
+|*Diameter:*   |2 km
+|*Mass:*      |Negligable  
+|*Gravity:*    |Negligable     
+|*Atmospheric pressure:* |0 (vacuum)
+|*Surface temperature:*|-10/+800
+|*Surface radiation:*|20 SDU
+|*Solar Day:* 10 minutes
+|*Year:* 30 days
+|*Distance from Sun:* 0.2 
+|=======================
+
 There are no perminent settlements inside the orbit of Mercury. There are a number of "weather" satellites maintained from Icurus Station that keep close watch on solar activity and provide early warning of solar storms. The asteroid, Icurus was manoeuvred into its close solar orbit to provide a shielded location for a monitoring station. It rotates to simulate gravity and to ensure that the intense heat felt at that location is applied evenly across its surface. The station's habitats are burried deep to provide adequate heat and radiation shielding. The weather monitoring and solar reseach keep about 100 staff occupied, with most staff working three-month assignment before returning various Earth universities. Icurus station is a loney place, only very specialised, heavily shielded ships can reach it and they follow a three of four times a year schedule.
 
 NOTE: There's now an inflatable heat blanket that can be deployed across the hull of a spaceship, allowing regular ships to travel closer to the Sun. The heat shield is intended for short emergency transit as more than a few days of heavy neutron exposure is dangerous. 
@@ -18,15 +31,15 @@ image:https://db3pap001files.storage.live.com/y4mojBnBia67mDUvFxNUnVkk-uYHeZUrZB
 
 |=======================
 2+| **Mercury**      
-|Diameter:   |4880 km
-|Mass:       |0.055 Earths    
-|Gravity:    |0.38g     
-|Atmospheric pressure: |0 (vacuum)
-|Surface temperature|-180/+430
-|Surface radiation:|7 SDU
-|Solar Day: 176 days (
-|Year: 88 days
-|Distance from Sun: 
+|*Diameter:*   |4880 km
+|*Mass:*      |0.055 Earths    
+|*Gravity:*    |0.38g     
+|*Atmospheric pressure:* |0 (vacuum)
+|*Surface temperature:*|-180/+430
+|*Surface radiation:*|7 SDU
+|*Solar Day:* 176 days
+|*Year:* 88 days
+|*Distance from Sun:* 0.4 
 |=======================
 
 The smallest planet in the system, and the closest to the Sun, Mercury is characterised by extreme heat (450 degrees Celsius under the midday sun) and extreme cold (minus 170 C in the evershades). Geologists have long agreed that Mercury is a planetary remnant -- the core of a larger planet that lost its rocky mantle coat in ancient punch-up, probably a collision with another proto-planet. Mercury has almost no axial tilt but its eccentric orbit creates quite seasonal temperature changes.
