@@ -59,6 +59,35 @@ The Function describes the ultimate purpose for which the settlement was constru
 |Depot
 |A depot is a large storage facility. They tend to have very small populations and are mostly automated. Some depots have mass driver stations from where raw materials are fired towards a destination. The materials are intercepted by "Catcher" rigs that deliver consignments to their destination.
 
+|4
+|Transport Hub
+|A settlement that handles space vehicles, providing repair and refueling facilities. These are much like depots, although they tend of have more facilties for transients, such as cafes and bars and hotels.
+
+|5
+|Mining colony
+|A settlement that accomodates engineers and service staff for some form of resource collection. While there's still plenty of metal and mineral gathering, gases and liquids are also mined. Nitrogen, hydrocarbons and water are all crucial materials for all space colonies. Mining colonies can be large and static or small and mobile.
+
+|6
+|Mine
+|A mine facility is usually co-located with a mining colony, although not always. If the mine's location is particularly hostile then its workers may need to travel some distance to their work site.
+
+|7
+|Power facilty
+|A power station or conduit. These are usually automated, although they'll tend to have some accomodation in case maintance teams need to stay on site.
+
+|8
+|Agricultural facility
+|One of a number of different food production facilities. These can literally be giant space farms, growing crops and raising some animals, although more commonly they will be vat farms or hydroponics.
+
+|9
+|Small colony
+|A small colony. 100-1000 Occupants.
+
+|10
+|Large colony
+|A large colony. 1000+ occupants.
+
+
 |===
 
 
@@ -137,25 +166,30 @@ A description of the type of surface, underground or sea-based habitats.
 
 By 2288 there's been over 200 years of station building. Some of the old stations are still around, mixing with brand new stations, as well as stations built by Athena which are more built with technologies that are still not available to human nations. The following tech-levels indicate the technological sophistication of a station.
 
-==== TL7 - Archaic
+[cols="10%,20%,70%"]
+|===
+|Tech Level Number |Tech Level Label |Tech Level Description
 
-Anything that pre-dates 2100A.D. 
+|1 
+|Archaic
+|Anything that pre-dates 2100A.D. 
 
-==== TL8 - Old-standard
+|2 
+|Old-standard
+|Anything that pre-dates 2100A.D. 
 
-The prevailent technology level across modern human stations.
+|3 
+|Cutting-edge
+|Anything that pre-dates 2100A.D. 
 
-==== TL-9 New-standard
+|4
+| Advancer/Athenian nations
+|This technology level is the highest available to humanity in 2288. The advancers push the boundries of science and technology very hard, it's their shtick, after all. It's thought by some that another technology milestone is coming soon, at which point the Advancer nations will have a insummountable technological advantage over other human nations.
 
-The level of technology for stations that begin construction in 2288.
+|5
+|Athena/Unbound
+|This technology level is not generally available, even to Athenians. Only Athena developed this level of technology and she only shared it with other unbound AIs, such as Anubis. There is a scramble for the recovery of Artifacts and knowledge from Athena's few surviving stations.
 
-==== TL -10 Advancer/Athenian nations
-
-This technology level is the highest available to humanity in 2288. The advancers push the boundries of science and technology very hard, it's their shtick, after all. It's thought by some that another technology milestone is coming soon, at which point the Advancer nations will have a insummountable technological advantage over other human nations.
-
-==== TL-11 Athena 
-
-This technology level is not generally available, even to Athenians. Only Athena developed this level of technology and she only shared it with other unbound AIs, such as Anubis. There is a scramble for the recovery of Artifacts and knowledge from Athena's few surviving stations.
 
 === Class
 
