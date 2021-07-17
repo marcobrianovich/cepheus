@@ -50,11 +50,15 @@ The Function describes the ultimate purpose for which the settlement was constru
 |1 
 |Scientific Outpost
 |Constructed to house monitoring equipment, or labs or other science related facilities. In most cases habitation is also required to match the staffing requirements for the facility. Some permanent outpost will include the families of the staff, including support personnel to run schools, stores, entertainment. On smaller outposts, staff tend to work a tour of several months, then return home. The smallet outpost may only be staffed for brief periods, or not at all if fully automated, although maintanence and inspection teams my visit as required.
-|===
 
 |2
 |Construction Facility
 |These settlements house engineers, drone pilots and support staff while a settlement is constructed. Most construction facilties are mobile. They are space vehicles in their own right, or more commonly, they are towed into place by a large transporter. Construction facilitied vary greatly, depending on what is being constructed and where. Compared with science outposts, tours tend to be shorter, so the amenities tend to be more limited.
+
+|3
+|Depot
+|A depot is a large storage facility. They tend to have very small populations and are mostly automated. Some depots have mass driver stations from where raw materials are fired towards a destination. The materials are intercepted by "Catcher" rigs that deliver consignments to their destination.
+
 |===
 
 
