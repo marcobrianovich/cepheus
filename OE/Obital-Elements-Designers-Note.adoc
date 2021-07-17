@@ -37,6 +37,8 @@ The Gardener. A godlike AI that exists to promote the diverse forms of life in t
 
 == Settlement types
 
+The type describes the form of the settlement. In the hundreds of years of human space colonisation, there have been many different types of settlement. New large settlements built in the 2280s are almost exclusively Asteroid-spun.
+
 === Founded 
 
 Date that the settlement was established. This is usually a ceremonial date that is chosen, some time after the colony is declared open for occupancy.
@@ -44,6 +46,34 @@ Date that the settlement was established. This is usually a ceremonial date that
 === Type 
 
 A description of the type of structure. 
+
+==== Modular Orbital
+
+Built from interconnected pods. This is the old-school type of space station, although the 23rd century equivalent is significantly better than the International Space Station. 
+
+==== Annular (spinning-ring)
+
+A rotating ring, usually held together with cable or structural spokes. At the hub is a counter spinner and a non-spinning axis, usually used for docking.
+
+==== Bernals
+
+Spherical structures
+
+==== O'Neill / Island-3s
+
+Large cylinders that follow the general arrangement designed by space engineer, Gerard Kitchen O'Neill. 
+
+==== Asteroid-static 
+
+A settlement based on or inside  an asteroid. 
+
+==== Asteroid-spun
+
+A settlement based inside a nickel-iron asteroid that has been set spinning, so as to simulate gravity for the occupants inside. Most of this type have an axial structure that  counter spins to allow simpler docking.
+
+==== 
+
+
 
 === Class
 
