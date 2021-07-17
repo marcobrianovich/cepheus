@@ -99,6 +99,7 @@ A description of the type of surface, underground or sea-based habitats.
 |10
 |Caven
 |Built into natural caverns/lava tubes or in escavated tunnels. 
+|===
 
 === Tech-level
 
