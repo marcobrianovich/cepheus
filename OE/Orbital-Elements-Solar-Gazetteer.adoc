@@ -21,7 +21,7 @@ The following guide covers all the main stations and colonies located in the sol
 |*Distance from Sun:* 0.2 
 |=======================
 
-There are no perminent settlements inside the orbit of Mercury. There are a number of "weather" satellites maintained from Icurus Station that keep close watch on solar activity and provide early warning of solar storms. The asteroid, Icurus was manoeuvred into its close solar orbit to provide a shielded location for a monitoring station. It rotates to simulate gravity and to ensure that the intense heat felt at that location is applied evenly across its surface. The station's habitats are burried deep to provide adequate heat and radiation shielding. The weather monitoring and solar reseach keep about 100 staff occupied, with most staff working three-month assignment before returning various Earth universities. Icurus station is a loney place, only very specialised, heavily shielded vehicles can reach it and they follow a three trips per-year schedule.
+There are no settlements inside the orbit of Mercury. There is a large reseach and monitoring facility built inside Icurus, a small captured asteroid that was manoeuvred into its close solar orbit to provide a shielded location for a monitoring station. Icurus rotates to simulate gravity and to ensure that the intense heat felt at that location is applied evenly across its surface. The station's habitats are burried deep to provide adequate heat and radiation shielding. The station manages an array of solar monitoring satellites that ring the Sun and perform deep scans, to provide reliable predictions of storms. Satellite maintainence, monitoring and solar reseach keep about 100 staff occupied, with most staff working three-month assignment before returning various Earth universities. Icurus station is an isolated place to work, only very specialised, heavily shielded vehicles can reach it and they follow a three trips per-year schedule.
 
 NOTE: There's now an inflatable heat blanket that can be deployed across the hull of suitable space vehicles, allowing them to travel closer to the Sun. The heat shield is intended for short emergency transit as more than a few days of heavy neutron exposure is dangerous. 
 
@@ -42,17 +42,13 @@ image:https://db3pap001files.storage.live.com/y4mkuAzdlP8JesFStGctLgQKY51eEwSPrj
 |*Distance from Sun:* 0.4 
 |=======================
 
-The smallest planet in the system, and the closest to the Sun, Mercury is characterised by extreme heat (450 degrees Celsius under the midday sun) and extreme cold (minus 170 C in the evershades). Geologists have long agreed that Mercury is a planetary remnant -- the core of a larger planet that lost its rocky mantle coat in ancient punch-up, probably a collision with another proto-planet. Mercury has almost no axial tilt but its eccentric orbit creates extreme seasonal temperature variations.
+The smallest planet in the system, and the closest to the Sun, Mercury is characterised by extreme heat (450 degrees Celsius under the midday sun) and extreme cold (minus 170 C in the evershades). Geologists have long agreed that Mercury is a planetary remnant -- the core of a larger planet that lost much of its rocky mantle coat in ancient punch-up, probably a collision with another proto-planet. Mercury has almost no axial tilt but its eccentric (egg-shaped) orbit creates extreme seasonal temperature variations.
 
 ==== Settlement
 
 A research outpost was established in the northern polar region, on the wall of a crater that never falls under direct sunlight. Large deposits of water were found there, a discovery that makes resource extraction economically feasible, as large water deposits allow any settlements to create fuel locally and be essentially self sustaining.  Mercury has accumulated lots of minerals from asteroid and comet strikes, making it a buffet of useful construction materials. However, counting against early settlement and exploitation was the fact that reaching Mercury's orbit requires a lot of Delta-v. Mercury is essentially zipping around the sun at at very high speed. Vehicles that travel to Mercury need to burn a lot of fuel to get into oribit. Then, if they want to land on Mercury they have to burn more fuel get rid of their speed. The lack of atmosphere means that you can't slow down using atmospheric breaking, like with Earth or Mars reentry. For these reasons, Mercury was settled relatively late, long after the other inner planets and the asteroid belt. 
 
 In 2288 there are just two medium-sized settlements on the planet, mostly supporting water, Helium-3 and mineral mining. A further complication for colonization are the frequent quakes, caused by the fact that Mercury is contracting as its liquid core cools.
-
-
-
-
 
 *Ground Settlements*
 
