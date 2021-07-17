@@ -87,7 +87,6 @@ The Function describes the ultimate purpose for which the settlement was constru
 |Large colony
 |A large colony. 1000+ occupants.
 
-
 |===
 
 
@@ -189,7 +188,7 @@ By 2288 there's been over 200 years of station building. Some of the old station
 |5
 |Athena/Unbound
 |This technology level is not generally available, even to Athenians. Only Athena developed this level of technology and she only shared it with other unbound AIs, such as Anubis. There is a scramble for the recovery of Artifacts and knowledge from Athena's few surviving stations.
-
+|===
 
 === Class
 
