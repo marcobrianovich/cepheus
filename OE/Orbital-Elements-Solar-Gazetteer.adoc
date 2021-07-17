@@ -2,7 +2,7 @@
 
 image:https://db3pap001files.storage.live.com/y4mF6J7uTJFMEg352kCGKuxS_WAlsWwQhSMh332HDzWNRgTgcUl1Z0Z9DN0Jux20s7qtj7RMTAw2TNd-uXuJHvLguZ-vN2kd8FPdxZ60Wpb-fLh_Mh-ErSDjZ5QUZKm3Q1MTuOVjBM3Rcq4Lqt3qWNHYTYqAnNlTN6KMHZxANhEjXqRJFPt6jgiiLfD8uEibQxB?width=1024&height=354&cropmode=none[image]
 
-The following guide covers all the main stations and colonies located in the solar system.
+The following guide covers all the planets and major masses in the solar system, along with their corresponding stations and colonies.
 
 === Sun
 
@@ -12,7 +12,8 @@ The following guide covers all the main stations and colonies located in the sol
 2+| **Icurus**      
 |*Diameter:*   |2 km
 |*Mass:*      |Negligable  
-|*Gravity:*    |Negligable     
+|*Gravity:*    |Negligable   
+|*Escape velocity:* | Negligable
 |*Atmospheric pressure:* |0 (vacuum)
 |*Surface temperature:*|-10/+800
 |*Surface radiation:*|20 SDU
@@ -34,6 +35,7 @@ image:https://db3pap001files.storage.live.com/y4mkuAzdlP8JesFStGctLgQKY51eEwSPrj
 |*Diameter:*   |4880 km
 |*Mass:*      |0.055 Earths    
 |*Gravity:*    |0.38g     
+|*Escape velocity:* | 4.3km/s
 |*Atmospheric pressure:* |0 (vacuum)
 |*Surface temperature:*|-180/+430
 |*Surface radiation:*|7 SDU
@@ -95,12 +97,21 @@ United States of Europe Defense Station, monitors the inner system. Maintains tw
 
 image:https://db3pap001files.storage.live.com/y4mKcorB-1QUXlBxbd1rUsaAJhDEmuaYm-DkpRCqDl0w1AC0x2B0JnnbRY2x016rKgWqhp7WvZ4VTggsw63D0I-O8ghy2aCAV4oFsZ-sb5MpAMqPiGPPAZLXqh6YCZ1Nx256NKPZzOwTRWjWNNRxYjZCDfbQP_DVBXHakb-9EbD1u2xXzmNqdZDFwIOoLz62NTi?width=1024&height=480&cropmode=none[image]
 
-A planet named for its beauty, Venus is a hellish world with some of the most hostile surface conditions in the entire solar system. It's so hot down there on the Venusian surface that anything not made of a high-melting point metals or ceramics ends up melted or erroded. There have been several attempts to begin terraforming operations but each has ended up discontinued, in part because of the difficulty of operating in such hostile conditions.
+|=======================
+2+| **Venus**      
+|*Diameter:*   |4880 km
+|*Mass:*      |0.94 Earths 
+|*Gravity:*    |0.8     
+|*Escape velocity:* | 10.4km/s
+|*Atmospheric pressure:* |92 
+|*Surface temperature:*| +475
+|*Surface radiation:*|20 SDU
+|*Solar Day:* 116 days
+|*Year:* 225 days
+|*Distance from Sun:* 0.723
+|=======================
 
-*Diameter:* 4880 km +
-*Mass:* 0.94 Earths +
-*Gravity:* 0.8 +
-*Atmosphere:* 92 atmospheres
+A planet named for its beauty, Venus is a hellish world with some of the most hostile surface conditions in the entire solar system. It's so hot down there on the Venusian surface that anything not made of a high-melting point metals or ceramics ends up melted or erroded. There have been several attempts to begin terraforming operations but each has ended up discontinued, in part because of the difficulty of operating in such hostile conditions.
 
 ==== Experimental Atmospheric Outpost
 
@@ -127,6 +138,20 @@ The Hadius base was built by a specially designed AMP which landed on the surfac
 === Earth
 
 image:https://db3pap001files.storage.live.com/y4mXKWsSvSC82ILeraxpa5VA29HZxhNc2c1ykwld0LT4b97dRuoJPwp2bb6Qkl5NSVTFLG58vTEOcIB8Lvza_i6n9MW17QoKh-BLEXD1W6LchAN_S5jTBGPqTH-Faf2y4JculfVneyqgUhIKk9KZFc9mS0vDgVMVgFW4sYolAAXvBu2iHKfI5wLms8MDF9vFoWo?width=1024&height=480&cropmode=none[Earth Header]
+
+|=======================
+2+| **Earth**      
+|*Diameter:*   |12,700 km
+|*Mass:*      |1 Earths 
+|*Gravity:*    |1     
+|*Escape velocity:* | 11.2km/s
+|*Atmospheric pressure:* |1
+|*Surface temperature:*| +15
+|*Surface radiation:*|1 SDU
+|*Solar Day:* 24 hours
+|*Year:* 365 days
+|*Distance from Sun:* 1
+|=======================
 
 
 image:https://db3pap001files.storage.live.com/y4mVH80D8qYEGpGJt9tiTHyTisxxqr4TmW5wqnBHROA6J91TErF0t0pPFgqfooEZMqPeNcgy6kFBqmvOfoh5SiHyXkvnnIkHK4Og_ySld9unJl5SDMZNVkxPJIjZiO3tU5DA21Pxf_tAUMeFzj85s1BxSZXop6Ba6ISu_b4i-x1QqOfaMGYtAlrSBsuE1xG1NLR?width=1024&height=795&cropmode=none[image of the world]
@@ -161,6 +186,20 @@ There are hundreds of small to medium sized stations in low Earth orbit. Larger 
 ==== Luna
 
 image:https://db3pap001files.storage.live.com/y4mIyqf2rVrPc0HCNc6hsvE_a7Ty9_ZTzXJdH-5tpwo2zfUV-hgZW5Egu9bxhMNq_JCR6icjcbrtQaZSjgdY1WDDUpfWOsZV0cej3MMwpmfDOSQPj-hJgQVFKKmGXmZAtj21xmVQ1XJlXszHK2ZPokwwNVTqseu4ATj22leNs16RSAWelCwcmbrFWBUxxH8XWEE?width=1024&height=480&cropmode=none[image]
+
+|=======================
+2+| **Luna**      
+|*Diameter:*   |3476 km
+|*Mass:*      |0.012 Earths 
+|*Gravity:*   |0.165g     
+|*Escape velocity:* | 2.38km/s
+|*Atmospheric pressure:* |1
+|*Surface temperature:*| +124/-173
+|*Surface radiation:*|10 SDU
+|*Solar Day:* 29.3 hours
+|*Year:* 365 days
+|*Distance from Sun:* 1
+|=======================
 
 The Earth's moon, now commonly called Luna, given that people are living on dozens of moons, is one of the most developed and populous places in the solar system. It was the location of the first perminent space settlement, it then because the main industrial hub for both space development and metal resources for Earth. Over the last two centuries six large settlements have grown to become nations in their own right. This development didn't run smoothly, Luna was the first readily available source of Helium-3, the crucial ingrediant for low-neutron-emission Fusion. Helium-3 was seen as stategically vital resouce -- if you had it, you had a foothold in the future, if you didn't, your nation would be left behind. In the early days, Luna saw nations scuffle over mining rights, then full-blown conflicts.
 
