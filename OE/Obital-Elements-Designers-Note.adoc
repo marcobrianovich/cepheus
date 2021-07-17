@@ -43,9 +43,9 @@ The type describes the form of the settlement. In the hundreds of years of human
 
 Date that the settlement was established. This is usually a ceremonial date that is chosen, some time after the colony is declared open for occupancy. Most large stations observe the Founding Date as a holiday and hold festivals.
 
-=== Type 
+=== Type (Space/Airborne)
 
-A description of the type of structure. 
+A description of the type of space or airborne habitats.
 
 [cols="10%,20%,70%"]
 |===
@@ -81,8 +81,24 @@ A description of the type of structure.
 
 |===
 
+=== Type (Surface/Sub-surface)
 
+A description of the type of surface, underground or sea-based habitats.
 
+[cols="10%,20%,70%"]
+|===
+|Settlement Type Number |Settlement Type Name |Settlement Type Description
+
+|8 
+|Modular Surface
+|Built from interconnected pods. This is the same general form as the space station variant. Mostly used for temporarly outposts.
+
+|9 
+|Burried Modules
+|Built from interconnected pods but then barried under local dirt to provide protection and radiation shielding.                                                                                       
+|10
+|Caven
+|Built into natural caverns/lava tubes or in escavated tunnels. 
 
 === Tech-level
 
