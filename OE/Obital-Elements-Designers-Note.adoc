@@ -47,33 +47,42 @@ Date that the settlement was established. This is usually a ceremonial date that
 
 A description of the type of structure. 
 
-==== Modular Orbital
+[cols="10%,20%,70%"]
+|===
+|Settlement Type Number |Settlement Type Name |Settlement Type Description
 
-Built from interconnected pods. This is the old-school type of space station, although the 23rd century equivalent is significantly better than the International Space Station. 
+|1 
+|Modular Orbital
+|Built from interconnected pods. This is the old-school type of space station, although the 23rd century equivalent is significantly better than the International Space Station. 
 
-==== Annular (spinning-ring)
+|2
+|Annular (spinning-ring)
+|A rotating ring, usually held together with cable or structural spokes. At the hub is a counter spinner and a non-spinning axis, usually used for docking.
 
-A rotating ring, usually held together with cable or structural spokes. At the hub is a counter spinner and a non-spinning axis, usually used for docking.
+|3
+|Bernals
+|A spherical habitat based on the design by John Desmond Bernal, in 1929. Bernal's original design was a hollow non-rotating spherical shell 16 km in diameter, with a target population of 20,000 to 30,000 people. Actual Bernals ended up smaller and rotate to simulate gravity. Most are built along a non-rotating axial structure that houses docking facilities, solar collectors and radiators.
 
-==== Bernals
+|4
+|O'Neill / Island-3s
+|Large cylinders that follow the general arrangement designed by space engineer, Gerard Kitchen O'Neill. 
 
-Spherical structures
+|5
+|Asteroid-static
+|A settlement based on or inside  an asteroid. 
 
-==== O'Neill / Island-3s
+|6
+|Asteroid-spun
+|A settlement based inside a nickel-iron asteroid that has been set spinning, so as to simulate gravity for the occupants inside. Most of this type have an axial structure that  counter spins to allow simpler docking.
 
-Large cylinders that follow the general arrangement designed by space engineer, Gerard Kitchen O'Neill. 
+|7
+|Airships
+|Lighter-than-air structures are present in skies of Venus. When completed, Pegasus will be the first colony-sized floating settlement.
 
-==== Asteroid-static 
+|===
 
-A settlement based on or inside  an asteroid. 
 
-==== Asteroid-spun
 
-A settlement based inside a nickel-iron asteroid that has been set spinning, so as to simulate gravity for the occupants inside. Most of this type have an axial structure that  counter spins to allow simpler docking.
-
-==== Airships
-
-Lighter-than-air structures are present in skies of Venus. When completed, Pegasus will be the first colony-sized floating settlement.
 
 === Tech-level
 
