@@ -34,10 +34,30 @@ Nobody is completely sure what the AI's agenda really is. They are mysterious.
 
 The Gardener. A godlike AI that exists to promote the diverse forms of life in the galaxy. However, any space-faring race that looks set to spread its seeds to other stars is seens as a dangerous contamination threat that will damage bio-diverisity. The gardener takes steps to ensure that such life forms are stopped. It seems that the majority of intersteller lifeforms ascend to inner realms, after becoming digital constructs.
 
+== Settlement
 
-== Settlement types
+The settlements listed in the Gazetter each have a profile that includes elements that are defined below.
 
-The type describes the form of the settlement. In the hundreds of years of human space colonisation, there have been many different types of settlement. New large settlements built in the 2280s are almost exclusively Asteroid-spun because they are faster and easier to build and come with lots of advantages, such as being naturally resistant to micrometeors or solar storms.
+
+== Settlement Function
+
+The Function describes the ultimate purpose for which the settlement was constructed. 
+
+[cols="10%,20%,70%"]
+|===
+|Settlement Function Number |Settlement Function Name |Settlement Function Description
+
+|1 
+|Scientific Outpost
+|Constructed to house monitoring equipment, or labs or other science related facilities. In most cases habitation is also required to match the staffing requirements for the facility. Some permanent outpost will include the families of the staff, including support personnel to run schools, stores, entertainment. On smaller outposts, staff tend to work a tour of several months, then return home. The smallet outpost may only be staffed for brief periods, or not at all if fully automated, although maintanence and inspection teams my visit as required.
+|===
+
+|2
+|Construction Facility
+|These settlements house engineers, drone pilots and support staff while a settlement is constructed. Most construction facilties are mobile. They are space vehicles in their own right, or more commonly, they are towed into place by a large transporter. Construction facilitied vary greatly, depending on what is being constructed and where. Compared with science outposts, tours tend to be shorter, so the amenities tend to be more limited.
+|===
+
+
 
 === Founded 
 
@@ -45,7 +65,7 @@ Date that the settlement was established. This is usually a ceremonial date that
 
 === Type (Space/Airborne)
 
-A description of the type of space or airborne habitats.
+A description of the type of space or airborne habitats. In the hundreds of years of human space colonisation, there have been many different types of settlement. New large settlements built in the 2280s are almost exclusively Asteroid-spun because they are faster and easier to build and come with lots of advantages, such as being naturally resistant to micrometeors or solar storms.
 
 [cols="10%,20%,70%"]
 |===
