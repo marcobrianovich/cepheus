@@ -79,6 +79,14 @@ A description of the type of space or airborne habitats.
 |Airships
 |Lighter-than-air structures are present in skies of Venus. When completed, Pegasus will be the first colony-sized floating settlement.
 
+|8
+|Ocean surface
+|A settlement that floats on the ocean surface.
+
+|9
+|Submarine
+|A settlement that is situated under the sea. The Japanese archology on Earth is the largest undersea habitat, although there are medium sized stations in the oceans of Europa, as well.
+
 |===
 
 === Type (Surface/Sub-surface)
