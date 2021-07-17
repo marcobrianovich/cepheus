@@ -149,14 +149,14 @@ A description of the type of surface, underground or sea-based habitats.
 |===
 |Settlement Type Number |Settlement Type Name |Settlement Type Description
 
-|8 
+|A
 |Modular Surface
 |Built from interconnected pods. This is the same general form as the space station variant. Mostly used for temporarly outposts.
 
-|9 
+|B
 |Burried Modules
 |Built from interconnected pods but then barried under local dirt to provide protection and radiation shielding.                                                                                       
-|10
+|C
 |Caven
 |Built into natural caverns/lava tubes or in escavated tunnels. 
 |===
