@@ -71,7 +71,9 @@ A settlement based on or inside  an asteroid.
 
 A settlement based inside a nickel-iron asteroid that has been set spinning, so as to simulate gravity for the occupants inside. Most of this type have an axial structure that  counter spins to allow simpler docking.
 
-==== 
+==== Airships
+
+Lighter-than-air structures are present in skies of Venus. When completed, Pegasus will be the first colony-sized floating settlement.
 
 
 
@@ -113,9 +115,17 @@ The perminent population.
 
 ==== Retro-culturist
 
+A society that rejects technological and social progress from a particular point, or like Amish communities, avoid the use of or ownership of technologies that are felt likely to disrupt the "good life". Retro-culturist is a broad term that can apply in seemingly contradictory ways. For example, 23rd century Amish communities attempt to continue to live simple lives, without using any advanced technologies. They embrace AI and advanced automation because these techologies are out of sight and allow them to work the wheat fields on space stations without having to worry about expertise in nuclear physics, maintaining life-support systems, and countless other modern fields. Conversely, there are many retro-culturist communities that embrance all advanced technologies, except for AI and advanced automation. The principle of retro-culturism is the believe that progress for its own sake is wrong.
+
+
+
 ==== Interfaither
 
+A collective group of Earth's Abrahamic religions. Interfaithers have a retro-culturist element but are by-and-large centrist-leaning. There are many off-shoot cults and religious communities that strongly embrance retro-culturism,  and a few that go the other way, seeing the Advancer movement as taking humanity closer to their god.
+
 ==== Centrist
+
+The most common social type on Earth, Centrism  is the belief that societies should moderate what is acceptable for the greater good of society. So Centrism is only multiculturalist so long as beliefs or practices impacts the perceived greater good.
 
 ==== Advancer (stage-1)
 
