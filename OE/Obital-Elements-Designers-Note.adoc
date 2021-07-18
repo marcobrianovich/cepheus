@@ -95,6 +95,10 @@ The Function describes the ultimate purpose for which the settlement was constru
 
 Date that the settlement was established. This is usually a ceremonial date that is chosen, some time after the colony is declared open for occupancy. Most large stations observe the Founding Date as a holiday and hold festivals.
 
+=== Alignment
+
+Describes the settlement's relationship with the outside worlds. S
+
 === Type (Space/Airborne)
 
 A description of the type of space or airborne habitats. In the hundreds of years of human space colonisation, there have been many different types of settlement. New large settlements built in the 2280s are almost exclusively Asteroid-spun because they are faster and easier to build and come with lots of advantages, such as being naturally resistant to micrometeors or solar storms.
@@ -278,32 +282,35 @@ The perminent population.
 
 === Social Type
 
-==== Retro-culturist
+[cols="10%,20%,70%"]
+|===
 
-A society that rejects technological and social progress from a particular point, or like Amish communities, avoid the use of or ownership of technologies that are felt likely to disrupt the "good life". Retro-culturist is a broad term that can apply in seemingly contradictory ways. For example, 23rd century Amish communities attempt to continue to live simple lives, without using any advanced technologies. They embrace AI and advanced automation because these techologies are out of sight and allow them to work the wheat fields on space stations without having to worry about expertise in nuclear physics, maintaining life-support systems, and countless other modern fields. Conversely, there are many retro-culturist communities that embrance all advanced technologies, except for AI and advanced automation. The principle of retro-culturism is the believe that progress for its own sake is wrong.
+|1
+|Retro-culturist 
+|A society that rejects technological and social progress from a particular point, or like Amish communities, avoid the use of or ownership of technologies that are felt likely to disrupt the "good life". Retro-culturist is a broad term that can apply in seemingly contradictory ways. For example, 23rd century Amish communities attempt to continue to live simple lives, without using any advanced technologies. However, they embrace AI and advanced automation because these techologies are out of sight and allow them to work the wheat fields on space stations without having to worry about expertise in nuclear physics, maintaining life-support systems, and countless other modern fields. Conversely, there are many retro-culturist communities that embrance all advanced technologies, except for AI and advanced automation. The principle of retro-culturism is the believe that progress for its own sake is wrong.
 
+|2
+|Interfaithers
+|A collective group of Earth's Abrahamic religions. Interfaithers have a retro-culturist element but are by-and-large centrist-leaning. Interfaithers are considered separate from Retro-culturists because the movement is split into different camps that have different attitudes to There are many off-shoot cults and religious communities that strongly embrance retro-culturism,  and a few that go the other way, seeing the Advancer movement as taking humanity closer to their god. 
 
+|3
+|Centrist
+|The most common social type on Earth, Centrism  is the belief that societies should moderate what is acceptable for the greater good of society. So Centrism is only multiculturalist so long as beliefs or practices do not negatively impact the wider community or threaten the greater good.
 
-==== Interfaither
+|4
+|Advancer stage 1 (transhumanist)
+|Stage-1 Advancers are open to the idea of human modification and improvement through high technology. The dominant philosphical battle of the old world was economic, right vs. left. In 2288 this battle is almost forgotten, now the tension lies between those who reject, and those who embrace technological and social changes that dramatically alter what it means to be human. 
 
-A collective group of Earth's Abrahamic religions. Interfaithers have a retro-culturist element but are by-and-large centrist-leaning. There are many off-shoot cults and religious communities that strongly embrance retro-culturism,  and a few that go the other way, seeing the Advancer movement as taking humanity closer to their god.
+|5
+|Advancer stage 2 (posthumanists)
+|Stage-2 Advancers embrace the idea of "Upload", whereby they move their consciousness into a Digital settlement. This idea if far from mainstream and the tensions between retro-culturism and Advancerism remain palpable. The Advancer movement is split into two because there is a real split between those who support genetic modification and technological augmentation and those who want to leave all flesh behind. 
 
-==== Centrist
+|6
+|None
+|Either there isn't a dominent social type, or there's an agreed policy that social attitudes are personal. Centrist settlements incoporates all social types into their mix but then polices social interaction. By contrast, a "none" indicates that there is a free-for-all on social types, do different groups may assert their collective social norms. In most cases, a none indicates that inhabitants keep their attitudes to themselves.
 
-The most common social type on Earth, Centrism  is the belief that societies should moderate what is acceptable for the greater good of society. So Centrism is only multiculturalist so long as beliefs or practices impacts the perceived greater good.
+|===
 
-==== Advancer (stage-1)
-
-Stage-1 Advancers are open to the idea of human modification and improvement through high technology. 
-
-
-==== Advancer (stage-2)
-
-Stage-2 Advancers embrace the idea of "Upload", whereby they move their consciousness into a Digital settlement.
-
-==== None
-
-Either there isnt a dominent social type, or there's an agreed policy that social attitudes are personal. While a  Centrist settlement incoporates all social types into their mix, a "none" indicates that the inhabitants keep their opinions about how people should live to themselves.
 
 
 * 
