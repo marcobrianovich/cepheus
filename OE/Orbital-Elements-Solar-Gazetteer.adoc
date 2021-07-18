@@ -40,13 +40,13 @@ NOTE: There's now an inflatable heat blanket that can be deployed across the hul
 |*Alignment:
 | International. The outpost provides a vital service for everyone in the solar system. As such, the station is managed by a board of directors made up of senior academics and AIs from all of Earth's biggest universities.
 
-|*Type:
+|*Type:*
 |Asteroid-spun
 
-|*Tech-level:
+|*Tech-level:*
 |Old-standard
 
-|*Class:
+|*Class:*
 |Cozy
 
 |*Population:* 
