@@ -171,52 +171,103 @@ By 2288 there's been over 200 years of station building. Some of the old station
 
 |1 
 |Archaic
-|Anything that pre-dates 2100A.D. 
+|Anything that pre-dates 2100A.D. Facilities built at tech level 1 look and function much like our contemporary space stations. In 2288, these are seriously old. In general, such settlements are essembled out of lots and lots of parts, using fixings and welding to hold it all together.
 
 |2 
 |Old-standard
-|Anything that pre-dates 2100A.D. 
+|Anything that pre-dates 2200A.D. Tech Level 2 accounts for the majority of human settlements. The biggest difference between TL1 and TL2 is the shift to Automated Manufacturing Plants (AMPs) for almost all parts of a settlement's construction. Instead of fabricating lots and lots of little pieces that are then assembled, TL2 introduces Integrated Component Printing, where the whole or most of a manufactured artifact is 3D printed into a single or greatly reduced number of components. 
 
 |3 
 |Cutting-edge
-|Anything that pre-dates 2100A.D. 
+|The Tech Level of settlements that were built in the last decade. AMPs can now manufacture to the nano-scale using increasingly advanced composite materials. Many recent advances came from reverse engineering artifacts that were originally created by Athena.
 
 |4
 | Advancer/Athenian nations
-|This technology level is the highest available to humanity in 2288. The advancers push the boundries of science and technology very hard, it's their shtick, after all. It's thought by some that another technology milestone is coming soon, at which point the Advancer nations will have a insummountable technological advantage over other human nations.
+|This technology level is the highest available to humanity in 2288. The advancers push the boundries of science and technology very hard, it's their shtick, after all. It's thought by some that another technology milestone is coming soon, at which point the Advancer nations will have a insummountable technological advantage over other human nations. In truth, Advancer technology is only slightly ahead of cutting-edge. TL4 is an incremental improvement over TL3. For the really astounding tech you need to see TL5.
 
 |5
 |Athena/Unbound
-|This technology level is not generally available, even to Athenians. Only Athena developed this level of technology and she only shared it with other unbound AIs, such as Anubis. There is a scramble for the recovery of Artifacts and knowledge from Athena's few surviving stations.
+|This technology level is not generally available, even to Athenians. Only Athena developed this level of technology and she only shared it with other unbound AIs, such as Anubis. There is a scramble for the recovery of Artifacts and knowledge from Athena's few surviving stations. So called "Athena-tech" is pot of gold that drives most of the systems scavengers.
 |===
 
 === Class
 
+
+
 This is a measure of a settlement's quality, in terms of sustainability. You can have an expensive and well designed Class-E settlement, but gold-plating doesn't make a settlement sustainable or scalable.  
 
-==== Class A (Exceptional)
+[cols="10%,20%,70%"]
+|===
+|Class Code |Class Label |Class Description
 
-Exceptional settlement status. Everything is cutting edge. There are backup systems, but nearly everything runs on a completely self-supporting basis. Air is generated and recycled using biotech systems that form part of an artificial biosphere. There is full automation, but then most things don't require testing or fixing. The settlement is equipped with its own AMPs, providing the necessary raw materials are provided, anything can be built.
+|A
+|Abject
+|You're living in a steel can. You have light, heat, air and water, but there is no redundancy. Lose a vital utility and it'll be all spanners and space suits for you. This is colonisation on a shoestring, or a temporary outpost. Class-E outposts are not sustainable. Sooner or later something breaks. Keep the certification on your space suit up-to-date. At most, there are very limited means of production. Food and parts are mostly shipped-in from outside.
 
-==== Class B (Great)
+|B
+|Basic
+|The steel can that you are living in has been upgraded. It's bigger, with Better shielding and muliple redundant systems so that a life support failure isn't an emergency, providing the backup doesn't then fail. New and or not well funded settlements tend to be Class-D. Temporary outposts that have good funding can be Class-D. There are workshops and greenhouses/food vats, but not really to the point of being completly self-sustaining. 
 
-Living is great. Imagine if Class C was just bigger and better with a high degree of automation on keeping things running. Some systems are self-sustaining systems in their own right. Mature and prosperous settlements are mostly Class-B. The base is completely self-sufficient - although it may not be building best-in-class 
+|C
+|Cozy
+|Living is good! Class C habitants have everything needed for permanent habitation. If all regulations are followed, then you have almost nothing to worry about. Every system has multiple redundancies, everything undergoes regular inspection, and preventative maintanence. Small but growing settlements are typically Class-C. There is enough production capacity to be self-reliant on food and basic equipment.
 
-==== Class C (Good)
+|D
+|Durable
+|Living is great. Imagine if Class C was just bigger and better with a high degree of automation on keeping things running. Some systems are self-sustaining systems in their own right. Mature and prosperous settlements are mostly Class-B. The base is completely self-sufficient - although it may not be building best-in-class 
 
-Living is good! Class C habitants have everything needed for permanent habitation. If all regulations are followed, then you have almost nothing to worry about. Every system has multiple redundancies, everything undergoes regular inspection, and preventative maintanence. Small but growing settlements are typically Class-C. There is enough production capacity to be self-reliant on food and basic equipment. 
+|E
+|Exceptional
+|Exceptional settlement status. Everything is cutting edge. There are backup systems, but nearly everything runs on a completely self-supporting basis. Air is generated and recycled using biotech systems that form part of an artificial biosphere. There is full automation, but then most things don't require testing or fixing. The settlement is equipped with its own AMPs, providing the necessary raw materials are provided, anything can be built.
 
-==== Class D (Adequate)
-
-The steel can that you are living in has been upgraded. It's bigger, with Better shielding and muliple redundant systems so that a life support failure isn't an emergency, providing the backup doesn't then fail. New and or not well funded settlements tend to be Class-D. Temporary outposts that have good funding can be Class-D. There are workshops and greenhouses/food vats, but not really to the point of being completly self-sustaining. 
-
-==== Class E (Poor)
-
-You're living in a steel can. You have light, heat, air and water, but there is no redundancy. Lose a vital utility and it'll be all spanners and space suits for you. This is colonisation on a shoestring, or a temporary outpost. Class-E outposts are not sustainable. Sooner or later something breaks. Keep the certification on your space suit up-to-date. At most, there are very limited means of production. Food and parts are mostly shipped-in from outside.
 
 === Population
 
 The perminent population.
+
+[cols="10%,20%,70%"]
+|===
+|Population Code |Population Label |Population Description
+
+|1
+|Hermitage
+|A single individual
+
+|2
+|Family/Small Group
+|2-10 individuals
+
+|3
+|Hamlet
+|11-100 inhabitants
+
+|4
+|Village
+|101-999
+
+|5
+|Town
+|1000-10,000
+
+|6
+|Small City
+|10,001-99,000
+
+|7
+|Medium City
+|100,000 - 1,000,000
+
+|8 
+|Large city
+|1 - 100 Million
+
+|9
+|Mega city
+|100-500 million
+
+|10
+|Archology
+|500-1 billion+
 
 === Government Type
 
