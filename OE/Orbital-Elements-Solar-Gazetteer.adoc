@@ -38,7 +38,10 @@ NOTE: There's now an inflatable heat blanket that can be deployed across the hul
 |3rd July 2255
 
 |*Alignment:*
-| International. The outpost provides a vital service for everyone in the solar system. As such, the station is managed by a board of directors made up of senior academics and AIs from all of Earth's biggest universities.
+|International. The outpost provides a vital service for everyone in the solar system. As such, the station is managed by a board of directors made up of senior academics and AIs from all of Earth's biggest universities.
+
+|*Ethnicity:*
+|Mixed. *Languages:* English, French, Russian, Arabic, Chinese
 
 |*Type:*
 |Asteroid-spun
