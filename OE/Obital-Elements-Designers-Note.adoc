@@ -163,7 +163,7 @@ A description of the type of surface, underground or sea-based habitats.
 
 === Tech-level
 
-By 2288 there's been over 200 years of station building. Some of the old stations are still around, mixing with brand new stations, as well as stations built by Athena which are more built with technologies that are still not available to human nations. The following tech-levels indicate the technological sophistication of a station.
+By 2288 there's been over 200 years of station building. Some of the old stations are still around, mixing with brand new stations, as well as Athena's station where built with technologies that are still not available to human nations. The following tech-levels indicate the technological sophistication of a settlement.
 
 [cols="10%,20%,70%"]
 |===
@@ -219,7 +219,7 @@ This is a measure of a settlement's quality, in terms of sustainability. You can
 |E
 |Exceptional
 |Exceptional settlement status. Everything is cutting edge. There are backup systems, but nearly everything runs on a completely self-supporting basis. Air is generated and recycled using biotech systems that form part of an artificial biosphere. There is full automation, but then most things don't require testing or fixing. The settlement is equipped with its own AMPs, providing the necessary raw materials are provided, anything can be built.
-
+|===
 
 === Population
 
