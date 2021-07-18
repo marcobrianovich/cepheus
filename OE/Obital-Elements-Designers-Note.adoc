@@ -97,7 +97,8 @@ Date that the settlement was established. This is usually a ceremonial date that
 
 === Alignment
 
-Describes the settlement's relationship with the outside worlds. S
+Describes the settlement's relationship with the outside worlds. Many settlements are colonies that draw their populations from a parent-nation. Fledging colonies tend to be tightly bound to their nation of origin but over time tend to develop their own voice and seek greater independence. The Alignment can also indicate membership of a international organisation or that they are a signatory of a treaty that holds them to a set of laws.
+
 
 === Type (Space/Airborne)
 
@@ -276,6 +277,75 @@ The perminent population.
 
 === Government Type
 
+[cols="10%,20%,70%"]
+|===
+|Government Type Number |Government Type Label |Government Type Description
+
+|1
+|Anarchic
+|No formal leadership. The settlement may be organised using a tribal, clan or family power structure.
+
+|2
+|Company/Corporation
+|Government through an organisation or comporate body. A board of directors and or shareholders are in control. In some cases, all working settlers may be shareholders, or they may have no say in the running of the settlement, which is handled elsewhere. 
+
+|3
+|Participating Democracy
+|Citizens vote for the leadership in elections. Other types of governments may have systems for widespread voting, but the right to vote is very restricted. By contrast, a participating democracy must minimise restrictions to voting.
+
+|4
+|Self-perpetuating Oligarchy
+|
+
+|5
+|Representative Democracy
+|
+
+|6
+|Feudal Technocracy
+|
+
+|7
+|Captive Government/Colony
+|
+
+|1
+|Balkanization
+|
+
+|8
+|Civil Service Bureaucracy
+|
+
+|9
+|Impersonal Bureaucracy
+|
+
+|10
+|Charismatic Dictator
+|
+
+|11
+|Non-Charismatic Leader
+|
+
+|12
+|Charismatic Oligarchy
+|
+
+|13
+|Religious Dictatorship
+|
+
+|14
+|Religious Autocracy
+|
+
+|15
+|Totalitarian Oligarchy
+|
+
+
 === Law Level
 
 ===  Attitude
@@ -284,6 +354,7 @@ The perminent population.
 
 [cols="10%,20%,70%"]
 |===
+|Social Type code |Social Type Label |Social Type Description
 
 |1
 |Retro-culturist 
