@@ -291,7 +291,7 @@ The perminent population.
 
 |3
 |Participating Democracy
-|Citizens vote for the leadership in elections. Other types of governments may have systems for widespread voting, but the right to vote is very restricted. By contrast, a participating democracy must minimise restrictions to voting.
+|Citizens vote directly on all matter. Other types of governments may have systems for widespread voting, but the right to vote is very restricted. By contrast, a participating democracy must minimise restrictions to voting.
 
 |4
 |Self-perpetuating Oligarchy
@@ -299,7 +299,7 @@ The perminent population.
 
 |5
 |Representative Democracy
-|
+|Citizens vote for leaders, who then represent the citizens. Other types of governments may have systems for widespread voting, but the right to vote is very restricted. By contrast, a participating democracy must minimise restrictions to voting.
 
 |6
 |Feudal Technocracy
