@@ -350,6 +350,37 @@ The perminent population.
 
 ===  Attitude
 
+The Attitude of the settlement to outsiders.
+
+[cols="10%,20%,70%"]
+|===
+|Attitude code |Attitude Label |Attitude Description
+
+|1
+|Open
+|Open settlements have absolutely no restriction on visitors
+
+|2
+|Open with registration
+|Open but require visitors to identify themselves and register on arrival. The process is used to manage visitor numbers and track when vistors leave.
+
+|3
+|Open with visa
+|Open but requires visitors to obtain a visa before arrival. Visas limit what a visitor can do at the settlement and how long they may stay. Some settlements will allow visas to be obtained on arrival, although in this case the visitor may be confined to a port area until issued.
+
+|4
+|Restricted 
+|Settlements or facilities that are private holdings are restricted. Access to outsiders can only be granted to the owners or managers of the facility. Being found in a settlement without permission will normally result in immediate ejection. If the facility falls inside a legal juristiction then police may be informed and the visitor may face prosecution for trespass.
+
+|5
+|Closed
+|A closed settlement is strictly not open to visitors, such as reseach labs or a corporate retreats. There may security that ensures that visitors don't crash the site, but the site not particularly structured for security.
+
+|6
+|High-Security
+|The settlement or facility is completely restrictued and visitors attempting to enter without permission will be immediately arrested. This is the standard arrangement for military bases, prisons and secret badguy bases.
+|===
+
 === Social Type
 
 [cols="10%,20%,70%"]
