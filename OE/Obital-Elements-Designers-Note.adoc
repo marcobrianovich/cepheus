@@ -344,7 +344,7 @@ The perminent population.
 |15
 |Totalitarian Oligarchy
 |
-
+|===
 
 === Law Level
 
