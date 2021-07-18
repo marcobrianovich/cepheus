@@ -22,9 +22,48 @@ The following guide covers all the planets and major masses in the solar system,
 |*Distance from Sun:* 0.2 
 |=======================
 
-There are no settlements inside the orbit of Mercury. There is a large reseach and monitoring facility built inside Icurus, a small captured asteroid that was manoeuvred into its close solar orbit to provide a shielded location for a monitoring station. Icurus rotates to simulate gravity and to ensure that the intense heat felt at that location is applied evenly across its surface. The station's habitats are burried deep to provide adequate heat and radiation shielding. The station manages an array of solar monitoring satellites that ring the Sun and perform deep scans, to provide reliable predictions of storms. Satellite maintainence, monitoring and solar reseach keep about 100 staff occupied, with most staff working three-month assignment before returning various Earth universities. Icurus station is an isolated place to work, only very specialised, heavily shielded vehicles can reach it and they follow a three trips per-year schedule.
+There are no settlements inside the orbit of Mercury. There is a large reseach and monitoring facility built inside Icurus, a small captured asteroid that was manoeuvred into its close solar orbit to provide a shielded location for a monitoring station. Icurus rotates to simulate gravity and to ensure that the intense heat felt at that location is applied evenly across its surface. The station's habitats are burried deep to provide adequate heat and radiation shielding. The station manages an array of solar monitoring satellites that ring the Sun and perform deep scans, to provide reliable predictions of storms. Satellite maintainence, monitoring and solar reseach keep about 100 staff occupied, with most staff working three-month assignment before returning various Earth universities. Icurus station is an isolated place to work, only very specialised, heavily shielded vehicles can reach it and they follow a four trips per-year schedule.
 
 NOTE: There's now an inflatable heat blanket that can be deployed across the hull of suitable space vehicles, allowing them to travel closer to the Sun. The heat shield is intended for short emergency transit as more than a few days of heavy neutron exposure is dangerous. 
+
+
+[cols="10%,90%"]
+|===
+2+|Settlement profile: Icurus Station
+
+|*Function:*
+|Science Outpost
+
+|*Founded:
+|3rd July 2255
+
+|*Alignment:
+| International. The outpost provides a vital service for everyone in the solar system. As such, the station is managed by a board of directors made up of senior academics and AIs from all of Earth's biggest universities.
+
+|*Type:
+|Asteroid-spun
+
+|*Tech-level:
+|Old-standard
+
+|*Class:
+|Cozy
+
+|*Population:* 
+|20 + 80 guest reseachers/engineers on 3-month tours.
+
+|*Government Type*
+|Civil Service Bureaucracy
+
+|*Law Level*
+|Very strict
+
+|*Attitude:*
+|Closed
+
+|*Social Type*
+|Centrist
+|===
 
 === Mercury
 
