@@ -207,11 +207,11 @@ This is a measure of a settlement's quality, in terms of sustainability. You can
 
 |A
 |Abject
-|You're living in a steel can. You have light, heat, air and water, but there is no redundancy. Lose a vital utility and it'll be all spanners and space suits for you. This is colonisation on a shoestring, or a temporary outpost. Class-E outposts are not sustainable. Sooner or later something breaks. Keep the certification on your space suit up-to-date. At most, there are very limited means of production. Food and parts are mostly shipped-in from outside.
+|You're living in a steel can. You have light, heat, air and water, but there is no redundancy. Lose a vital utility and it'll be all spanners and space suits for you. This is colonisation on a shoestring, or a temporary outpost. Class-A outposts are not sustainable. Sooner or later something breaks. Keep the certification on your space suit up-to-date. At most, there are very limited means of production. Food and parts are mostly shipped-in from outside.
 
 |B
 |Basic
-|The steel can that you are living in has been upgraded. It's bigger, with Better shielding and muliple redundant systems so that a life support failure isn't an emergency, providing the backup doesn't then fail. New and or not well funded settlements tend to be Class-D. Temporary outposts that have good funding can be Class-D. There are workshops and greenhouses/food vats, but not really to the point of being completly self-sustaining. 
+|The steel can that you are living in has been upgraded. It's bigger, with Better shielding and muliple redundant systems so that a life support failure isn't an emergency, providing the backup doesn't then fail. New and or not well funded settlements tend to be Class-B. Temporary outposts that have good funding can be Class-C. There are workshops and greenhouses/food vats, but not really to the point of being completly self-sustaining. 
 
 |C
 |Cozy
@@ -219,7 +219,7 @@ This is a measure of a settlement's quality, in terms of sustainability. You can
 
 |D
 |Durable
-|Living is great. Imagine if Class C was just bigger and better with a high degree of automation on keeping things running. Some systems are self-sustaining systems in their own right. Mature and prosperous settlements are mostly Class-B. The base is completely self-sufficient - although it may not be building best-in-class 
+|Living is great. Imagine if Class-C was just bigger and better with a high degree of automation on keeping things running. Some systems are self-sustaining systems in their own right. Mature and prosperous settlements are mostly Class-D. The base is completely self-sufficient - although it may not be building best-in-class. 
 
 |E
 |Exceptional
