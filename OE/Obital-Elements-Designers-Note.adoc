@@ -99,6 +99,9 @@ Date that the settlement was established. This is usually a ceremonial date that
 
 Describes the settlement's relationship with the outside worlds. Many settlements are colonies that draw their populations from a parent-nation. Fledging colonies tend to be tightly bound to their nation of origin but over time tend to develop their own voice and seek greater independence. The Alignment can also indicate membership of a international organisation or that they are a signatory of a treaty that holds them to a set of laws.
 
+=== Ethnicity
+
+Indicates the racial or ethnic makeup of the settlement. Large settlements, founded to relieve population pressures in Earth's archologies are predominantly made up of the originating nation's races and ethnic groups. Also indicates the most popular languages on the station.
 
 === Type (Space/Airborne)
 
@@ -287,15 +290,15 @@ The perminent population.
 
 |2
 |Company/Corporation
-|Government through an organisation or comporate body. A board of directors and or shareholders are in control. In some cases, all working settlers may be shareholders, or they may have no say in the running of the settlement, which is handled elsewhere. 
+|Government through an organisation or comporate body. A board of directors and or shareholders are in control. In some settlements, all workers may be shareholders. Elsewhere, the corporation rules from a far-away head office and the settlers have no representation. 
 
 |3
 |Participating Democracy
-|Citizens vote directly on all matter. Other types of governments may have systems for widespread voting, but the right to vote is very restricted. By contrast, a participating democracy must minimise restrictions to voting.
+|Citizens vote directly on all matter. In some settlements, citizens are bombared with online questionaires that are used to drive government policy. Elsewhere, citizens attend townhall meetings where policy is agreed through debates and voting.
 
 |4
 |Self-perpetuating Oligarchy
-|
+|Government by a small elite. There is no formal mechanism for answering to the will of the people.
 
 |5
 |Representative Democracy
@@ -303,50 +306,85 @@ The perminent population.
 
 |6
 |Feudal Technocracy
-|
+|Rule by a small group of individuals who hold power by virtue of technical or professional qualification. Power is slit between a number of agencies that then hold power over subordinate agencies. Feudal societies are personality-lead and decision making doesn't come from comittees it comes from designated leaders.
 
 |7
-|Captive Government/Colony
-|
+|Colony/occupational government
+|Government from an external body, such as the government of a home nation of the colony, or sometimes as a result of a military take-over.
 
 |1
 |Balkanization
-|
+|Settlements where there is no central rule. This could mean that various groups fight for control or that the settlement is split into sectors, each with its own rule.
 
 |8
 |Civil Service Bureaucracy
-|
+|Rule is handled by a wing of the civil service, which treats decision making as just another government task.
 
 |9
 |Impersonal Bureaucracy
-|
+|Government by an agency that operates in isolation from the governed. The system ensures that the government is imunised against corruption because they operate in isolation from the populace.
 
 |10
 |Charismatic Dictator
-|
+|Government by a single leader who enjoys the widespread approval of the settlement's population.
 
 |11
 |Non-Charismatic Leader
-|
+|Governed by the person who took over from the charismatic dictor. Looking at you, North Korea.
 
 |12
 |Charismatic Oligarchy
-|
+|Government by a small group that enjoys overwhelming approval from the settlement's population. 
 
 |13
 |Religious Dictatorship
-|
+|Government by agencies that are controlled by religious leaders. All areas of government therefore take on a religious overtone.
 
 |14
 |Religious Autocracy
-|
+|Government by a single religous leader, holding absolute power over the settlement.
 
 |15
 |Totalitarian Oligarchy
-|
+|Government by a dominant group of citizens who hold absolute power over the populace. 
+
 |===
 
 === Law Level
+
+[cols="10%,20%,70%"]
+|===
+|Law Level code |Law Level Label |Law Level Description Description
+
+|0
+|Now Law
+|No Prohibitions. Wild west after someone shoots the sherrif. 
+
+|1
+|Lax
+|Only the most severe breaches in conduct, such as murder, violent crime are prosecuted. No prohibitions against carrying weapons of any kind.
+
+|2
+|Relaxed
+|There is a fully operational criminal justice system, although it is quite rare for prosecutions to occur. Often those accused of a crime will ostracized by the community rather than face legal consequences for their actions.
+
+|3
+|Moderate
+|The legal system is well balanced, dealing with serious crimes harshly, while responding lightly to less serious transgressions. 
+
+|4
+|Restrictive
+|The legal system deals with all crimes harshly. 
+
+|5
+|Prohibitive
+|The legal system deals with all crimes harshly and defines crimes more broadly. Operating under a prohibitive legal system can be a minefield where seemingly minor transgressions can result in lengthy prison terms.
+
+|6
+|Extremist
+|A criminal justice system that made almost everything a crime and therefore provides little justice. Few places operate under such cruelty for long. Extremist law-levels are often a sign of a recent coup or attempted coup, or of a government that is using the law as a tool of oppression against the populous. 
+
+|===
 
 ===  Attitude
 
