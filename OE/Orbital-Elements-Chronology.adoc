@@ -14,13 +14,18 @@ A century of great transition. Automation and AI drive changes in working and ec
 *2041*  Progress in the development of general AI stalls. Specialised AI become ever more capable but sentience remains elusive. Technological singularity never quite happens. While advanced computer systems can iterate research and design very quickly, the requirements for fabrication and process design and the motivation to adopt slow down change enough so that people don't get lost or go crazy. 
 
 [quote, Dr Mavis Kripps, General AI Symposium 2042]
-While expert systems are getting better and better, it feels like the development of sentient machines is going backwards as we learn that the problem of self-awareness is more complicated than we ever thought. I predict that we will never create human-like intelligence so long ad we try to fashion them out of silicon.
+While expert systems are getting better and better, it feels like the development of sentient machines is going backwards as we learn that the problem of self-awareness is more complicated than we ever thought. I predict that we will never create human-like intelligence so long ad we try to fashion it out of silicon.
 
 '''
 
 *2042*  The first extra-terrestrial colony is founded on the Moon (Luna), while efforts to grow the Marsian colony stalled due to numerous technical and economic challenges. Luna grows fast, driven by the development of mining and resource extraction.
 
 *2050*  The impact of global warming accelerates faster than predicted, leading to a generation of economic collapse, countless low-level conflicts and seemingly endless destructive extreme weather events. The oceans rise much faster than forecast, forcing the relocation of peoples on an unimaginable scale. Some of the world's most important cities are de-populated in a couple of decades as sea level rises accelerate ahead of the predicted timeframe. Most of the world's important cities, Shanghai, New York, London, invest heavily in long term protection from flooding but many of these plans prove to be insufficient. 
+
+[quote, H.G. Wells]
+History is a race between education and catastrophe.
+
+'''
 
 *2051*  Phosphorous War. The global supply of phosphorous has dwindled creating pressure on global agriculuture. Morocco capitalises on its possession of 70% of the world's Phosphate rock, controlling supply to increase market price. The global powers, invade Morocco and force its government to place Phosphorus supply under the control over an international organisation. Morocco becomes increadibly wealthly, Rhabat and Morocco become global cities. The conflict is followed by a period of intensive development in new agricultural methods such as hydroponics, ocean farming and industrial food growth (vat farms). 
 
