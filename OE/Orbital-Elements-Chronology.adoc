@@ -13,8 +13,8 @@ A century of great transition. Automation and AI drive changes in working and ec
 
 *2041*  Progress in the development of general AI stalls. Specialised AI become ever more capable but sentience remains elusive. Technological singularity never quite happens. While advanced computer systems can iterate research and design very quickly, the requirements for fabrication and process design and the motivation to adopt slow down change enough so that people don't get lost or go crazy. 
 
-[quote, Dr Mavis Kripps, General AI Symposium 2042]
 > While expert systems are getting better and better, it feels like the development of sentient machines is going backwards as we learn that the problem of self-awareness is more complicated than we ever thought. I predict that we will never create human-like intelligence so long ad we try to fashion them out of silicon.
+* -Dr Mavis Kripps, General AI Symposium 2042*
 
 *2042*  The first extra-terrestrial colony is founded on the Moon (Luna), while efforts to grow the Marsian colony stalled due to numerous technical and economic challenges. Luna grows fast, driven by the development of mining and resource extraction.
 
