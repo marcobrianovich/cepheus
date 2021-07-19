@@ -5,13 +5,16 @@ The following chronology is a 300-year timeline of humanity's future history, fr
 
 === *21st Century - A century of Transition* 
 
-> A century of great transition. Automation and AI drive changes in working and econonic systems. The climate catastrophe is not stopped in time, resulting in turmoil and massive population movements. While there is never a true "world war", small conflicts over dwindling resources become more common. The century ends with the beginning of the second space age.
+A century of great transition. Automation and AI drive changes in working and econonic systems. The climate catastrophe is not stopped in time, resulting in turmoil and massive population movements. While there is never a true "world war", small conflicts over dwindling resources become more common. The century ends with the beginning of the second space age.
 
 *2030*  First Mars landing. There's already a perminent base on the Moon. More than a thousand wealthy individuals have visited space as tourists. In the following decade this number increases ten-fold as the costs of getting into low Earth orbit plummets.
 
 *2034*  Many small conflicts rage on the African continent, proxy wars for precious metals fought between the failing world powers. Fighting continues for decades, then spreads to other locations, such as antarctica.
 
 *2041*  Progress in the development of general AI stalls. Specialised AI become ever more capable but sentience remains elusive. Technological singularity never quite happens. While advanced computer systems can iterate research and design very quickly, the requirements for fabrication and process design and the motivation to adopt slow down change enough so that people don't get lost or go crazy. 
+
+[quote, Dr Mavis Kripps, General AI Symposium 2042]
+> While expert systems are getting better and better, it feels like the development of sentient machines is going backwards as we learn that the problem of self-awareness is more complicated than we ever thought. I predict that we will never create human-like intelligence so long ad we try to fashion them out of silicon.
 
 *2042*  The first extra-terrestrial colony is founded on the Moon (Luna), while efforts to grow the Marsian colony stalled due to numerous technical and economic challenges. Luna grows fast, driven by the development of mining and resource extraction.
 
