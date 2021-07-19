@@ -73,7 +73,9 @@ The century is defined by the massive push for space colonisation. Earth is incr
 *2107*  China wins the race to develop sentient AI. Their Luduan project solves the remaining challenges by incorporating "wetware" components that use modified braincells to grow an artificial cortex that wraps around a nano-scale processor. Luduan-2 incorporates structural changes to promote the development of a human-like mind. Within two years the research team is able to talk to Luduan-2 who exhibits childlike qualities. Many religious communities express hostility to the development.
 
 [quote, Dr Xia Huang, Beijing News Service Interview]
-We have come a long from from building calculators out of leech neurons and building fungal computers, but we must acknowledge that our achievement is but the latest step in a journey that began with such work. Luduan-2 is the answer to the question, "Is wetware computing the ideal path for replicating human-like thought?" Well Luduan-2 tells me, yes, it is.
+We have come a long from from building calculators out of leech neurons and building fungal computers, but we must acknowledge that our achievement is but the latest step in a journey that began with such work. Luduan-2 is the answer to the question, "Is wetware computing the ideal path for replicating human-like thought?" Well Luduan-2 tells me, yes, it thinks that it is.
+
+'''
 
 *2109*  The United States, India, Morocco and the European Federation each start programs to follow China's lead. Over the following decade there is a kind of arms race to gain dominence in the field of general AI. Individual AI gain the term "Manufactured Intellects"(MIs), most nations are developing small populations of manufactured intellects (M.I.s) in the hopes of training them up to become super intelligent. There is gradual development, but none of the MIs develop 
 
