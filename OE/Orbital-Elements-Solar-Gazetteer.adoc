@@ -189,7 +189,7 @@ image:https://db3pap001files.storage.live.com/y4mXKWsSvSC82ILeraxpa5VA29HZxhNc2c
 |*Escape velocity:* | 11.2km/s
 |*Atmospheric pressure:* |1
 |*Surface temperature:*| +15
-|*Surface radiation:*|1 SDU
+|*Surface radiation:*|1 SDU (1 microSevert per day)
 |*Solar Day:* 24 hours
 |*Year:* 365 days
 |*Distance from Sun:* 1
@@ -278,7 +278,7 @@ Outside of the protected borders of each colony, Luna is a no man's land of dese
 
 There are hundreds of smaller settlments dotted ado
 
-==== Orbitals
+==== Orbitals (Lagrange Points)
 
 The following colonies are massive structures, or captured asteroids built at the Lagrange to house colonists from Earth's archologies. Most are now over 100 years old.
 
@@ -287,6 +287,22 @@ The following colonies are massive structures, or captured asteroids built at th
 === Mars
 
 image:https://db3pap001files.storage.live.com/y4msK-xtuAOedDcgosE57w_YQ4tpe87VYrly4cSQsNnEC1lZuC55BKkiO1SLHsDYXps80Lkp1o_gSVlT20EbsyXSuLsvWimC9r1TV6dA5WUg0zf4JXW-mZVg8urVI5bJGNHcSpFIM24yyzzoCIs-Q9QaBB8ioPTTMVUkJKdFqbOKQOFVMQlgUczJfdW_342IOQz?width=1024&height=480&cropmode=none[image]
+
+
+|=======================
+2+| **Mars**      
+|*Diameter:*   |6,779km
+|*Mass:*      |0.1 Earths 
+|*Gravity:*    |0.3    
+|*Escape velocity:* | 5 km/s
+|*Atmospheric pressure:* |0.006
+|*Surface temperature:*| -143/+35
+|*Surface radiation:*|30 SDU
+|*Solar Day:* 24.5 hours
+|*Year:* 687 days
+|*Distance from Sun:* 1.66
+|=======================
+
 
 ==== Phoebos
 
