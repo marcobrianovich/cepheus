@@ -96,16 +96,13 @@ In 2288 there are just two medium-sized settlements on the planet, mostly suppor
 
 *Ground Settlements*
 
-==== Demmeuter
+==== Aljadid Toubkal
 
-*Alignment:* Controlled by German and Italian archologies. +
-*Population:* 75,000 +
-German-Italian colony, situated on the northern pole. The settlement is deep underground, occupying an artificial cavern. +
+Moroc
+
 
 ==== Hidayatullah
 
-*Population:* 50,000 +
-Indian settlement that oversees water and rare earth metal mining. The settlement stretches through an extensive tunnel system. While it has a smaller population than Demmeuter, it currently has about twice the available living space. There are plans to try to double the population in the next decade.
 
 ==== AMP DX229-71
 
@@ -175,6 +172,100 @@ An under-construction fully-fledged colony. The pegasus project is constructing 
 
 The Hadius base was built by a specially designed AMP which landed on the surface then quickly tunneled underground to avoid being melted. The AMP dug out a huge pressure-sealed actively cooled tunnel system. The original aim was to create a very large colony. However, getting on and off Venus is still difficult. The heat and pressure force surface operations to be very limited. Only specialised rocket systems can be used to land on Venus, and these rockets wear out quickly. As a result Hadius base never become a large-scale colony. 
 
+==== Demmeuter USP: AC
+
+
+Joint German-Italian colony, situated on the northern pole. The main settlement is housed in a manmade lake of specially engineered dielectric fluids. So most of the colony is suspended in liquid and engineered like a submarine. Demmeuter was designed and engineered by the Berlin Archology during the 2200 Expansion project. Initially a small 20-person habitat was constructed as part of a feasibility study. While the proof of concept worked, it was clear that such a difficult and technically complex colony would be far too expensive to scale up for millions of colonists, at least when compared with the orbitals. However, the government was willing to press ahead with a medium sized colony providing it could share the cost with another archology. Initially France was considering the partnership but the Lyon Archology's colonial administration got cold feet, so the a partnership was instead forged with the Turin-Milan Metroplex. Demmeuter has a successful manufacturing sector that specialises in building heat and pressure resistant appliances and robotics, developed as a necessity, living on Venus.
+
+[cols="10%,90%"]
+|===
+2+|Settlement profile: Demmeuter
+
+|*Function:*
+|Large colony
+
+|*Founded:*
+|1st November 2212
+
+|*Alignment:*
+|Joint German/Italian Colony
+
+|*Ethnicity:*
+|Mixed. *Languages:* German,Italian, French and English
+
+|*Type:*
+|Caven
+
+|*Tech-level:*
+|Old-standard
+
+|*Class:*
+|Durable. Even deep underground the temperature of the rock 
+
+|*Population:* 
+|75,000, 50,000 Germans, 24,000 Italian, 1000 French
+
+|*Government Type*
+|Colony/occupational government
+
+|*Law Level*
+| Restrictive (Prohibitive for laws concerning settlement safety)
+
+|*Attitude:*
+|Open with visa
+
+|*Social Type*
+|Centrist
+|===
+
+
+==== Mirabai
+
+*Population:* 50,000 +
+Mirabai is named after the 16th-century Hindu mystic poet and devotee of Krishna. Like Demmeuter, Mirabai is a colony, intended to provide living space for young residents of the Gujarati archology. The colony's design is radically different from that of Demmeuter and is intended to be far more viable for population expansion. Instead of submerging the habitat in coolant, Mirabai is constructed using huge vacuum flask-like structures that insulate its underground towers from the surounding heat. Internally, Mirabai is built to be as close to Gujarati Archology architecture as possible, which was part of the strategy for persuading people to relocate here.
+
+Since its initial settlement drive, growth of the colony has greatly slowed. 
+
+[cols="10%,90%"]
+|===
+2+|Settlement profile: Mirabai 
+
+|*Function:*
+|Large colony
+
+|*Founded:*
+|1st November 2270
+
+|*Alignment:*
+|Colony of the Gujarati Archology
+
+|*Ethnicity:*
+|Indian. Gujarati, Hindi, English
+
+|*Type:*
+|Caven
+
+|*Tech-level:*
+|Cutting-edge
+
+|*Class:*
+|Durable 
+
+|*Population:* 
+|40,000 Gujarati/10,000 Mixed
+
+|*Government Type*
+|Colony/occupational government
+
+|*Law Level*
+| Prohibitive
+
+|*Attitude:*
+|Open
+
+|*Social Type*
+|Centrist
+|===
 
 
 === Earth
