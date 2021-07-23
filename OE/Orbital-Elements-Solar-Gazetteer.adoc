@@ -304,9 +304,28 @@ image:https://db3pap001files.storage.live.com/y4msK-xtuAOedDcgosE57w_YQ4tpe87VYr
 |=======================
 
 
-==== Phoebos
+==== Phobos
 
 image:https://db3pap001files.storage.live.com/y4mt8-96g06h6RKW1xz25JN0cBdK2oT8s4pPdoLTl5KexY2-BeHtpAwxcoB3zNo3jNpIzYEX-ajNXE0TxPM8IpaCNOo_yr9zfSq9KU6wq37y4QpBibEh6-xAX3qzLG6KxTaiL5hyP-MU1ggAJ4Xd3nOrDhEQKjNJc6dAfmHb0bGVD9NYjs8DmA-W95axUF3PXo3?width=1024&height=480&cropmode=none[image]
+
+|=======================
+2+| **Phoebos**      
+|*Diameter:*   |11.19km
+|*Mass:*      |Negligable
+|*Gravity:*    | 0.5mm/second 
+|*Escape velocity:* | 41km/h
+|*Atmospheric pressure:* |0
+|*Surface temperature:*| -112/-4
+|*Surface radiation:*|30 SDU
+|*Day:* 24.5 hours
+|*Year:* 8 hours
+|*Distance from Sun:* 1.66
+|=======================
+
+Named after the son of the god, Ares (Called Mars, by the Romans), Phobos is the larger of the two martian moons and is believed to formed out of a debris ring that was created when a small planetoid smashed into Mars. In time, the ring coalesced into the bumpy ball of rock and ice that we see today. Initially ignored by the first generation of settlers, Phobos and its brother were settled after they were mined for water and volatiles. 
+
+
+
 
 ==== Deimos
 
