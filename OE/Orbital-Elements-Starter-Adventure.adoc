@@ -1,0 +1,3 @@
+== Starter Adventure
+
+The following mini-adventure is a great way to introduce new players to Orbital Elements. 
