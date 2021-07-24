@@ -98,7 +98,51 @@ In 2288 there are just two medium-sized settlements on the planet, mostly suppor
 
 ==== Aljadid Toubkal
 
-Moroc
+Moroccan colony constructed to accommodate the High Atlas Archology's expanding population. Aljadid (New) Toubkal is constructed under the mountain at the centre of the Kulthum crater. The colony's underground structure was built by digging out and extending an earlier mining facility that was established to dig out rare earth metals. Kulthum Crator, named after  Umm Kulthum, a 20th-century Egyptian singer, songwriter, and film actress, is the location of extensive industrial sites, many now mothballed since the closure of the mines. In 2250 the colony government fell to our military coup, after a period of rapid economic recession and hardship. The High Atlas government made several attempts at military intervention but each failed and resulted in the ruling clique of generals gaining more popularity. In 2280, power return to a civilian government, lead by Tarik Kharbouch, an effective technocrat who was groomed for power by the aging generals.
+
+In recent years there have been suspicious activities among these disused sites, Aljadid Toubkal's government has rejected all claims that criminal elements are now operating from the region, under the government's protection.  
+
+
+[cols="10%,90%"]
+|===
+2+|Settlement profile: Aljadid Toubkal
+
+|*Function:*
+|Large colony
+
+|*Founded:*
+|21 August 2163
+
+|*Alignment:*
+|Moroccan (High Atlas Archology) Colony
+
+|*Ethnicity:*
+|Mixed. *Languages:* Arabic,Berber and French
+
+|*Type:*
+|Burried Modules
+
+|*Tech-level:*
+|Old-standard
+
+|*Class:*
+|Cozy.  
+
+|*Population:* 
+|2 million
+
+|*Government Type*
+|Non-Charismatic Leader
+
+|*Law Level*
+| Moderate
+
+|*Attitude:*
+|Open with visa
+
+|*Social Type*
+|Advancer stage 1
+|===
 
 
 ==== Hidayatullah
