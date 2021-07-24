@@ -194,7 +194,7 @@ image:https://db3pap001files.storage.live.com/y4mKcorB-1QUXlBxbd1rUsaAJhDEmuaYm-
 |*Distance from Sun:* 0.723
 |=======================
 
-A planet named for its beauty, Venus is a hellish world with some of the most hostile surface conditions in the entire solar system. It's so hot down there on the Venusian surface that anything not made of a high-melting point metals or ceramics ends up melted or erroded. There have been several attempts to begin terraforming operations but each has ended up discontinued, in part because of the difficulty of operating in such hostile conditions.
+Named for its beauty, Venus is a hellish world with some of the most hostile surface conditions in the entire solar system. It's so hot down there on the Venusian surface that anything not made of a high-melting point metals or ceramics ends up melted or erroded. There have been several attempts to begin terraforming operations but each has ended up discontinued, in part because of the difficulty of operating in such hostile conditions.
 
 ==== Experimental Atmospheric Outpost
 
@@ -206,15 +206,59 @@ Historical site. Like a floating museum, maintaining the original research outpu
 
 *Population:* 1500 +
 
-An under-construction fully-fledged colony. The pegasus project is constructing a vast floating platform, situated 70km above the burning surface of Venus. While the surface of Venus is like the inside of a kiln, the upper atmosphere has a zone where settlers can walk around with just an oxygen mask and acid resistent suit. When completed, Pegasus will provide more than a square kilometer of surface area on which to construct inflatable habitats. The top of the habitation is used for greenhouses and a shuttle recovery platform.
+An under-construction floating colony, the pegasus project is constructing a vast lighter than air platform, situated 70km above the burning surface of Venus. While the surface of Venus is like the inside of a kiln, the upper atmosphere has a zone where settlers can walk around with just an oxygen mask and acid resistent suit. When completed, Pegasus will provide more than a square kilometer of surface area on which to construct inflatable habitats. The top of the habitation is used for greenhouses and a shuttle recovery platform.
 
 *Ground Settlements*
 
-==== Hadius Base
+==== Hadius 
 
 *Population:* 70,000 +
 
-The Hadius base was built by a specially designed AMP which landed on the surface then quickly tunneled underground to avoid being melted. The AMP dug out a huge pressure-sealed actively cooled tunnel system. The original aim was to create a very large colony. However, getting on and off Venus is still difficult. The heat and pressure force surface operations to be very limited. Only specialised rocket systems can be used to land on Venus, and these rockets wear out quickly. As a result Hadius base never become a large-scale colony. 
+Hadius was the first settlement established on the surface of Venus. It is also the first settlement to falter and fail. In 2200 the Lone Star Archology declared that it was going to establish a mining colony using advanced cooling technologies. Its not clear if the exercise was a vanity project for the archology's president, or fulfilled some other 
+agenda, but the project went ahead. The engineering team created a specially designed AMP which landed on the ground then folded out a large array that would start to vent heat into space cooling the area around the AMP. The finished structure uses various high technology cooling methods to stop the settlement from cooking. However, the construction project was mismanaged, resulting in a lot of fatal accidents. The project's bad reputation resulted in very low number of citizens signing up. The government ended up...
+
+ The original aim was to create a very large colony. However, getting on and off Venus is still difficult. The heat and pressure force surface operations to be very limited. Only specialised rocket systems can be used to land on Venus, and these rockets wear out quickly. As a result Hadius base never become a large-scale colony. 
+
+[cols="10%,90%"]
+|===
+2+|Settlement profile: Hadius
+
+|*Function:*
+|Large colony
+
+|*Founded:*
+|1st November 2212
+
+|*Alignment:*
+|Joint German/Italian Colony
+
+|*Ethnicity:*
+|Mixed. *Languages:* German,Italian, French and English
+
+|*Type:*
+|Caven
+
+|*Tech-level:*
+|Old-standard
+
+|*Class:*
+|Durable. Even deep underground the temperature of the rock 
+
+|*Population:* 
+|75,000, 50,000 Germans, 24,000 Italian, 1000 French
+
+|*Government Type*
+|Colony/occupational government
+
+|*Law Level*
+| Restrictive (Prohibitive for laws concerning settlement safety)
+
+|*Attitude:*
+|Open with visa
+
+|*Social Type*
+|Centrist
+|===
 
 ==== Demmeuter USP: AC
 
