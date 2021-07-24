@@ -212,12 +212,11 @@ An under-construction floating colony, the pegasus project is constructing a vas
 
 ==== Hadius 
 
-*Population:* 70,000 +
+Hadius was the first settlement established on the surface of Venus. It is also the first settlement to falter and fail. In 2200 the Lone Star Archology declared that it was going to establish a mining colony using advanced cooling technologies. News of the project created a lot of interest. Lone Star had little experience or expertise in extra-terrestrial construction, never mind construction in the most challenging environment in the solar system. It's not clear if the exercise was a vanity project for the archology's president, or fulfilled some other agenda, but the project went ahead. The engineering team created a specially designed AMP which landed on the ground then folded out a large array that would start to vent heat into space cooling the area around the AMP. The finished structure uses various high technology cooling methods to stop the settlement from cooking. However, failures occured, deaths occured. The project quickly developed such a bad reputation that almost nobody was willing to sign-up for relocation. The initial tranche of settlers received extremely generous relocation packages but bribing citizens to move to hell was not a sustainable plan.
 
-Hadius was the first settlement established on the surface of Venus. It is also the first settlement to falter and fail. In 2200 the Lone Star Archology declared that it was going to establish a mining colony using advanced cooling technologies. Its not clear if the exercise was a vanity project for the archology's president, or fulfilled some other 
-agenda, but the project went ahead. The engineering team created a specially designed AMP which landed on the ground then folded out a large array that would start to vent heat into space cooling the area around the AMP. The finished structure uses various high technology cooling methods to stop the settlement from cooking. However, the construction project was mismanaged, resulting in a lot of fatal accidents. The project's bad reputation resulted in very low number of citizens signing up. The government ended up...
+Lone Star, desperate to makeup the massive shortfall in colonists took to offering criminals the chance to "emigrarate instead of incarcerate". When the original settlers learned that there new home was essentially being reclassified as a penal colony there was unrest and hostility between different groups of colonists. The relationship between Lone Star and the Hadius colonial administration got steadily worse, until 2230 when the various factions in the colony decided to stop fighting each other and joined forces to take control of the colony. Lone Star Archology, rather than digging in its heels and attempting to retake the colony, instead walked away from what was seen as a massive money trap. Without the Archology's financial backing, the newly independent Hadius couldn't maintain its complex environmental systems. Over the course of the next twenty years, large sections of the settlement had to be shut off. Tens of thousands of colonists were forced to find homes elsewhere. Some moved to the other Venusian colonies, some became vagrant or joined lawless colonies. 
 
- The original aim was to create a very large colony. However, getting on and off Venus is still difficult. The heat and pressure force surface operations to be very limited. Only specialised rocket systems can be used to land on Venus, and these rockets wear out quickly. As a result Hadius base never become a large-scale colony. 
+Today, Habius has less than half the original population, it's essentially lawless, with various autonomous groups vying for power, territory and resources. Demmeuter, with its 10,000 Habiusian emigres regularly stages inteventions, delivery emergency aid and care packages while trying to figure out how to reset the course for their troubled neighbour.
 
 [cols="10%,90%"]
 |===
@@ -227,38 +226,41 @@ agenda, but the project went ahead. The engineering team created a specially des
 |Large colony
 
 |*Founded:*
-|1st November 2212
+|1st November 2207
 
 |*Alignment:*
-|Joint German/Italian Colony
+|Independent. Ex-Colony of Lone Star Archology (Texas)
 
 |*Ethnicity:*
-|Mixed. *Languages:* German,Italian, French and English
+|Mixed. *Languages:* English/Spanish/German
 
 |*Type:*
-|Caven
+|Surface Modules
 
 |*Tech-level:*
 |Old-standard
 
 |*Class:*
-|Durable. Even deep underground the temperature of the rock 
+|Durable.
 
 |*Population:* 
-|75,000, 50,000 Germans, 24,000 Italian, 1000 French
+|30,000
 
 |*Government Type*
-|Colony/occupational government
+|Balkanized
 
 |*Law Level*
-| Restrictive (Prohibitive for laws concerning settlement safety)
+| Lax
 
 |*Attitude:*
-|Open with visa
+|Open
 
 |*Social Type*
-|Centrist
+|None
 |===
+
+
+
 
 ==== Demmeuter USP: AC
 
