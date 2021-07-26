@@ -1,3 +1,63 @@
-== Starter Adventure
+== Free fallin
+
+
 
 The following mini-adventure is a great way to introduce new players to Orbital Elements. 
+
+
+
+=== Adventure Summary (Game Master's eyes only)
+
+The PCs are prisoners on a military patrol vehicle, having been passengers on a transporter that was claimed to have played a party in an act of piracy. In truth, the military company appears to be corrupt and may have impounded the ship without good cause. Three weeks into their incarceration, the PCs find themselves being transported somewhere on a heavy shuttle.
+
+As the adventure begins, the PCs are told they are going onboard a deralict ship. Doing so may be dangerous but it if they do it they will be released immediately. The PCs are put into vacc suits and are sent out to go onboard the ITV Golden Goose. The medium sized cargo hauler is not responding to radio calls, and has been broadcasting an SOS beacon for three days.
+
+The moment that the PCs enter the ship, a defensive munition detonates, destroying the shuttle that the PCs arrived on. The Golden Goose is under the control of an anti-piracy protocol that has gone haywire.
+
+
+So what happended?
+Some of the crew members of the Golden Goose found a package in the hold containing an advanced robotics unit. Ignoring the warnings and failing to read the instructions, they activated the drone, mistakenly thinking it was programmed for handling tasks. In fact, the drone is a top-secret anti-piracy system, still under development.
+
+The drone is not supposed to be activated without having a list of authorized personnel. Being activated without such a list means that the drone sees all crew members as hostiles. In the fracas that followed, the crew have been "pacified, imprisoned or are in hiding". The anti-piracy drone patrols the ship hunting for additional hostiles.
+
+The PCs must explore the ship and try to work out what happened. They can encounter groups of crew.
+
+After encountering the PCs, the drone decides that it needs reinforcements, so it has gone into the hold and activated two other robots which it has reprogrammed to act as servants.
+
+
+
+
+
+
+
+
+In this starter adventure, the PCs are prisoners on board a paramilitary craft that works for Lanserda Yeocan (blue picnic),  a large chinese industrial colony on Callisto. The story goes, that the PCs were passengers on a transporter that was flagged as having taken part in piracy. The paramilitary boarded the transportter, then arrested everyone. So its three weeks later. The PCs are part of a group of 12 prisoners that have been moved onto a heavy shuttle for transfer "elsewhere". Some prisoners believe that they are being transferred to a free station to be released. Others offer a more worrisome story -- apparently some PMC do a background check on prisoners that they pick up. Anyone who doesn't appear to have rich or influencial friends end up being sold into slavery - their arrest record is deleted by criminal hackers.
+
+The crew and guards of the shuttle become agitated, the following conversation is hearded.
+
+Guard 1: I'm not risking my neck going onto a deralict, I didn't sign up to fight pirates.
+Guard 2: Ha ha, won't be any risk. Captain says the boarding crew is getting decided by a prisoner lottery.
+Guard 1: NO WAY, I already lost one vacc suit this year when I was forced to lend it to a prisoner.
+Guard 2: You don't load a suit, you don't get a cut. It's a big ITV, a 10 thousand-tonner. Even if its empty there will be a million in salvage each.
+Guard 1: A million. Okay, but better be right about this.
+
+The twelve prisoners are escorted to the main operations deck and sat at a large table. Each prisoner draws a lazily fashioned straw. The PC's each draw a short straw. Before this moment, the PCs live separate lives, now their lives are link by a momentary act of chance.
+
+The Executive Officer tells the PCs that they have just won the chance to earn their "expedited release" along with a bonus. All they need to do is check out a transport ship that sent out a rescue request three days ago. Nobody on the ship is communicating, now. There's a chance the ship was completely abandoned or maybe the crew are awaiting rescue, trapped on a room somewhere. They might all be dead from a deadly radiation leak, but it that happended we would surely detect it immediately and call off the rescule.
+
+The PCs are kitted out in vacc suits and strapped to a "huskie" a drone that astronaughts attach themselves to, while it handles the maneuvers of an EVA.
+
+The PCs transfer 3000m between their Shuttle and the Transport Vehicle. The PCs now have free reign to decide how and where they enter the vehicle.
+
+Shortly after they enter, some kind of munition launches, blowing up the heavy shuttle. 
+
+== I think we're alone now
+
+
+== Dancing in the Dark
+
+
+=== Every Breath you take
+
+
+=== Under Pressure
