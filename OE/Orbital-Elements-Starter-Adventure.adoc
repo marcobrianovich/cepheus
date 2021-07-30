@@ -58,16 +58,36 @@ The guards of the shuttle become agitated. The following conversation is hearded
 **Guard 1:** We're being retasked. Apparently a transporter reports a possible pirate attack but the ship then went dark and hasn't changed course. I'm not risking my neck going onto a deralict, I didn't sign up to fight pirates. +
 **Guard 2:** Ha ha, won't be any risk. Captain says the boarding crew is getting decided by a prisoner lottery. +
 **Guard 1:** NO WAY, I already lost one vacc suit this year when I was forced to lend it to a prisoner. +
-**Guard 2:** You don't loan a suit, you don't get a cut. It's a big ITV, a 10 thousand-tonner. Even if its empty there will be a million in salvage each. + 
+**Guard 2:** You don't loan a suit, you don't get a cut. It's a big ITV, a 30-thousand-tonner. Even if its empty there will be a million in salvage, each. + 
 **Guard 1:** A million. Okay, but better be right about this.
 
-The twelve prisoners are escorted to the main operations deck and sat at a large table. Each prisoner draws a lazily fashioned straw. The PC's each draw a short straw. Before this moment, the PCs live separate lives, now their lives are link by a momentary act of chance.
+The twelve prisoners are escorted to the main operations deck and strapped to seating at a large table. Each prisoner draws a lazily fashioned straw. The PC's each draw a short straw. Before this moment, the PCs live separate lives, now their lives are link by a momentary act of chance.
 
-The Executive Officer tells the PCs that they have just won the chance to earn their "expedited release" along with a bonus. All they need to do is check out a transport ship that sent out a rescue request three days ago. Nobody on the ship is communicating, now. There's a chance the ship was completely abandoned or maybe the crew are awaiting rescue, trapped on a room somewhere. They might all be dead from a deadly radiation leak, but it that happended we would surely detect it immediately and call off the rescule.
+The other prisoners appear visibly relieved. Many of the shoot you with concerned looks. Nobody speaks to you but their eyes are saying "it was nice knowing you."
 
-The PCs are kitted out in vacc suits and strapped to a "huskie" a drone that astronaughts attach themselves to, while it handles the maneuvers of an EVA.
+The shuttle's XO gathers you and leads you to the EVA bay and airlock. You are dressed in slightly worn mid-range vacc suits.
 
-The PCs transfer 3000m between their Shuttle and the Transport Vehicle. The PCs now have free reign to decide how and where they enter the vehicle.
+The officer, a wirely chinese man in his late 50s grins grimly at you. "Nine times out of ten, everything fine. Everyone happy. Good odds! You not heroes, you not take risks. Go in, report on what you find. If danger obvious, report and withdraw."
+
+Fran gives him a steely look. "One in ten is NOT good odds. If it was good odds you wouldn't need to use impressment. By the way, impressment is ILEGAL."
+
+The XO's face blanked, making the man's mood unreadible.
+
+"You must think I am a bad man. I am NOT a bad man. But I am a hard man. My duty is to protect my crew, above all else. I'm not impressing you, I'm making you all deputies. Regulation 275.9 'During an emergency situation, the command officers may deputize any passengers if there are insufficient crew to fulfil mission requirements safely.'"
+
+A klaxon sounds. Pumps being to pressureise the airlock. A guard checks over the PC's space suits. To one PC he tells them not to pull hard on the left sleave as the seam may have a micropuncture.
+
+"All you need to do is check out the transporter for survivors. Nobody on the ship is communicating, now. There's a chance the ship was completely abandoned or maybe the crew are awaiting rescue. Or they might all be dead from a deadly radiation leak, but it that happended we would surely detect it from your suit sensors the moment that you enter.
+
+The PCs are strapped to a "huskie", a drone that astronaughts attach themselves to, that handles the maneuvers of an EVA. Ideal for people with little or no E.V.A experience.
+
+The PCs transfer 3000m between the shuttle and the transport vehicle. The PCs now have free reign to decide how and where they enter the vehicle.
+
+Pass out the deck arrangement sheet. The airlocks are displayed on the left-hand side. The Huskie will maneuver them to any location that they specify.
+
+The PC's may choose to enter at different points. While this is challenging to run, it shouldn't be discouraged. A group of PCs that split up can seriously up the tension as they fend for themselves.
+
+Once the PCs select an entry point (or a number of entry points) then proceed to the section that corresponds with that location.
 
 Shortly after they enter, some kind of munition launches, blowing up the heavy shuttle. 
 
