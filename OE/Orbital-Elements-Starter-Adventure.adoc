@@ -92,7 +92,29 @@ The moment that someone opens an airlock, there's a glow of light. A small modul
 The PC's all go into shock. Their breathing becomes erratic and they need to make a difficult endurance role or suffer from panic. This increases the difficulty of all actions by 1 or 2 for D6 minutes.
 
 
-== Dancing in the Dark
+=== Dancing in the Dark
+
+==== Command Module
+
+===== Deck 1
+
+===== Deck 2
+
+===== Deck 3
+
+===== Deck 4
+
+==== Hab Modules
+
+The Hab modules are rings open at one end so they be slid onto the vehicle's stem. Each of the four decks are identical in layout, although only the top deck was in use during its current trip. The other decks were being cleaned prior to picking up passengers.
+
+===== Deck 5
+
+===== Deck 6
+
+===== Deck 7
+
+===== Deck 8
 
 
 === Every Breath you take
