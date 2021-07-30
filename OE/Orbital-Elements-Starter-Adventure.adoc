@@ -10,9 +10,9 @@ The following mini-adventure is a great way to introduce new players to Orbital 
 
 This adventure is designed to start off a new play group. At the beginning of the story the PCs are not yet a party, but in the first chapter they are thrown together and must quickly learn to rely on each other in a deseperate struggle for survival.
 
-In the opening chapter, the player characters are prisoners of a paramilitary force that holds a contract with Lanserda Yeocan, the nearby industrial settlement on Jupiter's moon, Calisto. The player's only crime was to be passengers on a passenger carrier that the paramilitary group accused of piracy. The ship was impounded and both crew and passengers arrested. Three weeks into their incarceration the patrol vechicle is setting course for its base. The twenty four prisoners who were just passengers are loaded onto two shuttles and launch to who knows where.
+In the opening chapter, the player characters are prisoners of a paramilitary force that holds a contract with Lanserda Yeocan, the nearby industrial settlement on Jupiter's moon, Calisto. The player's only crime was to be passengers on a passenger carrier that the paramilitary group accused of piracy. The passenger carrier was impounded and both crew and passengers arrested. Three weeks into their incarceration the patrol vehicle is sets course back to its base. The twenty four prisoners who were just passengers are loaded onto two shuttles and launch to who knows where.
 
-However, the shuttle on which the PCs are situated makes a detour after the four crew become agitated. Rumous pass between the passengers that the shuttle has been ordered to investigate a transport ship that has gone dark after broadcasting an SOS. Soon, the PCs are selected by drawing straws for a potentially dangerous mission to board an apparently deralict transport vehicle. The PCs make the 300-metre trip to the apparently lifeless transport vehicle. The moment the players board, some kind of munition launches, destroying the shuttle that they were travelling on. The PCs now seem to be alone.
+The shuttle on which the PCs are situated makes a detour after the four crew become agitated. Rumous pass between the passengers that the shuttle has been ordered to investigate a transport ship that has gone dark after broadcasting an SOS. Soon, the PCs are selected by drawing straws for a potentially dangerous mission to board an apparently deralict transport vehicle. The PCs make the 300-metre trip to the apparently lifeless transport vehicle. The moment the players board, some kind of munition launches, destroying the shuttle that they were travelling on. The PCs now seem to be alone.
 
 At this poing the adventure opens out to allow the PCs to explore the deralict, ITV Golden Goose.
 
@@ -28,19 +28,13 @@ There are several ways of beating the anti-piracy droid. Firstly, they could mou
 
 They might try to trick the droid into a location that they can lock, although the droid can effectively blow-torch its way through internal walls given enough time. If it escapes it initiates PLAN-BETA, it heads to the cargo module and activates three standard labour droids which it reprograms to become its minions.
 
-However, if the PCs game access to the mainframe, located in engineering, they can force a firmware update that will categorise the PCs as crew members. This provides a satisfyingly simple conclusion, though heading to the engineering section will also activate PLAN-BETA, bringing additional droids into play.
+However, if the PCs gain access to the mainframe, located in engineering, they can force a firmware update that will categorise the PCs as crew members. This provides a satisfyingly simple conclusion, though heading to the engineering section will also activate PLAN-BETA, bringing additional droids into play.
 
 There are a number of entry points into the Golden Goose. There's a full airlock in the command module and each of the hab rings. There's an airlock at each end of the vehicle's stem and two airlocks in each cargo module. Finally, there's an emergency lock in engineering.
-
-T
-
-
 
 ==== PLAN-BETA
 
 After encountering the PCs, the drone decides that it needs reinforcements, so it has gone into the hold and activated three other robots which it reprograms to act its minions. These other drones are standard labour drones, they don't have a lot to contribute in terms of subdueing the PCs. They can hold and subdue the PCs but they don't have any weapons and will not strike the PCs. 
-
-
 
 
 === Chapter One - The Breaks
@@ -79,6 +73,8 @@ A klaxon sounds. Pumps being to pressureise the airlock. A guard checks over the
 
 "All you need to do is check out the transporter for survivors. Nobody on the ship is communicating, now. There's a chance the ship was completely abandoned or maybe the crew are awaiting rescue. Or they might all be dead from a deadly radiation leak, but it that happended we would surely detect it from your suit sensors the moment that you enter.
 
+=== Scene-2 Free fallin
+
 The PCs are strapped to a "huskie", a drone that astronaughts attach themselves to, that handles the maneuvers of an EVA. Ideal for people with little or no E.V.A experience.
 
 The PCs transfer 3000m between the shuttle and the transport vehicle. The PCs now have free reign to decide how and where they enter the vehicle.
@@ -89,9 +85,11 @@ The PC's may choose to enter at different points. While this is challenging to r
 
 Once the PCs select an entry point (or a number of entry points) then proceed to the section that corresponds with that location.
 
-Shortly after they enter, some kind of munition launches, blowing up the heavy shuttle. 
+The moment that someone opens an airlock, there's a glow of light. A small module, about 2m long fires a projectile in the direction of the shuttle. Instantly the shuttle turns into a cloud of burning glass. Nothing is left, just streaking fragments o red hot hull. Gone in a blink.
 
 == I think we're alone now
+
+The PC's all go into shock. Their breathing becomes erratic and they need to make a difficult endurance role or suffer from panic. This increases the difficulty of all actions by 1 or 2 for D6 minutes.
 
 
 == Dancing in the Dark
