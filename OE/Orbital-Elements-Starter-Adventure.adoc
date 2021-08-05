@@ -98,7 +98,16 @@ The PC's all go into shock. Their breathing becomes erratic and they need to mak
 
 ===== Deck 1
 
+*A* Avionics deck is seperated from Deck 2 by grilling, with lots of gaps.|Ladders in the central stem of Deck 2 can be used when the ship is under acceleration.
+
+No signs of any trouble. Ships systems appear to be unimpaired but an *+8* piloting or computer roll will reveal that the ship's systems are locked down from engineering.
+
 ===== Deck 2
+
+*B* Backup systems. This has a simplified control systems duplicated from Deck 3 so that i~?
+
+*C*
+*D*
 
 ===== Deck 3
 
