@@ -130,3 +130,25 @@ The Hab modules are rings open at one end so they be slid onto the vehicle's ste
 
 
 === Under Pressure
+
+=== NPCs
+
+==== Almona Wash (Captain)
+
+Captain of the ITV Golden Goose. Almona is a tall, slender, pale-skinned woman with long black hair. She is dressed in a pale yellow jumpsuit. At 33, she's young for captaincy but her no-nonsense approach to life make her a good fit for the role. She has the respect of her crew because she is extremely loyal and the admiration of her peers because of her high competancy. Almona's worst habit is trying to own every problem, it makes her seem over serious. Ross Mcalphine is the one person who can lift the weight on her shoulders with a few words. 
+
+====  Ross McAlpine
+
+Chief engineer of the ITV Golden Goose. Ross is a muscular man with red hair and a broad smile. He married Almona two years ago, although Almona says that she won't take his name until they retire and start a family. Ross is the unflappable sort whose mere presense can calm a high-stress situation. His worst habit is whistling tunes that get stuck in your head.
+
+==== Lars Anderson (Maintanence)
+
+Lars is a brutish-looking man who looms over most other people. However, it soon becomes clear that he is a sweet-natured giant whose tendancy for jokes and tom foolery frequently get him into hot water with Captain Wash. Always joking, Lars is difficult to take seriously but when matters become serious, his willingness to take personal risks for others make him a popular member of the crew.
+
+==== Tony Pendula (Security/Cargo Handler)
+
+Tony is a short, light framed man of British-Greek ancestry, although he is actually Martian. Tony is a cheerful but laconic man whose small stature leads him to be overlooked. He tends to  skulk at the back of any group. He takes his duties seriously and while Tony and Lars are good friends most of the time they spend together on duty tends to turn into banter.
+
+==== Simone Acosta (Computer/Systems Engineer)
+
+Nigerian-Luna woman in her early 40s, Simone is even taller than Almona, but has a more muscular frame that gives surprising physical strength. Simone is extremely competent and capable but does not suffer fools gladly. She remains aloof in the company of strangers or people that she doesn't respect. She's ambitious and wants her own captaincy but recognises that Almona has leadership qualities that she doesn't have, and would never question an order, even if she didn't agree with it. However, in her specialist field, she's the boss.
