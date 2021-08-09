@@ -111,6 +111,8 @@ The PC's all go into shock. Their breathing becomes erratic and they need to mak
 
 ==== Command Module
 
+image:https://db3pap001files.storage.live.com/y4mUGDji4EfnaNKZ31Eeo5M3AqKSBOOfDU1kP1KKuP_W-Q3UcGB9jbbcTgHylKuRhz_cFJwZb4YQrBEZnQy463RuZ9hYgrFyqVnJd4A00IHHXQINj_eUhSew5aH1bJ-ovL1yA6dYAtIVGR8O5rQDY3BgyRxdzDGOeB-NW5kshO914hi8-CDagsQmVULv1EEq4Md?width=724&height=1024&cropmode=none[image]
+
 ===== Deck 1
 
 *A* Avionics deck is seperated from Deck 2 by grilling, with lots of gaps.|Ladders in the central stem of Deck 2 can be used when the ship is under acceleration.
