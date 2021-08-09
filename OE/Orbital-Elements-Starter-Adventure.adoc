@@ -2,19 +2,23 @@
 
 
 
-The following mini-adventure is a great way to introduce new players to Orbital Elements. 
+The following mini-adventure is a great way to introduce new players to Orbital Elements. At the beginning of the story the PCs are not a party, but in the first chapter they are thrown together and must quickly learn to rely on each other in a deseperate struggle for survival. 
 
 
 
 === Adventure Summary (Game Master's eyes only)
 
-This adventure is designed to start off a new play group. At the beginning of the story the PCs are not yet a party, but in the first chapter they are thrown together and must quickly learn to rely on each other in a deseperate struggle for survival.
+==== Chapter One - _The Breaks_
 
-In the opening chapter, the player characters are prisoners of a paramilitary force that holds a contract with Lanserda Yeocan, the nearby industrial settlement on Jupiter's moon, Calisto. The player's only crime was to be passengers on a passenger carrier that the paramilitary group accused of piracy. The passenger carrier was impounded and both crew and passengers arrested. Three weeks into their incarceration the patrol vehicle is sets course back to its base. The twenty four prisoners who were just passengers are loaded onto two shuttles and launch to who knows where.
+In the opening chapter, the player characters are prisoners on a patrol carrier operated by the paramilitary force that handles anti-piracy duties out of Lanserda Yeocan, the nearby industrial settlement on Calisto. The player's were unlucky enough to be passengers on a passenger carrier that the paramilitary group accused of piracy. The passenger carrier was impounded and both its crew and passengers arrested. Three weeks into the PCs incarceration the patrol vehicle sets course back to base. The twenty four prisoners who were just passengers are loaded onto two shuttles and launch to destinations unknown.
 
-The shuttle on which the PCs are situated makes a detour after the four crew become agitated. Rumous pass between the passengers that the shuttle has been ordered to investigate a transport ship that has gone dark after broadcasting an SOS. Soon, the PCs are selected by drawing straws for a potentially dangerous mission to board an apparently deralict transport vehicle. The PCs make the 300-metre trip to the apparently lifeless transport vehicle. The moment the players board, some kind of munition launches, destroying the shuttle that they were travelling on. The PCs now seem to be alone.
+The shuttle on which the PCs are situated makes a detour after the four crew become agitated. Rumous pass between the passengers that the shuttle has been ordered to investigate a transport ship that has gone dark after broadcasting an SOS. Soon, the PCs are selected by drawing straws for a potentially dangerous mission to board an apparently deralict transport vehicle.
 
-At this poing the adventure opens out to allow the PCs to explore the deralict, ITV Golden Goose.
+Chapter Two -  _Free fallin_
+
+The PCs make the 300-metre trip to the apparently lifeless transport vehicle. The moment the players board, some kind of munition launches, destroying the shuttle that they were travelling on. The PCs now seem to be alone.
+
+At this point the adventure opens out to allow the PCs to explore the deralict, ITV Golden Goose.
 
 ==== So what happened on the deralict?
 
