@@ -20,11 +20,12 @@ The PCs make the 300-metre trip to the apparently lifeless transport vehicle. Th
 
 At this point the adventure opens out to allow the PCs to explore the deralict, ITV Golden Goose.
 
-[sidebar]
+
 .So what happened on the deralict?
---
-Some of the transporter's crew, loitering around the cargo deck decided to tamper with the wrong package, a robotics system. The system is an advanced humanoid robot of unusual complexity. The crew members activated the robot for poops and giggles, not knowing that contrary to the manufest, the robot wasn't a "labour droid". When they tried to have some fun ordering the robot around they were attacked and immobilized. The robot is a prototype anti-piracy droid, intended to act as security onboard transports. However, the unit is not supposed to be activated without first being programmed with the identities of the crew. Consequenty, on being activated the droid is classifying all of the crew as hostiles. In the ensuing fracas, the crew is mostly immobilized and captured or scatters and hides away on the ship.
---
+====
+While making a routine cargo run to Callisto, some of the transporter's crew, loitering around the cargo deck decided to tamper with the wrong package, a robotics system. The system is an advanced humanoid robot of unusual complexity. The crew members activated the robot for poops and giggles, not knowing that contrary to the manifest, the robot wasn't a "labour droid". When they tried to have some fun ordering the robot around they were attacked and immobilized. The robot is a prototype anti-piracy droid, intended to act as security onboard transports. However, the unit is not supposed to be activated without first being programmed with the identities of the crew. Consequenty, on being activated the droid is classifying all of the crew as hostiles. In the ensuing fracas, the crewmembers were either immobilized and captured or in hiding. Making contact with crew members is the easiest ways for the PCs to learn what's going on. 
+
+====
 
 
 ==== Explore the ship
