@@ -148,8 +148,7 @@ The Hab modules are rings open at one end so they be slid onto the vehicle's ste
 
 ===== Deck 10
 
-image:
-https://db3pap001files.storage.live.com/y4mVOIei7qgPctmVuR5d121HVhL9uIQP0orXBYT1UIT6FKi_mNiMRlbW9qowJ2heh4iuwgv3r9yG2mtmUwAjszEUYTudU3H914G1sgpRq0isBvmUKbDI_b0ouTsE0gekSb47_zkD9oWnNsl5jzE8bNJNgtLwPDNNyytY6GsacYouJT4lgY1qqBZnBRc7WXek_pe?width=724&height=1024&cropmode=none[image]
+image:https://db3pap001files.storage.live.com/y4mVOIei7qgPctmVuR5d121HVhL9uIQP0orXBYT1UIT6FKi_mNiMRlbW9qowJ2heh4iuwgv3r9yG2mtmUwAjszEUYTudU3H914G1sgpRq0isBvmUKbDI_b0ouTsE0gekSb47_zkD9oWnNsl5jzE8bNJNgtLwPDNNyytY6GsacYouJT4lgY1qqBZnBRc7WXek_pe?width=724&height=1024&cropmode=none[image]
 
 
 === Every Breath you take
