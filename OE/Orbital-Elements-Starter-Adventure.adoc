@@ -104,10 +104,17 @@ The moment that someone opens an airlock, there's a glow of light. A small modul
 
 == I think we're alone now
 
-The PC's all go into shock. Their breathing becomes erratic and they need to make a difficult endurance role or suffer from panic. This increases the difficulty of all actions by 1 or 2 for D6 minutes.
-
+The PC's all go into shock. Their breathing becomes erratic and they need to make a difficult endurance role or suffer from panic. This increases the difficulty of all actions by 1 or 2 for D6 minutes. 
 
 === Dancing in the Dark
+
+The ITV Golden Goose is a Languedoc-class 30,000 ton heavy hauler. Originally built in the 2170s, the examples that remain in operation have been retrofitted with updated engines, although their moduler design is otherwise unchanged. The vehicle is assembled around a 117m-long graphine stem. After the fitting of the command module, a number of habitation decks are then slotted in. If the vehicle isn't going to be used for passengers then a single deck can be fitted for crew, or upto twenty decks can be fitted if the vehicle is going to be used as a passenger carrier. The hab deck design is an open ring, so that it can be easily slotted onto the stem, although the clamping is perminent, so hab decks can't be ejected. Removal requires a refit at a construction yard.
+
+The cargo modules come in various shapes and sizes, the Golden Goose carries two cargo modules that clamp onto the stem to form a cylinder. The two modules offer 9 identical decks, each with a 9-metre ceiling, allowing the transfer of very large items. In order to load and unload, the two halves uncouple and are moved away from the stem to make the large cargo doors accessible, while in transit there are no external hatches and the outer hull is heavily reinforced and shielded.      
+
+The cargo modules are held between decks nine and twenty, which contain machinery for seperating and reconnecting the modules for loading and unloading.
+
+The next section is huge torus that stores the vehicle's reaction mass, either water or, in later models carbon-diamond dust. Three seperate fusion power plants are fitted within the hole of the torus. Two plants are run, leaving the third in cold-shutdown as a backup. Most of the generated power is used to supply the drive module which is equipped with six Amarok-71 QE-thrusters for a sustained 0.5g acceleration. Fully loaded, this gets a Languedoc from Earth to Mars in 8-14 days.                       
 
 ==== Command Module
 
@@ -133,6 +140,7 @@ No signs of any trouble. Ships systems appear to be unimpaired but an *+8* pilot
 ==== Hab Modules
 
 image:https://db3pap001files.storage.live.com/y4mwu0QMOxXlAHggGNhprGi_s75CTF1YfJ9nR-BC_mOxFfS8Tbum3NluZhdECWXMvtM-fderghyXzonowAdBF0JEWUPEb7TzJeL5Bn1enS1r5EAovk2_IHDDxP53a31ERv8SgLNG-CkcuZauQsLzpNp2Rn63s2u1nebgqRJG2mWQwdXLFimcU2Dr3IE1SUk89_X?width=724&height=1024&cropmode=none[image]
+
 
 The Hab modules are rings open at one end so they be slid onto the vehicle's stem. Each of the four decks are identical in layout, although only the top deck was in use during its current trip. The other decks were being cleaned prior to picking up passengers.
 
