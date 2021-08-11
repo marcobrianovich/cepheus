@@ -2,7 +2,10 @@
 
 
 
+
 The following mini-adventure is a great way to introduce new players to Orbital Elements. At the beginning of the story the PCs are not a party, but in the first chapter they are thrown together and must quickly learn to rely on each other in a deseperate struggle for survival. 
+
+NOTE: This adventure is intended for a group of 3-4 new players and a games master. You can create new characters before the adventure session or you can use the pre-rolled characters provided at the end of the adventure.
 
 image:https://db3pap001files.storage.live.com/y4m2BNQMeshdJIzqvQbzORXneLXCwgNIUs-iAeqAK_DaITAf8GskR65EqicCUI2jEq4O5ni54Wmd7uRXAlcxfMJL2xmErivpMQV2RLARtvSXO6zogoomZ4tEAl9oYhXVfIdMmqgBJGkz7uqGbDfskKkUVPnhJ62JWgQ8uzARMLP-nIZXZKN3uMVO6vQAbsDH3KG?width=1024&height=576&cropmode=none[image1]
 
@@ -10,15 +13,15 @@ image:https://db3pap001files.storage.live.com/y4m2BNQMeshdJIzqvQbzORXneLXCwgNIUs
 
 ==== Chapter One - _The Breaks_
 
-In the opening chapter, the player characters are prisoners on a patrol carrier operated by the paramilitary force that handles anti-piracy duties out of Lanserda Yeocan, the nearby industrial settlement on Calisto. The players were unlucky enough to be travelling on a passenger carrier that the paramilitary group accused of piracy and impounded. All onboard the passenger carrier were arrested and at the start of the adventure they have been held on the patrol carrier for three weeks. There are whispers among the prisoners that the patrol carrier is now due to return to its base, then the twenty four arrested passengers are loaded onto two shuttles and launch to destinations unknown.
+In the opening chapter, the player characters are prisoners on a patrol carrier operated by the mercenary force that handles anti-piracy duties out of Lanserda Yeocan, the industrial settlement on Callisto. The players were unlucky enough to be travelling on a transporter that the mercenaries accused of piracy and impounded. All onboard the transporter were arrested. At the start of the adventure the PCs have been held on the patrol carrier for three weeks. Then the PCs are loaded onto a shuttle, with the other twenty four arrested passengers and launch to destinations unknown.There are whispers among the prisoners that the patrol carrier is returning to base is transferring the prisoners to a free station for interrogation and release.
 
-The shuttle on which the PCs are situated makes a detour after the four crew become agitated. The talk between the passengers is that the shuttle has been ordered to investigate a transport ship that has gone dark after broadcasting an SOS. Soon, the PCs are selected by drawing straws for a potentially dangerous mission to board an apparently deralict transport vehicle.
+Within hours of its departure, the PC's shuttle makes a detour. The four crew become agitated. The talk between the passengers is that the shuttle has been ordered to investigate a transport ship that has gone dark after broadcasting an SOS. Soon, the PCs are selected by drawing straws for a potentially dangerous mission to board an apparently deralict transport vehicle.
 
 ==== Chapter Two -  _Free fallin_
 
 The PCs make the 300-metre trip to the apparently lifeless transport vehicle. The moment the players board, some kind of munition launches, destroying the shuttle that they were travelling on. The PCs now seem to be alone.
 
-At this point the adventure opens out to allow the PCs to explore the deralict, ITV Golden Goose. Chapter two consists of scenes that deal with different parts of the vehicle, so will play out in an order based on where the players choose to send their characters.
+At this point the PCs get to explore the deralict, _Independent Transport Vehicle Golden Goose_. Chapter two consists of scenes that deal with different parts of the vehicle, so will play out in an order based on where the players choose to send their characters.
 
 [caption=]
 .*So what happened on the deralict?*
@@ -27,11 +30,19 @@ While making a routine cargo run to Callisto, some of the transporter's crew, lo
 ====
 
 **Command Module** +
+There are some clues in the command module that point to the ship having been locked down by some kind of security incident.
+There are small blood stains in the central access area of Deck 2.
 
 **Hab Modules** +
+There are four Hab module decks. The first (Deck-5) is used by the crew, the other decks are not occupied. Deck 8 is cordoned off with a notice that says "Keep out, cleaning in progress." There are clues to a struggle in the main lounge area (C). Most of the state rooms appear to have been sealed by some kind of metal tape. the tape is some of super strong repair tape, unless some kind of removal agent is applied it will be easier to smash the doors in than get them open. Held in the rooms are the Almona Wash, Tony Pendula and Simone Acosta. 
 
+Making noises will result in Almona shouting at the PCs. Her priority is for getting the PCs to go to engineer to look for her husband. The crew help in the hab decs have a water supply and snacks, but she is worried for her husband, Ross McAlpine as there's no food or water in engineer. Ross may be slipping into a coma after three days without water.
 
+Almona tells the PCs that there is some kind of droid onboard that attack the crew. While it didn't appear to use lethal force, it has set the ship in lockdown which means that it is coasting past their destination and will be heading into an unrecoverable orbit in a few hours. 
 
+Tony Pendula shouts at the PCs that the tape sealing the doors is molecular bonding tape. There's a spray for its easy removal in a container on the cargo module (Deck 17).
+
+Simone Acosta tells the PCs that she thinks that the incident started in the cargo hold, Lars Anderson and two of his maintance team were on Deck 11 at the start of the incident.
 
 ==== Explore the ship
 
@@ -108,7 +119,7 @@ The PC's all go into shock. Their breathing becomes erratic and they need to mak
 
 === Dancing in the Dark
 
-The ITV Golden Goose is a Languedoc-class 30,000 ton heavy hauler. Originally built in the 2170s, the few that remain in operation have been retrofitted with updated engines, although their moduler design is otherwise unchanged. The vehicle is assembled around a 117m-long graphine-lymar composite stem. Behind the command module, a number of habitation decks are slotted-in. A  single hab-deck can be fitted for a dedicated hauler that only carries a crew, or upto twenty decks can be fitted if the vehicle is going to be used as a slow passenger carrier. The hab deck design is an open ring, so that it can be easily slotted onto the stem, although the clamping is perminent, so hab decks can't be ejected. Removal requires a refit at a construction yard.
+The ITV Golden Goose is a Languedoc-class 30,000 ton heavy hauler. Originally built in the 2170s, the few that remain in operation have been retrofitted with updated engines, although their moduler design is otherwise unchanged. The vehicle is assembled around a 117m-long graphine-lymar composite stem. Behind the command module, a number of habitation decks are slotted-in. A single hab-deck can be fitted for a dedicated hauler that will only carry a crew, or upto twenty decks if the vehicle is going to be used as a slow passenger carrier. The hab deck design is an open ring, so that it can be easily slotted onto the stem, although the clamping is perminent, so hab decks can't be ejected. Removal requires a refit at a construction yard.
 
 The cargo modules come in various shapes and sizes, the Golden Goose carries two cargo modules that clamp onto the stem to form a cylinder. The two modules offer 9 identical decks, each with a 9-metre ceiling, allowing the transfer of very large items. In order to load and unload, the two halves uncouple and are moved away from the stem to make the large cargo doors accessible, while in transit there are no external hatches and the outer hull is heavily reinforced and shielded.      
 
