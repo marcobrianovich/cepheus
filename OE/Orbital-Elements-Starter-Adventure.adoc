@@ -34,15 +34,15 @@ There are some clues in the command module that point to the ship having been lo
 There are small blood stains in the central access area of Deck 2.
 
 **Hab Modules** +
-There are four Hab module decks. The first (Deck-5) is used by the crew, the other decks are not occupied. Deck 8 is cordoned off with a notice that says "Keep out, cleaning in progress." There are clues to a struggle in the main lounge area (C). Most of the state rooms appear to have been sealed by some kind of metal tape. the tape is some of super strong repair tape, unless some kind of removal agent is applied it will be easier to smash the doors in than get them open. Held in the rooms are the Almona Wash, Tony Pendula and Simone Acosta. 
+There are four Hab module decks. The first (Deck-5) is used by the crew, the other decks are not occupied. Deck 8 is cordoned off with a notice that says "Keep out, cleaning in progress." There are clues to a struggle in the main lounge area (room C on the map). Most of the state rooms appear to have been sealed by some kind of metal tape. the tape is some of super strong repair tape, unless some kind of removal agent is applied it will be easier to smash the doors in than get them open. Held in the rooms are the Almona Wash, Tony Pendula and Simone Acosta. 
 
 Making noises will result in Almona shouting at the PCs. Her priority is for getting the PCs to go to engineer to look for her husband. The crew help in the hab decs have a water supply and snacks, but she is worried for her husband, Ross McAlpine as there's no food or water in engineer. Ross may be slipping into a coma after three days without water.
 
-Almona tells the PCs that there is some kind of droid onboard that attack the crew. While it didn't appear to use lethal force, it has set the ship in lockdown which means that it is coasting past their destination and will be heading into an unrecoverable orbit in a few hours. 
+Almona tells the PCs that there is some kind of droid onboard that attack the crew. While it didn't appear to use lethal force, it has set the ship in lockdown which means that it is coasting past their destination and will be heading into an unrecoverable orbit in a few hours. Unless the PCs can take control of the ship everyone onboard is doomed.
 
 Tony Pendula shouts at the PCs that the tape sealing the doors is molecular bonding tape. There's a spray for its easy removal in a container on the cargo module (Deck 17).
 
-Simone Acosta tells the PCs that she thinks that the incident started in the cargo hold, Lars Anderson and two of his maintance team were on Deck 11 at the start of the incident.
+Simone Acosta tells the PCs that she thinks that the incident started in the cargo hold, Lars Anderson and two of his maintance team were on Deck 11 just before the incident. Simone adds that she doesn't recognise the make of the droid, it is not part of the ship's official equipment.
 
 ==== Explore the ship
 
