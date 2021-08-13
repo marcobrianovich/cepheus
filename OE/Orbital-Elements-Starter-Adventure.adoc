@@ -1,6 +1,6 @@
 == Free fallin
 
-The following mini-adventure is a great way to introduce new players to Orbital Elements. At the beginning of the story the PCs are not a party, but in the first chapter they are thrown together and must quickly learn to rely on each other in a deseperate struggle for survival. 
+The following mini-adventure is a great way to introduce new players to Orbital Elements. At the beginning of the adventure the PCs are not a party, but in the first chapter they are thrown together and must quickly learn to rely on each other in a deseperate struggle for survival. 
 
 NOTE: This adventure is intended for a group of 3-4 new players and a Game Master. You can create new characters before the adventure session or you can use the pre-rolled characters provided at the end of the adventure.
 
@@ -23,7 +23,7 @@ At this point the PCs get to explore the deralict, _Independent Transport Vehicl
 [caption=]
 .*So what happened on the deralict?*
 ====
-While making a routine cargo run to Callisto, some of the transporter's crew, loitering around the cargo deck decided to tamper with the wrong package, a robotics system. The system is an advanced humanoid robot of unusual complexity. The crew members activated the robot for poops and giggles, not knowing that contrary to the manifest, the robot wasn't a "labour droid". When they tried to have some fun ordering the robot around they were attacked and immobilized. The robot is a prototype anti-piracy droid, intended to act as security onboard transports. However, the unit is not supposed to be activated without first being programmed with the identities of the crew. Consequenty, on being activated the droid is classifying all of the crew as hostiles. In the ensuing fracas, the crewmembers were either immobilized and captured or in hiding. Making contact with crew members is the easiest ways for the PCs to learn what's going on. 
+While making a routine cargo run to Callisto, some of the transporter's crew, loitering around the cargo deck decided to tamper with the wrong package, a robotics system called T-12. The system is an advanced humanoid robot of unusual complexity. The crew members activated the robot for poops and giggles, not knowing that contrary to the manifest, the robot wasn't a "labour droid". When they tried to have some fun ordering the robot around they were attacked and immobilized. The robot is a prototype anti-piracy droid, intended to act as security onboard transports. However, the unit is not supposed to be activated without first being programmed with the identities of the crew. Consequenty, on being activated the droid is classifying all of the crew as hostiles. In the ensuing fracas, the crewmembers were either immobilized and captured or in hiding. Making contact with crew members is the easiest ways for the PCs to learn what's going on. 
 ====
 
 **Command Module** +
@@ -41,11 +41,19 @@ Tony Pendula shouts at the PCs that the tape sealing the doors is molecular bond
 
 Simone Acosta tells the PCs that she thinks that the incident started in the cargo hold, Lars Anderson and two of his maintance team were on Deck 11 just before the incident. Simone adds that she doesn't recognise the make of the droid, it is not part of the ship's official equipment.
 
-**Clamp Decks (9 and 20)** +
+**End Cap "Clamp" Decks (9 and 20)** +
 No obvious activity on these special decks that clamp each end of the huge cargo modules.
 
 **Cargo Decks** +
-There are nine cargo decks, each is 9m high, creating a really large area to explore. On Deck 10, in the central lot (D),
+There are nine cargo decks, each is 9m high, creating a really large area to explore. On Deck 10, in the central area at the top of the map (D) are clues to the origins of the trouble. The PCs can find a large storage container on which are planted flexiscreens that display various documents that claim that the container is storing a UD-27 manual labour droid. This is a fairly common utility droid. On the labels are a corporate insignia, a white rook chess-piece, set against a star field background. The logo doesn't connect with anything else in the adventure, it's really a clue for a future scenario that features Trigean Systems. 
+
+* The PCs might notice security cameras, suggesting that the events that played out in the cargo section might have been recorded.
+* A PC with computing skill can make a difficult role (10+) to notice a procedure burried in the container's documentation that allows for the robot's firmware to be remotely updated. This could be done from the central engineering control room (Deck 21).
+
+**Engineering Control** +
+This is currently the control centre for the transporter, since the activation of lockdown has disabled all controls in the command module. Naturally, it is also T-12's default hiding place.                      
+
+
 
 
 ==== Explore the ship
