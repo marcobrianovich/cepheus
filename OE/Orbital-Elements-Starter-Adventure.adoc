@@ -177,6 +177,8 @@ The PC's all go into shock. Their breathing becomes erratic and they need to mak
 
 The ITV Golden Goose is a Languedoc-class 30,000 ton heavy hauler. Originally built in the 2170s, the few that remain in operation have been retrofitted with updated engines, although their moduler design is otherwise unchanged. The vehicle is assembled around a 117m-long graphine-lymar composite stem. Behind the command module, a number of habitation decks are slotted-in. A single hab-deck can be fitted for a dedicated hauler that will only carry a crew, or upto twenty decks if the vehicle is going to be used as a slow passenger carrier. The hab deck design is an open ring, so that it can be easily slotted onto the stem, although the clamping is perminent, so hab decks can't be ejected. Removal requires a refit at a construction yard.
 
+image:https://db3pap001files.storage.live.com/y4mRF-vchjY_WugZUIFX6NYDfmujqPeTFV-SJLMvxLiqb6PYIZpbY3gndqixpb3q_7TZt0KU7kRsBqbpNJwFGUUSk7d7jLU8h7zKlQBdwlIrn0SN7I8ntLy8OIy6z5_NNm9X3H1BYKTLl_KS4GLpglrity4e4u8byVJnCAKvMxMTXnjb4PX_717tQ26-e_GbbeX?width=1024&height=616&cropmode=none[image1]
+
 The cargo modules come in various shapes and sizes, the Golden Goose carries two cargo modules that clamp onto the stem to form a cylinder. The two modules offer 9 identical decks, each with a 9-metre ceiling, allowing the transfer of very large items. In order to load and unload, the two halves uncouple and are moved away from the stem to make the large cargo doors accessible, while in transit there are no external hatches and the outer hull is heavily reinforced and shielded.      
 
 The cargo modules are held between decks nine and twenty, which contain machinery for seperating and reconnecting the modules for loading and unloading.
