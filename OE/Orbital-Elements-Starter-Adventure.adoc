@@ -12,7 +12,7 @@ image:https://db3pap001files.storage.live.com/y4m2BNQMeshdJIzqvQbzORXneLXCwgNIUs
 * link:#chapter-one---the-breaks[*Chapter One - _The Breaks_*] 
 * link:#chapter-two----free-fallin[*Chapter Two -  _Free Fallin_*] 
 * link:#chapter-three---fight-the-power[*Chapter Three - _Fight the Power_*]
-* link:#end-credits[End Credits]
+* link:#end-credits[*End Credits*]
 
 === Adventure Summary (Game Master's eyes only)
 
