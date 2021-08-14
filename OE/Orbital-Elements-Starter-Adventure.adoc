@@ -22,7 +22,7 @@ image:https://db3pap001files.storage.live.com/y4m2BNQMeshdJIzqvQbzORXneLXCwgNIUs
 
 * link:#adventure-summary-game-masters-eyes-only-1[*Adventure Summary*] 
 * link:#chapter-one---the-breaks-1[*Chapter One - _The Breaks_*] 
-* link:#chapter-two----free-fallin-1[*Chapter Two -_Free Fallin_*] 
+* link:#chapter-two---free-fallin-1[*Chapter Two -_Free Fallin_*] 
 * link:#chapter-three---fight-the-power-1[*Chapter Three - _Fight the Power_*]
 * link:#end-credits[*End Credits*]
 
