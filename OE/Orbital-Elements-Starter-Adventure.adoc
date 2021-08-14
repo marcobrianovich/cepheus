@@ -131,7 +131,7 @@ ____
 
 The twelve prisoners are escorted to the main operations deck and strapped to seating at a large table. Each prisoner draws a lazily fashioned straw. The PC's each draw a short straw. Before this moment, the PCs lived separate lives, now they are link by a momentary act of chance.
 
-The other prisoners appear visibly relieved. Many of the shoot you with concerned looks. Nobody speaks to you but their eyes are saying "it was nice knowing you."
+The other prisoners appear visibly relieved. Many of them shoot you with concerned looks. Nobody speaks to you but their eyes are saying "it was nice knowing you."
 
 The shuttle's XO gathers you and leads you to the EVA bay and airlock. You are dressed in slightly worn mid-range vacc suits.
 
@@ -147,7 +147,7 @@ The XO's face blanked, making the man's mood unreadible.
 ____
 *XO:* You must think I am a bad man. I am NOT a bad man. But I am a hard man. My duty is to protect my crew, above all else. I'm not impressing you, I'm making you all deputies. Regulation 275.9 'During an emergency situation, the command officers may deputize any passengers if there are insufficient crew to fulfil mission requirements safely.
 ____
-A klaxon sounds. Pumps being to pressureise the airlock. A guard checks over the PC's space suits. To one PC he tells them not to pull hard on the left sleave as the seam may have a micropuncture.
+A klaxon sounds. Pumps begin to pressurise the airlock. A guard checks over the PC's space suits. To one PC he tells them not to pull hard on the left sleave as the seam may have a micropuncture.
 
 ____
 *XO:* All you need to do is check out the transporter for survivors. Nobody on the ship is communicating, now. There's a chance the ship was completely abandoned or maybe the crew are awaiting rescue. Or they might all be dead from a deadly radiation leak, but it that happended we would surely detect it from your suit sensors the moment that you enter.
@@ -155,11 +155,21 @@ ____
 
 === Scene-2 Free fallin
 
-The PCs are strapped to a "huskie", a drone that astronaughts attach themselves to, that handles the maneuvers of an EVA. Ideal for people with little or no E.V.A experience.
+All PCs have the following equippment/capabilities:
+
+* 1 Worn light-armour space suits with integral comms, head-lamps and wrist-comp
+* 48-hour emergency provisions pack
+* 4 First Aid packs
+* Schematics of the Independent Trading Vehicle Golden Goose (loaded onto their wrist computers.)
+
+The PCs are strapped to a EVATD-79 "huskie", a coffin-sized drone with rungs that astronaughts attach themselves to. The drone handles the maneuvers of an EVA, so is ideal for people with little or no E.V.A experience.
 
 The PCs transfer 3000m between the shuttle and the transport vehicle. The PCs now have free reign to decide how and where they enter the vehicle.
 
-Pass out the deck arrangement sheet. The airlocks are displayed on the left-hand side. The Huskie will maneuver them to any location that they specify.
+[NOTE]
+====
+Pass out the deck arrangement sheet. The airlocks are displayed on the left-hand side. The Huskie will maneuver them to any location that they specify. *Shown below*
+====
 
 image:https://db3pap001files.storage.live.com/y4mZxiXRDVzd1Ftqoq6Lv-GZXZGAKLw3f812Mo-yAaE95r1Py0qGv3u78vobEm-Xb0Eep_wGZvuoWAYm2cA5GttIBGH5rel4YH0ceGziHmZ9qFZGEfQ5Im1F_3TlLGe1WNC-RFDeAO5EksgkF4Wiaj0YHDlQfG1LLVO28bxAMWWXmZmH3AJnIDuDaCKCEkXdy1s?width=724&height=1024&cropmode=none[image]
 
