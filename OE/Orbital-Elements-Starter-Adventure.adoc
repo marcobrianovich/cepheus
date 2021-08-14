@@ -6,9 +6,11 @@ NOTE: This adventure is intended for a group of 3-4 new players and a Game Maste
 
 image:https://db3pap001files.storage.live.com/y4m2BNQMeshdJIzqvQbzORXneLXCwgNIUs-iAeqAK_DaITAf8GskR65EqicCUI2jEq4O5ni54Wmd7uRXAlcxfMJL2xmErivpMQV2RLARtvSXO6zogoomZ4tEAl9oYhXVfIdMmqgBJGkz7uqGbDfskKkUVPnhJ62JWgQ8uzARMLP-nIZXZKN3uMVO6vQAbsDH3KG?width=1024&height=576&cropmode=none[image1]
 
+==== Section links
+
 * link:#adventure-summary-game-masters-eyes-only[*Adventure Summary*] 
 * link:#chapter-one---the-breaks[*Chapter One - _The Breaks_*] 
-* link:#[*Chapter Two -  _Free Fallin_*] 
+* link:#chapter-two----free-fallin[*Chapter Two -  _Free Fallin_*] 
 * link:#[*Chapter Three - _Fight the Power_*]
 
 === Adventure Summary (Game Master's eyes only)
