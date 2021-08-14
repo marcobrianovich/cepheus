@@ -157,11 +157,11 @@ Once the PCs select an entry point (or a number of entry points) then proceed to
 
 The moment that someone opens an airlock, there's a glow of light. A small module, about 2m long fires a projectile in the direction of the shuttle. Instantly the shuttle turns into a cloud of burning glass. Nothing is left, just streaking fragments o red hot hull. Gone in a blink.
 
-== I think we're alone now
+=== Chapter Two - _Free fallin_
 
 The PC's all go into shock. Their breathing becomes erratic and they need to make a difficult endurance role or suffer from panic. This increases the difficulty of all actions by 1 or 2 for D6 minutes. 
 
-=== Dancing in the Dark
+==== Dancing in the Dark
 
 The ITV Golden Goose is a Languedoc-class 30,000 ton heavy hauler. Originally built in the 2170s, the few that remain in operation have been retrofitted with updated engines, although their moduler design is otherwise unchanged. The vehicle is assembled around a 117m-long graphine-lymar composite stem. Behind the command module, a number of habitation decks are slotted-in. A single hab-deck can be fitted for a dedicated hauler that will only carry a crew, or upto twenty decks if the vehicle is going to be used as a slow passenger carrier. The hab deck design is an open ring, so that it can be easily slotted onto the stem, although the clamping is perminent, so hab decks can't be ejected. Removal requires a refit at a construction yard.
 
