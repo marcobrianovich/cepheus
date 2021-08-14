@@ -168,7 +168,7 @@ The PCs transfer 3000m between the shuttle and the transport vehicle. The PCs no
 
 [NOTE]
 ====
-Pass out the deck arrangement sheet. The airlocks are displayed on the left-hand side. The Huskie will maneuver them to any location that they specify. *Shown below*
+Pass out the deck arrangement sheet. The airlocks are displayed on the left-hand side (*See below*). The Huskie will maneuver The PCs to any location/airlock that they choose. 
 ====
 
 image:https://db3pap001files.storage.live.com/y4mZxiXRDVzd1Ftqoq6Lv-GZXZGAKLw3f812Mo-yAaE95r1Py0qGv3u78vobEm-Xb0Eep_wGZvuoWAYm2cA5GttIBGH5rel4YH0ceGziHmZ9qFZGEfQ5Im1F_3TlLGe1WNC-RFDeAO5EksgkF4Wiaj0YHDlQfG1LLVO28bxAMWWXmZmH3AJnIDuDaCKCEkXdy1s?width=724&height=1024&cropmode=none[image]
@@ -177,11 +177,11 @@ The PC's may choose to enter at different points. While this is challenging to r
 
 Once the PCs select an entry point (or a number of entry points) then proceed to the section that corresponds with that location.
 
-The moment that someone opens an airlock, there's a glow of light. A small module, about 2m long fires a projectile in the direction of the shuttle. Instantly the shuttle turns into a cloud of burning glass. Nothing is left, just streaking fragments o red hot hull. Gone in a blink.
+The moment that someone opens an airlock, there's a glow of light. A small module, about 2m long that may have been attached to the transporter fires a projectile in the direction of the shuttle. Instantly the shuttle turns into a cloud of hot, shrapnel-filled gass. Nothing is left of the shuttle, just streaking fragments o-red-hot hull. Gone in a blink.
 
 === Chapter Two - _Free fallin_
 
-The PC's all go into shock. Their breathing becomes erratic and they need to make a difficult endurance role or suffer from panic. This increases the difficulty of all actions by 1 or 2 for D6 minutes. 
+The PC's all go into shock. Their breathing becomes erratic and they need to make a difficult (8+) endurance role or suffer from panic. This increases the difficulty of all actions by 1 or 2 for D6 minutes. 
 
 ==== Dancing in the Dark
 
