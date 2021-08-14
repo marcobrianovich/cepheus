@@ -1,8 +1,20 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
 == Free fallin
 
+[.lead]
 The following mini-adventure is a great way to introduce new players to Orbital Elements. At the beginning of the adventure the PCs are not a party, but in the first chapter they are thrown together and must quickly learn to rely on each other in a deseperate struggle for survival. 
 
-NOTE: This adventure is intended for a group of 3-4 new players and a Game Master. You can create new characters before the adventure session or you can use the pre-rolled characters provided at the end of the adventure.
+[NOTE]
+====
+**NOTE:** This adventure is intended for a group of 3-4 new players and a Game Master. You can create new characters before the adventure session or you can use the pre-rolled characters provided at the end of the adventure.
+====
 
 image:https://db3pap001files.storage.live.com/y4m2BNQMeshdJIzqvQbzORXneLXCwgNIUs-iAeqAK_DaITAf8GskR65EqicCUI2jEq4O5ni54Wmd7uRXAlcxfMJL2xmErivpMQV2RLARtvSXO6zogoomZ4tEAl9oYhXVfIdMmqgBJGkz7uqGbDfskKkUVPnhJ62JWgQ8uzARMLP-nIZXZKN3uMVO6vQAbsDH3KG?width=1024&height=576&cropmode=none[image1]
 
@@ -14,6 +26,7 @@ image:https://db3pap001files.storage.live.com/y4m2BNQMeshdJIzqvQbzORXneLXCwgNIUs
 * link:#chapter-three---fight-the-power[*Chapter Three - _Fight the Power_*]
 * link:#end-credits[*End Credits*]
 
+[[summary]]
 === Adventure Summary (Game Master's eyes only)
 
 ==== Chapter One - _The Breaks_
@@ -92,7 +105,10 @@ If the PCs gain entry to Engineering control, or they manage to evade T-12 in an
 
 ==== Scene-1 
 
-Three weeks ago, you were heading for Mars aboard a scruffy but incredibly cheap transporter. Before you could decide what to spend the money you saved on, the transporter was intercepted by a military patrol vehicle working out of the Chinese colony on Callisto. Apparently the Chinese defense force personnel believed IPS Sugerhill, the cheap transporter has been involved in piracy. Everyone on the Sugerhill was handcuffed and taken aboard the patrol vehicle.
+.readout
+____
+Three weeks ago, you were heading for Mars aboard a scruffy but incredibly cheap transporter. Before you could decide what to spend the money you saved on, the transporter was   intercepted by a military patrol vehicle working out of the Chinese colony on Callisto. Apparently the Chinese defense force personnel believed IPS Sugerhill, the cheap    transporter has been involved in piracy. Everyone on the Sugerhill was handcuffed and taken aboard the patrol vehicle.
+____
 
 A few hours ago you and eleven other Sugerhill passengers were loaded onto a shuttle, destination unknown. The rumour was that the Defense vehicle was heading back to Callisto so prisoners were to be transferred to a prison bus. Twelve prisoners secured in a passenger cabin with three guards.
 
