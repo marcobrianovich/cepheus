@@ -68,7 +68,7 @@ This deck is essentially a balcony with an interior space filled with the fusion
 **Drive Deck (23)**+
 This deck provides access to the Quan-Ebrahimi drive. There's nothing here of interest but it does have an emergency airlock that T-12 can use to travel across the hull to access 
 
-===== Endgame
+
 
 T-12 is an unstoppable force and an immovable object, successfully completing the adventure is going to depend on some clever planning. The PCs have a number advantage and a ship full of stuff. Winning through combat is the least effective and most dangerous road to follow - the PCs begin the adventure unarmed and the firearms in the emergency locker are intended for use in self defense against human attackers. 
 
@@ -230,6 +230,8 @@ image:https://db3pap001files.storage.live.com/y4m4U2137eC1IdHbDkV4c97hJDjq09kmNi
 
 
 === Under Pressure
+
+=== Chapter Three - Fight the Power
 
 === NPCs
 
