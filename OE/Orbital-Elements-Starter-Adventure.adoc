@@ -16,13 +16,13 @@ image:https://db3pap001files.storage.live.com/y4m2BNQMeshdJIzqvQbzORXneLXCwgNIUs
 
 === Adventure Summary (Game Master's eyes only)
 
-=== Chapter One - _The Breaks_
+==== Chapter One - _The Breaks_
 
 In the opening chapter, the player characters are prisoners on a patrol carrier operated by the mercenary force that handles anti-piracy duties out of Lanserda Yeocan, the industrial settlement on Callisto. The players were unlucky enough to be travelling on a transporter that the mercenaries accused of piracy and impounded. All onboard the transporter were arrested. As play begins, the PCs have been held on the patrol carrier for three weeks. The captured passengers are then loaded onto two shuttles and launch to destinations unknown. All the PCs are loaded into the same shuttle. There are whispers among the other prisoners that the patrol carrier is returning to base is transferring the prisoners to a free station for interrogation and release.
 
 Within hours of its departure, the PC's shuttle makes a detour. The four crew become agitated. The talk between the passengers is that the shuttle has been ordered to investigate a transport ship that has gone dark after broadcasting an SOS. Soon, the PCs are selected by drawing straws for a potentially dangerous mission to board an apparently deralict transport vehicle.
 
-=== Chapter Two -  _Free fallin_
+==== Chapter Two -  _Free fallin_
 
 The PCs make the 300-metre trip to the apparently lifeless transport vehicle. The moment the players board, some kind of munition launches, destroying the shuttle that they were travelling on. The PCs now seem to be alone.
 
@@ -66,12 +66,12 @@ This is currently the control centre for the transporter, since the activation o
 **Fusion Control (22)** +
 This deck is essentially a balcony with an interior space filled with the fusion powerplants that stretches about 15 from top to bottom. There's nothing critical in this section unless you want to turn the power off or scuttle the transporter.
 
-**Drive Deck (23)**+
+**Drive Deck (23)** +
 This deck provides access to the Quan-Ebrahimi drive. There's nothing here of interest but it does have an emergency airlock that T-12 can use to travel across the hull to access 
 
+==== Chapter Three - _Fight the Power_
 
-
-T-12 is an unstoppable force and an immovable object, successfully completing the adventure is going to depend on some clever planning. The PCs have a number advantage and a ship full of stuff. Winning through combat is the least effective and most dangerous road to follow - the PCs begin the adventure unarmed and the firearms in the emergency locker are intended for use in self defense against human attackers. 
+Chapter three starts when the PCs have pieced together what's going on, have some contact with the trapped or hidden crew. The main focus of this final chapter is whatever plan the PCs come up with to take back control of the ship. T-12 is an unstoppable force and an immovable object, successfully completing the adventure is going to depend on some clever planning. The PCs have a number advantage and a ship full of stuff. Winning through combat is the least effective and most dangerous road to follow - the PCs begin the adventure unarmed and the firearms in the emergency locker are intended for use in self defense against human attackers. 
 
 The following list of strategies are available, although the PCs should be allowed to come up with their own plan, which as GM you will need to assess, to decide if it can work.
 
