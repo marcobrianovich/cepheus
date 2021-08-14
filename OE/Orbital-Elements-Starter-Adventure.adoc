@@ -11,7 +11,8 @@ image:https://db3pap001files.storage.live.com/y4m2BNQMeshdJIzqvQbzORXneLXCwgNIUs
 * link:#adventure-summary-game-masters-eyes-only[*Adventure Summary*] 
 * link:#chapter-one---the-breaks[*Chapter One - _The Breaks_*] 
 * link:#chapter-two----free-fallin[*Chapter Two -  _Free Fallin_*] 
-* link:#[*Chapter Three - _Fight the Power_*]
+* link:#chapter-three---fight-the-power[*Chapter Three - _Fight the Power_*]
+* link:#end-credits[End Credits]
 
 === Adventure Summary (Game Master's eyes only)
 
@@ -233,7 +234,17 @@ image:https://db3pap001files.storage.live.com/y4m4U2137eC1IdHbDkV4c97hJDjq09kmNi
 
 === Chapter Three - Fight the Power
 
-=== NPCs
+
+=== End Credits
+
+=== Appendix
+
+==== Trajan-12-x 
+
+Prototype anti-piracy droid. 
+
+
+==== NPCs
 
 ==== Almona Wash (Captain)
 
