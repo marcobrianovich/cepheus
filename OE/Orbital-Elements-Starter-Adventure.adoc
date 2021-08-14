@@ -122,7 +122,7 @@ The guards of the shuttle become agitated. The following conversation is hearded
 
 .Readout:
 ____
-**Guard 1:** We're being retasked. Apparently a transporter reports a possible pirate attack but the ship then went dark and hasn't changed course. I'm not risking my neck going onto a deralict, I didn't sign up to fight pirates. +
+**Guard 1:** We're being retasked. Apparently a transporter reports a possible pirate attack but then went dark and hasn't changed course. I'm not risking my neck going onto a deralict, I didn't sign up to fight pirates. +
 **Guard 2:** Ha ha, won't be any risk. Captain says the boarding crew is getting decided by a prisoner lottery. +
 **Guard 1:** NO WAY, I already lost one vacc suit this year when I was forced to lend it to a prisoner. +
 **Guard 2:** You don't loan a suit, you don't get a cut. It's a big ITV, a 30-thousand-tonner. Even if its empty there will be a million in salvage, each. + 
