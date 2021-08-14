@@ -20,10 +20,10 @@ image:https://db3pap001files.storage.live.com/y4m2BNQMeshdJIzqvQbzORXneLXCwgNIUs
 
 ==== Section links
 
-* link:#adventure-summary-game-masters-eyes-only[*Adventure Summary*] 
-* link:#chapter-one---the-breaks[*Chapter One - _The Breaks_*] 
-* link:#chapter-two----free-fallin[*Chapter Two -  _Free Fallin_*] 
-* link:#chapter-three---fight-the-power[*Chapter Three - _Fight the Power_*]
+* link:#adventure-summary-game-masters-eyes-only-1[*Adventure Summary*] 
+* link:#chapter-one---the-breaks-1[*Chapter One - _The Breaks_*] 
+* link:#chapter-two----free-fallin-1[*Chapter Two -_Free Fallin_*] 
+* link:#chapter-three---fight-the-power-1[*Chapter Three - _Fight the Power_*]
 * link:#end-credits[*End Credits*]
 
 [[summary]]
@@ -39,9 +39,10 @@ Within hours of its departure, the PC's shuttle makes a detour. The four crew be
 
 The PCs make the 300-metre trip to the apparently lifeless transport vehicle. The moment the players board, some kind of munition launches, destroying the shuttle that they were travelling on. The PCs now seem to be alone.
 
-[caption=]
-.*So what happened on the deralict?*
+
+[NOTE]
 ====
+*So what happened on the deralict?* +
 While making a routine cargo run to Callisto, some of the transporter's crew, loitering around the cargo deck decided to tamper with the wrong package, a robotics system called T-12. The system is an advanced humanoid robot of unusual complexity. The crew members activated the robot for poops and giggles, not knowing that contrary to the manifest, the robot wasn't a "labour droid". When they tried to have some fun ordering the robot around they were attacked and immobilized. The robot is a prototype anti-piracy droid, intended to act as security onboard transports. However, the unit is not supposed to be activated without first being programmed with the identities of the crew. Consequenty, on being activated the droid is classifying all of the crew as hostiles. In the ensuing fracas, the crewmembers were either immobilized and captured or in hiding. Making contact with crew members is the easiest ways for the PCs to learn what's going on. 
 ====
 
