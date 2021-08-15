@@ -231,7 +231,7 @@ ____
 
 There's a side room (Emergency Locker) that contains emergency equipment. There are two large lockers that require a biometric scan to open. These may contain sensitive materials, fire arms or controlled substances. There's no way to get into these cabinets, they can only be accessed by senior crew members.
 
-*(\C)* This room contains a briefing table, chairs. Some emergency equipment cabinets.
+*(+C+)* This room contains a briefing table, chairs. Some emergency equipment cabinets.
 
 *(D)* More backup systems. Big metal cabinets filled with hardware, emergency power cells.
 
@@ -279,20 +279,59 @@ The Hab modules are rings open at one end so they be slid onto the vehicle's ste
 
 [NOTE]
 ====
-On transporters that are set up for large numbers of decks, the emergency airlocks on each deck can be fitted with inflatable access tubes to provide additional access points. This arrangement is not in use on the Golden Goose.
+On transporters that are set up for large numbers of habitation decks, the emergency airlocks on each deck can be fitted with inflatable access tubes to provide additional access points. This arrangement is not in use on the Golden Goose, although individuals wearing vacc suits can move between decks.
 ====
 
-===== Deck 5
+===== Deck 5 (Habitation)
 
-===== Deck 6
+*(A)* *Emergency Airlocks* - The top one is designated for entry only. The bottom lock leads to an EVA room. This airlock leads directly into the corridor/utility space.
 
-===== Deck 7
+*(B)* *EVA room* - This room contains equipment for storing, getting in and out of vacc suits. There are three emergency vacc suits hanging in the opening on the bottom wall.
 
-===== Deck 8
+*(+C+)* *Lounge* - A large L-shaped room that contains couches, chairs and tables. On the inner wall, mounted against the stem are various food and drink vending machines.
 
-===== Deck 9
+*(D)* *Single-occupancy Stateroom* 
+
+*(E)* *Single-occupancy Stateroom* 
+
+*(F)* *Double-occupancy Stateroom* 
+
+*(G)* *Double-occupancy Stateroom* 
+
+*(H)* *Double-occupancy Stateroom* 
+
+*(I)* *Double-occupancy Stateroom* 
+
+*(J)* *Double-occupancy Stateroom* 
+
+*(K)* *Double-occupancy Stateroom* 
+
+*(L)* Locker/Safe
+
+===== Deck 6 (Habitation)
+
+This deck has exactly the same layout as Deck 5. Life support is running so the deck may be accessed. There's no sign of activity.
+
+===== Deck 7 (Habitation)
+
+This deck has exactly the same layout as Deck 5. Life support is not running, although the central stem is still accessible, there are sliding doors blocking the two entry ports into the deck. It's possible to access this deck via the emergency airlocks.
+
+===== Deck 8 (Habitation)
+
+This deck has exactly the same layout as Deck 5. Life support is running so the deck may be accessed. In the stem chamber, there is tape over the two entry ports into the hab deck. There's a wall mounted e-poster that reads "Stay out: Cleaning in progress". Someone has written "Say no to smelly passengers" in pen at the bottom of the poster.
+
+===== Deck 9 (Forward Cap)
+
+The vehicle's cargo hold modules are clamped between Deck 9 and Deck 20. This foward cap contains equipment that pushes the two cargo modules appart. Either the two cargo modules split appart to create an opening where cargo can be removed, or the modules are ejected so that they can be docked for 
+This deck has exactly the same layout as Deck 5. Life support is running so the deck may be accessed. There's no sign of activity.
+
+*(A)* *Utility room/workshop* - The two largest rooms on the deck are designed to be multifunctional. In the case of the Golden Goose, the top A has actually been turned into a gymnasium with various floor mounted exercise machines. In the tight corners of the room on the side of the stem there are large cases for machining tools and some 3D printers. In the lower (A) room, the workshop tools are set out, ready to fabricate or repair machinary.
+
+*(B)* *Stores* - Two rooms contain storage bins filled with parts and materials.
 
 ===== Deck 10
+
+
 
 image:https://db3pap001files.storage.live.com/y4mVOIei7qgPctmVuR5d121HVhL9uIQP0orXBYT1UIT6FKi_mNiMRlbW9qowJ2heh4iuwgv3r9yG2mtmUwAjszEUYTudU3H914G1sgpRq0isBvmUKbDI_b0ouTsE0gekSb47_zkD9oWnNsl5jzE8bNJNgtLwPDNNyytY6GsacYouJT4lgY1qqBZnBRc7WXek_pe?width=724&height=1024&cropmode=none[image]
 
