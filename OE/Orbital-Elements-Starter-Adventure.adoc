@@ -106,8 +106,8 @@ If the PCs gain entry to Engineering control, or they manage to evade T-12 in an
 
 ==== Scene-1 
 
-*Location:* Patrol craft: Jian Suur (Sword-4), Jupiter far orbit
-*Time:* June 12th 2288* 
+*Location:* Patrol craft: Jian Suur (Sword-4), Jupiter far orbit +
+*Time:* June 12th 2288 
 
 .Readout:
 ____
@@ -153,7 +153,7 @@ ____
 *XO:* All you need to do is check out the transporter for survivors. Nobody on the ship is communicating, now. There's a chance the ship was completely abandoned or maybe the crew are awaiting rescue. Or they might all be dead from a deadly radiation leak, but it that happended we would surely detect it from your suit sensors the moment that you enter.
 ____
 
-=== Scene-2 Free fallin
+=== Scene-2 I think we're alone now
 
 All PCs have the following equippment/capabilities:
 
@@ -164,7 +164,7 @@ All PCs have the following equippment/capabilities:
 
 The PCs are strapped to a EVATD-79 "huskie", a coffin-sized drone with rungs that astronaughts attach themselves to. The drone handles the maneuvers of an EVA, so is ideal for people with little or no E.V.A experience.
 
-The PCs transfer 3000m between the shuttle and the transport vehicle. The PCs now have free reign to decide how and where they enter the vehicle.
+The PCs transfer 3000m between the shuttle and the transport vehicle. The PCs are now free to decide how and where they enter the vehicle.
 
 [NOTE]
 ====
@@ -177,7 +177,14 @@ The PC's may choose to enter at different points. While this is challenging to r
 
 Once the PCs select an entry point (or a number of entry points) then proceed to the section that corresponds with that location.
 
+*BOOM* +
+
 The moment that someone opens an airlock, there's a glow of light. A small module, about 2m long that may have been attached to the transporter fires a projectile in the direction of the shuttle. Instantly the shuttle turns into a cloud of hot, shrapnel-filled gass. Nothing is left of the shuttle, just streaking fragments o-red-hot hull. Gone in a blink.
+
+.Readout:
+____
+Moments after the airlock opens, you become aware of a sudden brilliant bright flare. Turning to the ball of light, your vision is momentarily lost by the glare. The light is coming from the direction of your shuttle. As your vision clears you now see tumbling fragments of hot metal and plastic. The shuttle has been destroyed. 
+____
 
 === Chapter Two - _Free fallin_
 
@@ -185,11 +192,13 @@ The PC's all go into shock. Their breathing becomes erratic and they need to mak
 
 ==== Dancing in the Dark
 
-The ITV Golden Goose is a Languedoc-class 30,000 ton heavy hauler. Originally built in the 2170s, the few that remain in operation have been retrofitted with updated engines, although their moduler design is otherwise unchanged. The vehicle is assembled around a 117m-long graphine-lymar composite stem. Behind the command module, a number of habitation decks are slotted-in. A single hab-deck can be fitted for a dedicated hauler that will only carry a crew, or upto twenty decks if the vehicle is going to be used as a slow passenger carrier. The hab deck design is an open ring, so that it can be easily slotted onto the stem, although the clamping is perminent, so hab decks can't be ejected. Removal requires a refit at a construction yard.
+The deralict vehicle is an independant transport vehicle called the Golden Goose. Readings show that the power is on but the engines are off, so the Golden Goose is coasting along. This means no acceleration, so no simulated gravity. Many onboard operations will require Zero-G skill checks.
+
+The ITV Golden Goose is a Languedoc-class 30,000 ton heavy hauler. Originally built in the 2170s, the few that remain in operation have been retrofitted with updated engines, although their moduler design is otherwise unchanged. The vehicle is assembled around a 200m-long graphine-lymar composite stem. Behind the command module, a number of habitation decks are slotted-in. A single hab-deck can be fitted for a dedicated hauler that will only carry a crew, or upto twenty decks if the vehicle is going to be used as a slow passenger carrier. The hab deck design is an open ring, so that it can be easily slotted onto the stem, although the clamping is perminent, so hab decks can't be ejected. Removal requires a refit at a construction yard.
 
 image:https://db3pap001files.storage.live.com/y4mHV_uhTQjk01vl0KeIQAwNxNDFlnIGPRWklJ7Gyk6JUtWj_TwWp_5DqgD2ZchPku8iTz4ArqjkYIX-rmTw1werVUWxPWdGYetGmTrUlc85uDB-IFiCrFZC57vWSPT7enzwnbZLLygQT0vE-Z-g5yZ3fCH5QVbA2OhqelfsOTSsrI2F-lcjRAjSMtR7-02nt0V?width=1024&height=616&cropmode=none[image1]
 
-The cargo modules come in various shapes and sizes, the Golden Goose carries two cargo modules that clamp onto the stem to form a cylinder. The two modules offer 9 identical decks, each with a 9-metre ceiling, allowing the transfer of very large items. In order to load and unload, the two halves uncouple and are moved away from the stem to make the large cargo doors accessible, while in transit there are no external hatches and the outer hull is heavily reinforced and shielded.      
+The cargo modules come in various shapes and sizes, the Golden Goose carries two cargo modules that clamp onto the stem to form a cylinder. The two modules offer 9 identical decks, each is 9m, allowing the transportation of very large items, such as vehicles, plant machinary, even small space vehicles. In order to load and unload, the two halves uncouple and are moved away from the stem to make the large cargo doors accessible, while in transit there are no external hatches and the outer hull is heavily reinforced and shielded.      
 
 The cargo modules are held between decks nine and twenty, which contain machinery for seperating and reconnecting the modules for loading and unloading.
 
@@ -201,20 +210,56 @@ image:https://db3pap001files.storage.live.com/y4mUGDji4EfnaNKZ31Eeo5M3AqKSBOOfDU
 
 ===== Deck 1
 
-*A* Avionics deck is seperated from Deck 2 by grilling, with lots of gaps.|Ladders in the central stem of Deck 2 can be used when the ship is under acceleration.
+*(A)* Avionics deck is seperated from Deck 2 by grilling, with lots of gaps.|Ladders in the central stem of Deck 2 can be used when the ship is under acceleration.
 
 No signs of any trouble. Ships systems appear to be unimpaired but an *+8* piloting or computer roll will reveal that the ship's systems are locked down from engineering.
 
-===== Deck 2
+____
+This deck is located at the front of the vehicle, it's an open space, filled with system cabinets, cabling and monitors. Metal grilled walkways separate it from the deck below. There are no access tubes down to Deck 2, just ladders, which lead down into Deck-2's access tubes. While the Goose is not accelerating, it's possible to move between Deck1 and Deck2 without using the ladders. There's no sign of life, or any obvious problem. Everything is on and working.
+____
 
-*B* Backup systems. This has a simplified control systems duplicated from Deck 3 so that i~?
 
-*C*
-*D*
+===== Deck 2 (AVIONICS)
 
-===== Deck 3
+*(B)* Backup systems. This has a simplified control systems duplicated from actual command deck (Deck 3). At the moment this room is in hot-shutdown. This means that everything is on and is duplicating the status of the control systems  on the main deck. However, most of the holo-displays show a bit "Lock-down" label. Piloting roll 6+ indicates that this means that the vehicle's controls are disabled. This is standard procedure if there is any threat that a hostile force has taken control of the command deck.
 
-===== Deck 4
+There's a side room (Emergency Locker) that contains emergency equipment. There are two large lockers that require a biometric scan to open. These may contain sensitive materials, fire arms or controlled substances. There's no way to get into these cabinets, they can only be accessed by senior crew members.
+
+*(C)* This room contains a briefing table, chairs. Some emergency equipment cabinets.
+
+*(D)* More backup systems. Big metal cabinets filled with hardware, emergency power cells.
+
+===== Deck 3 (COMMAND DECK)
+____
+You can immediately tell this is the command deck. Everything is triple-reinforced. The bulkhead materials are made of exotic materials and the crew section is protected by a secondary wall. Outside the wall are wall mounted cabinets and boxes that carry cables and piping. The ring-shaped outer corridor ends in an airlock system that opens on one side into the stem access tubes, and opens into a command docking airlock on the other. Emergency Vacc suits hang on the wall next to the airlock.
+____
+
+*(E)* Bridge. There are three crew positions for a pilot, a captain and a systems officer.
+____
+The deck is dark. Lit by a dim red emergency light. Most screens display the words "Lockdown". There's a coffee beaker floating near a wall. Droplets of coffee hang in the air. There's no signs of the crew. No obvious damage, or signs of violence.
+____
+
+*(F)* Command Ring. airlocks to the stem access system and the command docking airlock.
+
+==== Stem Access
+
+image:https://db3pap001files.storage.live.com/y4mltktz23PrSN8vTyNHWcHIPnvmWmMmia0M5AJKeAzVLe5e-UzkV8Kc3zVDPzfTmkU9bZ5MqfbIYXYsUMxGHdGXZrUOECSmj0lmbE3XVQhN2Cv1Cx16c6tr-nl8enRLWAWOIMtmiFMXV_sk8QJe0dKTVuz-d4sgE16I0PhqILcE51UL-ts4GGPhxqHGS_yIH1L?width=635&height=377&cropmode=none[image]
+
+Running almost the entire length of the Golden Goose is the stem, a tube of incredibly strong exotic material on which most of the rest of the vehicle's elements are attached. At the centre of the stem are access decks that connect the stem to the surrounding module, through an airlock or hatch.
+
+*Transit Pod* +
+ At the very centre is a Transit Pod, (labled as "Rapid Transit" on the sliding door). It's a souped-up elevator that responds to a button call. When it arrives at your deck a sliding door opens, you board it and strap yourself to the wall, then select a destination deck. Transit times are very short, end-to-end in 30 seconds, which pulls some gee. Travelling in the pod is unconfortable but it gets you from one side of the vechicle to the other in seconds, which could be critically important.
+
+There's no possible access to the elevator chamber. It's not pressurized and the operation of the pod would hit and then catapult anyone in the shaft to their likely doom. When the vehicle is under normal motion, the Transit Pod shaft is no different from a lift shaft. Falling hundreds of metres under low-g is still likely to be fatal.
+
+===== Deck 4 (SYSTEMS)
+
+*(G)* Systems Control. Banks of monitors and controls handle most systems that are not part of the vehicle's propulsion, navigation or maneuvering. This includes life-support, communications, security. There's a single crew post for monitoring. This console is also locked down.
+____
+To the right of the entry hatch are a load of plastic boxes. Some are opened and various bits of supplies and equipment float around them. It looks like someone was looking for something and left a mess. The stuff is all random like basic meds, ration and battery packs.
+____
+
+*(H)* Systems Ring. This deck contains backup life support systems. Pipes and machinary that handle water purification and air filtration.
 
 ==== Hab Modules
 
