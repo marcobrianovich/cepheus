@@ -194,7 +194,7 @@ The PC's all go into shock. Their breathing becomes erratic and they need to mak
 
 The deralict vehicle is an independant transport vehicle called the Golden Goose. Readings show that the power is on but the engines are off, so the Golden Goose is coasting along. This means no acceleration, so no simulated gravity. Many onboard operations will require Zero-G skill checks.
 
-The ITV Golden Goose is a Languedoc-class 30,000 ton heavy hauler. Originally built in the 2170s, the few that remain in operation have been retrofitted with updated engines, although their moduler design is otherwise unchanged. The vehicle is assembled around a 200m-long graphine-lymar composite stem. Behind the command module, a number of habitation decks are slotted-in. A single hab-deck can be fitted for a dedicated hauler that will only carry a crew, or upto twenty decks if the vehicle is going to be used as a slow passenger carrier. The hab deck design is an open ring, so that it can be easily slotted onto the stem, although the clamping is perminent, so hab decks can't be ejected. Removal requires a refit at a construction yard.
+The ITV Golden Goose is a Languedoc-class 30,000 ton heavy hauler. Originally built in the 2190s, the few that remain in operation have been retrofitted with updated engines, although their moduler design is otherwise unchanged. The vehicle is assembled around a 200m-long graphine-lymar composite stem. Behind the command module, a number of habitation decks are slotted-in. A single hab-deck can be fitted for a dedicated hauler that will only carry a crew, or upto twenty decks if the vehicle is going to be used as a slow passenger carrier. The hab deck design is an open ring, so that it can be easily slotted onto the stem, although the clamping is perminent, so hab decks can't be ejected. Removal requires a refit at a construction yard.
 
 image:https://db3pap001files.storage.live.com/y4mHV_uhTQjk01vl0KeIQAwNxNDFlnIGPRWklJ7Gyk6JUtWj_TwWp_5DqgD2ZchPku8iTz4ArqjkYIX-rmTw1werVUWxPWdGYetGmTrUlc85uDB-IFiCrFZC57vWSPT7enzwnbZLLygQT0vE-Z-g5yZ3fCH5QVbA2OhqelfsOTSsrI2F-lcjRAjSMtR7-02nt0V?width=1024&height=616&cropmode=none[image1]
 
@@ -202,7 +202,13 @@ The cargo modules come in various shapes and sizes, the Golden Goose carries two
 
 The cargo modules are held between decks nine and twenty, which contain machinery for seperating and reconnecting the modules for loading and unloading.
 
-The next section is huge torus that stores the vehicle's reaction mass, either water or, in later models carbon-diamond dust. Three seperate fusion power plants are fitted within the hole of the torus. Two plants are run, leaving the third in cold-shutdown as a backup. Most of the generated power is used to supply the drive module which is equipped with six Amarok-71 QE-thrusters for a sustained 0.5g acceleration. Fully loaded, this gets a Languedoc from Earth to Mars in 8-14 days.                       
+The next section is huge torus that stores the vehicle's reaction mass, either water or, in later models carbon-diamond dust. Three seperate fusion power plants are fitted within the hole of the torus. Two plants are run, leaving the third in cold-shutdown as a backup. Most of the generated power is used to supply the drive module which is equipped with six Amarok-71 QE-thrusters for a sustained 0.5g acceleration. Fully loaded, this gets a Languedoc from Earth to Mars in 8-14 days. 
+
+[NOTE]
+====
+.Describing the Golden Goose
+This is not a standard space vehicle. You might be generous and describe it as a "classic" but in truth, this is a very old ship. Most of its internals, engine, and systems have been replaced two or three times during its 80 years of service, although most systems are still probably about 20-years old. Nothing is outright grimy but almost everything is showing wear-and-tear. Most things work as they should and mostly they work first time, but not always. _Don't overplay "rickety", but once in a while remind the PCs that this maybe not the most reliable or safest transporter._
+====                      
 
 ==== Command Module
 
@@ -225,7 +231,7 @@ ____
 
 There's a side room (Emergency Locker) that contains emergency equipment. There are two large lockers that require a biometric scan to open. These may contain sensitive materials, fire arms or controlled substances. There's no way to get into these cabinets, they can only be accessed by senior crew members.
 
-*(C)* This room contains a briefing table, chairs. Some emergency equipment cabinets.
+*(\C)* This room contains a briefing table, chairs. Some emergency equipment cabinets.
 
 *(D)* More backup systems. Big metal cabinets filled with hardware, emergency power cells.
 
@@ -269,7 +275,12 @@ ____
 image:https://db3pap001files.storage.live.com/y4mwu0QMOxXlAHggGNhprGi_s75CTF1YfJ9nR-BC_mOxFfS8Tbum3NluZhdECWXMvtM-fderghyXzonowAdBF0JEWUPEb7TzJeL5Bn1enS1r5EAovk2_IHDDxP53a31ERv8SgLNG-CkcuZauQsLzpNp2Rn63s2u1nebgqRJG2mWQwdXLFimcU2Dr3IE1SUk89_X?width=724&height=1024&cropmode=none[image]
 
 
-The Hab modules are rings open at one end so they be slid onto the vehicle's stem. Each of the four decks are identical in layout, although only the top deck was in use during its current trip. The other decks were being cleaned prior to picking up passengers.
+The Hab modules are rings open at one end so they be slid onto the vehicle's stem. Each of the four decks are identical in layout, although only the top deck was in use during its current trip. The other decks were being cleaned prior to picking up passengers. If you look at the deck arrangement diagram you may notice that the decks don't actually stack together, there's a 70cm gap between each deck. The only way to travel between decks is via the stem. 
+
+[NOTE]
+====
+On transporters that are set up for large numbers of decks, the emergency airlocks on each deck can be fitted with inflatable access tubes to provide additional access points. This arrangement is not in use on the Golden Goose.
+====
 
 ===== Deck 5
 
