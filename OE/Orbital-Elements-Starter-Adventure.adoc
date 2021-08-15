@@ -252,6 +252,9 @@ Running almost the entire length of the Golden Goose is the stem, a tube of incr
 
 There's no possible access to the elevator chamber. It's not pressurized and the operation of the pod would hit and then catapult anyone in the shaft to their likely doom. When the vehicle is under normal motion, the Transit Pod shaft is no different from a lift shaft. Falling hundreds of metres under low-g is still likely to be fatal.
 
+*Ladder and rail tube* +
+These tubes contain two ladders, one to the left and one to the right of entry, allowing two people to pass each other while travelling up or down the shaft. In the centre of each ladder is a rail that you connect a safety harness to. Wearing a harness that connects to the rail is a mandatory part of the ladder operation. If you enter and don't connect your harness, the tube's emergency valves close. While operating in the tubes is not risky in zero-g, the moment the engines go on, there's an obvious risk of unexpected falling. The rail system allows you to climb or pull yourself along the tube (in zero-g) at quite high speed, it only locks when the motion is sudden and under high force.
+
 ===== Deck 4 (SYSTEMS)
 
 *(G)* Systems Control. Banks of monitors and controls handle most systems that are not part of the vehicle's propulsion, navigation or maneuvering. This includes life-support, communications, security. There's a single crew post for monitoring. This console is also locked down.
