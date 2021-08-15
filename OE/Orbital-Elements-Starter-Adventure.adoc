@@ -325,6 +325,8 @@ This deck has exactly the same layout as Deck 5. Life support is running so the 
 The vehicle's cargo hold modules are clamped between Deck 9 and Deck 20. This foward cap contains equipment that pushes the two cargo modules appart. Either the two cargo modules split appart to create an opening where cargo can be removed, or the modules are ejected so that they can be docked for 
 This deck has exactly the same layout as Deck 5. Life support is running so the deck may be accessed. There's no sign of activity.
 
+The stem Access section is surrounded by a ring corridor that leads into the utility rooms and the long stores. Additionally, there's an airlock in the ceiling that leads to the stemp external ladder/rail system which runs the entire length of the step, leading up to a corresponding airlock at the top end of the stem. Should the stem access system become impassable, this system can be used to get people about.                                                                                                                                                                            
+
 *(A)* *Utility room/workshop* - The two largest rooms on the deck are designed to be multifunctional. In the case of the Golden Goose, the top A has actually been turned into a gymnasium with various floor mounted exercise machines. In the tight corners of the room on the side of the stem there are large cases for machining tools and some 3D printers. In the lower (A) room, the workshop tools are set out, ready to fabricate or repair machinary.
 
 *(B)* *Stores* - Two rooms contain storage bins filled with parts and materials.
