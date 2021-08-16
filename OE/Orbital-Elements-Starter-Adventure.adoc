@@ -282,6 +282,8 @@ The Hab modules are rings open at one end so they be slid onto the vehicle's ste
 On transporters that are set up for large numbers of habitation decks, the emergency airlocks on each deck can be fitted with inflatable access tubes to provide additional access points. This arrangement is not in use on the Golden Goose, although individuals wearing vacc suits can move between decks.
 ====
 
+==== Hab Decks
+
 ===== Deck 5 (Habitation)
 
 *(A)* *Emergency Airlocks* - The top one is designated for entry only. The bottom lock leads to an EVA room. This airlock leads directly into the corridor/utility space.
@@ -331,34 +333,66 @@ The stem Access section is surrounded by a ring corridor that leads into the uti
 
 *(B)* *Stores* - Two rooms contain storage bins filled with parts and materials.
 
+
+==== Cargo Modules
+
+The Golden Goose carries two cargo modules, each module connects to the step to form a single cylinder. For loading and unloading, the two modules separate and move away from the step to allow access to the roller-shuttered ports. While all the other decks on the Godlen Goose are three metres heigh, the cargo decks are nine metres, floor to ceiling. This makes the cargo module large enough to carry a wide ranger of shipping container types, or large items such as vehicles or plant machinary. 
+
+
+
 ===== Deck 10
-
-The cargo decks 
-
 
 image:https://db3pap001files.storage.live.com/y4mVOIei7qgPctmVuR5d121HVhL9uIQP0orXBYT1UIT6FKi_mNiMRlbW9qowJ2heh4iuwgv3r9yG2mtmUwAjszEUYTudU3H914G1sgpRq0isBvmUKbDI_b0ouTsE0gekSb47_zkD9oWnNsl5jzE8bNJNgtLwPDNNyytY6GsacYouJT4lgY1qqBZnBRc7WXek_pe?width=724&height=1024&cropmode=none[image]
 
+*(A)* *Stem Access System* - This area is consistent all the way along the length of the transporter. Note that everything beyond the hatch doors in A are part of either of the two cargo modules. 
+
+*(B)* *Clamp room* - When the cargo containers separate from the transport, this space opens out to vacuum, as the outer wall of B is actually part of the wall of the cargo container. The wall mounted equipment, must of which is part of the clamp machinary, is all vacuum hardened and certified for space operations.
+
+*(+C+)* *Starboard Hold* - Large cargo space filled with 3m x 12m shipping containers. There are ladder tubes on the other walls that lead just between the cargo decks.
+
+*(D)* *Marshalling Area* - This part of the cargo decks has a crain system for moving shipping containers between decks. There's a 15m x 18m openning between decks. This opening has a sliding door that can isolate each deck from the rest. When the hatch is open on all nine decks, there's a nearly 200m drop.
+
 ===== Deck 11
+
+This deck has exactly the same layout as Deck 10. Life support is running so the deck may be accessed. The floor and ceiling hatches in the (D) areas are all open. There's no sign of activity.
 
 ===== Deck 12
 
+This deck has exactly the same layout as Deck 10. Life support is running so the deck may be accessed. The ceiling hatches (leading to deck 11) are open but the floor hatches (leading to Deck 13) are both closed. There's no sign of activity.
+
 ===== Deck 13
+
+This deck has exactly the same layout as Deck 10. Life support is running so the deck may be accessed.  The floor and ceiling hatches in the (D) areas are all closed. There's no sign of activity. 
 
 ===== Deck 14
 
+This deck has the same layout as Deck 10, although there is noticably more superstructure on the floor, indicating that this is the centre of the module. Life support is running so the deck may be accessed. The floor and ceiling hatches in the (D) areas are all closed. There's no sign of activity. 
+
 ===== Deck 15
+
+This deck has exactly the same layout as Deck 10. Life support is running so the deck may be accessed.  The floor and ceiling hatches in the (D) areas are all closed. There's no sign of activity. 
 
 ===== Deck 16
 
+This deck has exactly the same layout as Deck 10. Life support is running so the deck may be accessed.  The floor and ceiling hatches in the (D) areas are all closed. There's no sign of activity. 
+
 ===== Deck 17
+
+This deck has exactly the same layout as Deck 10. Life support is running so the deck may be accessed.  The floor and ceiling hatches in the (D) areas are all closed. There's no sign of activity. 
 
 ===== Deck 18
 
+This deck has exactly the same layout as Deck 10. The hatches are locked. It looks like fault in the air pumps is caused the pressure in the chamber to drop considerably. The hatches lock to prevent an decompression event.  The floor and ceiling hatches in the (D) areas are all closed. There's no sign of activity. If the PCs want to get access to the cargo decks, they can depressure it, then enter wearing a vacc suit. There's nothing special here.
+
 ===== Deck 19
+
+This deck has exactly the same layout as Deck 10, although there are no floor hatches. Life support is running so the deck may be accessed. The floor and ceiling hatches in the (D) areas are all closed. There's no sign of activity. 
 
 image:https://db3pap001files.storage.live.com/y4mWvdRW0WS76GKcAj16uen9fYrd0NK80GXJ2GNSnGbClxNn_unyEcHUIxiEXWJsfRMe3094BiOb1pyfKDwbHT0bZlr7NxYV9rmU_YSdjzu5tg7Pd5mdwuKAdDNsQGY6NWH48hnkihriDazI4nbRpXe8Nrsu9MmfqfvIw7h13H5Xe6E4R4dK-tYu7Vm5S3oC40A?width=724&height=1024&cropmode=none[image]
 
-===== Deck 20
+===== Deck 20 (End Cap)
+
+This is the reverse of deck 9. The clamping machinary connect to the bottom of the cargo containers. There's also no stem airlock system as from this deck, the stem integrates into the rear sections.
 
 ===== Deck 21
 
