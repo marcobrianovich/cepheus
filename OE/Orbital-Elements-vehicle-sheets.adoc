@@ -14,7 +14,7 @@ The Fǎng shā gǔ (Fang-SHA-Gaw) "Spinning Bone" class shuttle is a common sigh
 |QE-Drive: B
 |Fuel: 12 tons (6 weeks of operation)
 |Reaction Mass: |20 tons
-|Cabin space: |29 tons (In a standard layout there is seating for 20 passengers)
+|Cabin space: |29 tons (In a standard layout there is seating for 20 passengers + 10-tons of cargo space
 |Hardpoints | 1 Point Defense Laser
 |===
 
