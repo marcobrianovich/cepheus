@@ -196,13 +196,15 @@ The deralict vehicle is an independant transport vehicle called the Golden Goose
 
 The ITV Golden Goose is a Languedoc-class 30,000 ton heavy hauler. Originally built in the 2190s, the few that remain in operation have been retrofitted with updated engines, although their moduler design is otherwise unchanged. The vehicle is assembled around a 200m-long graphine-lymar composite stem. Behind the command module, a number of habitation decks are slotted-in. A single hab-deck can be fitted for a dedicated hauler that will only carry a crew, or upto twenty decks if the vehicle is going to be used as a slow passenger carrier. The hab deck design is an open ring, so that it can be easily slotted onto the stem, although the clamping is perminent, so hab decks can't be ejected. Removal requires a refit at a construction yard.
 
-image:https://db3pap001files.storage.live.com/y4m0YdFs_Fmzqv1pvy-8snGnknIhDtGX853VAKwhdanaEUuIw2_s7UKZWOyA-mAEPqxzi4wZHlm_1JGRl9nTZNo4H4-FLwoDG2vbRFp6Qyx4LMgyWL1bhrzTPD3DHrJb8yQ0--ciNGiTvplaJjiAzUPWYGIzxi-K2Mwc2l9vVNEyehW0uxdILlHDAb7wMusgDNR?width=1024&height=704&cropmode=none[image]
+image:https://db3pap001files.storage.live.com/y4mHV_uhTQjk01vl0KeIQAwNxNDFlnIGPRWklJ7Gyk6JUtWj_TwWp_5DqgD2ZchPku8iTz4ArqjkYIX-rmTw1werVUWxPWdGYetGmTrUlc85uDB-IFiCrFZC57vWSPT7enzwnbZLLygQT0vE-Z-g5yZ3fCH5QVbA2OhqelfsOTSsrI2F-lcjRAjSMtR7-02nt0V?width=1024&height=616&cropmode=none[image]
 
 The cargo modules come in various shapes and sizes, the Golden Goose carries two cargo modules that clamp onto the stem to form a cylinder. The two modules offer 9 identical decks, each is 9m, allowing the transportation of very large items, such as vehicles, plant machinary, even small space vehicles. In order to load and unload, the two halves uncouple and are moved away from the stem to make the large cargo doors accessible, while in transit there are no external hatches and the outer hull is heavily reinforced and shielded.      
 
 image:https://db3pap001files.storage.live.com/y4m0YdFs_Fmzqv1pvy-8snGnknIhDtGX853VAKwhdanaEUuIw2_s7UKZWOyA-mAEPqxzi4wZHlm_1JGRl9nTZNo4H4-FLwoDG2vbRFp6Qyx4LMgyWL1bhrzTPD3DHrJb8yQ0--ciNGiTvplaJjiAzUPWYGIzxi-K2Mwc2l9vVNEyehW0uxdILlHDAb7wMusgDNR?width=1504&height=1034&cropmode=none[image]
 
 The cargo modules are held between decks nine and twenty, which contain machinery for seperating and reconnecting the modules for loading and unloading.
+
+image:https://db3pap001files.storage.live.com/y4m0YdFs_Fmzqv1pvy-8snGnknIhDtGX853VAKwhdanaEUuIw2_s7UKZWOyA-mAEPqxzi4wZHlm_1JGRl9nTZNo4H4-FLwoDG2vbRFp6Qyx4LMgyWL1bhrzTPD3DHrJb8yQ0--ciNGiTvplaJjiAzUPWYGIzxi-K2Mwc2l9vVNEyehW0uxdILlHDAb7wMusgDNR?width=1024&height=704&cropmode=none[image]
 
 The next section is huge torus that stores the vehicle's reaction mass, either water or, in later models carbon-diamond dust. Three seperate fusion power plants are fitted within the hole of the torus. Two plants are run, leaving the third in cold-shutdown as a backup. Most of the generated power is used to supply the drive module which is equipped with six Amarok-71 QE-thrusters for a sustained 0.5g acceleration. Fully loaded, this gets a Languedoc from Earth to Mars in 8-14 days. 
 
