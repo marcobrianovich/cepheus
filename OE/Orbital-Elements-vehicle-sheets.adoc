@@ -1,0 +1,20 @@
+
+=== Fǎng shā gǔ-class Medium Shuttle (Rig)
+
+The Fǎng shā gǔ (Fang-SHA-Gaw) "Spinning Bone" class shuttle is a common sight throughout the solar system. Durable and cheap to operate, it's used in both civilian and military roles, mostly for passenger transport between destinations in the same planetary system. While the "bone" is capable of a trip between worlds inner-system worlds, you would need to increase stores and reduce the passenger count as you'd be looking at a month-long journey.
+
+
+|===
+|Type: | Medium Rig
+|Role: | Shuttle
+|Class: | Fǎng shā gǔ
+|Displacement | 100 dT
+|Mass: (unloaded | 196 metric tons
+|Armour: |4 Crystaliron/Composite
+|QE-Drive: B
+|Fuel: 12 tons (6 weeks of operation)
+|Reaction Mass: 20 tons
+|Cabin space: 29 tons
+|===
+
+image:https://db3pap001files.storage.live.com/y4mPDzFGLhQaSphSzS4vL04-U1UPAAPjyFh-sc9MzY__iSKLnKL9Gnxpyb8nX9bDWhk52a6aLzBZ_8xEhA4kBdX1Utx_Cr0DJn7HaIDzUNu4DY_LsFmcTjCnIC-Zwx9C9mpLq2s30BEUH7TWm5jLctJ-zYtYSuEb8Nw7oNCI7esMzvXEwsRK7zqkTfa8ejxqdeL?width=1024&height=576&cropmode=none[image1]
