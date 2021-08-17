@@ -6,18 +6,18 @@ image:https://db3pap001files.storage.live.com/y4m95VK56sX_rZ8a3XlnxPPro3LYoDauq1
 The R-62 Fǎng shā gǔ (Fang-SHA-Gaw) "Spinning Bone" class shuttle is a common sight throughout the solar system. Durable and cheap to operate, it's used in both civilian and military roles, mostly for short-range passenger transport. While the "62" has an operating range of that would permit travel between inner-system worlds, it lacks suitable stores or cabin space make it a poor choice for long journeys. 
 
 |===
-|Type: | Medium Rig
-|Role: | Shuttle
-|Class: | Fǎng shā gǔ
-|Displacement | 100 dT
-|Mass: (unloaded | 196 metric tons
-|Armour: |4 Crystaliron/Composite
-|Powerplant:| B
-|QE-Drive:| B
-|Fuel: 12 tons (6 weeks of operation)
-|Reaction Mass: |20 tons
-|Cabin space: |29 tons (In a standard layout there is seating for 20 passengers + 10-tons of cargo space
-|Hardpoints | 1 Point Defense Laser
+|*Type:* | Medium Rig
+|*Role:* | Shuttle
+|*Class:* | Fǎng shā gǔ
+|*Displacement:* | 100 dT
+|*Mass:* | 196 metric tons (unloaded)
+|*Armour:* |4 Crystaliron/Composite
+|*Powerplant:*| B
+|*QE-Drive:*| B
+|*Fuel:* | 12 tons (6 weeks of operation)
+|*Reaction Mass:* |20 tons
+|*Cabin space:* |29 tons (In a standard layout there is seating for 20 passengers + 10-tons of cargo space
+|*Hardpoints:* | 1 Point Defense Laser
 |===
 
 image:https://db3pap001files.storage.live.com/y4mPDzFGLhQaSphSzS4vL04-U1UPAAPjyFh-sc9MzY__iSKLnKL9Gnxpyb8nX9bDWhk52a6aLzBZ_8xEhA4kBdX1Utx_Cr0DJn7HaIDzUNu4DY_LsFmcTjCnIC-Zwx9C9mpLq2s30BEUH7TWm5jLctJ-zYtYSuEb8Nw7oNCI7esMzvXEwsRK7zqkTfa8ejxqdeL?width=1024&height=576&cropmode=none[image1]
