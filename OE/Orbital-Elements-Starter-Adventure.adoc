@@ -400,6 +400,20 @@ image:https://db3pap001files.storage.live.com/y4m4U2137eC1IdHbDkV4c97hJDjq09kmNi
 
 This small deck is the contains primary control for the entire transporter. In the locked-down state, all control over the ship is held here. The control room forms a ring around the stem, with a single antechamber. T-12 guards this room and only leaves when it observes that nobody on the ship is approaching the room.
 
+===== Deck 22 (Power Plant)
+
+The Fusion deck contains three fusion power plants in a large changer that is 9m high. However, access to crew is limited to a control room that is a standard 3m height. There are hatches at both ends of the room that lead onto a walkway with a railings. The white in the middle of the deck plan is open space that rises 3m above the deck and drops 3m below. When the vehicle is not accelerating, its possible to move around this chamber.
+
+The Power system is mostly autonomous. Every twelve hours, the off-line powerplant starts up, once confirmed that it is running properly, one of running powerplants shuts down and undergoes a purge and becomes the off-line powerplant. This operation happens automatically, even in lockdown.
+
+===== Deck 23 (Drive Deck)
+
+The drive deck is a series of access spaces and walkways inside the giant thruster system. Everything is heavily engineered and reinforced. There are countless cable rails and piping going in every direction. On one side of the deck is an Emergency airlock. There's no EVA marshalling area, the airlock is mostly intended for entry from outside, should the stem access become blocked, rather than as an escape route.
+
+=== Chapter Three - Fight the Power
+
+This chapter deals with how the PCs conclude the mini-adventure. The most pressing objective deals with Deck 21 (Engineering Control).
+
 *Down with Lock-down* +
 
 The control room itself has heavy-duty panels that carrying multi-function-displays (MFD) that can be switched to control almost anything on the transporter. The most urgent action the PCs need to take is to remove the lockdown. This is handled by a Difficult 8+ Computing roll. A critical failure (unmodified 2) will result in the lockdown becoming perminent. If the character performing the task also has piloting or engineering skill, they get a +2, as they'll have training in handling vehicle lockdowns. 
@@ -412,21 +426,17 @@ If the PC plan to stop T-12 by forcing it to undergo a firmware update, this is 
 
 The tricky part is keeping T-12 from stopping the action. If the PCs have drawn T-12 away with a distraction, it will immediately know that the central computer has been accessed and will attempt to withdraw and retake control of the Engineering Control Deck. 
 
-===== Deck 22 (Power Plant)
 
-The Fusion deck contains three fusion power plants in a large changer that is 9m high. However, access to crew is limited to a control room that is a standard 3m height. There are hatches at both ends of the room that lead onto a walkway with a railings. The white in the middle of the deck plan is open space that rises 3m above the deck and drops 3m below. When the vehicle is not accelerating, its possible to move around this chamber.
-
-The Power system is mostly autonomous. Every twelve hours, the off-line powerplant starts up, once confirmed that it is running properly, one of running powerplants shuts down and undergoes a purge and becomes the off-line powerplant. This operation happens automatically, even in lockdown.
-
-===== Deck 23 (Drive Deck)
-
-The drive deck is a series of access spaces and walkways inside the giant thruster system. Everything is heavily engineered and reinforced. There are countless cable rails and piping going in every direction. On one side of the deck is an Emergency airlock. There's no EVA marshalling area, the airlock is mostly intended for entry from outside, should the stem access become blocked, rather than as an escape route.
 
 === Every Breath you take
 
+T-12 is linked into the cameras and sensors that monitor most goings-on aboard the Golden Goose. This includes pretty good radio reception from the PCs space suits. With this in mind, play T-12 as always, or at least nearly always one or two steps ahead of the PCs. PCs might make skill rolls to tease out that they're being monitored. If they work it out, they can start disabling cameras and mics. They can turn encryption or line-of-sight modes on their vacc suit radio to prevent eavesdropping. Taking these steps make T-12 seem far less omnipotent - however it will also compell T-12 to active PLAN-BETA, where it activates additional labour droids.
+
 === Under Pressure
 
-=== Chapter Three - Fight the Power
+
+
+
 
 
 === End Credits
