@@ -31,28 +31,30 @@ image:https://db3pap001files.storage.live.com/y4m2BNQMeshdJIzqvQbzORXneLXCwgNIUs
 
 ==== Chapter One - _The Breaks_
 
-In the opening chapter, the player characters are prisoners on a patrol carrier operated by the mercenary force that handles anti-piracy duties out of Lanserda Yeocan, the industrial settlement on Callisto. The players were unlucky enough to be travelling on a transporter that the mercenaries accused of piracy and impounded. All onboard the transporter were arrested. As play begins, the PCs have been held on the patrol carrier for three weeks. The captured passengers are then loaded onto two shuttles and launch to destinations unknown. All the PCs are loaded into the same shuttle. There are whispers among the other prisoners that the patrol carrier is returning to base is transferring the prisoners to a free station for interrogation and release.
+In the opening chapter, the player characters are prisoners on a patrol carrier operated by the mercenary force that handles anti-piracy duties out of Lanserda Yeocan, the industrial settlement on Callisto. The players were unlucky enough to be travelling on a transporter that the mercenaries accused of piracy and impounded. All onboard the transporter were arrested. As play begins, the PCs have been held on the patrol carrier for three weeks. The captured passengers are then loaded onto two shuttles and launch to unknown destinations. All the PCs are loaded into the same shuttle. There are whispers among the other prisoners that the patrol carrier is returning to its base and transferring the prisoners to a free station for interrogation and release.
 
-Within hours of its departure, the PC's shuttle makes a detour. The four crew become agitated. The talk between the passengers is that the shuttle has been ordered to investigate a transport ship that has gone dark after broadcasting an SOS. Soon, the PCs are selected by drawing straws for a potentially dangerous mission to board an apparently deralict transport vehicle.
+Within hours of its departure, the PC's shuttle makes a detour. The four crew become agitated. The talk between prisoners is that the shuttle has been ordered to investigate a transporter that briefly broadcasted an SOS before going quiet. Soon, the PCs are selected by drawing straws for a potentially dangerous mission to board an apparently derelict transport vehicle.
 
 ==== Chapter Two - _Free fallin_
 
-The PCs make the 300-metre trip to the apparently lifeless transport vehicle. The moment the players board, some kind of munition launches, destroying the shuttle that they were travelling on. The PCs now seem to be alone.
+The PCs make the 300-metre trip to the apparently lifeless transport vehicle. The moment the players board, some kind of munition launches, destroying the shuttle they were travelling on. The PCs now seem to be alone.
 
 
 [NOTE]
 ====
-*So what happened on the deralict?* +
-While making a routine cargo run to Callisto, some of the transporter's crew, loitering around the cargo deck decided to tamper with the wrong package, a robotics system called T-12. The system is an advanced humanoid robot of unusual complexity. The crew members activated the robot for poops and giggles, not knowing that contrary to the manifest, the robot wasn't a "labour droid". When they tried to have some fun ordering the robot around they were attacked and immobilized. The robot is a prototype anti-piracy droid, intended to act as security onboard transports. However, the unit is not supposed to be activated without first being programmed with the identities of the crew. Consequenty, on being activated the droid is classifying all of the crew as hostiles. In the ensuing fracas, the crewmembers were either immobilized and captured or in hiding. Making contact with crew members is the easiest ways for the PCs to learn what's going on. 
+*So what happened on the derelict?* +
+While making a routine cargo run to Callisto, some of the transporter's crew, loitering around the cargo deck, decided to tamper with the wrong package, a robotics system called T-12. The system is an advanced humanoid robot of unusual complexity. The crew members activated the robot for poops and giggles, not knowing that the robot wasn't a "labour droid," contrary to the manifest description. When the group tried to have some fun ordering the robot around, they were attacked and immobilized. 
+
+The robot appears to be a prototype anti-piracy droid intended to act as onboard security. However, the unit is not supposed to be activated without first being programmed with the crew's IDs and biometric information. Consequently, on being activated, the droid is classifying all of the crew as hostiles. In the ensuing fracas, the crewmembers were either immobilized and captured or in hiding. Making contact with crew members is the easiest way for the PCs to learn what's going on. 
 ====
 
-At this point the PCs get to explore the deralict, _Independent Transport Vehicle Golden Goose_. Chapter two consists of scenes that deal with different parts of the vehicle, so will play out in an order based on where the players choose to send their characters. They must unravel the mystery of the Golden Goose and find a way to take control of the ship before it coasts out of range and ends up floating into a deep system orbit.
+At this point, the PCs get to explore the derelict, _Independent Transport Vehicle Golden Goose_. Chapter two consists of scenes that deal with different parts of the vehicle, so the scenes will play out based on where the players choose to send their characters. The PCs must unravel the mystery of the Golden Goose and find a way to take control of the ship before it coasts out of range and ends up floating into a deep system orbit.
 
-There are six entry points into the Golden Goose. There's a full airlock in the command module and each of the hab rings. There's an airlock at each end of the vehicle's stem and two airlocks in each cargo module. Finally, there's an emergency lock in engineering.
+There are six entry points into the Golden Goose, a full airlock in the command module and each of the hab rings, an airlock at each end of the vehicle's stem, and two airlocks in each cargo module. Finally, there's an emergency lock in engineering.
 
 **Command Module** +
-There are some clues in the command module that point to the ship having been locked down by some kind of security incident.
-There are small blood stains in the central access area of Deck 2.
+Some clues in the command module point to the ship having been locked down by some kind of security incident.
+There are small bloodstains in the central access area of Deck 2.
 
 **Hab Modules** +
 There are four Hab module decks. The first (Deck-5) is used by the crew, the other decks are not occupied. Deck 8 is cordoned off with a notice that says "Keep out, cleaning in progress." There are clues to a struggle in the main lounge area (room C on the map). Most of the state rooms appear to have been sealed by some kind of metal tape. the tape is some of super strong repair tape, unless some kind of removal agent is applied it will be easier to smash the doors in than get them open. Held in the rooms are the Almona Wash, Tony Pendula and Simone Acosta. 
