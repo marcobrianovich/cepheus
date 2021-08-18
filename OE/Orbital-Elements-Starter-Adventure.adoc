@@ -200,7 +200,7 @@ The next section is huge torus that stores the vehicle's reaction mass, either w
 [NOTE]
 ====
 .Describing the Golden Goose
-This is not a standard space vehicle. You might be generous and describe it as a "classic" but in truth, this is a very old ship. Most of its internals, engine, and systems have been replaced two or three times during its 80 years of service, although most systems are still probably about 20-years old. Nothing is outright grimy but almost everything is showing wear-and-tear. Most things work as they should and mostly they work first time, but not always. _Don't overplay "rickety", but once in a while remind the PCs that this maybe not the most reliable or safest transporter._
+This is not a standard space vehicle. You might be generous and describe it as a "classic" but in truth, this is an "old banger". Most of its internals, engine, and systems have been replaced two or three times during its 80 years of service, although most systems are still probably about 20-years old. Nothing is outright grimy but almost everything is showing wear-and-tear. Most things work as they should and mostly they work first time, but not always. _Don't overplay "rickety", but once in a while remind the PCs that this maybe not the most reliable or safest transporter._
 ==== 
 
 ==== Every Breath you take
