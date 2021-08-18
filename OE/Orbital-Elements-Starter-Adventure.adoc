@@ -413,7 +413,7 @@ The following list of strategies are available, although the PCs should be allow
 
 * *Flytrap:* Lure T-12 into an improvised trap using MBT-40 bonding tape. Tricky but at the risk of some bruising this works if all the PCs work together and quickly enough that T-12 doesn't work out their plan.
 
-* *Firmware Update:* Take the firmware update catridge from T-12's storage box to the Engineering Deck and initiate a firmware update. This actually takes quite a long time, first the PCs profiles need to be uploaded into a computer file system directory, then uploaded with the firmware. The firmware update forces a 3-second shutdown, but provding the PCs profile information is included, it will stop treating them as intruders, they will be able to command T-12 to stand down. 
+* *Firmware Update:* Take the firmware update catridge from T-12's storage box on Deck 10 (Cargo) to the Deck 21 (Engineering Control) and initiate a firmware update. This actually takes quite a long time, first the PCs profiles need to be uploaded into a computer file system directory, then uploaded with the firmware. The firmware update forces a 3-second shutdown, but provding the PCs profile information is included, it will stop treating them as intruders, they will be able to command T-12 to stand down. 
 
 *Down with Lock-down* +
 
@@ -428,7 +428,6 @@ If the PC plan to stop T-12 by forcing it to undergo a firmware update, this is 
 The tricky part is keeping T-12 from stopping the action. If the PCs have drawn T-12 away with a distraction, it will immediately know that the central computer has been accessed and will attempt to withdraw and retake control of the Engineering Control Deck. 
 
 
-
 === Every Breath you take
 
 T-12 is linked into the cameras and sensors that monitor most goings-on aboard the Golden Goose. This includes pretty good radio reception from the PCs space suits. With this in mind, play T-12 as always, or at least nearly always one or two steps ahead of the PCs. PCs might make skill rolls to tease out that they're being monitored. If they work it out, they can start disabling cameras and mics. They can turn encryption or line-of-sight modes on their vacc suit radio to prevent eavesdropping. Taking these steps make T-12 seem far less omnipotent - however it will also compell T-12 to active PLAN-BETA, where it activates additional labour droids.
@@ -441,6 +440,22 @@ T-12 is linked into the cameras and sensors that monitor most goings-on aboard t
 
 
 === End Credits
+
+*Location: Unknown*
+____
+*Executive:* Developing Trajan under a cover program appears to have saved the project.
+
+*Off screen voice:* Yes.
+
+*Executive:* In fact, this incident has provided a great deal of useful data. A single unit disabled and captured a large transport, all by itself.
+
+*Off screen voice:* We're not building robot pirates. Trajan is an army. 
+
+*Executive:* In that case, maybe we should engineer an incident that field tests Trajan in force.
+
+*Off screen voice:* Yes.
+____
+
 
 === Appendix
 
