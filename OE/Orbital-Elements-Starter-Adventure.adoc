@@ -183,7 +183,7 @@ The PC's all go into shock. Their breathing becomes erratic and they need to mak
 
 ==== Dancing in the Dark
 
-The deralict vehicle is an independant transport vehicle called the Golden Goose. Readings show that the power is on but the engines are off, so the Golden Goose is coasting along. This means no acceleration, so no simulated gravity. Many onboard operations will require Zero-G skill checks.
+*The deralict vehicle is an independant transport vehicle called the Golden Goose. Readings show that the power is on but the engines are off, so the Golden Goose is coasting along. This means no acceleration, so no simulated gravity. Many onboard operations will require Zero-G skill checks.*
 
 The ITV Golden Goose is a Languedoc-class 30,000 ton heavy hauler. Originally built in the 2190s, the few that remain in operation have been retrofitted with updated engines, although their moduler design is otherwise unchanged. The vehicle is assembled around a 200m-long graphine-lymar composite stem. Behind the command module, a number of habitation decks are slotted-in. A single hab-deck can be fitted for a dedicated hauler that will only carry a crew, or upto twenty decks if the vehicle is going to be used as a slow passenger carrier. The hab deck design is an open ring, so that it can be easily slotted onto the stem, although the clamping is perminent, so hab decks can't be ejected. Removal requires a refit at a construction yard.
 
@@ -199,7 +199,37 @@ The next section is huge torus that stores the vehicle's reaction mass, either w
 ====
 .Describing the Golden Goose
 This is not a standard space vehicle. You might be generous and describe it as a "classic" but in truth, this is a very old ship. Most of its internals, engine, and systems have been replaced two or three times during its 80 years of service, although most systems are still probably about 20-years old. Nothing is outright grimy but almost everything is showing wear-and-tear. Most things work as they should and mostly they work first time, but not always. _Don't overplay "rickety", but once in a while remind the PCs that this maybe not the most reliable or safest transporter._
-====                      
+==== 
+
+==== Every Breath you take
+
+T-12 is linked into the cameras and sensors that monitor most goings-on aboard the Golden Goose. This includes pretty good radio reception from the PCs space suits. With this in mind, play T-12 as always, or at least nearly always one or two steps ahead of the PCs. PCs might make skill rolls to tease out that they're being monitored. If they work it out, they can start disabling cameras and mics. They can turn encryption or line-of-sight modes on their vacc suit radio to prevent eavesdropping. Taking these steps make T-12 seem far less omnipotent - however it will also compell T-12 to active PLAN-BETA, where it activates additional labour droids.
+
+==== Under Pressure
+
+There are a number of "side-quest" activities that provide some focus for the PCs as they bounce around the Golden Goose. They're not essential to the conclusion of the adventure, but provide some sense of urgency and provide opportunities for role playing fun.
+
+===== Captain's orders
+
+Like most of the crew, Captain Wash is sealed into her stateroom and is trapped. She's aware that Ross, her husband was located in the Engineering Control room at the time that the incident started. She is in a panic that Ross is trapped there, because there's not stores in that location. In three days, Ross may have slipped into a comma through lack of water. Wash will implore the characters to find Ross and provide assistance, as a matter of urgency.
+
+*outcome:* In fact, Ross was dragged from Engineering Control and was locked into Deck 21. Ross managed to break into the main Power Plant bay, in the hope of finding an access hatch or air supply duct to sneak through. He failed to find a way out, but he did find a secret party stash, a case of party materials, including 4 bottles of red wine. Currently Ross is sleeping off the second bottle. He has a cracking headache, but is otherwise in good health.
+
+[NOTE]
+====
+.Wine-only 
+Alcoholic drinks are dehydrating, the remove water from cells, but they also provide water. Most wine will balance towards hydration, so you won't die drinking only wine, at least not as quickly as drinking nothing, or -- it has to be said -- drinking your pee, which will likely only extend your surival from 3 days to 4. As a bonus, red wine also contains some nutrients, so it substitutes for a bit of food. 
+
+===== Lars
+
+Lars Anderson is the cause of this big sorry mess. He spotted some inconsistencies between the manifest description and the T-12 container. He opened up the container and decided to turn the labour droid on, mostly because it didn't look like any labour droid he'd ever seen. Things turned bad, and Lars knew he was going to be in heaps of trouble for it, so he absolutely threw himself at the problem. T-12 broken Lars arm and caused so much bruising to his legs, that Lars can't walk. Lars managed to crawl off and is currently laying behind machinary in top (A) on Deck 20. He's delirious and will babble while laying in a semi-conscious state. He's critical ill as his broken arm has gone bad - there is  dark red and purple marks along the fracture area. He needs immediate medical treatment to avoid death. There's nothing that can save his arm, he'll either need to have a new one grown, or he'll need to go cyber.
+
+===== Anya
+
+Anya Fillipova, one of Lars Anderson's repair Maintenance and Repair Team members managed to evade T-12 long enough to get into a vacc-suit. She's actually set up a base on Deck 7, living in one of the EVA marshelling rooms, which is baracaded from the inside. She uses her vacc suit to make supply runs, and to attempt to rescue other crew members. She may be encountered if the PCs explore deck 7, or she might be encountered as she makes a supply run, heading into another part of the ship. A rasping figure in a large dirty space suit, may be startling to the PCS -- likewise, a chance encounter may cause Anya to panic and make an attempt to run away.
+
+
+=== Deck descriptions                     
 
 ==== Command Module
 
@@ -428,16 +458,6 @@ If the PC plan to stop T-12 by forcing it to undergo a firmware update, this is 
 The tricky part is keeping T-12 from stopping the action. If the PCs have drawn T-12 away with a distraction, it will immediately know that the central computer has been accessed and will attempt to withdraw and retake control of the Engineering Control Deck. 
 
 
-=== Every Breath you take
-
-T-12 is linked into the cameras and sensors that monitor most goings-on aboard the Golden Goose. This includes pretty good radio reception from the PCs space suits. With this in mind, play T-12 as always, or at least nearly always one or two steps ahead of the PCs. PCs might make skill rolls to tease out that they're being monitored. If they work it out, they can start disabling cameras and mics. They can turn encryption or line-of-sight modes on their vacc suit radio to prevent eavesdropping. Taking these steps make T-12 seem far less omnipotent - however it will also compell T-12 to active PLAN-BETA, where it activates additional labour droids.
-
-=== Under Pressure
-
-
-
-
-
 
 === End Credits
 
@@ -485,3 +505,7 @@ Tony is a short, light framed man of British-Greek ancestry, although he is actu
 ==== Simone Acosta (Computer/Systems Engineer)
 
 Nigerian-Luna woman in her early 40s, Simone is even taller than Almona, but has a more muscular frame that gives surprising physical strength. Simone is extremely competent and capable but does not suffer fools gladly. She remains aloof in the company of strangers or people that she doesn't respect. She's ambitious and wants her own captaincy but recognises that Almona has leadership qualities that she doesn't have, and would never question an order, even if she didn't agree with it. However, in her specialist field, she's the boss.
+
+==== Anya Fillipova
+
+Anya is a Russian-Luna national, in her early 30s. She's tall, with an athletic build and wears her long brown hair in a ponytail or under a cap.  She's part of Lars Anderson's maintanence team. Considered by the rest of the crew to be something of a loner, Anya is one of those people who just can't settle anywhere. She's happy enough working on the Golden Goose but has ambitions to return to Luna and set up as an independent maintenance contractor.
