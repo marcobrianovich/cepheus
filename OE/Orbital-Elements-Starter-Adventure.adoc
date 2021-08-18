@@ -87,15 +87,6 @@ This deck provides access to the Quan-Ebrahimi drive. There's nothing here of in
 
 Chapter three starts when the PCs have pieced together what's going on, have some contact with the trapped or hidden crew. The main focus of this final chapter is whatever plan the PCs come up with to take back control of the ship. T-12 is an unstoppable force and an immovable object, successfully completing the adventure is going to depend on some clever planning. The PCs have a number advantage and a ship full of stuff. Winning through combat is the least effective and most dangerous road to follow - the PCs begin the adventure unarmed and the firearms in the emergency locker are intended for use in self defense against human attackers. 
 
-The following list of strategies are available, although the PCs should be allowed to come up with their own plan, which as GM you will need to assess, to decide if it can work.
-
-* *Ripley maneuver:* Lure T-12 to an airlock and flush it out into space. This only works if the PCs locks down all airlocks as T-12 is equipped with mini-thrusters and will otherwise work his way to another airlock and re-enter.
-
-* *Lock-up:* Lure T-12 into a room that can be locked. Doesn't work for long as T-12 is equipped with a blow-torch, so can cut itself through any wall that isn't the outer-hull, or any hatch that isn't a surface airlock.
-
-* *Flytrap:* Lure T-12 into an improvised trap using MBT-40 bonding tape. Tricky but at the risk of some bruising this works if all the PCs work together and quickly enough that T-12 doesn't work out their plan.
-
-* *Firmware Update:* Take the firmware update catridge from T-12's storage box to the Engineering Deck and initiate a firmware update. This actually takes quite a long time, first the PCs profiles need to be uploaded into a computer file system directory, then uploaded with the firmware. The firmware update forces a 3-second shutdown, but provding the PCs profile information is included, it will stop treating them as intruders, they will be able to command T-12 to stand down. 
 
 *PLAN-BETA*
 
@@ -413,6 +404,16 @@ The drive deck is a series of access spaces and walkways inside the giant thrust
 === Chapter Three - Fight the Power
 
 This chapter deals with how the PCs conclude the mini-adventure. The most pressing objective deals with Deck 21 (Engineering Control).
+
+The following list of strategies are available, although the PCs should be allowed to come up with their own plan, which as GM you will need to assess, to decide if it can work.
+
+* *Ripley maneuver:* Lure T-12 to an airlock and flush it out into space. This only works if the PCs locks down all airlocks as T-12 is equipped with mini-thrusters and will otherwise work his way to another airlock and re-enter.
+
+* *Lock-up:* Lure T-12 into a room that can be locked. Doesn't work for long as T-12 is equipped with a blow-torch, so can cut itself through any wall that isn't the outer-hull, or any hatch that isn't a surface airlock.
+
+* *Flytrap:* Lure T-12 into an improvised trap using MBT-40 bonding tape. Tricky but at the risk of some bruising this works if all the PCs work together and quickly enough that T-12 doesn't work out their plan.
+
+* *Firmware Update:* Take the firmware update catridge from T-12's storage box to the Engineering Deck and initiate a firmware update. This actually takes quite a long time, first the PCs profiles need to be uploaded into a computer file system directory, then uploaded with the firmware. The firmware update forces a 3-second shutdown, but provding the PCs profile information is included, it will stop treating them as intruders, they will be able to command T-12 to stand down. 
 
 *Down with Lock-down* +
 
