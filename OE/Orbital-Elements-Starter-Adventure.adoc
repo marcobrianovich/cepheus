@@ -394,17 +394,35 @@ image:https://db3pap001files.storage.live.com/y4mWvdRW0WS76GKcAj16uen9fYrd0NK80G
 
 This is the reverse of deck 9. The clamping machinary connect to the bottom of the cargo containers. There's also no stem airlock system as from this deck, the stem integrates into the rear sections.
 
-===== Deck 21
+===== Deck 21 (Engineering Control)
 
 image:https://db3pap001files.storage.live.com/y4m4U2137eC1IdHbDkV4c97hJDjq09kmNicMI45e7aRQC6pj5YI_P_a-fkUg1vX80W-fXB3hKiunF7ahanb0U7JZIVCBg5VY7xf_Mw5NgBtH97jL3V442lkNwmFAeY_Ii_yIYCfuvH_KbwEPuB97f6FdsDUgcfHW9bhLY50WvsZDwBilK7faxPMZX-Zq2NK_pWA?width=724&height=1024&cropmode=none[image]
 
+This small deck is the contains primary control for the entire transporter. In the locked-down state, all control over the ship is held here. The control room forms a ring around the stem, with a single antechamber. T-12 guards this room and only leaves when it observes that nobody on the ship is approaching the room.
 
-===== Deck 22
+*Down with Lock-down* +
 
-===== Deck 23
+The control room itself has heavy-duty panels that carrying multi-function-displays (MFD) that can be switched to control almost anything on the transporter. The most urgent action the PCs need to take is to remove the lockdown. This is handled by a Difficult 8+ Computing roll. A critical failure (unmodified 2) will result in the lockdown becoming perminent. If the character performing the task also has piloting or engineering skill, they get a +2, as they'll have training in handling vehicle lockdowns. 
+
+The moment that the lockdown is removed klaxons will sound. A woman's voice will sound out. "Warning. Emergency Maneuver in 3 minutes. Please strap into a g-force rated seat." After three minutes the ship will perform a rapid spin to place the thrusters in the direction of travel. The thrusters will ignite and the vehicle will slowly build up to 0.9g of acceleration. From this point on, everyone on the Golden Goose now experiences simulated gravity.  
+
+*Firmware upgrade* +
+
+If the PC plan to stop T-12 by forcing it to undergo a firmware update, this is where it has to happen. The top-centre most console that sits in a cut in the stem is the main computer terminal. It's controls are isolated and can't be accessed from anywhere else. To complete a firmware update requires a difficult (8+) Computing roll. The task takes 10 minutes. If the PCs try to complete the upgrade in 5 minutes it becomes Very Difficult(10+). However, if the PCs slow down and take their time, the task becomes routine (6+).
+
+The tricky part is keeping T-12 from stopping the action. If the PCs have drawn T-12 away with a distraction, it will immediately know that the central computer has been accessed and will attempt to withdraw and retake control of the Engineering Control Deck. 
+
+===== Deck 22 (Power Plant)
+
+The Fusion deck contains three fusion power plants in a large changer that is 9m high. However, access to crew is limited to a control room that is a standard 3m height. There are hatches at both ends of the room that lead onto a walkway with a railings. The white in the middle of the deck plan is open space that rises 3m above the deck and drops 3m below. When the vehicle is not accelerating, its possible to move around this chamber.
+
+The Power system is mostly autonomous. Every twelve hours, the off-line powerplant starts up, once confirmed that it is running properly, one of running powerplants shuts down and undergoes a purge and becomes the off-line powerplant. This operation happens automatically, even in lockdown.
+
+===== Deck 23 (Drive Deck)
+
+The drive deck is a series of access spaces and walkways inside the giant thruster system. Everything is heavily engineered and reinforced. There are countless cable rails and piping going in every direction. On one side of the deck is an Emergency airlock. There's no EVA marshalling area, the airlock is mostly intended for entry from outside, should the stem access become blocked, rather than as an escape route.
 
 === Every Breath you take
-
 
 === Under Pressure
 
