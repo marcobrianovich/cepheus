@@ -77,31 +77,31 @@ Tony Pendula shouts at the PCs that the tape sealing the doors is molecular bond
 Simone Acosta tells the PCs that she thinks that the incident started in the cargo hold. Lars Anderson and two of his maintenance team were on Deck 10 just before the incident. Simone adds that she doesn't recognise the make of the droid; it is not part of the ship's official equipment.
 
 **End Cap "Clamp" Decks (9 and 20)** +
-There is no apparent activity on these unique decks that clamp each end of the huge cargo modules to the stem.
+There is no apparent activity on these unique decks that clamp each end of the huge cargo modules to the stem. However, if explored the PCs may encounter the gravely injured link:#lars[Lars Anderson].
 
 **Cargo Decks (10-19)** +
-There are nine cargo decks, each is 9m high, creating a really large area to explore. On Deck 10, in the central area at the top of the map (D) are clues to the origins of the trouble. The PCs can find a large storage container on which are planted flexiscreens that display various documents that claim that the container is storing a UD-27 manual labour droid. This is a fairly common utility droid. On the labels are a corporate insignia, a white rook chess-piece, set against a star field background. The logo doesn't connect with anything else in the adventure, it's really a clue for a future scenario that features Trigean Systems. 
+There are nine cargo decks, each is 9m high, creating a huge area to potentially explore. There are clues to what happened in the central area at the top of the map (D) on Deck 10. In the middle of the room is a storage container on which there are flexiscreens that display various documents that claim that the container was storing a UD-27 manual labour droid, which is a fairly common utility droid. On the labels are a corporate insignia, a white rook chess piece, set against a starfield background. _The logo doesn't connect with anything else in the adventure. It's really a clue for a future scenario that features Trigean Systems._ 
 
 * The PCs might notice security cameras, suggesting that the events that played out in the cargo section might have been recorded.
-* A PC with computing skill can make a difficult role (10+) to notice a procedure burried in the container's documentation that allows for the robot's firmware to be remotely updated. This could be done from the central engineering control room (Deck 21).
+* A PC with computing skill can make a difficult role (10+) to notice a procedure buried in the container's documentation that allows for the robot's firmware to be remotely updated, using a small data card still contained in a pocket in the storage case. This card could be used to initiate a reboot and upgrade of T-12, but only from the central engineering control room (Deck 21).
 
 **Engineering Control (21)** +
-This is currently the control centre for the transporter, since the activation of lockdown has disabled all controls in the command module. Naturally, it is also T-12's default hiding place.                      
+This is currently the control centre for the transporter since the activation of lockdown has disabled all controls in the command module. Naturally, it is also T-12's default hiding place.                      
 
 **Fusion Control (22)** +
-This deck is essentially a balcony with an interior space filled with the fusion powerplants that stretches about 15 from top to bottom. There's nothing critical in this section unless you want to turn the power off or scuttle the transporter.
+This deck is essentially a balcony with an interior space filled with the fusion powerplants that stretches about 15 from top to bottom. This section is locked from the outside. If the PCs enter the stem access room they can open the door and find the sleeping Ross McAlpine. See link:captains-orders[Captains Orders]. After drinking some water, Ross will start to wake up and will provide advice to the PCs, although he's far too weak to be able to provide physical help.
 
 **Drive Deck (23)** +
-This deck provides access to the Quan-Ebrahimi drive. There's nothing here of interest but it does have an emergency airlock that T-12 can use to travel across the hull to access 
+This deck provides access to the Quan-Ebrahimi drive. There's nothing here of interest, but it does have an emergency airlock that T-12 can use to travel across the hull to access 
 
 ==== Chapter Three - _Fight the Power_
 
-Chapter three starts when the PCs have pieced together what's going on, have some contact with the trapped or hidden crew. The main focus of this final chapter is whatever plan the PCs come up with to take back control of the ship. T-12 is an unstoppable force and an immovable object, successfully completing the adventure is going to depend on some clever planning. The PCs have a number advantage and a ship full of stuff. Winning through combat is the least effective and most dangerous road to follow - the PCs begin the adventure unarmed and the firearms in the emergency locker are intended for use in self defense against human attackers. 
+Chapter three starts when the PCs have pieced together what's going on and contact the trapped or hidden crew. The main focus of this final chapter is whatever plan the PCs come up with to take back control of the ship. T-12 is an unstoppable force and an immovable object. Successfully completing the adventure will depend on some clever planning. However, the PCs have some advantages and a ship full of stuff. Winning through combat is the least effective and most dangerous road to follow - the PCs begin the adventure unarmed, and the firearms in the emergency locker are intended for use in self-defense against human attackers. 
 
 
 *PLAN-BETA*
 
-If the PCs gain entry to Engineering control, or they manage to evade T-12 in an encounter, T-12 goes to to the Cargo decks and unpacks 6 labour droids to act as its minions. These standard droids don't have much to contribute except for evening the numbers. They are not effective and can be disabled relatively easily. 
+Suppose the PCs gain entry to Engineering control, or they manage to evade T-12 in an encounter. In that case, T-12 goes to the Cargo decks and unpacks 6 labour droids to act as its minions. These standard droids don't have much to contribute except for evening the numbers. They are not effective and can be disabled relatively easily. 
 
 
 === Chapter One - The Breaks
@@ -109,50 +109,50 @@ If the PCs gain entry to Engineering control, or they manage to evade T-12 in an
 ==== Scene-1 
 
 *Location:* Patrol craft: Jian Suur (Sword-4), Jupiter far orbit +
-*Time:* June 12th 2288 
+*Time:* June 12th, 2288 
 
 .Readout:
 ____
-Three weeks ago, you were heading for Mars aboard a scruffy but incredibly cheap transporter. Before you could decide what to spend the money you saved on, the transporter was   intercepted by a military patrol vehicle working out of the Chinese colony on Callisto. Apparently the Chinese defense force personnel believed IPS Sugerhill, the cheap    transporter has been involved in piracy. Everyone on the Sugerhill was handcuffed and taken aboard the patrol vehicle.
+Three weeks ago, you were heading for Mars aboard a scruffy but incredibly cheap transporter. Before you could decide what to spend the money you saved on, the transporter was intercepted by a military patrol vehicle working out of the Chinese colony on Callisto. Apparently, the Chinese defense force personnel believed IPS Sugarhill, the cheap transporter, has been involved in piracy. Everyone on the Sugarhill was handcuffed and taken aboard the patrol vehicle.
 
-A few hours ago you and eleven other Sugerhill passengers were loaded onto a shuttle, destination unknown. The rumour was that the Defense vehicle was heading back to Callisto so prisoners were to be transferred to a prison bus. Twelve prisoners secured in a passenger cabin with three guards.
+A few hours ago, you and eleven other Sugerhill passengers were loaded onto a shuttle, destination unknown. The rumour was that the Defense vehicle was heading back to Callisto, so prisoners were transferred to a prison bus (shuttle). Twelve prisoners were secured in a passenger cabin with three guards and two crew.
 
-Some of the prisoners say that they believe that they are being transferred to a free station to be released. Others whisper a more worrying story -- apparently some private military contractors do a background check on prisoners that they pick up. Anyone who doesn't appear to have rich or influencial friends end up being sold into slavery - their arrest record is deleted by criminal hackers.
+Some of the prisoners believe they are being transferred to a free station to be released. Others whisper a more worrying story -- apparently, some private military contractors do a background check on prisoners that they pick up. Anyone who doesn't appear to have rich or influential friends is sold into slavery - their arrest recorded deleted by hacker gangs.
 ____
 
-The guards of the shuttle become agitated. The following conversation is hearded.
+The guards of the shuttle become agitated. The following conversation is heard.
 
 .Readout:
 ____
-**Guard 1:** We're being retasked. Apparently a transporter reports a possible pirate attack but then went dark and hasn't changed course. I'm not risking my neck going onto a deralict, I didn't sign up to fight pirates. +
-**Guard 2:** Ha ha, won't be any risk. Captain says the boarding crew is getting decided by a prisoner lottery. +
-**Guard 1:** NO WAY, I already lost one vacc suit this year when I was forced to lend it to a prisoner. +
-**Guard 2:** You don't loan a suit, you don't get a cut. It's a big ITV, a 30-thousand-tonner. Even if its empty there will be a million in salvage, each. + 
+**Guard 1:** We're being retasked. Apparently, a transporter reports a possible pirate attack but then went dark and hasn't changed course. I'm not risking my neck going onto a derelict. I didn't sign up to fight pirates. +
+**Guard 2:** Haha, won't be any risk. Captain says the boarding crew is getting decided by a prisoner lottery. +
+**Guard 1:** NO WAY, I already lost one vac-suit this year when I was forced to lend it to a prisoner. +
+**Guard 2:** You don't loan a suit; you don't get a cut. It's a big ITV, a 30-thousand-tonner. Even if it's empty, there will be a million in salvage, each. + 
 **Guard 1:** A million. Okay, but better be right about this.
 ____
 
-The twelve prisoners are escorted to the main operations deck and strapped to seating at a large table. Each prisoner draws a lazily fashioned straw. The PC's each draw a short straw. Before this moment, the PCs lived separate lives, now they are link by a momentary act of chance.
+The twelve prisoners are escorted to the operations deck and strapped to seating at a large table. Each prisoner draws a lazily fashioned straw. The PCs each draw the short straw. Before this moment, they had separate lives; now, they are linked by a momentary act of chance.
 
-The other prisoners appear visibly relieved. Many of them shoot you with concerned looks. Nobody speaks to you but their eyes are saying "it was nice knowing you."
+The other prisoners appear visibly relieved. Many of them shoot you with concerned looks. Nobody speaks to you but their eyes are saying, "it was nice knowing you."
 
 The shuttle's XO gathers you and leads you to the EVA bay and airlock. You are dressed in slightly worn mid-range vacc suits.
 
-The officer, a wirely chinese man in his late 50s grins grimly at you. "Nine times out of ten, everything fine. Everyone happy. Good odds! You not heroes, you not take risks. Go in, report on what you find. If danger obvious, report and withdraw."
+The officer, a wiry Chinese man in his late 50s, grins grimly at you. "Nine times out of ten, everything fine. Everyone happy. Good odds! You not heroes. You not take risks. Go in, report on what you find. If danger obvious, report and withdraw."
 
 Fran gives him a steely look. 
 ____
-*Fran O'Malley:* One in ten is NOT good odds. If it was good odds you wouldn't need to use impressment. By the way, impressment is ILEGAL.
+*Fran O'Malley:* One in ten is NOT good odds. If it was good odds, you wouldn't need to use impressment. By the way, impressment is ILEGAL.
 ____
 
-The XO's face blanked, making the man's mood unreadible.
+The XO's face blanked, making the man's mood unreadable.
 
 ____
-*XO:* You must think I am a bad man. I am NOT a bad man. But I am a hard man. My duty is to protect my crew, above all else. I'm not impressing you, I'm making you all deputies. Regulation 275.9 'During an emergency situation, the command officers may deputize any passengers if there are insufficient crew to fulfil mission requirements safely.
+*XO:* You must think I am a bad man. I am NOT a bad man. But I am a hard man. My duty is to protect my crew above all else. I'm not impressing you. I'm making you all deputies. Regulation 275.9: 'During an emergency situation, the command officers may deputize any passengers if there are insufficient crew to fulfill mission requirements safely.
 ____
-A klaxon sounds. Pumps begin to pressurise the airlock. A guard checks over the PC's space suits. To one PC he tells them not to pull hard on the left sleave as the seam may have a micropuncture.
+A klaxon sounds. Pumps begin to pressurise the airlock. A guard checks over the PC's space suits. To one PC, he tells them not to pull hard on the left sleeve as the seam may have a micropuncture.
 
 ____
-*XO:* All you need to do is check out the transporter for survivors. Nobody on the ship is communicating, now. There's a chance the ship was completely abandoned or maybe the crew are awaiting rescue. Or they might all be dead from a deadly radiation leak, but it that happended we would surely detect it from your suit sensors the moment that you enter.
+*XO:* All you need to do is check out the transporter for survivors. Nobody on the ship is communicating now. There's a chance the transporter was abandoned or maybe the crew are awaiting rescue. Or they might all be dead from a radiation leak, but if that happended we would surely detect it from your suit sensors the moment that you enter.
 ____
 
 === Scene-2 I think we're alone now
