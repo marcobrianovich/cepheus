@@ -35,6 +35,15 @@ In the opening chapter, the player characters are prisoners on a patrol carrier 
 
 Within hours of its departure, the PC's shuttle makes a detour. The four crew become agitated. The talk between prisoners is that the shuttle has been ordered to investigate a transporter that briefly broadcasted an SOS before going quiet. Soon, the PCs are selected by drawing straws for a potentially dangerous mission to board an apparently derelict transport vehicle.
 
+[NOTE]
+====
+Space Transportation Code 1192b
+
+A vehicle or structure that is left in a stable orbit and that poses no likely threat to others is classified as abandoned. The owner of said vehicle or structure is not considered to hold responsiblity for an abandoned vehicle or structure which immediately becomes classified as salvage unless owner asserts ownership and continues to hold legal responsibility
+
+A vehicle that may pose a likely threat 
+====
+
 ==== Chapter Two - _Free fallin_
 
 The PCs make the 300-metre trip to the apparently lifeless transport vehicle. The moment the players board, some kind of munition launches, destroying the shuttle they were travelling on. The PCs now seem to be alone.
@@ -45,10 +54,10 @@ The PCs make the 300-metre trip to the apparently lifeless transport vehicle. Th
 *So what happened on the derelict?* +
 While making a routine cargo run to Callisto, some of the transporter's crew, loitering around the cargo deck, decided to tamper with the wrong package, a robotics system called T-12. The system is an advanced humanoid robot of unusual complexity. The crew members activated the robot for poops and giggles, not knowing that the robot wasn't a "labour droid," contrary to the manifest description. When the group tried to have some fun ordering the robot around, they were attacked and immobilized. 
 
-The robot appears to be a prototype anti-piracy droid intended to act as onboard security. However, the unit is not supposed to be activated without first being programmed with the crew's IDs and biometric information. Consequently, on being activated, the droid is classifying all of the crew as hostiles. In the ensuing fracas, the crewmembers were either immobilized and captured or in hiding. Making contact with crew members is the easiest way for the PCs to learn what's going on. 
+The robot appears to be a prototype anti-piracy droid intended to act as onboard security. However, the unit is not supposed to be activated without being programmed with the crew's IDs and biometric information. Consequently, on being activated, the droid is classifying all of the crew as hostiles. In the ensuing fracas, the crewmembers were either immobilized and captured or in hiding. Making contact with crew members is the easiest way for the PCs to learn what's going on. 
 ====
 
-At this point, the PCs get to explore the derelict, _Independent Transport Vehicle Golden Goose_. Chapter two consists of scenes that deal with different parts of the vehicle, so the scenes will play out based on where the players choose to send their characters. The PCs must unravel the mystery of the Golden Goose and find a way to take control of the ship before it coasts out of range and ends up floating into a deep system orbit.
+At this point, the PCs get to explore the derelict, _Independent Transport Vehicle Golden Goose_. Chapter two consists of scenes that deal with different locations in the transporter, so scenes will play out based on where the players choose to send their characters. The PCs must unravel the mystery of the Golden Goose and find a way to take control of the ship before it coasts out of range and ends up floating into a deep system orbit.
 
 There are six entry points into the Golden Goose, a full airlock in the command module and each of the hab rings, an airlock at each end of the vehicle's stem, and two airlocks in each cargo module. Finally, there's an emergency lock in engineering.
 
@@ -57,18 +66,18 @@ Some clues in the command module point to the ship having been locked down by so
 There are small bloodstains in the central access area of Deck 2.
 
 **Hab Modules** +
-There are four Hab module decks. The first (Deck-5) is used by the crew, the other decks are not occupied. Deck 8 is cordoned off with a notice that says "Keep out, cleaning in progress." There are clues to a struggle in the main lounge area (room C on the map). Most of the state rooms appear to have been sealed by some kind of metal tape. the tape is some of super strong repair tape, unless some kind of removal agent is applied it will be easier to smash the doors in than get them open. Held in the rooms are the Almona Wash, Tony Pendula and Simone Acosta. 
+There are four Hab module decks. The first (Deck-5) is used by the crew. The other decks are not occupied. Deck 8 is cordoned off with a notice that says, "Keep out, cleaning in progress." There are clues to a struggle in the main lounge area (room C on the map). Most of the staterooms appear to have been sealed by some kind of super-strong repair tape. Unless a removal agent is applied, it will be easier to smash the doors in than remove the tape. Held in the rooms are Almona Wash (D), Tony Pendula (N), and Simone Acosta (M). 
 
-Making noises will result in Almona shouting at the PCs. Her priority is for getting the PCs to go to engineer (deck 21) to look for her husband. The crew help in the hab decs have a water supply and snacks, but she is worried for her husband, Ross McAlpine as there's no food or water in engineer. Ross may be slipping into a coma after three days without water.
+Making any kind of noise will result in Almona shouting for help. Her priority is for getting the PCs to go to Engineering Control (deck 21) to look for her husband. The crew held in the hab decks have a water supply and snacks, but she is worried for her husband, Ross McAlpine, as there's no food or water in engineer. Ross may be slipping into a coma or even dead after three days without water.
 
-Almona tells the PCs that there is some kind of droid onboard that attack the crew. While it didn't appear to use lethal force, it has set the ship in lockdown which means that it is coasting past their destination and will be heading into an unrecoverable orbit in a few hours. Unless the PCs can take control of the ship everyone onboard is doomed.
+Almona tells the PCs that an unknown droid appeared in the cargo hold and attacked the crew. While it didn't use lethal force, it has locked down the Golden Goose, which means it is coasting past its required orbital insertion point and will head into an unrecoverable orbit in a few hours. Unless the PCs can take control of Engineering Control, everyone onboard is doomed.
 
-Tony Pendula shouts at the PCs that the tape sealing the doors is molecular bonding tape (MBT-40). There's a spray for its easy removal in a container on the cargo module (Deck 17). There's also the ship's locker, located on the command deck (The side room that connects to B, on Deck 2) which contains a number of firearms, but only Almona or Tony can open unlock the cabinet.
+Tony Pendula shouts at the PCs that the tape sealing the doors is molecular bonding tape (MBT-40). There's a spray for its easy removal in a container on the cargo module (Deck 17). There's also the ship's locker, located on the command deck (The side room that connects to B, on Deck 2) which contains a number of firearms, however, it has a biometric lock so only Almona or Tony can open the cabinet.
 
-Simone Acosta tells the PCs that she thinks that the incident started in the cargo hold, Lars Anderson and two of his maintance team were on Deck 11 just before the incident. Simone adds that she doesn't recognise the make of the droid, it is not part of the ship's official equipment.
+Simone Acosta tells the PCs that she thinks that the incident started in the cargo hold. Lars Anderson and two of his maintenance team were on Deck 10 just before the incident. Simone adds that she doesn't recognise the make of the droid; it is not part of the ship's official equipment.
 
 **End Cap "Clamp" Decks (9 and 20)** +
-No obvious activity on these special decks that clamp each end of the huge cargo modules.
+There is no apparent activity on these unique decks that clamp each end of the huge cargo modules to the stem.
 
 **Cargo Decks (10-19)** +
 There are nine cargo decks, each is 9m high, creating a really large area to explore. On Deck 10, in the central area at the top of the map (D) are clues to the origins of the trouble. The PCs can find a large storage container on which are planted flexiscreens that display various documents that claim that the container is storing a UD-27 manual labour droid. This is a fairly common utility droid. On the labels are a corporate insignia, a white rook chess-piece, set against a star field background. The logo doesn't connect with anything else in the adventure, it's really a clue for a future scenario that features Trigean Systems. 
