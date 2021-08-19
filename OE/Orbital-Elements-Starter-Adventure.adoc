@@ -143,7 +143,7 @@ ____
 A klaxon sounds. Pumps begin to pressurise the airlock. A guard checks over the PC's space suits. To one PC, he tells them not to pull hard on the left sleeve as the seam may have a micropuncture.
 
 ____
-*XO:* All you need to do is check out the transporter for survivors. Nobody on the ship is communicating now. There's a chance the transporter was abandoned or maybe the crew are awaiting rescue. Or they might all be dead from a radiation leak, but if that happended we would surely detect it from your suit sensors the moment that you enter.
+*XO:* All you need to do is check out the transporter for survivors. Nobody on the ship is communicating now. There's a chance the ship was completely abandoned, or maybe the crew is awaiting rescue. Or they might all be dead from a deadly radiation leak, but it that happened, we would surely detect it from your suit sensors the moment that you enter.
 ____
 
 === Scene-2 I think we're alone now
@@ -155,7 +155,7 @@ All PCs have the following equippment/capabilities:
 * 4 First Aid packs
 * Schematics of the Independent Trading Vehicle Golden Goose (loaded onto their wrist computers.)
 
-The PCs are strapped to a EVATD-79 "huskie", a coffin-sized drone with rungs that astronaughts attach themselves to. The drone handles the maneuvers of an EVA, so is ideal for people with little or no E.V.A experience.
+The PCs are strapped to an EVATD-79 "huskie," a coffin-sized drone with rungs that astronauts attach themselves to. The drone handles the maneuvers of an EVA, so it is ideal for people with little or no EVA experience.
 
 The PCs transfer 3000m between the shuttle and the transport vehicle. The PCs are now free to decide how and where they enter the vehicle.
 
@@ -166,17 +166,17 @@ Pass out the deck arrangement sheet. The airlocks are displayed on the left-hand
 
 image:https://db3pap001files.storage.live.com/y4mZxiXRDVzd1Ftqoq6Lv-GZXZGAKLw3f812Mo-yAaE95r1Py0qGv3u78vobEm-Xb0Eep_wGZvuoWAYm2cA5GttIBGH5rel4YH0ceGziHmZ9qFZGEfQ5Im1F_3TlLGe1WNC-RFDeAO5EksgkF4Wiaj0YHDlQfG1LLVO28bxAMWWXmZmH3AJnIDuDaCKCEkXdy1s?width=724&height=1024&cropmode=none[image]
 
-The PC's may choose to enter at different points. While this is challenging to run, it shouldn't be discouraged. A group of PCs that split up can seriously up the tension as they fend for themselves.
+The PCs may choose to enter at different points. While this is challenging to run, it shouldn't be discouraged. Splitting the PCs up can seriously build up the tension.
 
-Once the PCs select an entry point (or a number of entry points) then proceed to the section that corresponds with that location.
+Once the PCs select an entry point (or a number of entry points), proceed to the section corresponding with that or the first location.
 
 *BOOM* +
 
-The moment that someone opens an airlock, there's a glow of light. A small module, about 2m long that may have been attached to the transporter fires a projectile in the direction of the shuttle. Instantly the shuttle turns into a cloud of hot, shrapnel-filled gass. Nothing is left of the shuttle, just streaking fragments o-red-hot hull. Gone in a blink.
+The moment that someone opens an airlock, there's a glow of light. A small module, about 2m long that may have been attached to the transporter fires a projectile in the shuttle's direction. Instantly the shuttle turns into a cloud of hot, shrapnel-filled gas. Nothing is left of the shuttle, just streaking fragments o' burning hull. Gone in a blink.
 
 .Readout:
 ____
-Moments after the airlock opens, you become aware of a sudden brilliant bright flare. Turning to the ball of light, your vision is momentarily lost by the glare. The light is coming from the direction of your shuttle. As your vision clears you now see tumbling fragments of hot metal and plastic. The shuttle has been destroyed. 
+Moments after the airlock opens, you become aware of a sudden brilliant bright flare. Turning to the ball of light, your vision is momentarily lost by the glare. The light is coming from the direction of your shuttle. As your vision clears, you now see tumbling fragments of hot metal and plastic. The shuttle has been destroyed. 
 ____
 
 === Chapter Two - _Free fallin_
@@ -185,51 +185,51 @@ The PC's all go into shock. Their breathing becomes erratic and they need to mak
 
 ==== Dancing in the Dark
 
-*The deralict vehicle is an independant transport vehicle called the Golden Goose. Readings show that the power is on but the engines are off, so the Golden Goose is coasting along. This means no acceleration, so no simulated gravity. Many onboard operations will require Zero-G skill checks.*
+*The derelict vehicle is an independent transport vehicle called the Golden Goose. Readings show that the power is on, but the engines are off, so the Golden Goose is coasting along. This means no acceleration, so no simulated gravity. Many onboard operations will require Zero-G skill checks.*
 
-The ITV Golden Goose is a Languedoc-class 30,000 ton heavy hauler. Originally built in the 2190s, the few that remain in operation have been retrofitted with updated engines, although their moduler design is otherwise unchanged. The vehicle is assembled around a 200m-long graphine-lymar composite stem. Behind the command module, a number of habitation decks are slotted-in. A single hab-deck can be fitted for a dedicated hauler that will only carry a crew, or upto twenty decks if the vehicle is going to be used as a slow passenger carrier. The hab deck design is an open ring, so that it can be easily slotted onto the stem, although the clamping is perminent, so hab decks can't be ejected. Removal requires a refit at a construction yard.
+The ITV Golden Goose is a Languedoc-class 30,000 ton heavy hauler. First built in the 2190s, the few that remain in operation have been retrofitted with updated engines. However, their modular design is otherwise unchanged. The vehicle is assembled around a 200m-long graphene-lymar composite stem. Behind the command module, habitation decks are slotted in. A single hab-deck can be fitted for a dedicated hauler that will only carry a crew or up to twenty decks if the transporter operates as a passenger carrier. The hab deck design is an open ring that slots onto the stem and is then welded into place. Removal requires a refit at a construction yard.
 
 image:https://db3pap001files.storage.live.com/y4mHV_uhTQjk01vl0KeIQAwNxNDFlnIGPRWklJ7Gyk6JUtWj_TwWp_5DqgD2ZchPku8iTz4ArqjkYIX-rmTw1werVUWxPWdGYetGmTrUlc85uDB-IFiCrFZC57vWSPT7enzwnbZLLygQT0vE-Z-g5yZ3fCH5QVbA2OhqelfsOTSsrI2F-lcjRAjSMtR7-02nt0V?width=1024&height=616&cropmode=none[image]
 
-The cargo modules come in various shapes and sizes, the Golden Goose carries two cargo modules that clamp onto the stem to form a cylinder. The two modules offer 9 identical decks, each is 9m, allowing the transportation of very large items, such as vehicles, plant machinary, even small space vehicles. In order to load and unload, the two halves uncouple and are moved away from the stem to make the large cargo doors accessible, while in transit there are no external hatches and the outer hull is heavily reinforced and shielded.      
+The cargo modules come in various shapes and sizes. The Golden Goose carries two cargo modules that clamp onto the stem to form a cylinder. Each module has nine decks, each deck being nine metres from floor to ceiling, allowing the transportation of large vehicles, plant machinery, even small space vehicles. To load and unload, the two modules uncouple and separate from the stem to make the cargo doors accessible. There are no hatches on the outer hull, which is heavily reinforced and shielded.      
 
 The cargo modules are held between decks nine and twenty, which contain machinery for seperating and reconnecting the modules for loading and unloading.
 
-The next section is huge torus that stores the vehicle's reaction mass, either water or, in later models carbon-diamond dust. Three seperate fusion power plants are fitted within the hole of the torus. Two plants are run, leaving the third in cold-shutdown as a backup. Most of the generated power is used to supply the drive module which is equipped with six Amarok-71 QE-thrusters for a sustained 0.5g acceleration. Fully loaded, this gets a Languedoc from Earth to Mars in 8-14 days. 
+The following section is a large torus that stores the vehicle's reaction mass, either water or, in later models, carbon-diamond dust. Three separate fusion power plants are fitted within the hole of the torus. While in transit, two power plants are run, leaving the third in "hot" shutdown. At regular intervals, the shutdown plant is swapped with a running power plant. This operating cycle ensures that all powerplants are regularly purged and recalibrated. Most of the generated power is used to supply the drive module, equipped with six Amarok-71 QE-thrusters for a sustained 0.5g acceleration. Fully loaded, this gets a Languedoc from Earth to Mars in 8-14 days. 
 
 [NOTE]
 ====
 .Describing the Golden Goose
-This is not a standard space vehicle. You might be generous and describe it as a "classic" but in truth, this is an "old banger". Most of its internals, engine, and systems have been replaced two or three times during its 80 years of service, although most systems are still probably about 20-years old. Nothing is outright grimy but almost everything is showing wear-and-tear. Most things work as they should and mostly they work first time, but not always. _Don't overplay "rickety", but once in a while remind the PCs that this maybe not the most reliable or safest transporter._
+This is not a standard space vehicle. You might be generous and describe it as a "classic," but in truth, this is an "old banger." Most of its internals, engine, and systems have been replaced two or three times during its 80 years of service. However, most systems are still probably about 20-years old. Nothing is outright grimy, but almost everything is showing wear-and-tear. Most things work as they should, and mostly they work the first time, but not always. _Don't overplay "rickety", but once in a while, remind the PCs that this maybe not be the most reliable or safest transporter._
 ==== 
 
 ==== Every Breath you take
 
-T-12 is linked into the cameras and sensors that monitor most goings-on aboard the Golden Goose. This includes pretty good radio reception from the PCs space suits. With this in mind, play T-12 as always, or at least nearly always one or two steps ahead of the PCs. PCs might make skill rolls to tease out that they're being monitored. If they work it out, they can start disabling cameras and mics. They can turn encryption or line-of-sight modes on their vacc suit radio to prevent eavesdropping. Taking these steps make T-12 seem far less omnipotent - however it will also compell T-12 to active PLAN-BETA, where it activates additional labour droids.
+T-12 is linked into the cameras and sensors that monitor most goings-on aboard the Golden Goose. This includes pretty good radio reception from the PCs space suits. With this in mind, play T-12 as always two steps ahead of the PCs. The PCs might make skill rolls to tease out that they're being monitored. If they work it out, they can start disabling cameras and mics. They can turn encryption or line-of-sight modes on their vacc suit radio to prevent eavesdropping. Taking these steps will make T-12 seem far less omnipotent. However, it will also compel T-12 to active PLAN-BETA, in which it activates additional labour droids.
 
 ==== Under Pressure
 
-There are a number of "side-quest" activities that provide some focus for the PCs as they bounce around the Golden Goose. They're not essential to the conclusion of the adventure, but provide some sense of urgency and provide opportunities for role playing fun.
+Several "side-quest" activities provide some focus for the PCs as they bounce around the Golden Goose. They're not essential to the adventure's conclusion but give a sense of urgency and provide opportunities for role-playing fun.
 
 ===== Captain's orders
 
-Like most of the crew, Captain Wash is sealed into her stateroom and is trapped. She's aware that Ross, her husband was located in the Engineering Control room at the time that the incident started. She is in a panic that Ross is trapped there, because there's not stores in that location. In three days, Ross may have slipped into a comma through lack of water. Wash will implore the characters to find Ross and provide assistance, as a matter of urgency.
+Like most of the crew, Captain Wash is sealed into her stateroom and is trapped. She's aware that Ross, her husband, was located in the Engineering Control room when the incident started. She is in a panic that Ross is trapped there because there are no stores in that location. In three days, Ross may have slipped into a coma through lack of water. Captain Wash will implore the characters to find Ross and provide assistance as a matter of urgency.
 
-*outcome:* In fact, Ross was dragged from Engineering Control and was locked into Deck 21. Ross managed to break into the main Power Plant bay, in the hope of finding an access hatch or air supply duct to sneak through. He failed to find a way out, but he did find a secret party stash, a case of party materials, including 4 bottles of red wine. Currently Ross is sleeping off the second bottle. He has a cracking headache, but is otherwise in good health.
+*outcome:* In fact, Ross was dragged from Engineering Control and was locked into Deck 21. He managed to break into the central Power Plant bay in the hope of finding an access hatch or air supply duct to sneak through. He failed to find a way out that he hoped for, but he did find a secret party stash, a case of party materials, including 4 bottles of red wine. Currently, Ross is sleeping off the second bottle. He has a cracking headache but is otherwise fully restored if given water to drink.
 
 [NOTE]
 ====
 .Wine-only 
-Alcoholic drinks are dehydrating, they remove water from your cells, but wine is 90% water, so wine will on balance hydrate you, so you won't die of thirst drinking only wine, at least not as quickly as drinking nothing, or -- it has to be said -- drinking your pee, which will likely only extend your surival from 3 days to 4. As a bonus, red wine also contains some nutrients and calories, so it substitutes for a bit of food. Good to know, eh!
+Alcoholic drinks are dehydrating as they remove water from your cells. However, wine is also 90% water, so wine will, on balance, hydrate you. So you won't die of thirst drinking only wine. At least not as quickly as drinking nothing, or -- it has to be said -- drinking your pee, which will likely only extend your survival from 3 days to 4. As a bonus, red wine also contains some nutrients and calories, so it substitutes for a bit of food. Good to know, eh!
 ====
 
 ===== Lars
 
-Lars Anderson is the cause of this big sorry mess. He spotted some inconsistencies between the manifest description and the T-12 container. He opened up the container and decided to turn the labour droid on, mostly because it didn't look like any labour droid he'd ever seen. Things turned bad, and Lars knew he was going to be in heaps of trouble for it, so he absolutely threw himself at the problem. T-12 broken Lars arm and caused so much bruising to his legs, that Lars can't walk. Lars managed to crawl off and is currently laying behind machinary in top (A) on Deck 20. He's delirious and will babble while laying in a semi-conscious state. He's critical ill as his broken arm has gone bad - there is  dark red and purple marks along the fracture area. He needs immediate medical treatment to avoid death. There's nothing that can save his arm, he'll either need to have a new one grown, or he'll need to go cyber.
+Lars Anderson is the cause of this big sorry mess. He spotted some inconsistencies between the manifest description and the T-12 container. He opened up T-12's case and decided to turn the droid on, mainly because it didn't look like any droid he'd ever seen before. Things instantly turned bad as T-12 grabbed his crewmates. Lars knew he would be in heaps of trouble for it, so he absolutely threw himself at the problem. T-12 broke Lars's arm and caused so much bruising to his legs that Lars can't walk. He crawled off and is currently lying behind machinery in the top (A) on Deck 20. He's delirious and will babble while lying in a semi-conscious state. He's critically ill as his broken arm has gone bad - there are dark red and purple marks along the fracture area. He needs immediate medical treatment to avoid death. There's nothing that can save his arm, he'll either need to have a new one grown, or he'll need to go cyber.
 
 ===== Anya
 
-Anya Fillipova, one of Lars Anderson's repair Maintenance and Repair Team members managed to evade T-12 long enough to get into a vacc-suit. She's actually set up a base on Deck 7, living in one of the EVA marshelling rooms, which is baracaded from the inside. She uses her vacc suit to make supply runs, and to attempt to rescue other crew members. She may be encountered if the PCs explore deck 7, or she might be encountered as she makes a supply run, heading into another part of the ship. A rasping figure in a large dirty space suit, may be startling to the PCS -- likewise, a chance encounter may cause Anya to panic and make an attempt to run away.
+Anya Fillipova, one of Lars Anderson's repair Maintenance and Repair Team members, managed to evade T-12 long enough to get into a vacc-suit. She's actually set up a base on Deck 7, living in one of the EVA rooms, which she has barricaded from the inside. She uses her vacc suit to make supply runs and to attempt to rescue other crew members. She may be encountered if the PCs explore deck 7 or spotted as she makes a supply run, heading into another part of the ship. A rasping figure in a large dirty space suit may be startling to the PCs. Likewise, a chance encounter with the PCs may cause Anya to panic and run away.
 
 
 === Deck descriptions                     
