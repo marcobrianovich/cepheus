@@ -240,20 +240,20 @@ image:https://db3pap001files.storage.live.com/y4mUGDji4EfnaNKZ31Eeo5M3AqKSBOOfDU
 
 ===== Deck 1
 
-*(A)* Avionics deck is seperated from Deck 2 by grilling, with lots of gaps.|Ladders in the central stem of Deck 2 can be used when the ship is under acceleration.
+*(A)* Avionics deck is separated from Deck 2 by grilling, with lots of gaps.|Ladders in the central stem of Deck 2 can be used when the ship is under acceleration.
 
-No signs of any trouble. Ships systems appear to be unimpaired but an *+8* piloting or computer roll will reveal that the ship's systems are locked down from engineering.
+No signs of any trouble. Ships systems appear to be unimpaired, but an *+8* piloting or computer roll will reveal that the ship's systems are locked down from engineering.
 
 ____
-This deck is located at the front of the vehicle, it's an open space, filled with system cabinets, cabling and monitors. Metal grilled walkways separate it from the deck below. There are no access tubes down to Deck 2, just ladders, which lead down into Deck-2's access tubes. While the Goose is not accelerating, it's possible to move between Deck1 and Deck2 without using the ladders. There's no sign of life, or any obvious problem. Everything is on and working.
+This deck is located at the front of the vehicle. It's an open space filled with system cabinets, cabling, and monitors. Metal grilled walkways separate it from the deck below. There are no access tubes down to Deck 2, just ladders, which lead down into Deck-2's access tubes. While the Goose is not accelerating, it's possible to move between Deck1 and Deck2 without using the ladders. There's no sign of life or any apparent problem. Everything is on and working.
 ____
 
 
 ===== Deck 2 (AVIONICS)
 
-*(B)* Backup systems. This has a simplified control systems duplicated from actual command deck (Deck 3). At the moment this room is in hot-shutdown. This means that everything is on and is duplicating the status of the control systems  on the main deck. However, most of the holo-displays show a bit "Lock-down" label. Piloting roll 6+ indicates that this means that the vehicle's controls are disabled. This is standard procedure if there is any threat that a hostile force has taken control of the command deck.
+*(B)* Backup systems. This has simplified control systems duplicated from the command deck (Deck 3). At the moment, this room is in "hot shutdown." Everything is on and is replicating the status of the control systems on the main deck. However, most of the holo-displays show a bit "Lock-down" label. Piloting roll 6+ indicates that this means that the vehicle's controls are disabled. This is standard procedure if there is any threat that a hostile force has taken possession of the command deck.
 
-There's a side room (Emergency Locker) that contains emergency equipment. There are two large lockers that require a biometric scan to open. These may contain sensitive materials, fire arms or controlled substances. There's no way to get into these cabinets, they can only be accessed by senior crew members.
+There's a side room (Emergency Lockers) that contains emergency equipment. Two large lockers require a biometric scan to open. These may contain sensitive materials, firearms, or controlled substances. There's no way to get into these cabinets; they can only be accessed by senior crew members.
 
 *(+C+)* This room contains a briefing table, chairs. Some emergency equipment cabinets.
 
@@ -261,49 +261,49 @@ There's a side room (Emergency Locker) that contains emergency equipment. There 
 
 ===== Deck 3 (COMMAND DECK)
 ____
-You can immediately tell this is the command deck. Everything is triple-reinforced. The bulkhead materials are made of exotic materials and the crew section is protected by a secondary wall. Outside the wall are wall mounted cabinets and boxes that carry cables and piping. The ring-shaped outer corridor ends in an airlock system that opens on one side into the stem access tubes, and opens into a command docking airlock on the other. Emergency Vacc suits hang on the wall next to the airlock.
+You can immediately tell this is the command deck. Everything is triple-reinforced. The bulkhead materials are made of exotic materials, and the crew section is protected by a secondary wall. Outside the secondary wall are cabinets and boxes that carry cables and piping. The ring-shaped outer corridor ends in an airlock system that opens on one side into the stem access. On the other side, it opens into a command docking airlock. Three Emergency vac suits hang on the wall next to the airlock.
 ____
 
-*(E)* Bridge. There are three crew positions for a pilot, a captain and a systems officer.
+*(E)* Bridge. There are three crew positions for a pilot, a captain, and a systems officer.
 ____
-The deck is dark. Lit by a dim red emergency light. Most screens display the words "Lockdown". There's a coffee beaker floating near a wall. Droplets of coffee hang in the air. There's no signs of the crew. No obvious damage, or signs of violence.
+The deck is dark. A dim red emergency is the main source of light. There are various screens. Most display the words "Lockdown." There's a coffee beaker floating near a wall. Droplets of coffee hang in the air. There are no signs of the crew. No apparent damage or signs of violence.
 ____
 
-*(F)* Command Ring. airlocks to the stem access system and the command docking airlock.
+*(F)* Command Ring. Airlocks to the stem access system and the command docking airlock.
 
 ==== Stem Access
 
 image:https://db3pap001files.storage.live.com/y4mb2yRdOfrVskdw37G_iAGbtOEzL7AOPcnBLNGYrlOCA3aFFrWYt2qAmX7WFFSkX3CGj-TtULJOs01WN74CzSKB2mlX92OR93q3YP82z196oNmJZAxUm6c6rX2XMwjbecDhzfo_-ApXyA0aeNni8XOeClhmIqW_RLALyu_ggqw7PY2yE1PM6zwahvr0hMynMrz?width=635&height=377&cropmode=none[image]
 
-Running almost the entire length of the Golden Goose is the stem, a tube of incredibly strong exotic material on which most of the rest of the vehicle's elements are attached. At the centre of the stem are access decks that connect the stem to the surrounding module, through an airlock or hatch.
+Running almost the entire length of the Golden Goose is the stem, a tube of incredibly strong exotic material on which most of the transporter's components are attached. Where modules are connected to the stem, there are corresponding access decks (illustrated above). Near the centre of the stem is the Transit Pod system, with two corresponding tubes providing ladder/rail access.
 
 *Transit Pod* +
- At the very centre is a Transit Pod, (labled as "Rapid Transit" on the sliding door). It's a souped-up elevator that responds to a button call. When it arrives at your deck a sliding door opens, you board it and strap yourself to the wall, then select a destination deck. Transit times are very short, end-to-end in 30 seconds, which pulls some gee. Travelling in the pod is unconfortable but it gets you from one side of the vechicle to the other in seconds, which could be critically important.
+A Transit Pod system (labeled as "Rapid Transit" on its sliding access door) is at the center. It's a souped-up elevator that responds to a button call. When it arrives at your deck, a sliding door opens, you board it and strap yourself to the wall, then select a destination deck. Transit times are fast, end-to-end in 30 seconds, which pulls some gee. Travelling in the pod is uncomfortable, but it gets you from one side of the vehicle to the other in seconds, which could be critically important.
 
-There's no possible access to the elevator chamber. It's not pressurized and the operation of the pod would hit and then catapult anyone in the shaft to their likely doom. When the vehicle is under normal motion, the Transit Pod shaft is no different from a lift shaft. Falling hundreds of metres under low-g is still likely to be fatal.
+There's no possible access to the elevator chamber. It's not pressurized, and the operation of the pod would kill anyone foolish enough to be travelling along the shaft. When the vehicle is under acceleration, the Transit Pod shaft is no different from a lift shaft. Falling hundreds of metres, even under low-g, is still likely to be fatal.
 
 *Ladder and rail tube* +
-These tubes contain two ladders, one to the left and one to the right of entry, allowing two people to pass each other while travelling up or down the shaft. In the centre of each ladder is a rail that you connect a safety harness to. Wearing a harness that connects to the rail is a mandatory part of the ladder operation. If you enter and don't connect your harness, the tube's emergency valves close. While operating in the tubes is not risky in zero-g, the moment the engines go on, there's an obvious risk of unexpected falling. The rail system allows you to climb or pull yourself along the tube (in zero-g) at quite high speed, it only locks when the motion is sudden and under high force.
+These tubes contain two ladders, one to the left and one to the right of entry, allowing two people to pass each other while travelling up or down the shaft. In the centre of each ladder is a rail that you connect a safety harness to. Wearing a harness that connects to the rail is a mandatory part of the ladder operation. If you enter and don't connect your harness, the tube's emergency valves close. While operating in the tubes is not risky in zero-g, the moment the engines go on, there's an obvious risk of falling. The rail system allows you to climb or pull yourself along the tube (in zero-g) at quite high speed. It only locks when the motion is sudden and under high force.
 
 ===== Deck 4 (SYSTEMS)
 
-*(G)* Systems Control. Banks of monitors and controls handle most systems that are not part of the vehicle's propulsion, navigation or maneuvering. This includes life-support, communications, security. There's a single crew post for monitoring. This console is also locked down.
+*(G)* Systems Control. Banks of monitors and controls handle most systems not part of the vehicle's propulsion, navigation, or maneuvering. This mainly includes life-support, communications, security. There's a single crew post for monitoring. This console is also locked down.
 ____
-To the right of the entry hatch are a load of plastic boxes. Some are opened and various bits of supplies and equipment float around them. It looks like someone was looking for something and left a mess. The stuff is all random like basic meds, ration and battery packs.
+To the right of the hatch are a load of plastic boxes. Some are opened, and various bits of supplies and equipment float around them. It looks like someone was looking for something and left a mess. The stuff is all random; basic meds, rations, and battery packs.
 ____
 
-*(H)* Systems Ring. This deck contains backup life support systems. Pipes and machinary that handle water purification and air filtration.
+*(H)* Systems Ring. This deck contains backup life support systems. Pipes and machinery that handle water purification and air filtration.
 
 ==== Hab Modules
 
 image:https://db3pap001files.storage.live.com/y4mwu0QMOxXlAHggGNhprGi_s75CTF1YfJ9nR-BC_mOxFfS8Tbum3NluZhdECWXMvtM-fderghyXzonowAdBF0JEWUPEb7TzJeL5Bn1enS1r5EAovk2_IHDDxP53a31ERv8SgLNG-CkcuZauQsLzpNp2Rn63s2u1nebgqRJG2mWQwdXLFimcU2Dr3IE1SUk89_X?width=724&height=1024&cropmode=none[image]
 
 
-The Hab modules are rings open at one end so they be slid onto the vehicle's stem. Each of the four decks are identical in layout, although only the top deck was in use during its current trip. The other decks were being cleaned prior to picking up passengers. If you look at the deck arrangement diagram you may notice that the decks don't actually stack together, there's a 70cm gap between each deck. The only way to travel between decks is via the stem. 
+The Hab modules take the form of rings with an opening on one side, allowing decks to be slid onto the stem. Each of the four decks is identical in layout, although only the top deck is in use during the current trip. The other decks were being cleaned before picking up passengers. Looking at the deck arrangement diagram, you may notice that the decks don't actually stack together. There's a 70cm gap between each deck. The only way to travel between decks is via the stem. 
 
 [NOTE]
 ====
-On transporters that are set up for large numbers of habitation decks, the emergency airlocks on each deck can be fitted with inflatable access tubes to provide additional access points. This arrangement is not in use on the Golden Goose, although individuals wearing vacc suits can move between decks.
+On transporters set up for large numbers of habitation decks, the emergency airlocks on each deck can be fitted with inflatable access tubes to provide additional access points. This arrangement is not used on the Golden Goose, although individuals wearing vacc suits can move between decks.
 ====
 
 ==== Hab Decks
@@ -312,9 +312,9 @@ On transporters that are set up for large numbers of habitation decks, the emerg
 
 *(A)* *Emergency Airlocks* - The top one is designated for entry only. The bottom lock leads to an EVA room. This airlock leads directly into the corridor/utility space.
 
-*(B)* *EVA room* - This room contains equipment for storing, getting in and out of vacc suits. There are three emergency vacc suits hanging in the opening on the bottom wall.
+*(B)* *EVA room* - This room contains equipment for storing, getting in and out of vacc suits. Three emergency vac suits are hanging in the opening on the bottom wall.
 
-*(+C+)* *Lounge* - A large L-shaped room that contains couches, chairs and tables. On the inner wall, mounted against the stem are various food and drink vending machines.
+*(+C+)* *Lounge* - A sizeable L-shaped room that contains couches, chairs, and tables. On the inner wall, mounted against the stem, are various food and drink vending machines.
 
 *(D)* *Single-occupancy Stateroom* 
 
@@ -336,31 +336,30 @@ On transporters that are set up for large numbers of habitation decks, the emerg
 
 ===== Deck 6 (Habitation)
 
-This deck has exactly the same layout as Deck 5. Life support is running so the deck may be accessed. There's no sign of activity.
+This deck has the same layout as Deck 5. Life support is running, so the deck may be accessed without restriction. There's no sign of activity.
 
 ===== Deck 7 (Habitation)
 
-This deck has exactly the same layout as Deck 5. Life support is not running, although the central stem is still accessible, there are sliding doors blocking the two entry ports into the deck. It's possible to access this deck via the emergency airlocks.
+This deck has the same layout as Deck 5. Life support is not running,  although the central stem is still accessible. Sliding doors are blocking the two entry ports into the deck. It's possible to access this deck via the emergency airlocks.
 
 ===== Deck 8 (Habitation)
 
-This deck has exactly the same layout as Deck 5. Life support is running so the deck may be accessed. In the stem chamber, there is tape over the two entry ports into the hab deck. There's a wall mounted e-poster that reads "Stay out: Cleaning in progress". Someone has written "Say no to smelly passengers" in pen at the bottom of the poster.
+Same layout as Deck 5. Life support is running, so the deck may be accessed. In the stem chamber, there is tape over the two entry ports into the deck. There's a wall-mounted e-poster that reads "Stay out: Cleaning in progress." Someone has written "Say no to smelly passengers" in a marker pen at the bottom of the poster.
 
 ===== Deck 9 (Forward Cap)
 
-The vehicle's cargo hold modules are clamped between Deck 9 and Deck 20. This foward cap contains equipment that pushes the two cargo modules appart. Either the two cargo modules split appart to create an opening where cargo can be removed, or the modules are ejected so that they can be docked for 
-This deck has exactly the same layout as Deck 5. Life support is running so the deck may be accessed. There's no sign of activity.
+The vehicle's cargo hold modules are clamped between Deck 9 and Deck 20. This forward cap contains equipment that moves the two cargo modules apart. Either the two cargo modules split apart to create an opening where cargo can be removed, or the modules are ejected so that they can be docked for 
+This deck has the same layout as Deck 5. Life support is running, so the deck may be accessed. There's no sign of activity.
 
-The stem Access section is surrounded by a ring corridor that leads into the utility rooms and the long stores. Additionally, there's an airlock in the ceiling that leads to the stemp external ladder/rail system which runs the entire length of the step, leading up to a corresponding airlock at the top end of the stem. Should the stem access system become impassable, this system can be used to get people about.                                                                                                                                                                            
-
-*(A)* *Utility room/workshop* - The two largest rooms on the deck are designed to be multifunctional. In the case of the Golden Goose, the top A has actually been turned into a gymnasium with various floor mounted exercise machines. In the tight corners of the room on the side of the stem there are large cases for machining tools and some 3D printers. In the lower (A) room, the workshop tools are set out, ready to fabricate or repair machinary.
+The stem Access section is surrounded by a ring corridor leading to the utility rooms and the long stores. Additionally, an airlock in the ceiling leads to the stem external ladder/rail system, which runs the entire stem length, leading up to a corresponding airlock at the top end of the stem. Should the stem access system become impassable, this system can be used to get people about.                                                                                                                                                                          
+*(A)* *Utility room/workshop* - The two largest rooms on the deck are designed to be multifunctional. On the Golden Goose, the top A has been turned into a gymnasium with various floor-mounted exercise machines. In the corners of the room are large cases containing machining tools and 3D printers. The workshop tools are set out in the lower (A) room, ready to fabricate or repair machinery.
 
 *(B)* *Stores* - Two rooms contain storage bins filled with parts and materials.
 
 
 ==== Cargo Modules
 
-The Golden Goose carries two cargo modules, each module connects to the step to form a single cylinder. For loading and unloading, the two modules separate and move away from the step to allow access to the roller-shuttered ports. While all the other decks on the Godlen Goose are three metres heigh, the cargo decks are nine metres, floor to ceiling. This makes the cargo module large enough to carry a wide ranger of shipping container types, or large items such as vehicles or plant machinary. 
+The Golden Goose carries two cargo modules, each of these modules connect to the stem to form a cylinder. The two modules separate and move away from the stem to allow access to the roller-shuttered ports for loading and unloading. While most decks on the Golden Goose are a standard three metres high, the cargo decks are nine metres, floor to ceiling. This is high enough to carry a wide ranger of shipping container types or large items such as vehicles or plant machinery. 
 
 image:https://db3pap001files.storage.live.com/y4mYbX0JGKdreXlloTJGeIB_szuiZlVQz5Vx8SmFO8qYBmAeyePTVKV-bZdjAcbltpAF1TTkDO1HbNeABf3Y0Z5gZRRzJoamNpgPCkNHy4_L9rjytyFGqD9pu4g77WjVOrAeJKsZUvxvkGnQQALzM4p3MJua4GEyiRz5zJpxMeGi5OmUsOxHdX0BSZV1RPvsr5F?width=1024&height=704&cropmode=none[image]
 
