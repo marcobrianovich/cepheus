@@ -490,10 +490,12 @@ Prototype anti-piracy droid.
 
 ==== NPCs
 
-===== Almona Wash (Captain)
-[cols="2,2"]
+===== 
+[cols="2,3"]
 |===
-|image:https://db3pap001files.storage.live.com/y4mHz2_ga97X82cr9z-yP4ieOHy1w1HkeMGBiIY3NUPwnrWOk2Hjd3FEgF0JHTjK79bKnZOj94ikr-UzmG9WO_kGb7fy9n7ABbiUkIhkKPWbFvjCsKa4o1mdL-F2PFgaxX4UtR3UGSVcV-gH1XOXuDsEHShnizwxaorLRqHpp96p5wCfYuJhRhpd3UaEun6Awhc?width=590&height=614&cropmode=none[alt="Almona",width=200,height=200] >a|   
+>a| 
+image:https://db3pap001files.storage.live.com/y4mHz2_ga97X82cr9z-yP4ieOHy1w1HkeMGBiIY3NUPwnrWOk2Hjd3FEgF0JHTjK79bKnZOj94ikr-UzmG9WO_kGb7fy9n7ABbiUkIhkKPWbFvjCsKa4o1mdL-F2PFgaxX4UtR3UGSVcV-gH1XOXuDsEHShnizwxaorLRqHpp96p5wCfYuJhRhpd3UaEun6Awhc?width=590&height=614&cropmode=none[image] >a|   
+*Almona Wash (Captain)* +
 *UPP:* 479AA6  + 
 *Age:33* +
 *Description:*+
