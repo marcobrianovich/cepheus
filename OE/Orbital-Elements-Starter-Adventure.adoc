@@ -490,7 +490,7 @@ Prototype anti-piracy droid.
 
 ==== NPCs
 
-[cols="2,3"]
+[cols="50%,50%"]
 |===
 >a| 
 image:https://db3pap001files.storage.live.com/y4mHz2_ga97X82cr9z-yP4ieOHy1w1HkeMGBiIY3NUPwnrWOk2Hjd3FEgF0JHTjK79bKnZOj94ikr-UzmG9WO_kGb7fy9n7ABbiUkIhkKPWbFvjCsKa4o1mdL-F2PFgaxX4UtR3UGSVcV-gH1XOXuDsEHShnizwxaorLRqHpp96p5wCfYuJhRhpd3UaEun6Awhc?width=590&height=614&cropmode=none[image] >a|   
@@ -504,7 +504,17 @@ Almona is a tall, slender, pale-skinned woman with long black hair. She is dress
 
 ====  Ross McAlpine (Lead Engineer)
 
+[cols="50%,50%"]
+|===
+>a| 
+image:https://db3pap001files.storage.live.com/y4mptzZeon9smR6TS_Sa9JrU7at1eLqN8P3rFqIg-DqNzg3XfLYS4un9_Zooxmeaq6u_xL24_EXg5bn0v6y37XTKz4Mk8Nzq2s5eWw3UHU8-4Y2RJyWUkX6XazOyluGdaSPPY0rO7lkgukgq2CKLA5gPjaByJetLux6C1XARIcENmK3Mq0jieB6ABlII3zlNr-k?width=658&height=660&cropmode=none[image] >a|   
+*Ross McAlphine (Engineer)* +
+*UPP:* 775888  + 
+*Age:40* +
+*Description:* +
 The chief engineer of the ITV Golden Goose. Ross is a muscular man with red hair and a broad smile. He married Almona two years ago, although Almona says she won't take his name until they retire and start a family. Ross is the unflappable sort whose mere presence can calm a high-stress situation. His worst habit is whistling tunes that get stuck in your head.
+|===
+
 
 ==== Lars Anderson (Maintanence)
 
