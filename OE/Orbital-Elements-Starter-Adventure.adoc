@@ -483,6 +483,8 @@ ____
 
 ==== Trajan-12-x 
 
+Trajan-12 (T-12) is a prototype for a highly sophisticated security robot, developed by Trajan Industries, a high technology research and development company. 
+
 Prototype anti-piracy droid. 
 
 
