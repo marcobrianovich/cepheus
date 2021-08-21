@@ -516,7 +516,8 @@ The chief engineer of the ITV Golden Goose. Ross is a muscular man with red hair
 [cols="400px,500px"]
 |===
 >a| 
-image:https://db3pap001files.storage.live.com/y4mVdkleTEfs4XUY4Jy59yTmCYW5BsulRTtvtbM8zJe2RMcXO-IgFz2oxQsLFM21MXK4z-S_K1V7NmFLgbGpXQfEWOsq1DPDntjcoqY4Kl1LntMRlokLDqqWmkEf7B32FfLayz3qwLV4sBpX0Ux9je95uNNJ4tNHFAfWWROatx84KUNxbAA4556NsAIOLCutC8Y?width=660&height=622&cropmode=none >a|    
+image:https://db3pap001files.storage.live.com/y4mVdkleTEfs4XUY4Jy59yTmCYW5BsulRTtvtbM8zJe2RMcXO-IgFz2oxQsLFM21MXK4z-S_K1V7NmFLgbGpXQfEWOsq1DPDntjcoqY4Kl1LntMRlokLDqqWmkEf7B32FfLayz3qwLV4sBpX0Ux9je95uNNJ4tNHFAfWWROatx84KUNxbAA4556NsAIOLCutC8Y?width=660&height=622&cropmode=none[image]
+>a|    
 *Lars Anderson (Maintanence)* +
 *UPP:* A5B764  + 
 *Age:45* +
