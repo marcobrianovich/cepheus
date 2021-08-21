@@ -490,9 +490,12 @@ Prototype anti-piracy droid.
 
 ==== NPCs
 
-==== Almona Wash (Captain)
+|=======================
+|image:https://db3pap001files.storage.live.com/y4mHz2_ga97X82cr9z-yP4ieOHy1w1HkeMGBiIY3NUPwnrWOk2Hjd3FEgF0JHTjK79bKnZOj94ikr-UzmG9WO_kGb7fy9n7ABbiUkIhkKPWbFvjCsKa4o1mdL-F2PFgaxX4UtR3UGSVcV-gH1XOXuDsEHShnizwxaorLRqHpp96p5wCfYuJhRhpd3UaEun6Awhc?width=590&height=614&cropmode=none[image1] | *Almona Wash (Captain) + Almona is a tall, slender, pale-skinned woman with long black hair. She is dressed in a pale yellow jumpsuit. At 33, she's young for captaincy, but her no-nonsense approach to life makes her a good fit for the role. She has the respect of her crew because she is extremely loyal and the admiration of her peers because of her high competency. Almona's worst habit is trying to own every problem. It makes her seem over serious. Ross McAlpine is the one person who can lift the weight on her shoulders with a few words.    
 
-Captain of the ITV Golden Goose. Almona is a tall, slender, pale-skinned woman with long black hair. She is dressed in a pale yellow jumpsuit. At 33, she's young for captaincy, but her no-nonsense approach to life makes her a good fit for the role. She has the respect of her crew because she is extremely loyal and the admiration of her peers because of her high competency. Almona's worst habit is trying to own every problem. It makes her seem over serious. Ross McAlpine is the one person who can lift the weight on her shoulders with a few words. 
+|=======================
+
+
 
 ====  Ross McAlpine (Lead Engineer)
 
