@@ -501,6 +501,18 @@ image:https://db3pap001files.storage.live.com/y4md_EVqFNHcMyQHjCDHQjnrPMFtAL6e53
 Almona is a tall, slender, pale-skinned woman with long black hair. She is dressed in a pale yellow jumpsuit. At 33, she's young for captaincy, but her no-nonsense approach to life makes her a good fit for the role. She has the respect of her crew because she is extremely loyal and the admiration of her peers because of her high competency. Almona's worst habit is trying to own every problem. It makes her seem over serious. Ross McAlpine is the one person who can lift the weight on her shoulders with a few words.
 |===
  
+[cols="50%,50%"]
+|===
+>a| 
+image:https://db3pap001files.storage.live.com/y4md_EVqFNHcMyQHjCDHQjnrPMFtAL6e536uuKaWa3wlI_7oEbi2BN751F_QlvS7DZqrFligafrNoxHxIKkOwLJ38oUwB75CBCnpGbokD6fzLJCvOv6ZhXC4M6Gxjca2wg473uwMZTIJqlQ96v9xxWPYmgfB2QlXkbsUVNEXc6PhVgAH5NipfRO2BN1lcslMkb_?width=658&height=660&cropmode=none[image] >a|   
+*Ross McAlphine (Engineer)* +
+*UPP:* 775888  + 
+*Age:40* +
+*Description:* +
+The chief engineer of the ITV Golden Goose. Ross is a muscular man with red hair and a broad smile. He married Almona two years ago, although Almona says she won't take his name until they retire and start a family. Ross is the unflappable sort whose mere presence can calm a high-stress situation. His worst habit is whistling tunes that get stuck in your head.
+|=== 
+ 
+ 
 
 ====  Ross McAlpine (Lead Engineer)
 
