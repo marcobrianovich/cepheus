@@ -493,7 +493,7 @@ Prototype anti-piracy droid.
 [cols="50%,50%"]
 |===
 >a| 
-image:https://db3pap001files.storage.live.com/y4mHz2_ga97X82cr9z-yP4ieOHy1w1HkeMGBiIY3NUPwnrWOk2Hjd3FEgF0JHTjK79bKnZOj94ikr-UzmG9WO_kGb7fy9n7ABbiUkIhkKPWbFvjCsKa4o1mdL-F2PFgaxX4UtR3UGSVcV-gH1XOXuDsEHShnizwxaorLRqHpp96p5wCfYuJhRhpd3UaEun6Awhc?width=590&height=614&cropmode=none[image] >a|   
+image:https://db3pap001files.storage.live.com/y4mHz2_ga97X82cr9z-yP4ieOHy1w1HkeMGBiIY3NUPwnrWOk2Hjd3FEgF0JHTjK79bKnZOj94ikr-UzmG9WO_kGb7fy9n7ABbiUkIhkKPWbFvjCsKa4o1mdL-F2PFgaxX4UtR3UGSVcV-gH1XOXuDsEHShnizwxaorLRqHpp96p5wCfYuJhRhpd3UaEun6Awhc?width=658&height=660&cropmode=none[image] >a|   
 *Almona Wash (Captain)* +
 *UPP:* 479AA6  + 
 *Age:33* +
@@ -507,7 +507,7 @@ Almona is a tall, slender, pale-skinned woman with long black hair. She is dress
 [cols="50%,50%"]
 |===
 >a| 
-image:https://db3pap001files.storage.live.com/y4mptzZeon9smR6TS_Sa9JrU7at1eLqN8P3rFqIg-DqNzg3XfLYS4un9_Zooxmeaq6u_xL24_EXg5bn0v6y37XTKz4Mk8Nzq2s5eWw3UHU8-4Y2RJyWUkX6XazOyluGdaSPPY0rO7lkgukgq2CKLA5gPjaByJetLux6C1XARIcENmK3Mq0jieB6ABlII3zlNr-k?width=658&height=660&cropmode=none[image] >a|   
+image:https://db3pap001files.storage.live.com/y4md_EVqFNHcMyQHjCDHQjnrPMFtAL6e536uuKaWa3wlI_7oEbi2BN751F_QlvS7DZqrFligafrNoxHxIKkOwLJ38oUwB75CBCnpGbokD6fzLJCvOv6ZhXC4M6Gxjca2wg473uwMZTIJqlQ96v9xxWPYmgfB2QlXkbsUVNEXc6PhVgAH5NipfRO2BN1lcslMkb_?width=658&height=660&cropmode=none[image] >a|   
 *Ross McAlphine (Engineer)* +
 *UPP:* 775888  + 
 *Age:40* +
