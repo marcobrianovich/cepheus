@@ -502,8 +502,6 @@ Almona is a tall, slender, pale-skinned woman with long black hair. She is dress
 |===
 
 
-====  Ross McAlpine (Lead Engineer)
-
 [cols="400px,500px"]
 |===
 >a| 
@@ -515,10 +513,18 @@ image:https://db3pap001files.storage.live.com/y4mptzZeon9smR6TS_Sa9JrU7at1eLqN8P
 The chief engineer of the ITV Golden Goose. Ross is a muscular man with red hair and a broad smile. He married Almona two years ago, although Almona says she won't take his name until they retire and start a family. Ross is the unflappable sort whose mere presence can calm a high-stress situation. His worst habit is whistling tunes that get stuck in your head. Ross speaks with a slight Scottish accent, although he's never actually set foot on Earth, never mind Scotland.
 |===
 
+[cols="400px,500px"]
+|===
+>a| 
+image:https://db3pap001files.storage.live.com/y4mVdkleTEfs4XUY4Jy59yTmCYW5BsulRTtvtbM8zJe2RMcXO-IgFz2oxQsLFM21MXK4z-S_K1V7NmFLgbGpXQfEWOsq1DPDntjcoqY4Kl1LntMRlokLDqqWmkEf7B32FfLayz3qwLV4sBpX0Ux9je95uNNJ4tNHFAfWWROatx84KUNxbAA4556NsAIOLCutC8Y?width=660&height=622&cropmode=none >a|   
+*Lars Anderson (Maintanence))* +
+*UPP:* A5B764  + 
+*Age:45* +
+*Description:* +
+Lars is a brutish-looking man who looms over most other people. However, it soon becomes clear that he is a sweet-natured giant whose tendency for jokes and tomfoolery frequently gets him into hot water with Captain Wash. Always joking, Lars is difficult to take seriously. Still, when matters become serious, his willingness to take personal risks for others makes him a popular member of the crew. Lars was born on Earth in a bunker community 30km outside of Helsinki, although his family moved to the Orbitals and then to Luna.
+|===
 
-==== Lars Anderson (Maintanence)
 
-Lars is a brutish-looking man who looms over most other people. However, it soon becomes clear that he is a sweet-natured giant whose tendency for jokes and tomfoolery frequently gets him into hot water with Captain Wash. Always joking, Lars is difficult to take seriously. Still, when matters become serious, his willingness to take personal risks for others makes him a popular member of the crew.
 
 ==== Tony Pendula (Security/Cargo Handler)
 
