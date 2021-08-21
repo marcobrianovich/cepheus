@@ -369,19 +369,19 @@ image:https://db3pap001files.storage.live.com/y4mVOIei7qgPctmVuR5d121HVhL9uIQP0o
 
 *(A)* *Stem Access System* - This area is consistent all the way along the length of the transporter. Note that everything beyond the hatch doors in A are part of either of the two cargo modules. 
 
-*(B)* *Clamp room* - When the cargo containers separate from the transport, this space opens out to vacuum, as the outer wall of B is actually part of the wall of the cargo container. The wall mounted equipment, must of which is part of the clamp machinary, is all vacuum hardened and certified for space operations.
+*(B)* *Clamp room* - When the cargo containers separate from the transport, this space opens out to vacuum, as the outer wall of B is actually part of the wall of the cargo container. The wall-mounted equipment, part of the clamp machinery, is all vacuum hardened and certified for space operations.
 
 *(+C+)* *Starboard Hold* - Large cargo space filled with 3m x 12m shipping containers. There are ladder tubes on the other walls that lead just between the cargo decks.
 
-*(D)* *Marshalling Area* - This part of the cargo decks has a crain system for moving shipping containers between decks. There's a 15m x 18m openning between decks. This opening has a sliding door that can isolate each deck from the rest. When the hatch is open on all nine decks, there's a nearly 200m drop.
+*(D)* *Marshalling Area* - This part of the cargo decks has a crane system for moving shipping containers between decks. There's a 15m x 18m opening between decks. This opening has a sliding door that can isolate each deck from the rest. When the hatch is open on all nine decks, there's a nearly 200m drop.
 
 ===== Deck 11
 
-This deck has exactly the same layout as Deck 10. Life support is running so the deck may be accessed. The floor and ceiling hatches in the (D) areas are all open. There's no sign of activity.
+This deck has the same layout as Deck 10. Life support is running so the deck may be accessed. The floor and ceiling hatches in the (D) areas are all open. There's no sign of activity.
 
 ===== Deck 12
 
-This deck has exactly the same layout as Deck 10. Life support is running so the deck may be accessed. The ceiling hatches (leading to deck 11) are open but the floor hatches (leading to Deck 13) are both closed. There's no sign of activity.
+This deck has the same layout as Deck 10. Life support is running so the deck may be accessed. The ceiling hatches (leading to deck 11) are open but the floor hatches (leading to Deck 13) are both closed. There's no sign of activity.
 
 ===== Deck 13
 
@@ -425,40 +425,40 @@ This small deck is the contains primary control for the entire transporter. In t
 
 ===== Deck 22 (Power Plant)
 
-The Fusion deck contains three fusion power plants in a large changer that is 9m high. However, access to crew is limited to a control room that is a standard 3m height. There are hatches at both ends of the room that lead onto a walkway with a railings. The white in the middle of the deck plan is open space that rises 3m above the deck and drops 3m below. When the vehicle is not accelerating, its possible to move around this chamber.
+The Fusion deck contains three fusion power plants in a large changer that is 9m high. However, crew access is limited to a control room on a balcony halfway up the chamber. The control room is the standard 3m in height. There are hatches at both ends of the room that lead onto a walkway with a railing. The white area in the middle of the deck is open space, rising 3m above the deck and dropping 3m below. When the vehicle is not accelerating, it's possible to move around this chamber.
 
-The Power system is mostly autonomous. Every twelve hours, the off-line powerplant starts up, once confirmed that it is running properly, one of running powerplants shuts down and undergoes a purge and becomes the off-line powerplant. This operation happens automatically, even in lockdown.
+The Power system is mostly autonomous. Every twelve hours, the off-line powerplant starts up. Once confirmed that it is running correctly, one of the running powerplants shuts down, undergoes a purge, and becomes the new off-line powerplant. This operation happens automatically, even in lockdown.
 
 ===== Deck 23 (Drive Deck)
 
-The drive deck is a series of access spaces and walkways inside the giant thruster system. Everything is heavily engineered and reinforced. There are countless cable rails and piping going in every direction. On one side of the deck is an Emergency airlock. There's no EVA marshalling area, the airlock is mostly intended for entry from outside, should the stem access become blocked, rather than as an escape route.
+The drive deck is a series of access spaces and walkways inside the giant thruster system. Everything is heavily engineered and reinforced. Countless cable rails and piping go in every direction. On one side of the deck is an Emergency airlock. There's no EVA marshaling area. The purpose of the airlock is to provide entry from outside, should the stem access become blocked.
 
 === Chapter Three - Fight the Power
 
-This chapter deals with how the PCs conclude the mini-adventure. The most pressing objective deals with Deck 21 (Engineering Control).
+This chapter deals with how the PCs conclude the mini-adventure. The most pressing objective deals with taking control of Deck 21 (Engineering Control).
 
-The following list of strategies are available, although the PCs should be allowed to come up with their own plan, which as GM you will need to assess, to decide if it can work.
+The following strategies are available, although the PCs should be allowed to develop their own plan. As GM, you will need to assess to decide if it can work.
 
-* *Ripley maneuver:* Lure T-12 to an airlock and flush it out into space. This only works if the PCs locks down all airlocks as T-12 is equipped with mini-thrusters and will otherwise work his way to another airlock and re-enter.
+* *Ripley maneuver:* Lure T-12 to an airlock and flush it out into space. This only works if the PCs lock down all airlocks as T-12 is equipped with mini-thrusters and will otherwise work its way to another airlock and re-enter.
 
-* *Lock-up:* Lure T-12 into a room that can be locked. Doesn't work for long as T-12 is equipped with a blow-torch, so can cut itself through any wall that isn't the outer-hull, or any hatch that isn't a surface airlock.
+* *Lock-up:* Lure T-12 into a room that can be locked. Doesn't work for long as T-12 is equipped with a blow-torch, so it can cut itself through any wall that isn't the outer hull or any hatch that isn't a surface airlock.
 
-* *Flytrap:* Lure T-12 into an improvised trap using MBT-40 bonding tape. Tricky but at the risk of some bruising this works if all the PCs work together and quickly enough that T-12 doesn't work out their plan.
+* *Flytrap:* Lure T-12 into an improvised trap using MBT-40 bonding tape. Tricky, but at the risk of some bruising, this works if all the PCs work together. They'll need to be quick, though, as T-12 will run away if he can work out what they are trying to do.
 
-* *Firmware Update:* Take the firmware update catridge from T-12's storage box on Deck 10 (Cargo) to the Deck 21 (Engineering Control) and initiate a firmware update. This actually takes quite a long time, first the PCs profiles need to be uploaded into a computer file system directory, then uploaded with the firmware. The firmware update forces a 3-second shutdown, but provding the PCs profile information is included, it will stop treating them as intruders, they will be able to command T-12 to stand down. 
+* *Firmware Update:* Take the firmware update cartridge from T-12's storage box on Deck 10 (Cargo) to Deck 21 (Engineering Control) and initiate a firmware update. This actually takes quite a long time. First, the PC's profiles must be uploaded into the main computer, then uploaded with the firmware. The firmware update forces a 3-second shutdown but providing the PCs profile information is included, it will stop treating them as intruders. They will be able to command T-12 to stand down. 
+
 
 *Down with Lock-down* +
 
-The control room itself has heavy-duty panels that carrying multi-function-displays (MFD) that can be switched to control almost anything on the transporter. The most urgent action the PCs need to take is to remove the lockdown. This is handled by a Difficult 8+ Computing roll. A critical failure (unmodified 2) will result in the lockdown becoming perminent. If the character performing the task also has piloting or engineering skill, they get a +2, as they'll have training in handling vehicle lockdowns. 
+The Engineering Control room has heavy-duty panels that carry multi-function displays (MFDs) that may be switched to control almost anything on the Golden Goose. The most urgent action the PCs need to take is to remove the lockdown. This is handled by a Difficult 8+ Computing roll. A critical failure (unmodified 2) will result in the lockdown becoming permanent. If the character performing the task also has piloting or engineering skill, they get a +2, as they'll have training in handling vehicle lockdowns. 
 
-The moment that the lockdown is removed klaxons will sound. A woman's voice will sound out. "Warning. Emergency Maneuver in 3 minutes. Please strap into a g-force rated seat." After three minutes the ship will perform a rapid spin to place the thrusters in the direction of travel. The thrusters will ignite and the vehicle will slowly build up to 0.9g of acceleration. From this point on, everyone on the Golden Goose now experiences simulated gravity.  
+The moment that the lockdown is removed, klaxons will sound. A woman's voice will sound out. "Warning. Emergency Maneuver in 3 minutes. Please strap into a g-force rated seat." After three minutes, the ship will perform a rapid spin to place the thrusters in the direction of travel. The thrusters will ignite, and the vehicle will slowly build up to 0.9g of acceleration. From this point on, everyone on the Golden Goose now experiences simulated gravity.  
 
 *Firmware upgrade* +
 
-If the PC plan to stop T-12 by forcing it to undergo a firmware update, this is where it has to happen. The top-centre most console that sits in a cut in the stem is the main computer terminal. It's controls are isolated and can't be accessed from anywhere else. To complete a firmware update requires a difficult (8+) Computing roll. The task takes 10 minutes. If the PCs try to complete the upgrade in 5 minutes it becomes Very Difficult(10+). However, if the PCs slow down and take their time, the task becomes routine (6+).
+If the PC plan to stop T-12 by forcing it to undergo a firmware update, this is where it has to happen. The top-centre most console that sits in a cut in the stem is the main computer terminal. Its controls are isolated and can't be accessed from anywhere else. To complete a firmware update requires a difficult (8+) Computing skill roll. The task takes 10 minutes. If the PCs try to complete the upgrade in 5 minutes, it becomes Very Difficult (10+). However, if the PCs slow down and take their time, the task becomes routine (6+).
 
-The tricky part is keeping T-12 from stopping the action. If the PCs have drawn T-12 away with a distraction, it will immediately know that the central computer has been accessed and will attempt to withdraw and retake control of the Engineering Control Deck. 
-
+The tricky part is keeping T-12 from stopping the action. Suppose the PCs have drawn T-12 away with a distraction. In that case, it will immediately know that the central computer has been accessed and will attempt to withdraw and retake control of the Engineering Control Deck. 
 
 
 === End Credits
@@ -467,15 +467,15 @@ The tricky part is keeping T-12 from stopping the action. If the PCs have drawn 
 ____
 *Executive:* Developing Trajan under a cover program appears to have saved the project.
 
-*Off screen voice:* Yes.
+* Off-screen voice:* Yes.
 
 *Executive:* In fact, this incident has provided a great deal of useful data. A single unit disabled and captured a large transport. Operating under the fake Anti-piracy AI. Ironic that the unit turned out to be an effective pirate.
 
-*Off screen voice:* We're not building robot pirates. Trajan is an army. 
+* Off-screen voice:* We're not building robot pirates. Trajan is an army. 
 
 *Executive:* In that case, maybe we should engineer an incident that field tests Trajan in force.
 
-*Off screen voice:* Yes. {pause} When we're ready.
+* Off-screen voice:* Yes. {pause} When we're ready.
 ____
 
 
@@ -490,24 +490,24 @@ Prototype anti-piracy droid.
 
 ==== Almona Wash (Captain)
 
-Captain of the ITV Golden Goose. Almona is a tall, slender, pale-skinned woman with long black hair. She is dressed in a pale yellow jumpsuit. At 33, she's young for captaincy but her no-nonsense approach to life make her a good fit for the role. She has the respect of her crew because she is extremely loyal and the admiration of her peers because of her high competancy. Almona's worst habit is trying to own every problem, it makes her seem over serious. Ross Mcalphine is the one person who can lift the weight on her shoulders with a few words. 
+Captain of the ITV Golden Goose. Almona is a tall, slender, pale-skinned woman with long black hair. She is dressed in a pale yellow jumpsuit. At 33, she's young for captaincy, but her no-nonsense approach to life makes her a good fit for the role. She has the respect of her crew because she is extremely loyal and the admiration of her peers because of her high competency. Almona's worst habit is trying to own every problem. It makes her seem over serious. Ross McAlpine is the one person who can lift the weight on her shoulders with a few words. 
 
 ====  Ross McAlpine (Lead Engineer)
 
-Chief engineer of the ITV Golden Goose. Ross is a muscular man with red hair and a broad smile. He married Almona two years ago, although Almona says that she won't take his name until they retire and start a family. Ross is the unflappable sort whose mere presense can calm a high-stress situation. His worst habit is whistling tunes that get stuck in your head.
+The chief engineer of the ITV Golden Goose. Ross is a muscular man with red hair and a broad smile. He married Almona two years ago, although Almona says she won't take his name until they retire and start a family. Ross is the unflappable sort whose mere presence can calm a high-stress situation. His worst habit is whistling tunes that get stuck in your head.
 
 ==== Lars Anderson (Maintanence)
 
-Lars is a brutish-looking man who looms over most other people. However, it soon becomes clear that he is a sweet-natured giant whose tendancy for jokes and tom foolery frequently get him into hot water with Captain Wash. Always joking, Lars is difficult to take seriously but when matters become serious, his willingness to take personal risks for others make him a popular member of the crew.
+Lars is a brutish-looking man who looms over most other people. However, it soon becomes clear that he is a sweet-natured giant whose tendency for jokes and tomfoolery frequently gets him into hot water with Captain Wash. Always joking, Lars is difficult to take seriously. Still, when matters become serious, his willingness to take personal risks for others makes him a popular member of the crew.
 
 ==== Tony Pendula (Security/Cargo Handler)
 
-Tony is a short, light framed man of British-Greek ancestry, although he is actually Martian. Tony is a cheerful but laconic man whose small stature leads him to be overlooked. He tends to  skulk at the back of any group. He takes his duties seriously and while Tony and Lars are good friends most of the time they spend together on duty tends to turn into banter.
+Tony is a short, light-framed man of British-Greek ancestry, although he is actually Martian. Tony is a cheerful but laconic man whose small stature leads him to be overlooked. He tends to skulk at the back of any group. He takes his duties seriously, and while Tony and Lars are good friends, most of the time they spend together on duty tends to turn into banter.
 
 ==== Simone Acosta (Computer/Systems Engineer)
 
-Nigerian-Luna woman in her early 40s, Simone is even taller than Almona, but has a more muscular frame that gives surprising physical strength. Simone is extremely competent and capable but does not suffer fools gladly. She remains aloof in the company of strangers or people that she doesn't respect. She's ambitious and wants her own captaincy but recognises that Almona has leadership qualities that she doesn't have, and would never question an order, even if she didn't agree with it. However, in her specialist field, she's the boss.
+Nigerian-Luna woman in her early 40s, Simone is even taller than Almona but has a more muscular frame that gives surprising physical strength. Simone is competent but does not suffer fools gladly. She remains aloof in the company of strangers or people that she doesn't respect. She's ambitious and wants her own captaincy but recognises that Almona has leadership qualities that she doesn't have. Simone would never question an order, even if she disagreed with it. However, in her specialist field, she's the boss.
 
 ==== Anya Fillipova (Maintanence)  
 
-Anya is a Russian-Luna national, in her early 30s. She's tall, with an athletic build and wears her long brown hair in a ponytail or under a cap.  She's part of Lars Anderson's maintanence team. Considered by the rest of the crew to be something of a loner, Anya is one of those people who just can't settle anywhere. She's happy enough working on the Golden Goose but has ambitions to return to Luna and set up as an independent maintenance contractor.
+Anya is a Russian-Luna national in her early 30s. She's tall, athletic, and wears her long brown hair in a ponytail or under a cap.  She's part of Lars Anderson's maintenance team. Considered by the rest of the crew to be a loner, Anya is one of those people who just can't settle anywhere. She's happy enough working on the Golden Goose, but she has ambitions to return to Luna and set up as an independent maintenance contractor.
