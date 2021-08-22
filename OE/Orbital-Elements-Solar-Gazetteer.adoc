@@ -540,7 +540,16 @@ Ganymede's surface is exposed to 800 mSv per day. The relocation of people away 
 
 ==== Callisto
 
-In the early days of colonisation, Callisto was considered the "goldilocks" location for settling. It's orbits Jupiter just outside the deadly radiation belts and is far enough away to not fall into Jupiter's steep gravity well, making early travel there significantly cheeper. 
+The second largest of Jupiter's moons. In the early days of colonisation, Callisto was considered the "goldilocks" location for settling. It orbits Jupiter just outside the deadly radiation belts and is far enough away to not fall into Jupiter's steep gravity well, making travel there significantly cheaper. Large amounts of precious metals and some volitiles, mostly the result of eons of asteroid collision made the moon a target for industrialisation.
+
+*Ground Settlements* +
+
+*Lanser Yertan* +
+The largest settlement on Callisto (population 10 million), this industrial colony mines and processes a range of materials that are then shipped throughout the outer system. In recent years, the colony has become the target of piracy and industrial espionage. As a result, the settlement's government has taken large security contracts and now fields a sizable defense force. The other settlements on Callisto are deeply unhappy as these security forces continue to disrupt operations and harass shipping in the Jupiter planetary system.
+
+*Jupiter Gateway* +
+Jupiter Gateway is free station, funded and built by the Jupiter Development Conglomerate. It's the largest trade hub in the Jupiter planetary system and acts as a trade hub for much of the outer system. Natural resourses gathered from Callisto are shipped to Jupiter Gateway, where larger transporters then take them elsewhere.
+
 
 === Saturn
 
