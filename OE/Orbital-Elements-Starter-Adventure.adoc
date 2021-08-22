@@ -539,9 +539,19 @@ image:https://db3pap001files.storage.live.com/y4mNH0L87ehjOrt57hjUYDu0OJCdtWb3pz
 Tony is a short, light-framed man of British-Greek ancestry, although he is actually Martian. Tony is a cheerful but laconic man whose small stature leads him to be overlooked. He tends to skulk at the back of any group. He takes his duties seriously, and while Tony and Lars are good friends, most of the time they spend together on duty tends to turn into banter.
 |===
 
-==== Simone Acosta (Computer/Systems Engineer)
-
+[cols="400px,500px"]
+|===
+>a| 
+image:https://db3pap001files.storage.live.com/y4mx53vvBnYay65ln3axR549QpWuRbc5jHNbCjZv8VwoiYieNoWbfcPOTNPLVY7u8aqJHXT6OG7_zUNMM2GfDw_D9VwT1RSMvJvhO3GXB4DrqEFca2MmFWAb5wE_IEdLnqFH5cmkuKahu-P4GI6HBG012LU5pmgSxBIvGrQ4o9bibsgCYNBSc-zzLoq_2-hTb4e?width=658&height=660&cropmode=none[image]
+>a|    
+*Simone Acosta (Computer/Systems Engineer) +
+*UPP:* A69BB8  + 
+*Age:42* +
+*Description:* +
 Nigerian-Luna woman in her early 40s, Simone is even taller than Almona but has a more muscular frame that gives surprising physical strength. Simone is competent but does not suffer fools gladly. She remains aloof in the company of strangers or people that she doesn't respect. She's ambitious and wants her own captaincy but recognises that Almona has leadership qualities that she doesn't have. Simone would never question an order, even if she disagreed with it. However, in her specialist field, she's the boss.
+|===
+
+
 
 ==== Anya Fillipova (Maintanence)  
 
