@@ -550,7 +550,7 @@ The largest settlement on Callisto (population 10 million), this industrial colo
 *Orbital Settlements* +
 
 *Jupiter Gateway* +
-Jupiter Gateway is free station, funded and built by the Jupiter Development Conglomerate. It's the largest trade hub in the Jupiter planetary system and acts as a trade hub for much of the outer system. Natural resourses gathered from Callisto are shipped to Jupiter Gateway, where larger transporters then take them elsewhere.
+Jupiter Gateway is free station, funded and built by the Jupiter Development Conglomerate. Jupiter-gateway (commonly abrevivated to J-gate) is a distribution hub. Heavy transporters, shipping in goods and materials in and out of the Jupiter Planetary system go to Jupiter Gateway. The station is equipped with a specialised robotic distribution platform into which shipping containers are loaded through spoke-like gantries. Once loaded into the storage hangars, the station's AI can then shuffle a hundred thousand tons of cargo like a croupier can shuffle a pack of cards. 
 
 image:https://db3pap001files.storage.live.com/y4m5FPXCxwx-LauIHB3fNGZouUarjwPf7xTaCcqdJV9Yj087uO4ohpdwhFvQmEMB_95Sn8VUVKan4FtGF1JyjQ4aa3HDDiNDIiNkwQwJs0cOZ1OHchIWJLcRCAB6NGjqw1CFi4Ot_DgnmfEszlu8_G2w1te3PtkS0XbX8Bsqu10voHGJnne0VhH4irRAWhvZwBp?width=1024&height=620&cropmode=none[jupiter gateway]
 
