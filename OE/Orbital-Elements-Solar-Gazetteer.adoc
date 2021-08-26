@@ -547,8 +547,12 @@ The second largest of Jupiter's moons. In the early days of colonisation, Callis
 *Lanser Yertan* +
 The largest settlement on Callisto (population 10 million), this industrial colony mines and processes a range of materials that are then shipped throughout the outer system. In recent years, the colony has become the target of piracy and industrial espionage. As a result, the settlement's government has taken large security contracts and now fields a sizable defense force. The other settlements on Callisto are deeply unhappy as these security forces continue to disrupt operations and harass shipping in the Jupiter planetary system.
 
+*Orbital Settlements* +
+
 *Jupiter Gateway* +
 Jupiter Gateway is free station, funded and built by the Jupiter Development Conglomerate. It's the largest trade hub in the Jupiter planetary system and acts as a trade hub for much of the outer system. Natural resourses gathered from Callisto are shipped to Jupiter Gateway, where larger transporters then take them elsewhere.
+
+image:https://db3pap001files.storage.live.com/y4m5FPXCxwx-LauIHB3fNGZouUarjwPf7xTaCcqdJV9Yj087uO4ohpdwhFvQmEMB_95Sn8VUVKan4FtGF1JyjQ4aa3HDDiNDIiNkwQwJs0cOZ1OHchIWJLcRCAB6NGjqw1CFi4Ot_DgnmfEszlu8_G2w1te3PtkS0XbX8Bsqu10voHGJnne0VhH4irRAWhvZwBp?width=1024&height=620&cropmode=none[jupiter gateway]
 
 
 === Saturn
