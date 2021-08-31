@@ -111,11 +111,11 @@ A few hours ago, you and eleven other Sugerhill passengers were loaded onto a sh
 Some of the prisoners believe they are being transferred to a free station to be released. Others whisper a more worrying story -- apparently, some private military contractors do a background check on prisoners that they pick up. Anyone who doesn't appear to have rich or influential friends is sold into slavery - their arrest recorded deleted by hacker gangs.
 ____
 
-The guards of the shuttle become agitated. The following conversation is heard.
+The guards of the shuttle become agitated. The following conversation is heard:
 
 .Readout:
 ____
-**Guard 1:** We're being retasked. Apparently, a transporter reports a possible pirate attack but then went dark and hasn't changed course. I'm not risking my neck going onto a derelict. I didn't sign up to fight pirates. +
+**Guard 1:** We're being retasked. Apparently, a nearby transporter reported a possible pirate attack but then went dark. I'm not risking my neck going onto a derelict. I didn't sign up to fight pirates. +
 **Guard 2:** Haha, won't be any risk. Captain says the boarding crew is getting decided by a prisoner lottery. +
 **Guard 1:** NO WAY, I already lost one vac-suit this year when I was forced to lend it to a prisoner. +
 **Guard 2:** You don't loan a suit; you don't get a cut. It's a big ITV, a 30-thousand-tonner. Even if it's empty, there will be a million in salvage, each. + 
@@ -126,7 +126,7 @@ The twelve prisoners are escorted to the operations deck and strapped to seating
 
 The other prisoners appear visibly relieved. Many of them shoot you with concerned looks. Nobody speaks to you but their eyes are saying, "it was nice knowing you."
 
-The shuttle's XO gathers you and leads you to the EVA bay and airlock. You are dressed in slightly worn mid-range vacc suits.
+The shuttle's XO gathers you and leads you to the EVA bay and airlock. You are dressed in slightly worn mid-range vac suits.
 
 The officer, a wiry Chinese man in his late 50s, grins grimly at you. "Nine times out of ten, everything fine. Everyone happy. Good odds! You not heroes. You not take risks. Go in, report on what you find. If danger obvious, report and withdraw."
 
@@ -205,7 +205,7 @@ This is not a standard space vehicle. You might be generous and describe it as a
 
 ==== Every Breath you take
 
-T-12 is linked into the cameras and sensors that monitor most goings-on aboard the Golden Goose. This includes pretty good radio reception from the PCs space suits. With this in mind, play T-12 as always two steps ahead of the PCs. The PCs might make skill rolls to tease out that they're being monitored. If they work it out, they can start disabling cameras and mics. They can turn encryption or line-of-sight modes on their vacc suit radio to prevent eavesdropping. Taking these steps will make T-12 seem far less omnipotent. However, it will also compel T-12 to active PLAN-BETA, in which it activates additional labour droids.
+T-12 is linked into the cameras and sensors that monitor most goings-on aboard the Golden Goose. This includes pretty good radio reception from the PCs space suits. With this in mind, play T-12 as always two steps ahead of the PCs. The PCs might make skill rolls to tease out that they're being monitored. If they work it out, they can start disabling cameras and mics. They can turn encryption or line-of-sight modes on their vac suit radio to prevent eavesdropping. Taking these steps will make T-12 seem far less omnipotent. However, it will also compel T-12 to active PLAN-BETA, in which it activates additional labour droids.
 
 ==== Under Pressure
 
@@ -229,7 +229,7 @@ Lars Anderson is the cause of this big sorry mess. He spotted some inconsistenci
 
 ===== Anya
 
-Anya Fillipova, one of Lars Anderson's repair Maintenance and Repair Team members, managed to evade T-12 long enough to get into a vacc-suit. She's actually set up a base on Deck 7, living in one of the EVA rooms, which she has barricaded from the inside. She uses her vacc suit to make supply runs and to attempt to rescue other crew members. She may be encountered if the PCs explore deck 7 or spotted as she makes a supply run, heading into another part of the ship. A rasping figure in a large dirty space suit may be startling to the PCs. Likewise, a chance encounter with the PCs may cause Anya to panic and run away.
+Anya Fillipova, one of Lars Anderson's repair Maintenance and Repair Team members, managed to evade T-12 long enough to get into a vac suit. She's actually set up a base on Deck 7, living in one of the EVA rooms, which she has barricaded from the inside. She uses her vac suit to make supply runs and to attempt to rescue other crew members. She may be encountered if the PCs explore deck 7 or spotted as she makes a supply run, heading into another part of the ship. A rasping figure in a large dirty space suit may be startling to the PCs. Likewise, a chance encounter with the PCs may cause Anya to panic and run away.
 
 
 === Deck descriptions                     
@@ -303,7 +303,7 @@ The Hab modules take the form of rings with an opening on one side, allowing dec
 
 [NOTE]
 ====
-On transporters set up for large numbers of habitation decks, the emergency airlocks on each deck can be fitted with inflatable access tubes to provide additional access points. This arrangement is not used on the Golden Goose, although individuals wearing vacc suits can move between decks.
+On transporters set up for large numbers of habitation decks, the emergency airlocks on each deck can be fitted with inflatable access tubes to provide additional access points. This arrangement is not used on the Golden Goose, although individuals wearing vac suits can move between decks.
 ====
 
 ==== Hab Decks
@@ -312,7 +312,7 @@ On transporters set up for large numbers of habitation decks, the emergency airl
 
 *(A)* *Emergency Airlocks* - The top one is designated for entry only. The bottom lock leads to an EVA room. This airlock leads directly into the corridor/utility space.
 
-*(B)* *EVA room* - This room contains equipment for storing, getting in and out of vacc suits. Three emergency vac suits are hanging in the opening on the bottom wall.
+*(B)* *EVA room* - This room contains equipment for storing, getting in and out of vac suits. Three emergency vac suits are hanging in the opening on the bottom wall.
 
 *(+C+)* *Lounge* - A sizeable L-shaped room that contains couches, chairs, and tables. On the inner wall, mounted against the stem, are various food and drink vending machines.
 
@@ -405,7 +405,7 @@ This deck has exactly the same layout as Deck 10. Life support is running so the
 
 ===== Deck 18
 
-This deck has exactly the same layout as Deck 10. The hatches are locked. It looks like fault in the air pumps is caused the pressure in the chamber to drop considerably. The hatches lock to prevent an decompression event.  The floor and ceiling hatches in the (D) areas are all closed. There's no sign of activity. If the PCs want to get access to the cargo decks, they can depressure it, then enter wearing a vacc suit. There's nothing special here.
+This deck has exactly the same layout as Deck 10. The hatches are locked. It looks like fault in the air pumps is caused the pressure in the chamber to drop considerably. The hatches lock to prevent an decompression event.  The floor and ceiling hatches in the (D) areas are all closed. There's no sign of activity. If the PCs want to get access to the cargo decks, they can depressure it, then enter wearing a vac suit. There's nothing special here.
 
 ===== Deck 19
 
