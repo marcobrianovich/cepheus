@@ -80,7 +80,7 @@ There are nine cargo decks, each is 9m high, creating a huge area to potentially
 This is currently the control centre for the transporter since the activation of lockdown has disabled all controls in the command module. Naturally, it is also T-12's default hiding place.                      
 
 **Fusion Control (22)** +
-This deck is essentially a balcony with an interior space filled with the fusion powerplants that stretches about 15 from top to bottom. This section is locked from the outside. If the PCs enter the stem access room they can open the door and find the sleeping Ross McAlpine. See link:captains-orders[Captains Orders]. After drinking some water, Ross will start to wake up and will provide advice to the PCs, although he's far too weak to be able to provide physical help.
+This deck is essentially a balcony with an interior space filled with the fusion powerplants that stretches about 15 from top to bottom. This section is locked from the outside. If the PCs enter the stem access room they can open the door and find the sleeping Ross McAlpine. See link:#captains-orders[Captains Orders]. After drinking some water, Ross will start to wake up and will provide advice to the PCs, although he's far too weak to be able to provide physical help.
 
 **Drive Deck (23)** +
 This deck provides access to the Quan-Ebrahimi drive. There's nothing here of interest, but it does have an emergency airlock that T-12 can use to travel across the hull to access 
