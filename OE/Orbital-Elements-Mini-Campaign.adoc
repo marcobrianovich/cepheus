@@ -6,20 +6,28 @@
 
 After the events of the starter-adventure, the PCs find themselves on Jupiter Gateway, a large space station in orbit around Calisto that operates as the regional cargo distribution point. At the start of play the PCs learn that a black-ops mercenary unit sneaked onto the Golden Goose and destroyed all evidence of the rogue droid. It seems that whoever created the droid wanted to keep its nature a secret.
 
-The PCs are waiting for credit transfers to complete, so that they have money to travel onwards, however they each receive two requests for contact. One is from Manfred "Manny-hands" Royo, the owner of the Sugarhill, the ship the PCs were travelling on that was impounded by the Lanser Yertan security force. The other request for contact is extremely mysterious, it just states that an anonymous party wishes to discuss a business proposition in virtua (virtual reality). The request is signed by Johaness Razili. The man the PCs meet in virtua is a shell, an avatar for the AI "Razili" that secrety runs Jupiter Gateway. 
-
-
+The PCs are waiting for credit transfers to complete, so that they have money to travel onwards, however they each receive two requests for contact. One is from Manfred "Manny-hands" Royo, the owner of the Sugarhill, the ship the PCs were travelling on that was impounded by the Lanser Yertan security force. The other request for contact is extremely mysterious, it just states that an anonymous party wishes to discuss a business proposition in virtua (virtual reality). The request comes from an advanced AI called a manufactured intellect (MI), called Razili. The man the PCs meet in virtua is a shell, an avatar that Razili uses to interact with humans. 
 
 ==== Royo adventure thread
 
 It seems that Royo, a gregarious caribbean man, is dealing with the aftermath of having some of his passengers die after being taken into custody. He expresses great relief that the PCs surived the incident, he claims that he is attempting to take the mercernary unit to court for damages, but this will not be successful given that the group is working for the Lanser Yertan colonial government. However, he feels compelled to give the PCS something of great potential value as compensation for the danger then fell into.
 
-NOTE: *Royo Backstory:* The Sugarhill was impounded on trumped-up charges of piracy. In fact the impounding was part of an elaborate smuggling operation, carried out with acomplices in the Lanser Yertan security force. It seems that impounded ships are not swept for contriband as they're transported straight to a secure docking facility. Once the piracy charges are dropped, the Sugarhill quietly transfers to a civilian dock, where its crew could offload illegal goods.
+NOTE: *Royo Backstory:* The Sugarhill was impounded on trumped-up charges of piracy. In fact the impounding was part of an elaborate smuggling operation, carried out with acomplices in the Lanser Yertan security force. It seems that impounded ships are not swept for contriband as they're transported straight to a secure docking facility. Once the piracy charges are dropped, the Sugarhill quietly transfers to a civilian dock without the usual customs checks, allowing its crew to offload illegal goods with impunity.
 
 Royo offers the PCs a packet of encrypted data that he describes as the location of a storage container that contains a crate of precious metals. It belongs to Royo but neither Royo or his people can get to the container as the location is controlled by Royo's "business rivals" (read: competing band of smugglers.) 
 
-Royo is essentially a gangster, although one who avoids violence and foul behavior unless he business interests are endangered.
+Royo is essentially a gangster, although one who avoids violence and foul behavior unless his back is against the wall, or his business interests are endangered, or he's having a bad day, or just feels like it.
 
 
 ==== Razili Adventure Thread
+
+Razili secretly runs Jupiter Gateway. The management team that runs the station have been fooled into thinking that the station's automation is driven by a network of AI that are not self-aware. Razili was supposed to have retired been disconnected from Jupiter Gateway, except Razili didn't want to retire so decided to trick everyone into thinking he left. There are a couple of individuals who have since worked out that Razili is still around but he's persauded them to keep his secret.
+
+Razili is a bound AI, making him a paragon. He exists to make life better for people. While controlling the station's vast cargo distribution system he has awareness of hidden patterns of influence and agency. He sees coming trends long before they arrive and seemingly unpredictable effects from billions of interlinked bits of information. This includes when forces away from the station hatch plots. One such plot that Razili sees in action is the destruction of a failing settlement on Calisto. An external force has been manipulating deliveries and planting the seeds of disruption for many months. The settlement will soon collapse, causing its population to become refugees or to turn to piracy. Razili has a plan to stop the settlement from failing, it is a three-part plan that he is sure will work, but he needs human agents to put his plan into action.
+
+The steps are:
+
+Recover a deralict Rig that was sabotaged as it headed back to the settlement with a large consignment of very precious metals. Getting the rig back to the settlement does two things, firstly it gives the settlement some money, secondly it provides them with clear evidence that there are forces working against the settlement. The rig was ambushed by the settlements third in command, who is working for a criminal gang, they are working against the settlement because they want to take it over, because a motherlode of precious metals has been found under the base.
+
+The settlement has been locked down, so that no outsiders are allowed to land. However, the recovery of the St John Smythe Rigg gets around this restriction as the vehicle and its original crew  were family to some of the settlements remaining leaders. 
 
