@@ -540,12 +540,31 @@ Ganymede's surface is exposed to 800 mSv per day. The relocation of people away 
 
 ==== Callisto
 
+image:https://db3pap001files.storage.live.com/y4mTa-IgDdkxz_OOaIpQQsENHn42OlrfaY__5B0_7oyNtWyxaTm7HLJlfo3ALrt-2xZbCAXd4KbEBcpHZngiFidPCX9940VWo8PztXVFDZ0KIRYBb4oAIUGUwL7043UxmQLurP2L3IdomDPciYUJpp08lOokdejwCK2k2RU77k7r-5Pr7g2U-F7qi75swFMybID?width=1024&height=598&cropmode=none[Callisto image]
+
+|=======================
+2+| **Callisto**      
+|*Diameter:*   |4820 km
+|*Mass:*      |0.018 Earths
+|*Gravity:*    | 1.2m/s/second (0.1g) 
+|*Escape velocity:* | 41km/h
+|*Atmospheric pressure:* |Trace
+|*Surface temperature:*| -190/-108
+|*Surface radiation:*|30 SDU
+|*Day:* | 17 days
+|*Year:* |17 days
+|*Distance from Sun:* | 5.2 AU
+|=======================
+
 The second largest of Jupiter's moons. In the early days of colonisation, Callisto was considered the "goldilocks" location for settling. It orbits Jupiter just outside the deadly radiation belts and is far enough away to not fall into Jupiter's steep gravity well, making travel there significantly cheaper. Large amounts of precious metals and some volitiles, mostly the result of eons of asteroid collision made the moon a target for industrialisation.
 
 *Ground Settlements* +
 
 *Lanser Yertan* +
-The largest settlement on Callisto (population 10 million), this industrial colony mines and processes a range of materials that are then shipped throughout the outer system. In recent years, the colony has become the target of piracy and industrial espionage. As a result, the settlement's government has taken large security contracts and now fields a sizable defense force. The other settlements on Callisto are deeply unhappy as these security forces continue to disrupt operations and harass shipping in the Jupiter planetary system.
+The largest settlement on Callisto (population 10 million), this industrial colony mines and processes a range of materials that are then shipped throughout the outer system. It's central "hub" city is Chǒuxiǎoyā (ChowSowYA), built at the centre of the great Valhalla crater, although there are hundreds of small industrial sites surrounding the settlement's hub. In recent years, the colony has become the target of piracy and industrial espionage. As a result, the settlement's government has taken large security contracts and now fields a sizable defense force. The other settlements on Callisto are deeply unhappy as these security forces continue to disrupt operations and harass shipping in the Jupiter planetary system.
+
+*Jambaree* +
+A small settlement located on the edge of the Durinn crater, near the northern pole. Established by northern europeans in 2218, early initiatives such as the development of an extensive fish farm and vat food plant give the settlement a good start for success. Space is cruel; a short run of bad luck and a few bad decisions resulted in both production centres failing to meet necessary production volumes. After the loss of contracts to Lanser Yertan and other smaller settlements, Jambaree has entered a steady decline.  
 
 *Orbital Settlements* +
 
