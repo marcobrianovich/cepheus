@@ -610,8 +610,6 @@ image:https://db3pap001files.storage.live.com/y4m7lvPzOlQnPDl5RNjeKRFEXNcxE51di2
 
 ==== Tethys (trojans: Telesto and Calypso)
 
-image: [Tethys]
-
 image:https://db3pap001files.storage.live.com/y4m0w5fhiMImCH84lBEVQ1fZQNqpProbe8RDjxNusir7rJTcbZfEis_rnnAwppjarGI2JH-zaU7RxIWOJsMkxIq2-u3fENnvDqDqeSVOaQwcrU_JREhhpyaDQsSElrVgsq2kRWWWzDlMxr4Qaid0XooyahYJDtuqgyy5UhbBKXP28-MTQSFD7gnbj9mItGUrDqr?width=1024&height=480&cropmode=none[Tethys]
 
 ==== Dione (trojans: Helene and Polydeuces)
@@ -620,7 +618,11 @@ image:https://db3pap001files.storage.live.com/y4mOnErCD1jr94pygesVM61Jd0XMtYn5rB
 
 ==== Rhea
 
+image:https://db3pap001files.storage.live.com/y4mU7cevU1WSK_0-m7BIRSKiXkMalBxbspLPabcd-grWgDONia-eXLxx3Jm-I7QJOXqXpms_xWC8Y6WBc5KH5iMPv_rwUnb3vt3I__UZEi6gM3rpGBlUsvqT2u83MfheCD7kgpFGdu69zaSmQgyMfHkO0HP83u81thLO_-jILWlyogymKGfpUHvnB9QieDLin4m?width=1024&height=480&cropmode=none[Rhea]
+
 ==== Titan
+
+image:https://db3pap001files.storage.live.com/y4momMP2JHQs6a-xg0VNv09W5ZjWcNGs6hUz_FRqCcL22Dq1ULURp_pmUyB0pvcyoyhWOmxZ3i4Azk8OXvIlGk6fjCUmprqGib6bc-aLrlrsxD8hdNbkbvqzhja0WrbHPm9XP1nEJ1bYFOVik9AW2xmIb8aTv2jpL2joSogKNOhK4f6MfidAcMhDgmRRN0Z1Big?width=1024&height=480&cropmode=none[Titan]
 
 ==== Hyperion
 
