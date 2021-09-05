@@ -606,7 +606,13 @@ image:https://db3pap001files.storage.live.com/y4m7lvPzOlQnPDl5RNjeKRFEXNcxE51di2
 
 ==== Tethys (trojans: Telesto and Calypso)
 
+image: [Tethys]
+
+image:https://db3pap001files.storage.live.com/y4m0w5fhiMImCH84lBEVQ1fZQNqpProbe8RDjxNusir7rJTcbZfEis_rnnAwppjarGI2JH-zaU7RxIWOJsMkxIq2-u3fENnvDqDqeSVOaQwcrU_JREhhpyaDQsSElrVgsq2kRWWWzDlMxr4Qaid0XooyahYJDtuqgyy5UhbBKXP28-MTQSFD7gnbj9mItGUrDqr?width=1024&height=480&cropmode=none[Tethys]
+
 ==== Dione (trojans: Helene and Polydeuces)
+
+image:https://db3pap001files.storage.live.com/y4mOnErCD1jr94pygesVM61Jd0XMtYn5rB-nl-hXKN_dCiRBEbUYeSfCvYKc_yduHFNPm62HA37WfflKYEWWngrvVuNXw5F0KHUyb06_p7xGZnC-ueydOq8Qe14Qw_wAfbCgMzBr-JOcvZ3ar4AGNEhEETrBl71W0xhGud-96lu4mjHVj7thXmsig6j-zfpZEIy?width=1024&height=480&cropmode=none[Dione]
 
 ==== Rhea
 
