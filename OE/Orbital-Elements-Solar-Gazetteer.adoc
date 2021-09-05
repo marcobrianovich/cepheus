@@ -406,7 +406,7 @@ There are broadly three types of archology:
 
 Life in the archologies is reasonably comfortable and safe, but for most inhabitants, day-to-day living is highly regulated, with limits on personal freedom. Employment rates are below 25%, leaving the majority of people to occupy themselves through leisure, hobbies or self employment producing artifacts.
 
-Most archologies are extremely insular. Built to be completely self-sufficient, and following very similar plans, so life in one archology is pretty much the same as another. The exceptions are the archologies at the base of the two space elevators, Cayambe in Equador and Mame no ki, 
+Most archologies are extremely insular. Built to be completely self-sufficient, and following very similar plans, so life in one archology is pretty much the same as another. The exceptions are the archologies at the base of the two space elevators, Cayambe in Equador and Mame no ki, an artificial island off the coast of Indonesia funded mostly by Japan.
 
 Raising families remains popular, although most archologies limit family sizes to keep population growth under control. Couples wanting more than two children are encouraged to emigrate to a colony/habitat. 
 
@@ -416,10 +416,25 @@ By the 2280s most archologies have become rundown. While automated systems conti
 
 There are hundreds of small to medium sized stations in low Earth orbit. Larger stations are not built there because of the need to occasionally adjust orbits would be difficult. Larger stations are built at the Lagrange points, where orbits are stable.
 
-==== Gateway stations
+=== Gateway stations
 
+Located about half way up Earth's two space elevators are the Gateway stations. Built as transport hubs for the passengers and cargo that travel up and down the elevator, they quickly expanded to include hotels and entertainment, then habitats for the growing number of perminment workers. Each station is an independent "free city" with no political or cultural connection to the country located far below it. 
 
-==== Luna
+=== Lagrange Points
+
+There are five points around the Earth-Luna system where objects can benefit from a stable orbit. Outside of these zones occasional orbital corrections are required, which is difficult and expensive for moderate space stations, never mind the multi-million-ton Orbital colonies. For this reason, large space facilities are located at the Lagrange points. The first, L1 is located near Luna and orbits Earth at the same rate as Luna. L2 is located on Luna's orbital track, but on the oposite side of the Earth. L3 and L4 are located on Luna's oribital track, F3 just behind Luna and L4 just ahead.  
+
+==== L1
+
+*Edgeware* +
+
+*Martel* +
+
+====  L2
+
+==== L3
+
+=== Luna
 
 image:https://db3pap001files.storage.live.com/y4mIyqf2rVrPc0HCNc6hsvE_a7Ty9_ZTzXJdH-5tpwo2zfUV-hgZW5Egu9bxhMNq_JCR6icjcbrtQaZSjgdY1WDDUpfWOsZV0cej3MMwpmfDOSQPj-hJgQVFKKmGXmZAtj21xmVQ1XJlXszHK2ZPokwwNVTqseu4ATj22leNs16RSAWelCwcmbrFWBUxxH8XWEE?width=1024&height=480&cropmode=none[image]
 
