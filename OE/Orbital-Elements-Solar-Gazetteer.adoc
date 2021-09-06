@@ -17,9 +17,9 @@ The following guide covers all the planets and major masses in the solar system,
 |*Atmospheric pressure:* |0 (vacuum)
 |*Surface temperature:*|-10/+800
 |*Surface radiation:*|20 SDU
-|*Solar Day:* 10 minutes
-|*Year:* 30 days
-|*Distance from Sun:* 0.2 
+|*Solar Day:*| 10 minutes
+|*Year:*| 30 days
+|*Distance from Sun:*| 0.2 
 |=======================
 
 There are no colonies or large settlements inside the orbit of Mercury. There is a reseach and monitoring facility built inside Icurus, a small captured asteroid that was manoeuvred into its close solar orbit to provide a shielded location for a monitoring station. Icurus rotates to simulate gravity and to ensure that the intense heat felt at that location is applied evenly across its surface. The station's habitats are burried deep to provide adequate heat and radiation shielding. The station manages an array of solar monitoring satellites that ring the Sun and perform deep scans, to provide reliable predictions of storms. Satellite maintainence, monitoring and solar reseach keep about 100 staff occupied, with most staff working three-month assignment before returning various Earth universities. Icurus station is an isolated place to work, only very specialised, heavily shielded vehicles can reach it and they follow a four trips per-year schedule.
@@ -81,9 +81,9 @@ image:https://db3pap001files.storage.live.com/y4mkuAzdlP8JesFStGctLgQKY51eEwSPrj
 |*Atmospheric pressure:* |0 (vacuum)
 |*Surface temperature:*|-180/+430
 |*Surface radiation:*|7 SDU
-|*Solar Day:* 176 days
-|*Year:* 88 days
-|*Distance from Sun:* 0.4 
+|*Solar Day:*| 176 days
+|*Year:*| 88 days
+|*Distance from Sun:*| 0.4 
 |=======================
 
 The smallest planet in the system, and the closest to the Sun, Mercury is characterised by extreme heat (450 degrees Celsius under the midday sun) and extreme cold (minus 170 C in the evershades). Geologists have long agreed that Mercury is a planetary remnant -- the core of a larger planet that lost much of its rocky mantle coat in ancient punch-up, probably a collision with another proto-planet. Mercury has almost no axial tilt but its eccentric (egg-shaped) orbit creates extreme seasonal temperature variations.
@@ -189,9 +189,9 @@ image:https://db3pap001files.storage.live.com/y4mKcorB-1QUXlBxbd1rUsaAJhDEmuaYm-
 |*Atmospheric pressure:* |92 
 |*Surface temperature:*| +475
 |*Surface radiation:*|20 SDU
-|*Solar Day:* 116 days
-|*Year:* 225 days
-|*Distance from Sun:* 0.723
+|*Solar Day:* |116 days
+|*Year:* |225 days
+|*Distance from Sun:* |0.723
 |=======================
 
 Named for its beauty, Venus is a hellish world with some of the most hostile surface conditions in the entire solar system. It's so hot down there on the Venusian surface that anything not made of a high-melting point metals or ceramics ends up melted or erroded. There have been several attempts to begin terraforming operations but each has ended up discontinued, in part because of the difficulty of operating in such hostile conditions.
@@ -371,9 +371,9 @@ image:https://db3pap001files.storage.live.com/y4mXKWsSvSC82ILeraxpa5VA29HZxhNc2c
 |*Atmospheric pressure:* |1
 |*Surface temperature:*| +15
 |*Surface radiation:*|1 SDU (1 microSevert per day)
-|*Solar Day:* 24 hours
-|*Year:* 365 days
-|*Distance from Sun:* 1
+|*Solar Day:* |24 hours
+|*Year:* |365 days
+|*Distance from Sun:* |1
 |=======================
 
 
@@ -447,9 +447,9 @@ image:https://db3pap001files.storage.live.com/y4mIyqf2rVrPc0HCNc6hsvE_a7Ty9_ZTzX
 |*Atmospheric pressure:* |1
 |*Surface temperature:*| +124/-173
 |*Surface radiation:*|10 SDU
-|*Solar Day:* 29.3 hours
-|*Year:* 365 days
-|*Distance from Sun:* 1
+|*Solar Day:* |29.3 hours
+|*Year:* |365 days
+|*Distance from Sun:* |1
 |=======================
 
 The Earth's moon, now commonly called Luna, given that people are living on dozens of moons, is one of the most developed and populous places in the solar system. It was the location of the first perminent space settlement, it then because the main industrial hub for both space development and metal resources for Earth. Over the last two centuries six large settlements have grown to become nations in their own right. This development didn't run smoothly, Luna was the first readily available source of Helium-3, the crucial ingrediant for low-neutron-emission Fusion. Helium-3 was seen as stategically vital resouce -- if you had it, you had a foothold in the future, if you didn't, your nation would be left behind. In the early days, Luna saw nations scuffle over mining rights, then full-blown conflicts.
@@ -494,9 +494,9 @@ image:https://db3pap001files.storage.live.com/y4msK-xtuAOedDcgosE57w_YQ4tpe87VYr
 |*Atmospheric pressure:* |0.006
 |*Surface temperature:*| -143/+35
 |*Surface radiation:*|30 SDU
-|*Solar Day:* 24.5 hours
-|*Year:* 687 days
-|*Distance from Sun:* 1.66 AU
+|*Solar Day:* |24.5 hours
+|*Year:* |687 days
+|*Distance from Sun:* |1.66 AU
 |=======================
 
 
@@ -513,9 +513,9 @@ image:https://db3pap001files.storage.live.com/y4mt8-96g06h6RKW1xz25JN0cBdK2oT8s4
 |*Atmospheric pressure:* |0
 |*Surface temperature:*| -112/-4
 |*Surface radiation:*|30 SDU
-|*Day:* 24.5 hours
-|*Year:* 8 hours
-|*Distance from Sun:* 1.66 AU
+|*Day:* |24.5 hours
+|*Year:* |8 hours
+|*Distance from Sun:* |1.66 AU
 |=======================
 
 Named after the son of Ares (Mars, by the Romans), Phobos is the larger of the two martian moons and is believed to formed out of a debris ring that was created when Mars had a run in with a small planetoid. In time, the ring of space rubble coalesced into the bumpy ball of rock and ice that we see today. Initially ignored by the first generation of settlers, Phobos was later mined for water and volatiles. Some of the early mining facilties expanded to become an easy orbital resting point, given that a well kicked football can escape the moon's miniscule gravity well.  
@@ -540,9 +540,9 @@ image:https://db3pap001files.storage.live.com/y4mBLjsbF2HThmPyiWd_NRr46PYcZGx1kZ
 |*Atmospheric pressure:* |0 (vacuum)
 |*Surface temperature:*|-40
 |*Surface radiation:*|7 SDU
-|*Day:* 30 hours 
-|*Year:* 30 hours (synchronous)
-|*Distance from Sun:* 1.66 AU
+|*Day:* |30 hours 
+|*Year:* |30 hours (synchronous)
+|*Distance from Sun:* |1.66 AU
 |=======================
 
 image:https://db3pap001files.storage.live.com/y4mTr2himi63sBjKkNwWT_n-w9qJpMIP3HFtm5xrYrAdldPWmJIHoar7x4mfLqgeIbgl5X25iTp9fR78zm0KXtyqRpZZtc9v8zwSq3nR9pheFO3f73u44_UkDPOG3cSXB9KUy8-uWoyCwDr2hzhdqNkfTs30JvwmctImfrRAqTUtXvEBtBcGuTEdyxnPCUk03If?width=1024&height=480&cropmode=none[image]
@@ -550,6 +550,7 @@ image:https://db3pap001files.storage.live.com/y4mTr2himi63sBjKkNwWT_n-w9qJpMIP3H
 === The Belt
 
 ==== Ceres
+image:https://db3pap001files.storage.live.com/y4mvDsp-vylXGhTbNg98GojjJ3oD7xYIXke2ZrRl0ExiJcGYH6vzDXP8gPeVw4E5S95_T4XjjD42nnsjg1fYX1w99SnSKXbYw4tTfHF92O5TotzfkgfB_81D68XOgWmEIBx9MHctoyMO9qO8dCicPx6QjtvUbl5hVGfJkHTm6arrtL-TcusTAcgT3vDfGnrMkfP?width=1024&height=480&cropmode=none[image]
 
 |=======================
 2+| **Ceres**      
@@ -560,12 +561,12 @@ image:https://db3pap001files.storage.live.com/y4mTr2himi63sBjKkNwWT_n-w9qJpMIP3H
 |*Atmospheric pressure:* |0 (vacuum)
 |*Surface temperature:*|-163.15/-38
 |*Surface radiation:*|7 SDU
-|*Day:* 9 hours
-|*Year:* 4.61 (synchronous)
-|*Distance from Sun:* 2.9 AU
+|*Day:* |9 hours
+|*Year:* |4.61 (synchronous)
+|*Distance from Sun:* |2.9 AU
 |=======================
 
-image:https://db3pap001files.storage.live.com/y4mvDsp-vylXGhTbNg98GojjJ3oD7xYIXke2ZrRl0ExiJcGYH6vzDXP8gPeVw4E5S95_T4XjjD42nnsjg1fYX1w99SnSKXbYw4tTfHF92O5TotzfkgfB_81D68XOgWmEIBx9MHctoyMO9qO8dCicPx6QjtvUbl5hVGfJkHTm6arrtL-TcusTAcgT3vDfGnrMkfP?width=1024&height=480&cropmode=none[image]
+
 
 ==== Pallas
 
