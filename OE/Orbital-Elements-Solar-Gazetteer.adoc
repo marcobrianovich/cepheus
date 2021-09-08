@@ -426,9 +426,15 @@ There are five points around the Earth-Luna system where objects can benefit fro
 
 ==== L1
 
+*Cortez* +
+
 *Edgeware* +
 
 *Martel* +
+
+*Cadiz* +
+
+*Orlando* +
 
 ====  L2
 
@@ -444,7 +450,13 @@ Pan-African habitat
 
 ==== L3
 
+*Chattogram*
+
 *Oshun*
+
+*New Tijuana*
+
+
 
 === Luna
 
