@@ -596,13 +596,56 @@ image:https://db3pap001files.storage.live.com/y4mvDsp-vylXGhTbNg98GojjJ3oD7xYIXk
 
 image:https://db3pap001files.storage.live.com/y4mfBowNrEiL03xeMZ1A8Y_E6Qde1QJQL9d9qOVdJSw-JJDs-sOvQsF4XrJnCk0m8MJiC57Rk7rRok86SI5RhjVgawPOihy4oPn0G8BFY4Xn7TZpCghSQX19dSg7ZfxSC178JwZ11RO8eIyJXoSfoeH5BJELxPgEP5dR-5QmBUxcWUgzTUlnfcIQSzHoa74zPBC?width=1024&height=480&cropmode=none[image]
 
+|=======================
+2+| **Pallas**      
+|*Diameter:*   |513 km
+|*Mass:*      |Negligable  
+|*Gravity:*    |0.022 g     
+|*Escape velocity:* | 0.3 km/h
+|*Atmospheric pressure:* |0 (vacuum)
+|*Surface temperature:*|-163.15/-38
+|*Surface radiation:*|7 SDU
+|*Day:* |	7.8 hours
+|*Year:* |4.62 (synchronous)
+|*Distance from Sun:* |4 AU
+|=======================
+
 ==== Vesta
 
 image:https://db3pap001files.storage.live.com/y4mTrG8fo1dOcxPSHxL7eN5ycWdiCFOhUBmX6grQkeR2yBMaQk3-TBoJ1CltR92zOMV6u6KbS2NP2ZOTF5VWAnF8Eq7FENjxgsX1fiQWmCbjaq3RP-1whgKiI2ihz13GL85_gevdOXb66O4Q-33c84mjZHrL7l1fyNWE-LjE8lFDuVSETHXvK78WO44uWmEHs17?width=1024&height=480&cropmode=none[image]
 
+|=======================
+2+| **Vesta**      
+|*Diameter:*   |514 km
+|*Mass:*      |Negligable  
+|*Gravity:*    |0.022 g     
+|*Escape velocity:* | 0.36 km/h
+|*Atmospheric pressure:* |0 (vacuum)
+|*Surface temperature:*|-198.15/-23
+|*Surface radiation:*|7 SDU
+|*Day:* |	5.3 hours
+|*Year:* |3.63 (synchronous)
+|*Distance from Sun:* |2.4 AU
+|=======================
+
 ==== Hygiea
 
 image:https://db3pap001files.storage.live.com/y4mKAVPpjGbEZVM6FhUBwLlN4WhPXJjZRCJVV5T7F3MSc6ai_FjaumfdsxNQCkY6D0R4_mO25-YmBOACCvSZczRCSALdMJfgbiqt0jTNIEAJT0mH3hI0ZokyhsHa6B0lpkWn5stVDrXjXGIdv47tKhYFH3pXcff4pdqtPF0bGUI4_1Wn8BZ9SgP6FwtPYYeYOna?width=1024&height=480&cropmode=none[Hygiea]
+
+|=======================
+2+| **Vesta**      
+|*Diameter:*   |434 km
+|*Mass:*      |Negligable  
+|*Gravity:*    |0.022 g     
+|*Escape velocity:* | 0.36 km/h
+|*Atmospheric pressure:* |0 (vacuum)
+|*Surface temperature:*|-198.15/-26
+|*Surface radiation:*|7 SDU
+|*Day:* |	27.6 hours
+|*Year:* |5.57 (synchronous)
+|*Distance from Sun:* |2.4 AU
+|=======================
+
 
 ==== Domus
 
