@@ -2,9 +2,11 @@
 
 image:https://db3pap001files.storage.live.com/y4mF6J7uTJFMEg352kCGKuxS_WAlsWwQhSMh332HDzWNRgTgcUl1Z0Z9DN0Jux20s7qtj7RMTAw2TNd-uXuJHvLguZ-vN2kd8FPdxZ60Wpb-fLh_Mh-ErSDjZ5QUZKm3Q1MTuOVjBM3Rcq4Lqt3qWNHYTYqAnNlTN6KMHZxANhEjXqRJFPt6jgiiLfD8uEibQxB?width=1024&height=354&cropmode=none[image]
 
-The following guide covers all the planets and major masses in the solar system, along with their corresponding stations and colonies.
+The Solar Gazetteer covers all the planets, moons and asteroids in the solar system, along with their corresponding stations and colonies.
 
 === Sun
+
+About 4.6 billion years ago, a huge solar nebular formed into a spinning disk of gas. About 99.8% of the gas formed into our sun, while the rest of the spinning material collesed into protoplanets. As of today the Sun has about another 5 billion years before it transitions to a red giant. 
 
 === Icurus Station
 
@@ -376,9 +378,9 @@ image:https://db3pap001files.storage.live.com/y4mXKWsSvSC82ILeraxpa5VA29HZxhNc2c
 |*Distance from Sun:* |1
 |=======================
 
+From space, Earth continues to be a beautiful blue marble draped in whispy white clouds. On the ground, things aren't so good. Earth is now hotter than at any time in its recently history. Most landmass is now predominently desert and scrubland. Much of the equator is now considered too hot to support open settlements. In the last two hundred years, most people on Earth have either moved into giant city structures, called archologies or they have emigrated to a space colony.
 
 image:https://db3pap001files.storage.live.com/y4mVH80D8qYEGpGJt9tiTHyTisxxqr4TmW5wqnBHROA6J91TErF0t0pPFgqfooEZMqPeNcgy6kFBqmvOfoh5SiHyXkvnnIkHK4Og_ySld9unJl5SDMZNVkxPJIjZiO3tU5DA21Pxf_tAUMeFzj85s1BxSZXop6Ba6ISu_b4i-x1QqOfaMGYtAlrSBsuE1xG1NLR?width=1024&height=795&cropmode=none[image of the world]
-
 
 ==== Continents
 
@@ -422,6 +424,8 @@ Located about half way up Earth's two space elevators are the Gateway stations. 
 
 === Lagrange Points
 
+image:https://db3pap001files.storage.live.com/y4mAohnLCEDvQ_DnCLoPOkx-7EmpaUIYPWzaTvyfQNQ-MRAEXMZNS1rncIXzZFC0fgUFd-Z6GXVAUfvBf-aeYBQy6IvRHh5r30ahgMR4J2L5ZzrZrV32kvGVefymYgz3QZ1Zh5fFuB_pobcGgIoz5_BvkTvP_R0j2m6uWUXgogv4tk0F6auf8ypuQhXKn9r2pkB?width=1024&height=489&cropmode=none[LagrangePoints]
+
 There are five points around the Earth-Luna system where objects can benefit from a stable orbit. Outside of these zones occasional orbital corrections are required, which is difficult and expensive for moderate space stations, never mind the multi-million-ton Orbital colonies. For this reason, large space facilities are located at the Lagrange points. The first, L1 is located near Luna and orbits Earth at the same rate as Luna. L2 is located on Luna's orbital track, but on the oposite side of the Earth. L3 and L4 are located on Luna's oribital track, F3 just behind Luna and L4 just ahead.  
 
 ==== L1
@@ -449,6 +453,8 @@ Russian O'neil.
 Pan-African habitat 
 
 ==== L3
+
+*Nuova Roma*
 
 *Chattogram*
 
