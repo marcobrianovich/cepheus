@@ -1,1 +1,10 @@
 
+== Note Pad
+
+Just a place to dump ideas.
+
+
+
+=== Organic space robots
+
+Athena created a class of biological entities that are created to live in the vacuum of space. These range from small limpit-like creatures that can stick to hulls, right up to leviathan sized entities that can wander the Solar System looking for tasty asteroids to eat.
