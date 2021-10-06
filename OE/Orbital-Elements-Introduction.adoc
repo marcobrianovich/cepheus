@@ -1,6 +1,6 @@
 == Introduction
 
-.Extract from  "How I'd describe life in 2277 to my ancestors" by Benji Reesman
+**Extract from  "How I'd describe life in 2277 to my ancestors" by Benji Reesman**
 =====
 What a time to be alive! Or, if you're a sentient machine, not alive, technically. It's 2288AD, there's good news and bad. If you thought we'd fix the climate, add that one to the bad news list. Earth is a hot mess. Burning deserts stretch across half the remaining landmass. Hurricane season is every season and almost everywhere. The biosphere hangs on by a thread. Hey, we stopped things getting worse - everyone moved into giant archologies that trap the heat they create underground. When the archologies got full, we started to move people to the space colonies. Now, we're everywhere. Which is quite good. Kicking-up Helium-3-rich rust on Mercury, floating above the Sulphuric-acid-rich clouds of Venus, we're big on Mars, and all the way out to the Keipers. 
 
