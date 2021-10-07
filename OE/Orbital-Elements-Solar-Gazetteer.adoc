@@ -198,7 +198,7 @@ image:https://db3pap001files.storage.live.com/y4mKcorB-1QUXlBxbd1rUsaAJhDEmuaYm-
 
 Named for its beauty, Venus is a hellish world with some of the most hostile surface conditions in the entire solar system. It's so hot down there on the Venusian surface that anything not made of a high-melting point metals or ceramics ends up melted or erroded. There have been several attempts to begin terraforming operations but each has ended up discontinued, in part because of the difficulty of operating in such hostile conditions.
 
-==== Experimental Atmospheric Outpost
+==== Venus Experimental Atmospheric Research Outpost  (VEARO)
 
 Historical site. Like a floating museum, maintaining the original research output.
 
