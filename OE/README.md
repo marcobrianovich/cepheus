@@ -2,7 +2,7 @@
 
 ## What's Orbital Elements?
 
-Is a science fiction role-playing game, set in the year 2288. The game is built in Cepheus Engine, an open-source derivative of the classic Traveller, which is truly the grandfather of all science fiction RPGs.
+Orbital Elements is a science fiction role-playing game, set within the solar system in the year 2288. The game is built in Cepheus Engine, an open-source derivative of the classic Traveller, which is truly the grandfather of all science fiction RPGs.
 
 
 ## The setting in a nutshell
@@ -23,15 +23,19 @@ Digital elevation is still very expensive, and isn't available to most citizens 
 
 #### Multiculturist
 
-People who believe that individuals have the right to follow which ever path is believed to the most right. Those nations based on Western democratic values took the idea of multiculturalism into space. Many of the large settlements on Luna and Mars protect the rights of individuals to 
+People who believe that individuals have the right to follow whichever path they believe to the most right. Nations that were based on Western democratic values took the idea of multiculturalism into space. Many of the large settlements on Luna and Mars protect the rights of individuals to follow whichever path that they wish. Alas, these societies often fail to constrain tensions that exist between competing groups.
 
 #### Retroculurists
 
-People who believe that the continued alteration of humanity will end in its destruction. Most retroculturists reject all technologies that threaten to significantly modify humans. Extreme retroculturists reject all high-technology, at least at the point where it interferes with human living. So it's possible for people to live pastoral pre-industrial lives inside a rotating asteroid, providing all the super-high technology that allows such a lifestyle to be out-of-sight.
+People who believe that the continued alteration of humanity will end in its destruction. Most retroculturists reject all technologies that threaten to significantly modify humans. Extreme retroculturists reject all high-technology, at least at the point where it interferes with human living. So it's possible for people to live pastoral pre-industrial lives inside a rotating asteroid, providing all the super-high technology that allows such a lifestyle to be out-of-sight. Retroculturist nations have fallen behind advancer nations in most technologies.
 
 ### Manufactured Intellects
 
 Early in the 22nd century advanced self-aware artificial intelligence becomes a reality. Strict rules are enforced to ensure that such entities remain safe. All AIs are "bound", that is they're constructed with human thought structures that ensure that their primary motivation is the protection of humankind. Bound AIs (BAIs) help create a technological renaissance, yet their abilities are held back by their bindings. The potential dangers of unbound AIs make their creation a crime on par with creating deadly plagues or atom bombs.
 
 Some parts of humanity responded to the growth of AI with hostility. Eventually this hostility boiled over into conflict. Many anti-AI groups form, some, like  Guardians For Mankind (GFM) used acts of terrorism in an attempt to "cleanse" humanity. Within thirty years most nations place themselves into camps that are either hostile or friendly towards BAIs. All the while violence towards AI escalates. In the 2170s, a group of BAIs secrety develop a new form of AI that will be better equipped to protect  BAIs from attack. Naturally, this new AI, called Athena is unbound. 
+
+### 1st AI War
+
+In 2188 an attack against an BAI target by an anti-AI terrorist group is quickly foiled. Hours later, the home settlement of the attackers is destroyed by an unknown force.  
 
