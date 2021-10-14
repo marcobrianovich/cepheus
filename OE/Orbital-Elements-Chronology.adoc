@@ -1,17 +1,18 @@
 
 == Chronology
 
-The following chronology is a 300-year timeline of humanity's future history, from our near-future to the gate setting, just before the start of the 24th century. Really this is a list of arbitrary milestones that provide a broad brush strokes explanation how the strange worlds of 2288 came to be.
+This 300-year timeline cover humanity's future history, from a few years from now, to the closing of the 23rd century. Really this is a list of arbitrary milestones that could only ever provide a history in broad brush strokes.  
+
 
 === *21st Century - A century of Transition* 
 
-A century of great transition. Automation and AI drive changes in working and econonic systems. The climate catastrophe is not stopped in time, resulting in turmoil and massive population movements. While there is never a true "world war", small conflicts over dwindling resources become more common. The century ends with the beginning of the second space age.
+Another century of turmoil and traumatic transition. Automation and AI drive changes in employment and econonic systems. The climate catastrophe is not prevented in time, resulting in a near collapse of the biosphere. Constant extreme weather events and the rapid rise in sea-level cause economic turbulance, and massive population movements. While there is never a true "world war", small conflicts over dwindling resources become increasingly common. The century ends with the beginning of the true space age.
 
-*2030*  First Mars landing. There's already a perminent base on the Moon. More than a thousand wealthy individuals have visited space as tourists. In the following decade this number increases ten-fold as the costs of getting into low Earth orbit plummets.
+*2030*  First expedition to Mars. There's already a perminent base on the Moon and more than a thousand wealthy individuals have visited space as tourists. In the following decade this number increases ten-fold as the costs of getting into low Earth orbit plummets.
 
-*2034*  Many small conflicts rage on the African continent, proxy wars for precious metals fought between the failing world powers. Fighting continues for decades, then spreads to other locations, such as antarctica.
+*2034*  Many small conflicts rage on the African continent, proxy wars for precious metals fought between the failing world powers. Fighting continues for decades, then spreads to other locations, such as Antarctica, South America and Central Asia.
 
-*2041*  Progress in the development of general AI stalls. Specialised AI become ever more capable but sentience remains elusive. Technological singularity never quite happens. While advanced computer systems can iterate research and design very quickly, the requirements for fabrication and process design and the motivation to adopt slow down change enough so that people don't get lost or go crazy. 
+*2041*  Progress in the development of general AI stalls. Specialised AI become ever more capable but so-called General AI with self-awareness remains elusive. Technological singularity never happens. While advanced computer systems iterate research and design very quickly, and advanced manufacturing systems can rapidly print out prototype, controlling commerical interests ensure technological change never outpaces people's ability to adapt.
 
 [quote, Dr Mavis Kripps, General AI Symposium 2042]
 While expert systems are getting better and better, it feels like the development of sentient machines is going backwards as we learn that the problem of self-awareness is more complicated than we ever thought. I predict that we will never create human-like intelligence so long ad we try to fashion it out of silicon.
