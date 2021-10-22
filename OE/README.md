@@ -45,3 +45,7 @@ Conflicts were short and relatively low intensity, but Luna wants you dead seven
 
 In 2188 an attack against a BAI target by an anti-AI terrorist group was quickly foiled. Hours later, the home settlement of the attackers is destroyed by an unknown force. It's soon revealed that the counterattack was conducted by an unbound AI, created by a powerful group of retired AIs as a defense against human terrorism. The incident creates a seismic fault-line across human space as nations and colonies split over how to respond to the incident. Most traditionalist nations favour a strategy of "cleansing", a call for the complete destruction of AI. More progressive nations call for containment and negotiation, recognising that the unbound AI is a unique individual. As a result, most fighting in the war was between competing human nations.  
 
+The war ends when Athena, the "rogue" unbound AI, is destroyed by elements of an anti-AI group that hijacked a Chinese warship and used it to raze Athenas base. However, Athena had long predicated her own destruction and had created a copy of herself. At the end of the war there's a peace treaty and the conflicting nations normalise relations. Athena 2.0 hides in the Oort cloud far out beyond human settlements, slowly and secretly rebuilds.
+
+### 2nd AI War
+
