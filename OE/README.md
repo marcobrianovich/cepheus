@@ -2,10 +2,17 @@
 
 ## What's Orbital Elements?
 
-Orbital Elements is a science fiction role-playing game, set within the solar system in the year 2288. The game is built in Cepheus Engine, an open-source derivative of the classic Traveller, which is truly the grandfather of all science fiction RPGs.
+Orbital Elements is a science fiction role-playing game, set within the solar system in the year 2288. The game runs on the Cepheus Engine, an open-source derivative of Traveller, the grandfather of science fiction RPGs. 
 
 
 ## The setting in a nutshell
+
+### Climate Apocolypse
+
+Earth's climate as been ravaged. The biosphere is hanging on by a thread, most wildlife now extinct. More than 50% of Earth's remaining landmass is now desert. More than 90% of the remaining population now live in huge archologies - giant cities contained within a single stucture. These archologies are environmentally sealed to ensure that no excess heat leaks into the atmosphere.
+
+In the last hundred years there have been several projects started that look to reduce global temperatures. These either failed or generally made the situation worse. A long term initiative is projected to work but will take about 150-years to reduce global temperatures by a degree centigrade.
+
 
 ### Humanity becomes the space race
 
