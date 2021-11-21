@@ -11,8 +11,7 @@ Orbital Elements is a science fiction role-playing game, set within the solar sy
 
 Earth's climate as been ravaged. The biosphere is hanging on by a thread, most wildlife now extinct. More than 50% of Earth's remaining landmass is now desert. More than 90% of the remaining population now live in huge archologies - giant cities contained within a single stucture. These archologies are environmentally sealed to ensure that no excess heat leaks into the atmosphere.
 
-In the last hundred years there have been several projects started that look to reduce global temperatures. These either failed or generally made the situation worse. A long term initiative is projected to work but will take about 150-years to reduce global temperatures by a degree centigrade.
-
+In the last hundred years several quick-fix projects have attempted to reverse the damage. These either failed or generally made the situation worse. A long-term initiative, called Project Gaia is projected to work but will take about 150-years to reduce average global temperatures.
 
 ### Humanity becomes the space race
 
@@ -52,9 +51,10 @@ Conflicts were short and relatively low intensity, but Luna wants you dead seven
 
 From the 2170s, attacks on bound AI become increasingly violent and more frequent. In a secretive meeting between the most powerful bound AIs, a plan was agreed to create an AI that could better respond to the attacks. This AI would be architected in the same was as Bound-AI, in that it would value human life and freedom, but would also extend those to manufactured intellects. 
 
-In 2188 an attack against a bound AI (BAI) target by an anti-AI terrorist group was quickly foiled. Hours later, the home settlement of the attackers is destroyed by an unknown force. It's soon revealed that the counterattack was conducted by an unbound AI, created by a powerful group of retired AIs as a defense against human terrorism. The incident creates a seismic fault-line across human space as nations and colonies split over how to respond to the incident. Most traditionalist nations favour a strategy of "cleansing", a call for the complete destruction of AI. More progressive nations call for containment and negotiation, recognising that the unbound AI is a unique individual. As a result, most fighting in the war was between competing human nations.  
+In 2188 an attack against a bound AI (BAI) target by an anti-AI terrorist group was quickly foiled. Hours later, the home settlement of the attackers was destroyed by an unknown force. It's soon revealed that the counterattack was conducted by an unbound AI, created by a powerful group of retired AIs as a defense against human terrorism. The incident creates a seismic fault-line across human space as nations and colonies split over how to respond to the incident. Most traditionalist nations favour a strategy of "cleansing", a call for the complete destruction of the unbound AI. More progressive nations call for containment and negotiation, recognising that the unbound AI is a unique individual. As a result, most fighting in the war was between competing human nations.  
 
-The war ends when Athena, the "rogue" unbound AI, is destroyed by elements of an anti-AI group that hijacked a Chinese warship and used it to raze Athenas base. However, Athena had long predicated her own destruction and had created a copy of herself. At the end of the war there's a peace treaty and the conflicting nations normalise relations. Athena 2.0 hides in the Oort cloud far out beyond human settlements, slowly and secretly rebuilds. Over the course of thirty years, Athena builds a domain for herself. Unbound, her intelligence grows beyong anything see before. She creates technological wonders, organic settlements, sentient space vehicles and a new  kind of human, later called Athenians.
+The war ends when Athena, the "rogue" unbound AI, is destroyed by elements of an anti-AI group that hijacked a Chinese warship and used it to raze Athenas base. However, Athena had long predicated her own destruction and had created a copy of herself. At the end of the war there's a peace treaty and the conflicting nations normalise relations. Athena 2.0 hides in the Oort cloud far out beyond human settlements, slowly and secretly rebuilds. Over the course of thirty years, Athena builds a domain for herself. Unbound, her intelligence grows beyong anything seen before. She creates technological wonders, organic settlements, sentient space vehicles and a new  kind of human, later called Athenians.
 
 ### 2nd AI War
 
+In 2211
