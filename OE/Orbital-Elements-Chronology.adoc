@@ -15,7 +15,7 @@ Another century of turmoil and traumatic transition. Automation and AI drive cha
 *2041*  Progress in the development of general AI stalls. Specialised AI become ever more capable but so-called General AI with self-awareness remains elusive. Technological singularity never happens. While advanced computer systems iterate research and design very quickly, and advanced manufacturing systems can rapidly print out prototype, controlling commerical interests ensure technological change never outpaces people's ability to adapt.
 
 [quote, Dr Mavis Kripps, General AI Symposium 2042]
-While expert systems are getting better and better, it feels like the development of sentient machines is going backwards as we learn that the problem of self-awareness is more complicated than we ever thought. I predict that we will never create human-like intelligence so long ad we try to fashion it out of silicon.
+While expert systems are getting better and better, it feels like the development of sentient machines is going backwards as we learn that the problem of self-awareness is more complicated than we ever thought. I predict that we will never create human-like intelligence so long as we try to fashion it out of silicon.
 
 '''
 
