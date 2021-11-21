@@ -1,2 +1,2 @@
 # cepheus
-Content for the Sword of Cepheus Supplement
+Content for Cepheus Supplements
