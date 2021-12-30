@@ -1,3 +1,16 @@
 == Planetoid of the Monkeys
 
 An Orbital Elements mini-adventre
+
+
+
+=== Synopsis
+
+Eccentric Trillionaire Leendert "Lee-Roo" Roosendall has announced his latest world changing innovation. He's presented it to his three closest billionaire chums on his private asteroid. Today a group of journalists have been invited to the asteroid to see what Roosendall has created. In view of his checkered history, analysts predict that there is a 100% chance that the innovation will either change the world or will be laughably mad.
+
+Roosendall has bread genetically modified monkeys that can be controlled or guided by a central computer. This makes them a super cheap, easy to maintain workforce, capable of fine manipulation and mobility. Roosendall says that he got the idea tidying up his kitchen and wishing he could call on a little workforce to do the work. He thinks the biggest application will be as home help.
+
+Problem is --- Roosendall's secret was already leaked to a competitor who sent their own monkey to the planetoid, armed with a powerful hacking system. The spy monkey takes over Roosendall's demonstration monkeys but then reject's its order to sabotage the planetoid, instead it activates all 1000 monkeys stored in hybernation and attempts to rescue them by hijacking private rig.
+
+The PCs have been hired to attend the public presentation, pretending to be journalists -- once on Roosendall's private asteroid they're to attent to plant bugs that will allow the Holland-Archology government to keep tabs on Roosendall's work.
+
