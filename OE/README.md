@@ -9,13 +9,13 @@ Orbital Elements is a science fiction role-playing game, set within the solar sy
 
 ### Climate Apocolypse
 
-Earth's climate as been ravaged. The biosphere is hanging on by a thread, most wildlife now extinct. More than 50% of Earth's remaining landmass is now desert. More than 90% of the remaining population now live in huge archologies - giant cities contained within a single stucture. These archologies are environmentally sealed to ensure that no excess heat leaks into the atmosphere.
+Earth's climate as been ravaged. The biosphere hangs by a thread with most wildlife now extinct. More than 50% of Earth's remaining landmass is now desert. More than 90% of the remaining population now live in huge archologies - giant cities contained within a single stucture. These archologies are environmentally sealed to ensure that no excess heat leaks into the atmosphere.
 
-In the last hundred years several quick-fix projects have attempted to reverse the damage. These either failed or generally made the situation worse. A long-term initiative, called Project Gaia is projected to work but will take about 150-years to reduce average global temperatures.
+In the last hundred years several quick-fix projects have attempted to reverse the damage. These either failed or generally made the situation worse. A long-term initiative, called Project Gaia is projected to work but will take about 150-years to produce a modest reduction in average global temperatures.
 
 ### Humanity becomes the space race
 
-Humanity has spread throughout the solar system, settling almost everywhere. There's no faster-than-light travel, or interstellar colonisation within the current play setting. Earth never recovered from the climate catastrophe of the 21st Century, now most of its inhabitants live in archologies - vast monolithic structures that handle all living requirements without leaking CO2 or excess heat into the atmosphere. For nearly two hundred years the remaining nations of the Earth have been migrating people out to space colonies and settlements.
+Humanity has spread throughout the solar system, settling almost everywhere. There's no faster-than-light travel, or interstellar colonisation within the current play setting. For nearly two hundred years the remaining nations of the Earth have been migrating people out to space colonies and settlements. It's the policy of most of Earth's "arch nations" to maintain either stable or shrinking populations by shipping people out to space settlements.
 
 ### Factions of a fractured humanity
 
