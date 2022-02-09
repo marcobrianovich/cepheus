@@ -17,7 +17,7 @@ In the last hundred years several quick-fix projects have attempted to reverse t
 
 Humanity has spread throughout the solar system, settling almost everywhere. There's no faster-than-light travel, or interstellar colonisation within the current play setting. For nearly two hundred years the remaining nations of the Earth have been migrating people out to space colonies and settlements. It's the policy of most of Earth's "arch nations" to maintain either stable or shrinking populations by shipping people out to space settlements.
 
-### Factions of a fractured humanity
+### Factions and fractures
 
 Many of the old nation-states continue to exist, and many colonies remain tied to their ancestoral and cultural identity. However, by 2288 most large colonies have become nation-states in their own right, with evolving identities that can differ wildly from that of their homeland. Each nation has a collective opinion of what direction human progress should be heading towards. In 2288 humanity is split into the following camps:
 
