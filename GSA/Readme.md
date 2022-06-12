@@ -1,4 +1,5 @@
-== Galactic Star Alliance
+
+## Galactic Star Alliance
 
 Science Fiction Roleplaying in the swashbuckling 4th Millienia
 
