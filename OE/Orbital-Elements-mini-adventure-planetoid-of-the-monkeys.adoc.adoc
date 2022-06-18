@@ -24,3 +24,4 @@ It seems that Jackdore had known about the monkey development and had planned a 
 === DroomHuis
 
 Dreamhouse is Roosendall's massive personal space station, built into a 2km-long iron/nickel asteroid.
+1.3 revolutions-per-minute. Generates 0.85g on the main habitat ring.
