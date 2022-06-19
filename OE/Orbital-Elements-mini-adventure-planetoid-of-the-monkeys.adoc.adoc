@@ -24,4 +24,24 @@ It seems that Jackdore had known about the monkey development and had planned a 
 === DroomHuis
 
 Dreamhouse is Roosendall's massive personal space station, built into a 2km-long iron/nickel asteroid.
+
+==== History
+
+Originally M-12-Brewer-Aarav (M-12BA) was surveyed in the asteroid belt, close to the Ceres orbit (Ceres beltway). Property developer, Gangesh Holdings, co-funded the hollowing, reinforcing and transfer of fifteen asteroids which were slowly nudged into Lagrange orbits, a journey that took between eight and twenty years, even with the use of massive anti-matter rocket systems. Two AMPS were installed in M-12BA to handle the hollowing and restructuring. 
+
+After the asteroid was judged "flight-worthy", these AMPS turned to the massive job of constructing habitation infrastructure and living space. After a decade-long journey, M-12BA arrived at its new home, at L-2. During this time Gangesh Holdings had been bought by VEXTek (Vivamus Extensio X Technologies), a company that started a revolution in affordable life extension drugs. Gangesh Holdings had got into financial trouble as a number of auction winners that defaulted on payments during the decades-long project. On taking over the company, VEXTek took ownership of three of the fifteen asteroids, including M-12BA. 
+
+In 2269, M-12BA fell under the ownership of VEXTek's owning Family, becoming one of the most expensive and exclusive family residences in human history. VEXTek relocated its research and development facilities into the asteroid's inner ring area, while the outer ring became the Roosendall families private property. 
+
+The main hollowing is seperated between two distinct areas, the inner ring consists of a huge area of low-g work space. While the outer ring is a single open space that boasts 4.4 square kilometers of recreated Earth landscape, part of which is modelled on pre-21st century Holland, with canals and a windmill. 
+
+=== Inner Ring
+
+
+
+=== Outer Ring
+
+
+=== 
+
 1.3 revolutions-per-minute. Generates 0.85g on the main habitat ring.
