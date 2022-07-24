@@ -6,25 +6,32 @@ An Orbital Elements mini-adventre
 
 === Synopsis
 
-Eccentric Trillionaire, Leendert "Lee-Roo" Roosendall has announced that he has another world changing innovation. He's presenting it to his three closest billionaire chums, on his private asteroid. Today a group of journalists have been invited to the asteroid to see what Roosendall has created. In view of his checkered history, analysts predict that there is a 100% chance that the innovation will either change the world or will be laughably mad.
+Eccentric Trillionaire, Leendert "Lee-Roo" Roosendall has announced that he has another revolutionary innovation. He's presenting it to his three closest billionaire chums, on his private asteroid. Today a group of influencers have been invited to the asteroid to see what Roosendall has created. In view of his checkered history, analysts predict that there is a 100% chance that the innovation will either change the world or will be laughably mad.
 
-Roosendall has bread genetically modified monkeys that can be controlled or guided by a central computer. This makes them a super cheap, easy to maintain workforce, capable of fine manipulation and mobility - things that droids are still not great at. Roosendall says that he got the idea while tidying up his kitchen and wishing he could call on a little workforce to do the work. He thinks the biggest application will be as home help.
+==== PRIME mate 
 
-Problem is --- Roosendall's secret was already leaked to one of his friends, who as part of an elaborate joke has smuggled in their own monkey to the planetoid, armed with a powerful hacking system in its brain. The spy monkey takes over Roosendall's demonstration monkeys but then reject's its orders to ruin the presentation with playful mischief, instead it follows its own agenda, activates all 1000 monkeys stored in hybernation and attempts to rescue them by hijacking private rig. Freed from the bonds of computer control the monkeys become a force for chaos and violence.
+Roosendall has created uplifted chimps that can be controlled or guided by a central computer. This makes them a super cheap, easy to maintain workforce, capable of fine manipulation and mobility - things that only very complex and expensive droids can do. Roosendall says that he got the idea while tidying up his kitchen and wishing he could call on a little workforce to do the work. He thinks the biggest application will be as home help.
 
-The PCs have been hired to attend the public presentation, pretending to be journalists -- once on Roosendall's private asteroid they're to attent to plant bugs that will allow the Holland-Archology government to keep tabs on Roosendall's work. However, on arrival they find the asteroid habitat has fallen to chaos. Massive roving bands of giant monkey's armed with knives and a few stun pistols have forced the surviving occupants into hiding.
+The problem is, Roosendall's secret had already been leaked to one of his friends, who as part of an elaborate joke smuggled in their own chimp to the planetoid, armed with a powerful hacking system in its brain. The spy monkey takes over Roosendall's demonstration monkeys but then reject's its orders to ruin the presentation with playful mischief, instead it follows its own agenda, activates all 8000 monkeys stored in hybernation and attempts to rescue them by hijacking private rig. Freed from the bonds of computer control the monkeys become a force for chaos and violence.
 
-
+====
 A call to Mr Jackdore Cambden, industrialist frienemy for Leendert's:
 "Mr Cambden, DO NOT activate SABO. It's not SABO. Apparently SABO died in his sleep, so they replaced him. All our control software is based on SABO's brain scans, we do not know what will happen if you activate your hijacker monkey. Probably very bad things..."
 
-It seems that Jackdore had known about the monkey development and had planned a mischief, building a monkey that would be added to the test group, which would, using it's hijacking brain module, take control of the monkeys and use them to embarress Roosendall -- partly to demonstrate the danger and folly of trying to control monkeys. However this lesson in humility backfires spectacularly when the hijacker monkey fails to follow its programming and instead goes has its own plan.
+It seems that Jackdore had known about the monkey development and had planned a mischief, building a monkey that would be added to the test group, which would, using its hijacking brain module, take control of the monkeys and use them to embarress Roosendall -- partly to demonstrate the danger and folly of trying to control monkeys. However this lesson in humility backfires spectacularly when the hijacker monkey fails to follow its programming and instead comes up with its own plan for chimp emancipation.
 
-== Synopsis
+====
 
-The PCs have been hired by Holland archology's intelligence directorate. Eccentric trillionaire, Leendert "Lee-Roo" Roosendall, has a long history of groundbreaking technological developments. The directorate isn't interested in stealing Roosendall's trade secrets or new techologies, the truth is that for every groundbreaking Roosendall development there are at least three ground shaking developments that have resulted in damages, and some legal exposure for Holland-Arch. 
+==== The PC's part
 
-The PC's have been given passes to visit Roosendall's private asteroid, posing as the entourage of Audrey Van Bozekat, Holland-Arch's third most popular influencer, and one-time love interest to Roosendall. The reason Audrey is a good cover for the PCs is that she is very hard to work for, and her security detail changes regularly after she fires everyone on the spot, or they quit. If Roosendall's security people scrutinise the invite list, it won't look odd that the PCs are newly employed.  Once on the asteroid they only need to deposit spy-DARs (Drone Autonomous Reconnaissance), tiny robot spiders that sneak around and capture intelliengence information. Once done, they just need to maintain their cover for the two days of the visit.
+The PCs have been hired by Holland archology's intelligence directorate. Eccentric trillionaire, Leendert "Lee-Roo" Roosendall, has a long history of disruptive technological developments. The directorate isn't interested in stealing Roosendall's trade secrets or new techologies, the truth is that for every groundbreaking Roosendall development there are at least three ground shaking developments that have resulted in damages, and some legal exposure for Holland-Arch. 
+
+The PC's have been given passes to visit Roosendall's private asteroid, posing as the entourage of Audrey Van Bozekat, Holland-Arch's third most popular influencer, and one-time love interest to Roosendall. The reason Audrey is a good cover for the PCs is that she is very hard to work for, and her security detail changes regularly after she fires everyone on the spot, or they quit. If Roosendall's security people scrutinise the invite list, it won't look odd that the PCs are newly employed.  Once on the asteroid they only need to deposit spy-DARs (Drone Autonomous Reconnaissance), tiny robot spiders that sneak around and capture intelliengence information. Once done, PCs only need to maintain their cover for the two days of the visit.
+
+
+
+
+
 
 === Arrival
 
