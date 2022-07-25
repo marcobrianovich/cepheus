@@ -1,25 +1,26 @@
 == Planetoid of the Monkeys
 
-An Orbital Elements mini-adventre
+An Orbital Elements mini-adventure
 
 
 
 === Synopsis
 
-Eccentric Trillionaire, Leendert "Lee-Roo" Roosendall has announced that he has another revolutionary innovation. He's going to present it to his three closest billionaire chums, on his private asteroid. Today a group of influencers have been invited to the asteroid to see what Roosendall has created. In view of his checkered history, analysts predict that there is a 100% chance that the innovation will either change the world or will be laughably mad.
+Eccentric Trillionaire, Leendert "Lee-Roo" Roosendall has announced that he has another revolutionary innovation. He's going to present it to his three closest billionaire chums, on his private asteroid, and the following day repeat the presentation for a group of influencers. In view of his checkered history, analysts predict that there is a 100% chance that Roosendall's innovation will either change the world or will be laughably mad.
 
 ==== PRIME mate 
 
-Roosendall has created uplifted chimps that can be controlled or guided by a central computer. This makes them a super cheap, easy to maintain workforce, capable of fine manipulation and mobility - things that only very complex and expensive droids can do. Roosendall says that he got the idea while tidying up his kitchen and wishing he could call on a little workforce to do the work. He thinks the biggest application will be as home help.
+Roosendall has created uplifted chimps that can be guided by a central computer. This makes them a super cheap, easy to maintain, low-regulation workforce, capable of fine manipulation and mobility - things that only very complex and expensive droids can do. Roosendall says that he got the idea while tidying up his kitchen and wishing he could call on a little workforce to do the work. He thinks the biggest application will be as home help.
 
 The problem is, Roosendall's secret had already been leaked to one of his friends, Jackdore Cambden, who as part of an elaborate joke has smuggled in their own chimp to the planetoid, armed with a powerful hacking system in its brain. The spy monkey takes over Roosendall's demonstration monkeys but then reject's its orders to ruin the presentation with playful mischief, instead it follows its own agenda, activates all 8000 monkeys stored in hybernation and attempts to rescue them by hijacking private rig. Freed from the bonds of computer control the monkeys become a force for chaos and violence.
 
 ====
-*A call to Mr Jackdore Cambden, industrialist frienemy for Leendert's:*
+*Call intercept:*  
+Recipient: Mr Jackdore Cambden, industrialist frienemy of Roosendal
 ____
 "Mr Cambden, DO NOT activate SABO. It's not SABO. Apparently SABO died in his sleep, so they replaced him. All our control software is based on SABO's brain scans, we do not know what will happen if you activate your hijacker chimp. Probably very bad things..."
 ____
-It seems that Jackdore had known about the monkey development and had planned a mischief, building a monkey that would be added to the test group, which would, using its hijacking brain module, take control of the monkeys and use them to embarress Roosendall -- partly to demonstrate the danger and folly of trying to control monkeys. However this lesson in humility backfires spectacularly when the hijacker monkey fails to follow its programming and instead comes up with its own plan for chimp emancipation.
+Roosendal's billionaire frienemy, Jackdore Camden had been spying on Roosendal for years. He'd learned about the PRIME-mate program and planned an expensive and elaborate mischief, growing his own uplifted chimp, called SABO, using Roosendal's own tech. The plan was for SABO to sneak into the PRIME-mate test group, which SABO would take control of using his hacker neural implant, and use them to embarress Roosendall -- partly to demonstrate the danger and folly of trying to control monkeys. However this lesson in humility backfires spectacularly when the hijacker chip rejects its instructions and instead comes up with its own plan for chimp emancipation.
 
 ====
 
