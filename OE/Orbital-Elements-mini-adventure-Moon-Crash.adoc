@@ -1,35 +1,45 @@
-== Moon Crash
+= Moon Crash
+
+== Introduction
 
 A oneshot adventure for Orbital Elements Science Fiction Role Playing Game.
 
-*Setting:*  Mare Imbrium basin. Old Helium-3 mining regions, criss-crossed with contested "no man's land".
+*Setting:*  Mare Imbrium (Sea of Rain) basin. Old Helium-3 mining regions, criss-crossed with contested "no man's land".
 
-=== Synopsis
+== Synopsis
 
 The PCs are carrying a small group of passengers in their light rig across the lunar landscape when a ground-launched missile hits them. The PCs are forced to crash land their rig, landing in a no man's land region that is littered with dangerous automated weapon systems and ruthless pirate gangs. They must survive long enough to reach a place of relative safety, then figure out a way to either make their way to the nearest settlement or call for a rescue.
 
 The adventure is broken down into the following episodes:
 
-==== Episode One: Moon crash
+=== Episode One: Moon crash
 
 The PCs are introduced to their current situation. They don't get much time to prepare before their vehicle is hit by a small missile. Their rig immediately goes down. The PC piloting the vehicle gets to roll for how severe the crash is, and where exactly they land. On landing, it's clear that their vehicle is wrecked, and in danger of being shot at by any number of autonomous drones or hidden launchers. The PCs must decide how long they risk stripping equipment from the vehicle before a likely strike arrives. Eventually another missile is launched, resulting in the crashed vehicle being peppered by a cloud of penetrators. Lethal for anyone still in the vehicle. 
 
 The episode ends with the PCs deciding on a course of action. They might wait near the vehicle - not a good idea. They might head out and try to find some kind of refuge from where they can wait out until a search party arrives. Normally a personal communicator works fine, but the no mans land regions are usually covered by heavy jamming and interference.
 
-==== Episode Two: Across the bright face
+=== Episode Two: Across the bright face
 
 The PCs have a map of the region. They must decide where to travel. They're on food and have limited air and water. Enough for 48 hours. As they travel across the lunar no man's land they roll on an encounter table each hour of travel. They may encounter discarded equipment, derelict shacks, killer drones or even pirates.
 
-==== Episode Three: Oasis
+=== Episode Three: Oasis
 
 Eventually, the PCs find the entrance to some kind of underground base. It's a hidden missile silo, intact and operational. It's the strongest source of local jamming and although there isn't a functional communication system, the jammer itself could be modified to send out an S.O.S. signal. The PCs can spend time exploring the base, learning a little about people who once mannned the station. At some point a group of pirates rigged the silo to launch missiles at low flying or ground vehiles.
 
 If they manage to modify the jammer to send a signal, the first people to turn up won't be a rescue party, it will be a contingent of pirates wanting to know who is messing with their missile silo. A fight will ensue.
 
-==== Episode Four: Moon Cavalry
+=== Episode Four: Moon Cavalry
 
 If the PCs lose the fight, a rescue party will arrive just in time to save them. If the PCs hold off the pirates long enough, the rescue party drives away the pirates.
 
-==== Epilogue
+=== Epilogue
 
 The PCs are taken to the nearest settlement where the local security force will debrief them. 
+
+
+== Episode One: Moon crash
+
+Read-out-1
+'''
+Your onboard your light rig. A CK-22 Luna Hopper, heading towards Com
+'''
