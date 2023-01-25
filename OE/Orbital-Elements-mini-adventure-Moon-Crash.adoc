@@ -2,6 +2,8 @@
 
 A oneshot adventure for Orbital Elements Science Fiction Role Playing Game.
 
+*Setting:*  Mare Imbrium basin. Old Helium-3 mining regions, criss-crossed with contested "no man's land".
+
 === Synopsis
 
 The PCs are carrying a small group of passengers in their light rig across the lunar landscape when a ground-launched missile hits them. The PCs are forced to crash land their rig, landing in a no man's land region that is littered with dangerous automated weapon systems and ruthless pirate gangs. They must survive long enough to reach a place of relative safety, then figure out a way to either make their way to the nearest settlement or call for a rescue.
