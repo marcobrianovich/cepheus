@@ -2,13 +2,17 @@
 
 == Introduction
 
-A oneshot adventure for Orbital Elements Science Fiction Role Playing Game.
+A one-shot adventure for Orbital Elements Science Fiction Role Playing Game.
 
 *Setting:*  Mare Imbrium (Sea of Rain) basin. Old Helium-3 mining regions, criss-crossed with contested "no man's land".
 
 == Synopsis
 
 The PCs are carrying a small group of passengers in their light rig across the lunar landscape when a ground-launched missile hits them. The PCs are forced to crash land their rig, landing in a no man's land region that is littered with dangerous automated weapon systems and ruthless pirate gangs. They must survive long enough to reach a place of relative safety, then figure out a way to either make their way to the nearest settlement or call for a rescue.
+
+One of the passengers, a Doctor Peggy Brennan says that she is carrying sensitive information. He offers to pay a significant bonus of the PCs turn off their ISS signal, so they can't be easily tracked, and fly at low altitude to keep off radar. Such requests are not unusual. Luna is now less of a war zone than it was, but people are still nervous travelling across the surface. It's no unheard of for travellers to complete a journey across Luna by travelling to orbit and then coming all the way down. More miles but less worry about encountering trouble.
+
+
 
 The adventure is broken down into the following episodes:
 
@@ -41,5 +45,7 @@ The PCs are taken to the nearest settlement where the local security force will 
 
 Read-out-1
 '''
-Your onboard your light rig. A CK-22 Luna Hopper, heading towards Com
+Luna Excursion Rig LER-21, Registration L-XP32-J12P, in transit to Com
+In transit to 
 '''
+
