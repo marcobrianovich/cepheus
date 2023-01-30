@@ -4,15 +4,15 @@
 
 A one-shot adventure for Orbital Elements Science Fiction Role Playing Game.
 
-*Setting:*  Mare Imbrium (Sea of Rain) basin. Old Helium-3 mining regions, criss-crossed with contested "no man's land".
+*Setting:*  Mare Imbrium (Sea of Rain) basin. Old Helium-3 mining regions, criss-crossed by a contested "no man's land".
 
 == Synopsis
 
 The PCs are carrying a small group of passengers in their light rig across the lunar landscape when a ground-launched missile hits them. The PCs are forced to crash land their rig, landing in a no man's land region that is littered with dangerous automated weapon systems and ruthless pirate gangs. They must survive long enough to reach a place of relative safety, then figure out a way to either make their way to the nearest settlement or call for a rescue.
 
-One of the passengers, a Percy Brennan says that he is carrying sensitive information. He offers to pay a significant bonus of the PCs turn off their IFF signal, so they can't be easily tracked, and fly at low altitude to keep off radar. Such requests are not unusual. Luna is now less of a war zone than it was, but people are still nervous travelling across the surface. It's no unheard of for travellers to complete a journey across Luna by travelling to orbit and then coming all the way down. More miles but less worry about encountering trouble.
+One of the passengers, a Percy Brennan says that he is carrying sensitive information. He offers to pay a significant bonus of the PCs turn off their IFF signal, so they can't be easily tracked, and fly at low altitude to keep off radar. Such requests are not unusual. Luna is now less of a war zone than it was, but people are still nervous travelling across the surface. It's no unheard of for travellers to complete a journey across Luna by travelling to orbit and then coming all the way down. More miles but less worry about encountering trouble. In fact, Percy is a fantasist who travels through the system pretending to be either an espionage agent or someone carrying a mysterious suitcase. The suitcase contains some sims, stims and emergency toiletries. However, one of the other passengers is a Jonah. An old nautical term for someone who was thought to bring bad luck on a ship. In modern parlance, the term specifically refers to someone who is working for criminals who intend to ambush or rob a vehicle during a journey. The Jonah is usually a passenger or recent hire who will sabotage the vehicle, plant a tracking device, or will take direct control. In this case, Zeena Platts is working for a pirate gang. She caught wind of Brennan asking for a transport to fly "off the grid". She assumes that he is carrying something of enormous value, so has decided to risk signing on as a passenger, so that she can be on the ground when the value of the cases contents is discovered. When she discovers that there is no precious cargo, she'll have a minor breakdown. 
 
-
+The subject of the scenario is how the player characters deal with the crash and the dangers of finding a place to shelter. The pirate angle becomes apparent when, on finding a missing launch facility they identify that someone has put a beacon on their rig. Almost certainly one of the passengers as it would need to be activated some time after leaving Polar traffic control.
 
 The adventure is broken down into the following episodes:
 
