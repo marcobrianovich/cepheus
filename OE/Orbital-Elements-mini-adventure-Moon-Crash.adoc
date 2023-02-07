@@ -46,8 +46,10 @@ The PCs have a map of the region. They must decide where to walk. They're on foo
 2+ | *Debris Encounter Table*
 |1        | Scattered rocks
 |2        | A small crater, about 10m in diameter surounded by rock fragments.
-|3        | A large crater, about 50m in diameter. Walking through the crater requires some checks against dexterity. 6+ to avoid a fall.
-|4        | Signs of fighting. Metal casings and fragments are scatered around. Maybe some discarded pieces of equipment
+|3        | A large crater, about 50m in diameter. + 
+Walking through the crater requires some checks against dexterity. 6+ to avoid a fall.
+|4        | Signs of fighting. + 
+Metal casings and fragments are scatered around. Maybe some discarded pieces of equipment
 |5        | Signs of a battle. A few 
 |6.       | Small facility. Roll on the facility table.
 |===========================
