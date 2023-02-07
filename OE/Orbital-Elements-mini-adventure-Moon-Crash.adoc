@@ -30,6 +30,7 @@ Player handout 2: Regional map
 
 The PCs have a map of the region. They must decide where to walk. They're on foot and have limited air and water. Enough for 48 hours. As they travel across the lunar no man's land they roll on an encounter table each hour of travel. They may encounter discarded equipment, derelict shacks, killer drones or even pirates.
 
+[width=50%]
 |===========================
 2+ | *Encounter Table*
 |1        | No encounter, rock, dust and the black sky.
@@ -40,6 +41,7 @@ The PCs have a map of the region. They must decide where to walk. They're on foo
 |6.       | Small facility. Roll on the Facility Encounter Table*.
 |===========================
 
+[width=50%]
 |===========================
 2+ | *Debris Encounter Table*
 |1        | Scattered rocks
