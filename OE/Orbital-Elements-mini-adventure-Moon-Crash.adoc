@@ -33,11 +33,11 @@ The PCs have a map of the region. They must decide where to walk. They're on foo
 |===========================
 2+ | *Encounter Table*
 |1        | No encounter, rock, dust and the black sky.
-|2        | Small surface debris. Roll on the debris table.
-|3        | Small surface debris. Roll on the debris table. Add +1 to the roll.
-|4        | Crash site. Roll on the crash site table.
-|5        | Small ruin. Roll on the ruins table
-|6.       | Small facility. Roll on the facility table.
+|2        | Small surface debris. Roll on the *Debris Encounter Table*.
+|3        | Small surface debris. Roll on the Debris Encounter Table*. Add +1 to the roll.
+|4        | Crash site. Roll on the Crash Site Encounter Table*.
+|5        | Small ruin. Roll on the *Ruin Encounter Table*.
+|6.       | Small facility. Roll on the Facility Encounter Table*.
 |===========================
 
 |===========================
