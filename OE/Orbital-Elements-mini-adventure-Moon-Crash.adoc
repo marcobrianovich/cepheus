@@ -108,7 +108,7 @@ Freddy Happyness Cheaplove, journalist from the Azania archology, doing a backpa
 *Zeena Platts* (Realname: Sam Modey)  +
 
 [width=500px]
-image:https://dub01pap003files.storage.live.com/y4mg6TSu_YyDx7AJXkNi03H9CoaW9G-wXaWT7MBuYSmcje6xXpvaUob2RqHLbvyqAUP8yuj_wwEO2zmE7evUb_gcluP3Wz4AcXHl8GC9XlJSMlDCFXoAMWEnjVIV4rRCWBzhcGVpTegLeemIPklC98FB_wC_Qpqt6yzCC_iBew51FLtpSJCNH9uRm34zZySmrH2-7qFlRpxe9vDEdeUAnuI3G8GHmu5Gkm2A10bo05WhiQ?encodeFailures=1&width=1024&height=1024[alt=Zena,width=340,height=300]
+image:https://dub01pap003files.storage.live.com/y4mg6TSu_YyDx7AJXkNi03H9CoaW9G-wXaWT7MBuYSmcje6xXpvaUob2RqHLbvyqAUP8yuj_wwEO2zmE7evUb_gcluP3Wz4AcXHl8GC9XlJSMlDCFXoAMWEnjVIV4rRCWBzhcGVpTegLeemIPklC98FB_wC_Qpqt6yzCC_iBew51FLtpSJCNH9uRm34zZySmrH2-7qFlRpxe9vDEdeUAnuI3G8GHmu5Gkm2A10bo05WhiQ?encodeFailures=1&width=1024&height=1024[alt=Zena,width=340,height=340]
 
 *UPP:* 896A38	Age 22 +
 Interior Designer (actually, Pirate (1 terms) Rank 2 - Lieutenant) +
@@ -121,11 +121,12 @@ Zeena is a "Jonah". A passenger who operates as an insider for pirates.
 
 
 ====
+
 *Jack Deringer* (Real name: Percy Brennan)
 ---
 
 [width=500px]
-image:https://dub01pap003files.storage.live.com/y4mMIBAnRSe0_gWsv-tGvbo3fyzt2N7ex-NdF52eKjbldygX6DPzVwunJHAQpNFh-fWVhdY8xWxQ5VTj7jy9t2Q055g2pc3C483iyX0ZpDEEo_SBkj_cNEz_6xt5DbXB48u-c0u7fjQK6xBv5RbNWg0FfY4MbtVsex3EcUvKNeaNwvwL3xT4lvdiWfFZkeVBKX1?encodeFailures=1&width=1024&height=1024[alt=Percy,width=340,height=300]
+image:https://dub01pap003files.storage.live.com/y4mMIBAnRSe0_gWsv-tGvbo3fyzt2N7ex-NdF52eKjbldygX6DPzVwunJHAQpNFh-fWVhdY8xWxQ5VTj7jy9t2Q055g2pc3C483iyX0ZpDEEo_SBkj_cNEz_6xt5DbXB48u-c0u7fjQK6xBv5RbNWg0FfY4MbtVsex3EcUvKNeaNwvwL3xT4lvdiWfFZkeVBKX1?encodeFailures=1&width=1024&height=1024[alt=Percy,width=340,height=340]
 
 *UPP* 455D79	Age 50 +
 Colonist (5 terms) Rank 5 - Lieutenant Governor +
@@ -134,3 +135,21 @@ Admin-0, Electronics-1 , Farming-3 , Gambling-1 , Liaison-1 , Mechanics-1 , Natu
 235,000 cr Pension 10,000 cr
 
 Percy spent his life working diligently in hydroponic farming. He got really good and made a modest fortune. A few years ago he realised that what he really wanted was to be an espionage agent. Too old and with the wrong skillset, Percy instead turned to a life of deception. He travels the solar system under different aliases pretending to be spies, pirates or just damned mysterious. He doesn't use his deception to rob people, he just wants people to see him as an interplantary man of mystery, not a moderately successful hydroponics engineer.
+
+
+====
+
+*Anjar Singh* 
+
+---
+
+[width=500px]
+imagine:https://dub01pap003files.storage.live.com/y4mNXSiFyxq8HE1FldJvC9MsyHEF7i5jVIe6Q3qSMrWsSTTto2ZFGPu9OpiYzRixxR_SBXAQvnzZ-OOiNskqFrDfS05ZZStlu8Aoyko1LzmEJfw2ZrHWnhtYo4dXECLiEJ02lO-Y2VvYObTlMHZcIxfE9Lsl6OM4xNmN1GJeuf5fN6mkHKB4vQvyqBxR7l_ts26lgNa2xxPcqgzzzX1Om0ejNX5mGuvJB--AFswBRaTn8g?encodeFailures=1&width=340&height=340
+
+*UPP* 657B66	Age 34 +
+Belter (4 terms) +
+Comms-0 , Demolitions-3 , Electronics-1 , Energy Pistol-0 , Heavy Weapons-0 , Mechanics-0 , Physical Sciences-0 , Piloting-2 , Zero-G-2 +
+35,000 cr +
+Mid Passage +
+
+Anjar is a asteroid miner. A pretty good one. He has sizable shares in several valuable mines. Having nearly come close to death three times in his career, Anjar has decided to cash in and find another life. Sadly his brush with death has left Anjar suffering from mild paranoia and panic attacks. Nothing serious, but it makes him likely to call out wild suspicions.
