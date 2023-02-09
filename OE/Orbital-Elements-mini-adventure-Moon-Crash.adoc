@@ -107,21 +107,30 @@ Freddy Happyness Cheaplove, journalist from the Azania archology, doing a backpa
 ====
 *Zeena Platts* (Realname: Sam Modey)  +
 
+[width=500px]
 image:https://dub01pap003files.storage.live.com/y4mg6TSu_YyDx7AJXkNi03H9CoaW9G-wXaWT7MBuYSmcje6xXpvaUob2RqHLbvyqAUP8yuj_wwEO2zmE7evUb_gcluP3Wz4AcXHl8GC9XlJSMlDCFXoAMWEnjVIV4rRCWBzhcGVpTegLeemIPklC98FB_wC_Qpqt6yzCC_iBew51FLtpSJCNH9uRm34zZySmrH2-7qFlRpxe9vDEdeUAnuI3G8GHmu5Gkm2A10bo05WhiQ?encodeFailures=1&width=1024&height=1024[alt=Zena,width=340,height=300]
 
-*UPP:*896A38	Age 22 +
+*UPP:* 896A38	Age 22 +
 Interior Designer (actually, Pirate (1 terms) Rank 2 - Lieutenant) +
 Electronics-0 , Energy Pistol-1 , Engineering-1 , Space Vehicle-0 , Piercing Weapons-0 , Piloting-1 , Streetwise-1 , Survival-0 , Turret Weapons-2 , Zero-G-1 +
-5,000 cr
+5,000 cr +
 Vacc Suit
 
 Zeena is a "Jonah". A passenger who operates as an insider for pirates.
 ====
 
+
+====
+*Jack Deringer* (Real name: Percy Brennan)
 ---
 
 [width=500px]
 image:https://dub01pap003files.storage.live.com/y4mMIBAnRSe0_gWsv-tGvbo3fyzt2N7ex-NdF52eKjbldygX6DPzVwunJHAQpNFh-fWVhdY8xWxQ5VTj7jy9t2Q055g2pc3C483iyX0ZpDEEo_SBkj_cNEz_6xt5DbXB48u-c0u7fjQK6xBv5RbNWg0FfY4MbtVsex3EcUvKNeaNwvwL3xT4lvdiWfFZkeVBKX1?encodeFailures=1&width=1024&height=1024[alt=Percy,width=340,height=300]
 
+*UPP* 455D79	Age 50 +
+Colonist (5 terms) Rank 5 - Lieutenant Governor +
+Drifter (3 terms) +
+Admin-0, Electronics-1 , Farming-3 , Gambling-1 , Liaison-1 , Mechanics-1 , Natural Weapons-1 , Recon-1 , Shotgun-1 , Streetwise-1 , Survival-2, Tracked Vehicle-1 , Zero-G-0 +
+235,000 cr Pension 10,000 cr
 
-
+Percy spent his life working diligently in hydroponic farming. He got really good and made a modest fortune. A few years ago he realised that what he really wanted was to be an espionage agent. Too old and with the wrong skillset, Percy instead turned to a life of deception. He travels the solar system under different aliases pretending to be spies, pirates or just damned mysterious. He doesn't use his deception to rob people, he just wants people to see him as an interplantary man of mystery, not a moderately successful hydroponics engineer.
