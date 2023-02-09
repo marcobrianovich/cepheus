@@ -165,7 +165,7 @@ Entertainer (4 terms) +
 Admin-1 , Athletics-1 , Bribery-1 , Carousing-2 , Gambling-1 , Liaison-2 , Linguistics-1 , Social Sciences-0 , Survival-0 , Tracked Vehicle-0 +
 1,120,000 cr +
 
-Trix is a non-binary folk singer, guitarist and writer. She started out as a rebellious punky sort of solo performer. She's started to struggle for new material having become critically and commercially successful. Today, Trix is having to act the part of a young, angry and hungry performer. They have a tendency to over-amp anger and angst which come run past edgy and into, well a bit scary. Songs about burning it all down, dropping anti-matter bombs on Earth and generally doing over-the-top things have given her a reputation as song writer for budding revolutionaries. A reputation that has kept her busy visiting various small mining colonies. 
+Trix is a non-binary folk singer, guitarist and writer. Trix started out as a rebellious punky sort of solo performer. Now they've started to struggle for new material having become critically and commercially successful. Today, Trix is having to act the part of a young, angry and hungry performer. They have a tendency to over-amp anger and angst which come run past edgy and into, well a bit scary. Songs about burning it all down, dropping anti-matter bombs on Earth and generally doing over-the-top things have given her a reputation as song writer for budding revolutionaries. A reputation that has kept her busy visiting various small mining colonies. 
 
 ====
 ---
@@ -179,3 +179,5 @@ image:https://dub01pap003files.storage.live.com/y4mW7hLop0ZOEJT2mRECXSJ3ruPazqua
 Journalist (2 terms) Rank 3 - Investigative Reporter +
 Admin-0 , Bribery-1 , Carousing-0 , Computer-0 , Leadership-1 , Linguistics-1 , Piercing Weapons-1 , Streetwise-1 , Tracked Vehicle-1 +
 15,000 cr +
+
+Freddy is an investigative journalist, working for a news service that operates out of The Central African Archologies. He's been investigating corruption amongst the polar mining settlements. He's started to annoy a number of criminal sorts. His editor has caught wind of the incidents and has recalled Freddy to the Copernican office. Freddy is a natural information differ. He has a great instincts for a story, and is a good reader of people's motives.
