@@ -153,3 +153,6 @@ Comms-0 , Demolitions-3 , Electronics-1 , Energy Pistol-0 , Heavy Weapons-0 , Me
 Mid Passage +
 
 Anjar is a asteroid miner. A pretty good one. He has sizable shares in several valuable mines. Having nearly come close to death three times in his career, Anjar has decided to cash in and find another life. Sadly his brush with death has left Anjar suffering from mild paranoia and panic attacks. Nothing serious, but it makes him likely to call out wild suspicions.
+
+
+
