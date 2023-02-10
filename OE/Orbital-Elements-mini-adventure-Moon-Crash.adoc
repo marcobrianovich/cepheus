@@ -1,21 +1,28 @@
-= Moon Crash
+
+
+image:https://dub01pap003files.storage.live.com/y4m7igoym7kIwMZTJMdl0ilGO7rfEX8-fPmVqz4qTEY5zVo9ELZ4UFyk0vu52LG5LmoPJ2BQDi6WCodBkUgucjncCsEgrQaSLxCk5lzN22ljkH19NKsUj2_vZDYuyPKm9tnwXS9Z2IGs2UCYb9hKFwzz-DaELUdACvQkm4sH3XdYNIaYdCiOSYhJ-OskNGXWOO8kCh0R5UjcKuzg52Pd_RauvvOPYPj88cGCfzRMYbR2ro?encodeFailures=1&width=1871&height=922[Cover]
+
+
+[quote]
+ Giant steps are what you take +
+ Walking on the moon +
+ I hope my leg don't break +
+ Walking on the moon +
+ We could walk forever +
+ Walking on the moon +
+ We could be together +
+ Walking on, walking on the moon +
+ - 20th Century Police Mantra
+
 
 == Introduction
 
 A one-shot adventure for Orbital Elements Science Fiction Role Playing Game.
 
-*Setting:*  Mare Imbrium (Sea of Rain) basin. Old Helium-3 mining regions, criss-crossed by a contested "no man's land".
+*Setting:*  Mare Imbrium (Sea of Rain) basin. 
 
+*Solarpedia Extract:* Mare Imbrium is a vast lava plain within the Imbrium crator basin, near Luna's northern polar region. It was the site of early Helium-3 mining regions, and one of the most contested. During the Luna war II the region became criss-crossed by a defensive lines, creating pockets of "no man's land", filled with smart mines, hidden missile launchers and killer drones. Today these areas are avoided, except by scavengers and pirates.
 
-  Giant steps are what you take
-  Walking on the moon
-  I hope my leg don't break
-  Walking on the moon
-  We could walk forever
-  Walking on the moon
-  We could be together
-  Walking on, walking on the moon
-  - 20th Century Police Mantra
 
 == Synopsis
 
