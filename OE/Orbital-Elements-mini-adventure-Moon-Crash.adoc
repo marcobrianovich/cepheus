@@ -55,6 +55,46 @@ The episode ends with the PCs deciding on a course of action. They might wait ne
 
 The PCs have a map of the region. They must decide where to walk. They're on foot and have limited air and water. Enough for 48 hours. As they travel across the lunar no man's land they roll on an encounter table each hour of travel. They may encounter discarded equipment, derelict shacks, killer drones or even pirates.
 
+At some point the players will roll 6 on the facilities table, at which point they find Missile Silo 792, which takes them to Episode 3.
+
+
+=== Episode Three: Oasis
+
+Eventually, the PCs find the entrance to some kind of underground base. It's a hidden missile silo, apparantly intact and operational. It's the strongest source of local jamming and although there isn't a functional communication system, the jammer itself could be modified to send out an S.O.S. signal. The PCs can spend time exploring the base, learning a little about people who once mannned the station. At some point a group of pirates rigged the silo to launch missiles at low flying or ground vehiles.
+
+If they manage to modify the jammer to send a signal, the first people to turn up won't be a rescue party, it will be a contingent of pirates wanting to know who is messing with their missile silo. A fight will ensue.
+
+
+=== Episode Four: Moon Siege
+
+An alarm triggers. Two vehicles are driving towards the bunker. They're just over an hour away. Remote sensors indicate the vehicles are medium-sized armoured transporters. They look like pirates. The PCs have about an hour to prepare for an attack on the bunker. During their journey in Episode 2, several useful items were encountered that might help in the bunker's defense. A ground of combat drones. Small arms from a drop pod. The PCs could hack the bunker's railgun
+
+=== Episode Four: Moon Cavalry
+
+If the PCs lose the fight, a rescue party will arrive just in time to save them. If the PCs hold off the pirates long enough, the rescue party drives away the pirates.
+
+=== Epilogue
+
+The PCs are taken to the nearest settlement where the local security force will debrief them. 
+
+
+== Episode One: Moon crash
+
+Read-out-1
+'''
+Luna Excursion Rig LER-21, Registration L-XP32-J12P, in transit to Copernicus City
+Carrying light cargo and five passengers.
+Passenger Manifest:
+Percy Brennan, carrying precious cargo in a suitcase. Declared prototype scematics.
+Zeena Platts, 20-year-old interior designer, leaving the polar regions after a number of jobs improving various communes.
+Anjar Sing, 40-year-old surveyor, heading for early retirement after a couple of big mineral finds.
+Trix Montang, nonbinary folk singer and performance artist, returning from a tour.
+Freddy Happyness Cheaplove, journalist from the Azania archology, doing a backpacking tour of Luna. 
+'''
+== Episode Two: Across the bright face
+
+
+
 [width=50%]
 |===========================
 1D6 | *Encounter Table*
@@ -90,40 +130,6 @@ Metal casings and fragments are scatered around. Maybe some discarded pieces of 
 |5        | The wreck of a light combat rig. Came in hard. There are live bombs and missiles attached to its ordnance racks. There is a small risk that the bombs and missiles might detonate if the site is disturbed. If the PCs risk exploring the rig, they can make the ordnace safe, they find 1D6x10,000 cewsee
 |6        | Small facility. Roll on the facility table.
 |===========================
-
-
-
-
-
-
-=== Episode Three: Oasis
-
-Eventually, the PCs find the entrance to some kind of underground base. It's a hidden missile silo, intact and operational. It's the strongest source of local jamming and although there isn't a functional communication system, the jammer itself could be modified to send out an S.O.S. signal. The PCs can spend time exploring the base, learning a little about people who once mannned the station. At some point a group of pirates rigged the silo to launch missiles at low flying or ground vehiles.
-
-If they manage to modify the jammer to send a signal, the first people to turn up won't be a rescue party, it will be a contingent of pirates wanting to know who is messing with their missile silo. A fight will ensue.
-
-=== Episode Four: Moon Cavalry
-
-If the PCs lose the fight, a rescue party will arrive just in time to save them. If the PCs hold off the pirates long enough, the rescue party drives away the pirates.
-
-=== Epilogue
-
-The PCs are taken to the nearest settlement where the local security force will debrief them. 
-
-
-== Episode One: Moon crash
-
-Read-out-1
-'''
-Luna Excursion Rig LER-21, Registration L-XP32-J12P, in transit to Copernicus City
-Carrying light cargo and five passengers.
-Passenger Manifest:
-Percy Brennan, carrying precious cargo in a suitcase. Declared prototype scematics.
-Zeena Platts, 20-year-old interior designer, leaving the polar regions after a number of jobs improving various communes.
-Anjar Sing, 40-year-old surveyor, heading for early retirement after a couple of big mineral finds.
-Trix Montang, nonbinary folk singer and performance artist, returning from a tour.
-Freddy Happyness Cheaplove, journalist from the Azania archology, doing a backpacking tour of Luna. 
-'''
 
 
 == None-Player Characters
