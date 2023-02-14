@@ -60,9 +60,13 @@ At some point the players will roll 6 on the facilities table, at which point th
 
 === Episode Three: Oasis
 
-Eventually, the PCs find the entrance to some kind of underground base. It's a hidden missile silo, apparantly intact and operational. It's the strongest source of local jamming and although there isn't a functional communication system, the jammer itself could be modified to send out an S.O.S. signal. The PCs can spend time exploring the base, learning a little about people who once mannned the station. At some point a group of pirates rigged the silo to launch missiles at low flying or ground vehiles.
+Eventually, the PCs find the entrance to some kind of underground base. It's a hidden missile silo, apparantly intact and operational - the missiles are gone, but someone has rigged a railgun into the missile launcher. It's the strongest source of local jamming and although there's a functional communication system but it is locked down with encryption, the jammer itself could be modified to send out an S.O.S. signal. The PCs can spend time exploring the base, learning a little about people who once mannned the station. At some point a group of pirates rigged the silo to launch missiles at low flying or ground vehicles.
 
 If they manage to modify the jammer to send a signal, the first people to turn up won't be a rescue party, it will be a contingent of pirates wanting to know who is messing with their missile silo. A fight will ensue.
+
+This episode is part puzzle, part who-done-it. Sam/Zena is a member of the pirate gang that has wired this this station up as part of a network of weapon systems that it uses to bring down low-flying traffic. As such, Sam's arrival at the station unlocks most of the security. The station's computer will say that station security is now disabled, now that authorized personnel have arrived. At some point the PCs will realise that this actually means that someone in the group is part of whichever gang set the site up. 
+
+Sam will send a message through the encrypted hardline saying that she needs a team sending out to the site to extract her and the booty.
 
 
 === Episode Four: Moon Siege
