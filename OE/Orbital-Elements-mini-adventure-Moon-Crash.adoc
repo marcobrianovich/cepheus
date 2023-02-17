@@ -17,7 +17,7 @@ image:https://dub01pap003files.storage.live.com/y4mrzpdOZBJErW6feztYtcYgcLwb_ZO-
 
 == Introduction
 
-A one-shot adventure for Orbital Elements Science Fiction Role Playing Game.
+A one-shot adventure for Orbital Elements Science Fiction Role-Playing Game.
 
 *Setting:*  Mare Imbrium (Sea of Rain) basin. 
 
@@ -26,9 +26,11 @@ A one-shot adventure for Orbital Elements Science Fiction Role Playing Game.
 
 == Synopsis
 
-In this one-shot adventure, the PCs are the crew of a small transport rig that carries passengers and cargo between the countless Luna settlements. The adventure begins part way through a journey from Nuvo Sputnika to Copernicus Arc. The transport is hit by a ground based weapon, forcing a crash landing, right in the middle of a no man's land region that is littered with automated weapon systems left over from the Luna War II. The area is littered by smart jammers, so there's no radio communication, so no way to call for help. The PCs must try to lead their passengers to safety, walking across a trackless waste, filled with unseen dangers.
+In this one-shot adventure, the PCs are the crew of a small transport rig that carries passengers and cargo between the countless Luna settlements. The adventure begins part way through a journey from Nuvo Sputnika to Copernicus Arc. The transport is hit by a ground-based weapon, forcing a crash landing, right in the middle of a no man's land region that is littered with automated weapon systems left over from the second Luna War. The place is covered in smart jammers that make radio communication from the ground all but impossible, so there's no way to call for help. The PCs must try to lead their passengers to safety, walking across a trackless waste, filled with unseen dangers.
 
-=== What's going on
+However, there's more going on...
+
+=== What's going on?
 
 One of the passengers, a mysterious middle-aged man called Jack Deringer told the PCs that he is carrying very sensitive research data. He fears that hostiles may try to intercept him during the journey. He offers to pay ten times his fare to fly to Copernicus "below the radar" and with their IFF beacon turned off. The PCs happily accepted because flying low, slow and quiet is safer. However, all is not what it seems. Jack Deringer's real name is Percy Brennan. He isn't an agent carrying secret research data, he's a retired farmer who now lives out the fantasy of being a secret agent. Locked in his secure case are some snacks, a couple of adventure sims and emergency toiletries.
 
@@ -84,17 +86,49 @@ The PCs are taken to the nearest settlement where the local security force will 
 
 == Episode One: Moon crash
 
-Read-out-1
+HANDOUT-1 Travel Manifest
 '''
 Luna Excursion Rig LER-21, Registration L-XP32-J12P, in transit to Copernicus City
 Carrying light cargo and five passengers.
 Passenger Manifest:
-Percy Brennan, carrying precious cargo in a suitcase. Declared prototype scematics.
+Jack Derenger, carrying precious cargo in a suitcase. Declared prototype scematics.
 Zeena Platts, 20-year-old interior designer, leaving the polar regions after a number of jobs improving various communes.
 Anjar Sing, 40-year-old surveyor, heading for early retirement after a couple of big mineral finds.
 Trix Montang, nonbinary folk singer and performance artist, returning from a tour.
 Freddy Happyness Cheaplove, journalist from the Azania archology, doing a backpacking tour of Luna. 
 '''
+
+====
+
+.Readout 1:
+____
+*GM:* The LH41 Bantum flies over the baked white desert of Mare Imbrium, about halfway through the journey and about twenty minutes out from the next refuel stop. You attend to your flight monitoring responsibilites. Behind you, passengers chat.
+
+*Player1:* We're passing over a no-mans-land region. This is where some of the fiercest fighting of the second Luna war happened. In fact this area is considered very dangerous as there's still a lot of autonomous weapon systems laying around. We're inside the area of smart jammers so don't panic if you're unable to connect to LUNAnet.
+
+*Jack Derenger:* On that note, I'd like to thank everyone for letting me adjust the flight plan to take us this low, slow and with our IFF disabled. I think it only fair that I now explain that I'm an intelligence operator carrying highly sensitive data for the Copornicus City goverment. I needed to fly "off the grid" because there are most certainly operators working for adversary nations who might try to grab the information.
+
+*Anjar Sing:* That's alright Mr Derenger. In fact, this flight profile is much safer! In the event of a propulsion system failure, flying fast and high results in a 750% increase in mortality, in the event of propulsion failure.
+
+*Jack Derenger:* Ha ha, well there you go.
+
+*Trix Montag:* Dick move, Derenger. Shoula told us the truth before we set off.
+
+*Jack Derenger:* I'm sorry, Trix. It was not my intention to deceive anyone. As Anjar says, this is actually safer -- if slower and more expensive, and I've covered the extra cost, and some.
+
+*Zeena Platts:* Whatever, man. If you think you're a target, slower might not be safer. And you should have warned the passengers of the fact.
+
+*Freddy:* I have to warn you Mr Derenger, I'm an investigative reporter. Could I persuade you into giving me an interview, when we reach Copurnicus City?
+
+*Jack Derenger:* I couldn't divulge anything about the operation, but Yes, on condition that you withold publication until after my retirement.
+
+*Freddy:* [Giggles]
+
+*GM:* There's a loud thud. Then a second. Then a third. The Bantum's engines have stopped and the everyone feels a steady downward acceleration. The command consoles light up with countless emergency symbols. An automated message plays out "Warning! Catastrophic engine failure. Automated recovery system enabled. Emergency burn in 3 seconds. Landing speed will be faster than is optimal. Please brace for impact....
+
+____
+
+
 == Episode Two: Across the bright face
 
 
@@ -134,6 +168,8 @@ Metal casings and fragments are scatered around. Maybe some discarded pieces of 
 |5        | The wreck of a light combat rig. Came in hard. There are live bombs and missiles attached to its ordnance racks. There is a small risk that the bombs and missiles might detonate if the site is disturbed. If the PCs risk exploring the rig, they can make the ordnace safe, they find 1D6x10,000 cewsee
 |6        | Small facility. Roll on the facility table.
 |===========================
+
+
 
 
 == None-Player Characters
