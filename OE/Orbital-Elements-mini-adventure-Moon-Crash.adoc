@@ -173,6 +173,17 @@ Metal casings and fragments are scatered around. Maybe some discarded pieces of 
 |6        | Small facility. Roll on the facility table.
 |===========================
 
+== Operating on Luna
+
+Operating on Luna introduces the following challenges, that should factor into many of the actions that the PCs may wish to take:
+
+* Gravity:* You weigh about 16% of your mass. If you're not wearing a heavy vacc-suit then much care is required while walking or running as there's a serious danger of hitting your head when you take too big a step. 
+
+*Temperature:* Under the constant glare of the sun, the surface reaches 120 celsius Celsius. At the night side, temperatures drop to -180 C. Permanently shadowed regions (PSRs) are extremely cold (minus 240 C). Vacc-suits are not optional.
+
+*Dust:* Luna is covered in a dust that is much like fine volcanic ash. Its a serious irritant, toxic and damaging after long-term exposure. It clogs up machinary and causes a wide range of problems. All habitats need extensive must removal systems to prevent contamination.
+
+
 
 
 
