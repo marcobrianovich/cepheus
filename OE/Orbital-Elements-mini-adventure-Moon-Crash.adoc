@@ -104,26 +104,27 @@ ____
 
 image:https://dub01pap003files.storage.live.com/y4mhNnDnw0tWXMXhWlBhT5z_X_WuH3zv5k_i8YIUA5MOyRFDWdkvmXnH0jCZkP4NuCcPfAC_DAW1gWQ_NoT6YuMhtGrbtB_OsAtQdXoy8Af8T7Cxp1wjDva1eH8hIounpM4LAwaMA9IZyTLrj-fHpiMjlPanP8NP-T5OPyxHeJVrLqT8VNW49AdnaTCXN3TuK47?width=724&height=1024&cropmode=none[Bantam1]
 
-
-.*Player handout-3:* Regional map
-
-image:https://dub01pap003files.storage.live.com/y4mrvzjoAn2TKqykoGkkbnYgYRFPVYcKIflpHaKf63mBy36BGjhKVeucW-byGEp9Jty4m67A_Spv63xZ2q3xoM9LahmpMqXPFNu8oD8pjD7JzkBazEjY_1Fp5vngIzq6pjucbYdnN9IdY_KwqJa5I3EjXxCdso1M5fEXa7VNRXScUHS_N7wx69rAbevQjGLBvZp?width=1024&height=754&cropmode=none[alt=Map1,width=1024,height=754]
-
 === Key
 
 1. *Forward Airlock* - This is only used when the Bantum docks with a suitable airlock in a dust-free area. There's not anti-dust system built into the airlock chamber. There's pull-down ladder for accessing the roof hatch.
 2. *Command Deck* - This area contains consoles and crew positions. From here both the lift-section  and truck-section can be controlled. The controls for both sections are duplicated, so it's possible to drive from the lift command deck, and it's also possible to fly from the Truck's command consoles. Also, both sections can operate autonomously. For example, a crew could all occupy the lift-section, then remotely drive the truck somewhere. 
 3. The cramped central bay contains an airlock that connects the lift-section deck to the airlock at the mid-section of the truck. There's a toilet cubicle and vending machine in the space.
 4. Lift-section passenger area. There are six oversized couches, suitable for re
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
+5. x
+6. x
+7. x
+8. x
+9. x
+10. x
+11. x
+12.  x
+13. x
+
+.*Player handout-3:* Regional map
+
+image:https://dub01pap003files.storage.live.com/y4mrvzjoAn2TKqykoGkkbnYgYRFPVYcKIflpHaKf63mBy36BGjhKVeucW-byGEp9Jty4m67A_Spv63xZ2q3xoM9LahmpMqXPFNu8oD8pjD7JzkBazEjY_1Fp5vngIzq6pjucbYdnN9IdY_KwqJa5I3EjXxCdso1M5fEXa7VNRXScUHS_N7wx69rAbevQjGLBvZp?width=1024&height=754&cropmode=none[alt=Map1,width=1024,height=754]
+
+
 
 .*Player Handout-4:* Readout-1
 ____
