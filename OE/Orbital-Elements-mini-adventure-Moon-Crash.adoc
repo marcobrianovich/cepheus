@@ -109,6 +109,22 @@ image:https://dub01pap003files.storage.live.com/y4mhNnDnw0tWXMXhWlBhT5z_X_WuH3zv
 
 image:https://dub01pap003files.storage.live.com/y4mrvzjoAn2TKqykoGkkbnYgYRFPVYcKIflpHaKf63mBy36BGjhKVeucW-byGEp9Jty4m67A_Spv63xZ2q3xoM9LahmpMqXPFNu8oD8pjD7JzkBazEjY_1Fp5vngIzq6pjucbYdnN9IdY_KwqJa5I3EjXxCdso1M5fEXa7VNRXScUHS_N7wx69rAbevQjGLBvZp?width=1024&height=754&cropmode=none[alt=Map1,width=1024,height=754]
 
+=== Key
+
+1. *Forward Airlock* - This is only used when the Bantum docks with a suitable airlock in a dust-free area. There's not anti-dust system built into the airlock chamber. There's pull-down ladder for accessing the roof hatch.
+2. *Command Deck* - This area contains consoles and crew positions. From here both the lift-section  and truck-section can be controlled. The controls for both sections are duplicated, so it's possible to drive from the lift command deck, and it's also possible to fly from the Truck's command consoles. Also, both sections can operate autonomously. For example, a crew could all occupy the lift-section, then remotely drive the truck somewhere. 
+3. The cramped central bay contains an airlock that connects the lift-section deck to the airlock at the mid-section of the truck. There's a toilet cubicle and vending machine in the space.
+4. Lift-section passenger area. There are six oversized couches, suitable for re
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+
 .*Player Handout-4:* Readout-1
 ____
 *GM:* The LH41 Bantum flies over the baked white desert of Mare Imbrium, about halfway through the journey and about twenty minutes out from the next refuel stop. You attend to your flight monitoring responsibilites. Behind you, passengers chat.
