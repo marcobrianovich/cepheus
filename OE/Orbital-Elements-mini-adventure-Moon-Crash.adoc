@@ -160,7 +160,7 @@ ____
 
 == Episode Two: Across the bright face
 
-The PC's group are making an effort to walk to any kind of shelter or settlement. They might formulate a plan amongst themselves, or just walk in a random direction. They have the regional map, with their approximate position marked on. The episode is managed by making an roll on the Encounter Table each hour the group spends travelling. 
+The PC's group are making an effort to walk to any kind of shelter or settlement. They might formulate a plan amongst themselves, or just walk in a random direction. They have the regional map, with their approximate position marked on. The episode is managed by making an roll on the Encounter Table each hour the group spends travelling. Each time that a roll is made on one of the sub-tables (crash sites, ruins and facilities) then  add a cumulative +1 to the next roll on the table. For example, if you make three rolls in the ruins table, then the fourth roll will be D6+3. This makes it very unlikely for the group to run out of air before they find Oasis and move to episode three.
 
 [width=50%]
 |===========================
@@ -175,7 +175,7 @@ The PC's group are making an effort to walk to any kind of shelter or settlement
 
 [width=50%]
 |===========================
-1D6 | *Debris Encounter Table* _Each time you make a roll on this table, add an additional +1 to each subsquent roll._ 
+1D6 | *Debris Encounter Table* 
 |1        | Scattered rocks
 |2        | A small crater, about 10m in diameter surounded by rock fragments.
 |3        | A large crater, about 50m in diameter. + 
@@ -189,7 +189,7 @@ Metal casings and fragments are scatered around. Maybe some discarded pieces of 
 
 [width=50%]
 |===========================
-1D6 | *Crash Site Encounter Table* _Each time you make a roll on this table, add an additional +1 to each subsquent roll._ 
+1D6 | *Crash Site Encounter Table*  [_Each time you make a roll on this table, add an additional +1 to each subsquent roll._]
 |1        | Debris from a crash vehicle. Nothing remains except for burnt fragments.
 |2        | A wreck of a small rig. Looks like it came down hard and exploded. Nothing of value remains.
 |3        | The wreck of a large lander. It looks like it made a soft landing but then took fire on the ground and was therefore abandoned. Inside the wreck are intact pieces of equipment. Roll on D6 times on the *Basic Equipment Table*.
@@ -200,7 +200,7 @@ Metal casings and fragments are scatered around. Maybe some discarded pieces of 
 
 [width=50%]
 |===========================
-1D6 | *Small Ruin Encounter Table*
+1D6 | *Small Ruin Encounter Table*  [_Each time you make a roll on this table, add an additional +1 to each subsquent roll._]
 |1        | A survival shelter. A solitary emergency tent equipped with a small porta-loo sized airlock. The shelter is deflated. It looks like it was punctured by shrapnel. No bodies or equipment inside. Nothing of note.
 |2        | A collection of six emergency shelters. The shelters are intact but there's nothing but litter, the remains of emergency provisions and some sunblasted artifacts.
 |3        | A Cabin shelter, about the size of a caravan. It's been stripped of anything valuable, expect its oxygen supply which remains at 20% capacity. Enough for everyone in the party to reset their air capacity to 100%.
@@ -211,7 +211,7 @@ Metal casings and fragments are scatered around. Maybe some discarded pieces of 
 
 [width=50%]
 |===========================
-1D6 | *Small Facility Encounter Table* _Each time you make a roll on this table, add an additional +1 to each subsquent roll._ 
+1D6 | *Small Facility Encounter Table*  [_Each time you make a roll on this table, add an additional +1 to each subsquent roll._]
 |1        | A small recharging station. A bank of solar arrays, about the size of an olypic swimming pool, attached to a charging bay. The facility looks to be about 150-years old. It's functional but only provides a trickle of power due to various failures. It's enough to fully recharge the group's suits in about an hour.
 |2        | A small automated turret, about the size of a car. It tracks and engages the group but fortunately hasn't enough power for its laser to penetrate anyone's suit. A cable on the side of the unit has been disconnected. Reconnecting the capble will being a recharge of the laser which will start shooting 1D6 minutes after reconnection. It will then take a shot at a random target every three minutes, doing 3D6 damage.
 |3        | A landing pad surrounded by large cargo canisters and equipment. There's various peices of equipment laying around. Roll 1D6 times on the *Random Equipment Table*.
