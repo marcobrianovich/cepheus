@@ -179,10 +179,10 @@ ____
 |1        | Scattered rocks
 |2        | A small crater, about 10m in diameter surounded by rock fragments.
 |3        | A large crater, about 50m in diameter. + 
-Walking through the crater requires some checks against dexterity. 6+ to avoid a fall.
+Walking through the crater requires some checks against dexterity. 6+ to avoid a fall. 
 |4        | Signs of fighting. + 
 Metal casings and fragments are scatered around. Maybe some discarded pieces of equipment
-|5        | Signs of a battle. Equipment and some empty magazines scattered around. Pieces of space suit. No bodies remain but you definitely get a feeling that people met there end here. 
+|5        | Signs of a battle. Equipment and some empty magazines scattered around. Pieces of space suit. No bodies remain but you definitely get a feeling that people met their end here. 
 |6        | An intact lander sits on the edge of a small crater. It doesn't look have been stripped, but the PCs quickly identify that tiny bomblets covering the area. Any attempt to get to the lander will likely result in your death. However, if the PCs are creative they can liberate about CR3000 from the site.
 |===========================
 
@@ -192,10 +192,32 @@ Metal casings and fragments are scatered around. Maybe some discarded pieces of 
 1D6 | *Crash Site Encounter Table*
 |1        | Debris from a crash vehicle. Nothing remains except for burnt fragments.
 |2        | A wreck of a small rig. Looks like it came down hard and exploded. Nothing of value remains.
-|3        | The wreck of a large lander. It looks like it made a soft landing but then took fire on the ground and was therefore abondonded. Inside the wreck are intact pieces of equipment. Roll on *Basic Equipment Table*.
-|4        | A group of four tracked drone tanks. Someone removed their battery packs. They're too big to carry, so even though they are valuable, the PCS can't benefit from them.
-|5        | The wreck of a light combat rig. Came in hard. There are live bombs and missiles attached to its ordnance racks. There is a small risk that the bombs and missiles might detonate if the site is disturbed. If the PCs risk exploring the rig, they can make the ordnace safe, they find 1D6x10,000 cewsee
+|3        | The wreck of a large lander. It looks like it made a soft landing but then took fire on the ground and was therefore abandoned. Inside the wreck are intact pieces of equipment. Roll on D6 times on the *Basic Equipment Table*.
+|4        | A group of four tracked drone tanks. Someone removed their battery packs. They're too big to carry, so even though they are valuable, the PCS can't benefit from them *yet*.
+|5        | The wreck of a light combat rig. Came in hard. There are live bombs and missiles attached to its ordnance racks. There is a small risk that the bombs and missiles might detonate if the site is disturbed. If the PCs risk exploring the rig, they can make the ordnace safe, they find 1D6x10,00CR.
 |6        | Small facility. Roll on the facility table.
+|===========================
+
+[width=50%]
+|===========================
+1D6 | *Small Ruin Encounter Table*
+|1        | A survival shelter. A solitary emergency tent equipped with a small porta-loo sized airlock. The shelter is deflated. It looks like it was punctured by shrapnel. No bodies or equipment inside. Nothing of note.
+|2        | A collection of six emergency shelters. The shelters are intact but there's nothing but litter, the remains of emergency provisions and some sunblasted artifacts.
+|3        | A Cabin shelter, about the size of a caravan. It's been stripped of anything valuable, expect its oxygen supply which remains at 20% capacity. Enough for everyone in the party to reset their air capacity to 100%.
+|4        | A 
+|5        | 
+|6        | 
+|===========================
+
+[width=50%]
+|===========================
+1D6 | *Small Facility Encounter Table*
+|1        | 
+|2        | 
+|3        | 
+|4        |
+|5        | 
+|6        | 
 |===========================
 
 == Operating on Luna
