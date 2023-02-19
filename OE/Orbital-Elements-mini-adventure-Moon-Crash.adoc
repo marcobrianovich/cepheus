@@ -104,21 +104,23 @@ ____
 
 image:https://dub01pap003files.storage.live.com/y4mhNnDnw0tWXMXhWlBhT5z_X_WuH3zv5k_i8YIUA5MOyRFDWdkvmXnH0jCZkP4NuCcPfAC_DAW1gWQ_NoT6YuMhtGrbtB_OsAtQdXoy8Af8T7Cxp1wjDva1eH8hIounpM4LAwaMA9IZyTLrj-fHpiMjlPanP8NP-T5OPyxHeJVrLqT8VNW49AdnaTCXN3TuK47?width=724&height=1024&cropmode=none[Bantam1]
 
+The KV-79 Bantam Deltica is a modern Luna transporers that features a novel two-stage arrangement. The top Lift-section provides flight-to-luna-orbit capabilites, while the truck section can conduct surface operations for upto a week. This arrangement allows a crew to quickly reach an isolated region by flight, then the lift section can repeatedly return to base for fuel and supplies, while the truck remains on site. Both sections can be operated remotely or even autonomously.
+
 === Key
 
 1. *Forward Airlock* - This is only used when the Bantum docks with a suitable airlock in a dust-free area. There's not anti-dust system built into the airlock chamber. There's pull-down ladder for accessing the roof hatch.
-2. *Command Deck* - This area contains consoles and crew positions. From here both the lift-section  and truck-section can be controlled. The controls for both sections are duplicated, so it's possible to drive from the lift command deck, and it's also possible to fly from the Truck's command consoles. Also, both sections can operate autonomously. For example, a crew could all occupy the lift-section, then remotely drive the truck somewhere. 
-3. The cramped central bay contains an airlock that connects the lift-section deck to the airlock at the mid-section of the truck. There's a toilet cubicle and vending machine in the space.
-4. Lift-section passenger area. There are six oversized couches, suitable for re
-5. x
-6. x
-7. x
-8. x
-9. x
-10. x
-11. x
-12.  x
-13. x
+2. *Command Deck* - This area contains consoles and crew positions. From here both the lift-section  and truck-section can be controlled. The controls for both sections are duplicated, so it's possible to drive from the lift command deck, and it's also possible to fly from the Truck's command consoles. Also, both sections can operate autonomously. For example, a crew could all occupy the lift-section, then remotely drive the truck somewhere. In the centre of the space is the main airlock that leads down to the  Truck section (area 9). The accessway is only usable when the two sections are connected.
+3. *Central Bay:* - The cramped central bay contains an airlock that connects the lift-section deck to the airlock at the mid-section of the truck. There's a toilet cubicle and vending machine in the space.
+4. *Lift-section passenger area* - There are six oversized couches, suitable for passengers wearing vacc-suits. At rest, the couches face inwards, but under acceleration the chairs turn to face the direction of accerlation. There are large overhead lockers to carry luggage or equipment. The centre of the bay has webbing to hold down extra cargo.
+5. *Engineering bay* - Contains a mini-workshop and stores. There's a hatch that leads down to the rear section of the truck (area 13). This accessway in only usable when the two sections are connected.
+6. *Emergency airlock* - The outer opening of the airlock is a square hatch, not a door. It's not intended for use on the ground.
+7. Truck command cabin features crew positions for a driver and a systems engineer. 
+8. The space opens out into the main passenger area that contains eight counches. At rest, the couches face inwards, but under acceleration the chairs turn to face the direction of accerlation. There are overhead monitors and consoles. At the top of each couch headrest is a bracket that holds a vacc-suit helmet.
+9. *EVA area* - Equipment for setting up vacc suits for space or surface operations. A ladder leads up to the lift section (area 3). 
+10. *Decontamination* - powerful jets and extraction equipment blast entrants to ensure they don't bring in too much dust.
+11. *Galley* - Food and drink stores and a toilet/wash cubical.
+12.  *Storage area* - Lockers for passenger luggage.
+13. *Cargo bay* - contains 5 large lockers, large enough to walk in. They contain various equipment for surface operations. 
 
 .*Player handout-3:* Regional map
 
