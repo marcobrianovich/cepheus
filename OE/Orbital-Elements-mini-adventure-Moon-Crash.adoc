@@ -242,6 +242,16 @@ Metal casings and fragments are scatered around. Maybe some discarded pieces of 
 |6        | Catastrophic damage resulting in immediate suit failure. Other members of the party can perform two very difficult engineering rolls to put a temporary fix in place.
 |===========================
 
+== Episode Three: Oasis
+
+.READOUT-2
+____
+*GM:* The lead person in the group suddenly feels a change to their feel of their footfall. Looking closely at the ground, it's immediately apparent that the dusty lunar rock is actually a molded metal plate.
+____
+
+If the PCs check out the area they notice a large circular rim, about 4m in diameter. There's no obvious way of moving the plate but a closer look at a nearby boulder reveals a manhole hidden in the boulder's shadow. A ladder leads down three meters to a small chamber with an airlock. The airlock will be locked from the inside but the moment Zena/Sam enters the chamber, her identity is detected and the airlock will unlock. It shouldn't be apparent at first. It will look like the door just unlocked.
+
+
 
 
 == Operating on Luna
