@@ -195,7 +195,7 @@ Metal casings and fragments are scatered around. Maybe some discarded pieces of 
 |3        | The wreck of a large lander. It looks like it made a soft landing but then took fire on the ground and was therefore abandoned. Inside the wreck are intact pieces of equipment. Roll on D6 times on the *Basic Equipment Table*.
 |4        | A group of four tracked drone tanks. Someone removed their battery packs. They're too big to carry, so even though they are valuable, the PCS can't benefit from them *yet*.
 |5        | The wreck of a light combat rig. Came in hard. There are live bombs and missiles attached to its ordnance racks. There is a small risk that the bombs and missiles might detonate if the site is disturbed. If the PCs risk exploring the rig, they can make the ordnace safe, they find 1D6x10,00CR.
-|6        | Small facility. Roll on the facility table.
+|6        | Small facility. Roll on the *Small Facility Encounter Table*.
 |===========================
 
 [width=50%]
@@ -204,21 +204,45 @@ Metal casings and fragments are scatered around. Maybe some discarded pieces of 
 |1        | A survival shelter. A solitary emergency tent equipped with a small porta-loo sized airlock. The shelter is deflated. It looks like it was punctured by shrapnel. No bodies or equipment inside. Nothing of note.
 |2        | A collection of six emergency shelters. The shelters are intact but there's nothing but litter, the remains of emergency provisions and some sunblasted artifacts.
 |3        | A Cabin shelter, about the size of a caravan. It's been stripped of anything valuable, expect its oxygen supply which remains at 20% capacity. Enough for everyone in the party to reset their air capacity to 100%.
-|4        | A 
-|5        | 
-|6        | 
+|4        | A small trench, about 20m long and 2m deep, with two dugout chambers. Both chambers are breached and filled with jagged metal. There's a body in a vacc-suit that looks to have suffered a catastrophic puncture. There's not much of value in the chambers. Random equipment from what looks to have been an observation nest.
+|5        | A mooncrete platflorm, about 10m square and 1m high. There's an airlock in its sloped wall. On top of the platform are several fist sized holes. Their airlock is smalled open. A tunnel leads down 2m to a pile of rubble. It looks like a penetrator strike has collapsed the interior of whatever this was.
+|6        | Small facility. Roll on the facilties table.
 |===========================
 
 [width=50%]
 |===========================
 1D6 | *Small Facility Encounter Table*
-|1        | 
-|2        | 
-|3        | 
-|4        |
-|5        | 
-|6        | 
+|1        | A small recharging station. A bank of solar arrays, about the size of an olypic swimming pool, attached to a charging bay. The facility looks to be about 150-years old. It's functional but only provides a trickle of power due to various failures. It's enough to fully recharge the group's suits in about an hour.
+|2        | A small automated turret, about the size of a car. It tracks and engages the group but fortunately hasn't enough power for its laser to penetrate anyone's suit. A cable on the side of the unit has been disconnected. Reconnecting the capble will being a recharge of the laser which will start shooting 1D6 minutes after reconnection. It will then take a shot at a random target every three minutes, doing 3D6 damage.
+|3        | A landing pad surrounded by large cargo canisters and equipment. There's various peices of equipment laying around. Roll 1D6 times on the *Random Equipment Table*.
+|4        | A sloped ramp leads down to a bay door. The heavy door looks to open only on the inside. There are no other means of entry. There's no way in. The more time the PCs spend here, the more air they will waste.
+|5        | A missile launch bunker. The launcher has risen out of a hole in the ground that looks to have a sliding cover sculptured to look like moon rock. It looks like missiles in the launcher exploded, causing catastrophic damage. Near the launcher are fist sized holes and a larger hole where the ceiling of an underground bunker has collapsed. It's possible to scramble down the slope and into the remains of the bunker. Everything is shattered and ruined, although there are two pistols, still stored in boxes. 
+|6        | Oasis! Start Episode three.
 |===========================
+
+[width=50%]
+|===========================
+1D6 | *Random Equipment Table*
+|1        | Supplies. Small oxygen tanks. Small Water tanks and some emergency equipment.
+|2        | A case filled with first aid equipment.
+|3        | A handheld scanner. It can detect manmade objects such as burried mines or hidden turrets at about 1000m. It has to run off a vaccsuit's internal battery and takes quite a lot of power. Ten seconds of operation takes 2 minutes of suit power.
+|4        | A field repair kit. A large rucksack filled with tools and repair equipment. 
+|5        | A body in a damanged vacc-suit, still holding a loaded pistol, along with two additional magazines on a belt.
+|6        | An M81 Guass rifle. A powerful high-penetration rifle. It's operation but only has 1D6+1 rounds left.
+|===========================
+
+[width=50%]
+|===========================
+1D6 | *Fall Table*
+|1        | No damage or injury
+|2        | Minor damage, no immediate effect. 
+|3        | Moderate damage. Radio fails for a few seconds intermittently
+|4        | Minor danage to helmet. Another fall on the helmet is likely to cause a crack that may result in a leek or exposive fracture.
+|5        | Tiny leak. The suit's remaining operating time is halved.
+|6        | Catastrophic damage resulting in immediate suit failure. Other members of the party can perform two very difficult engineering rolls to put a temporary fix in place.
+|===========================
+
+
 
 == Operating on Luna
 
