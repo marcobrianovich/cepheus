@@ -251,9 +251,16 @@ ____
 
 If the PCs check out the area they notice a large circular rim, about 4m in diameter. There's no obvious way of moving the plate but a closer look at a nearby boulder reveals a manhole hidden in the boulder's shadow. A ladder leads down three meters to a small chamber with an airlock. The airlock will be locked from the inside but the moment Zena/Sam enters the chamber, her identity is detected and the airlock will unlock. It shouldn't be apparent at first. It will look like the door just unlocked.
 
-image:https://dub01pap003files.storage.live.com/y4meg0txaJbj20_N1usu90bzeWkryTdiN4lildo06HA8M1FbFSRao_j1zaV5tqNPy1Oiy_VqD9wbJ_V-dQiCHJDMI2FaC-y9WD4MB7i-7A7-dZspjBOy1_h9Mw1_3u2p11d5aO56V8TWMDvfPlstDIIKoEWdhU_-1OPMTXesTssZZl88sN3guglLzfnTUb2n4L3?width=1200&height=779&cropmode=none[Cutaway]
+image:https://dub01pap003files.storage.live.com/y4mVZchui5cdnW7BkCDhRgyx2a_l7AXl-H6m7mErydMBMqYhsj9_qLedIW3jSwlC8or6RNNNaKXYZvrQ9Gp94KG-CgEDa_SfXH61vTni-zhJeKV0rUZAFJ3ShuMZz9hHv5Rqm8QjV2Hil41byIhh5JVUBxmJPMx4CNBtv8_o6cPuhp5dFFiYB4GABxFL_E2KtWr?width=1200&height=675&cropmode=none[Cutaway]
 
+The Silo 08-C1S "Oasis" was built more than a hundred years ago, when the region was still being fought over for access to Helium-3. The battles long since ended, but the battlefield has remained a dangerous place because it's covered in autonomous weapons. The danger is even greater then people realise. Pirate groups have set up ambush traps, where their attacks are mistaken for random mine or missile strikes. One such pirate gang has taken over and networked together a number of hidden weapon emplacements that can bring down flying vehicles or criple ground vehicles along a wide range of the no man's land.
 
+Oasis is equipped with a pop-up missile launch system. However, the actual missile launcher is out of commission, so the pirate group have mounted a modern medium railgun on top of the launcher.
+
+=== Key
+
+The silo is located in a flat but boulder-strewn area. The personnel access tunnel is obscured by a large boulder that somewhat overhangs the tunnel entrance. A head-duty ladder runs from the surface to about 6m below, leading to a square chamber that looks to have been laser-cut out of luna rock with a smooth fuzed rock surface.
+The room is completely bare, except for a heavy-duty airlock and a small screen.
 
 
 == Operating on Luna
