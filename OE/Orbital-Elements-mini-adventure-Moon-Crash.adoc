@@ -269,9 +269,33 @@ The facility is locked-down and the airlock secured against entry. However, when
 *DECON:* The first room is equipped with high-pressure air jets an extraction system that removes lunar dust from all entrants. The system is automated and appears to be still working. On one wall is a large mirror window. There are dried blood splatters along the floor and what look like streak where bodies where pulled away.
 
 ____
-*Anjar:* We're going to live, we're going to live.
+*Anjar:* [SHOUTS] We're going to live, we're going to live.
+
 Anjar does a little jig dance as air blasts remove dust from your space suits. He looks down at the floor and notices a mass of dried blood, splatters and streaks where bodies must have been dragged away.
 ____
+
+*EVA GALLERY:* This room is filled with racks for supporting vaccsuits and equipment for going onto the surface. There are various vacc suit parts but no full suits. There is a system for filling air supply and water tanks. The PCs might take time to replemish their vacc suits.
+
+*DOOR CONTROL:* The room is filled with heavy machinary and some control surfaces in the inner wall. It appears to control the opening of the large circular sliding door that the group encountered on the surface. schematics on the walls confirm that the station is a hidden surface to space missile site. The diagrams show a central cyclindrical chamber that goes down to a depth of about thirty metres. Four levels of Donut-shaped chambers ring the central cylinder. The group are currently standing in Level -1. 
+If the PCs investigate the chamber they find that extra cabling and system cases have been wired up. Either to replace broken equippment, or more like to provide a kind of remote control for the operation of the door.
+
+*ACCESS BAYS* [SOUTHERN] There's a northern and a southern access bay on each level. The room has plain white structural molding and heavy duty hatches. These hatches have no manual controls and require user authentication. It just happens that as soon as Sam Modey entered the site all the doors except those of the Security room unlocked. It won't be clear to the PCs that this is the case. At least not initially.
+
+*STORAGE:* A storage space. The area is completely empty except for broken storage boxes. There's the trace of a bad smell in this area. The smell is strongest near a large hatch on the outer wall.
+
+*STORE 1B:* This storage bunker is cut into the rock. If the large double-sized door hatch is opened, four body bags have been thrown against the far wall. The room smells putrid. The bodies belong to crew belonging to a competing pirate gang who died trying to defend the site from the current pirate gang.
+
+*MAINTENANCE BAY:* The chamber contains repair benches and some printers for making replacement parts. There's a single operator console but it looks like someone smashed its screen with heavy tools.
+
+*STORE 1A:* A duplicate of STORE 1B, except this one has a large elevator system at the back. The elevator still works and runs between all four levels. There are boxes of missile components. Only casings and basic systems. There are no warheads anywhere on the site.
+
+*ACCESS BAYS* [NORTHERN] The access bay leads through to a second bay that is equipped with a small elevator. The elevator is functional and can be used to access any of the levels.
+
+*SECURITY:* The hatch into the security room can only be opened with a command keycard. Even Sam can't access the room. The PCs can try to put together a laser cutter or they might search the bodies for a keycard, otherwise this room will remain out-of-bounds. 
+
+ The security room is a self-contained accomodation for a security team. It has three work consoles, one monitors the station, another monitors the region surounding the site and the third looks to monitor the status of the site's crew. The screen looks to be faulty but watching it you can make out that twelve listed crew all have a killed in action (KIA) status, the last death was recorded to have happened 75 years ago.
+
+From the security room it is possible to lock and unlock all areas of the site. You can monitor any room, and watch for activity nearby.
 
 image:https://dub01pap003files.storage.live.com/y4mxXIn4rZmnH7dusCyDP8qjj5HQCfkmgPphyjJllJLTB3oQ2ZgzRKgJuV239jFvsvrCZQYSOAPg2u3L5CtdvLwlpUahjouPWQ7ZawqbHL-vBWkIGP0CxkXbUuvHb-9hzG0yBS31aZLh6Z3g2IGWc1yG4LDHBtNTwdDK6vZhoelrPXNjWHD4httN27XKZny0Bvv?width=1024&height=724&cropmode=none[MAP2]
 
