@@ -259,10 +259,19 @@ Oasis is equipped with a pop-up missile launch system. However, the actual missi
 
 === Key
 
-The silo is located in a flat but boulder-strewn area. The personnel access tunnel is obscured by a large boulder that somewhat overhangs the tunnel entrance. A head-duty ladder runs from the surface to about 6m below, leading to a square chamber that looks to have been laser-cut out of luna rock with a smooth fuzed rock surface.
+The silo is located in a flat but boulder-strewn area. The personnel access tunnel is obscured by a large boulder that somewhat overhangs the tunnel entrance. A heavy-duty ladder runs from the surface to about 6m below, leading to a square chamber that looks to have been laser-cut out of luna rock with a smooth fuzed rock walls.
 The room is completely bare, except for a heavy-duty airlock and a small screen.
 
-image:https://dub01pap003files.storage.live.com/y4mt17NZZErQRdz_YQmtMYOjU7z7pP57Tb02tRIy4RPUngTMTilVtuxPp2Bd1p0kbHIrChrIN08Li3AIBrA7a4BDk6JyLlTxwQGy-D7ZnA62VwNOGMhtYbvjusT2E9Shdh1L_7ut4_R0C5kZxbspBx2ov31rIztODjdcCHN3AdA86hIBY44kLv1k3Mi5eMqm6GU?width=1024&height=724&cropmode=none[MAP1]
+image:https://dub01pap003files.storage.live.com/y4mV8bcU_eCg9CbqHL97StqEbtaoPub05nk1pAaJ-TGe-sfBX5jbALi2sL-HaTUAZ2Dykq15XZry01r-5FbyvMOrXVTrKyNlgPwIdN4jO5VIfO_46ppBlPkXPqFYFgoTEaz_zEKM0RPPAuhL4iAAKKTDjeafQz4u4wrvp6HwoFm47Q3SZSxQ4_uTfy6t8PLnlZH?width=1024&height=724&cropmode=none[MAP1]
+
+The facility is locked-down and the airlock secured against entry. However, when Zena/Sam enters the chamber the airlock will automatically unlock.
+
+*DECON:* The first room is equipped with high-pressure air jets an extraction system that removes lunar dust from all entrants. The system is automated and appears to be still working. On one wall is a large mirror window. There are dried blood splatters along the floor and what look like streak where bodies where pulled away.
+
+____
+*Anjar:* We're going to live, we're going to live.
+Anjar does a little jig dance as air blasts remove dust from your space suits. He looks down at the floor and notices a mass of dried blood, splatters and streaks where bodies must have been dragged away.
+____
 
 image:https://dub01pap003files.storage.live.com/y4mxXIn4rZmnH7dusCyDP8qjj5HQCfkmgPphyjJllJLTB3oQ2ZgzRKgJuV239jFvsvrCZQYSOAPg2u3L5CtdvLwlpUahjouPWQ7ZawqbHL-vBWkIGP0CxkXbUuvHb-9hzG0yBS31aZLh6Z3g2IGWc1yG4LDHBtNTwdDK6vZhoelrPXNjWHD4httN27XKZny0Bvv?width=1024&height=724&cropmode=none[MAP2]
 
