@@ -358,6 +358,19 @@ Electronics-0 , Energy Pistol-1 , Engineering-1 , Space Vehicle-0 , Piercing Wea
 Vacc Suit
 
 Zeena is a "Jonah". A passenger who operates as an insider for pirates.
+
+*Playing Zeena/Sam:* +
+
+Zena is an act. Sam maybe overdoes the dizzy young woman act. Playing stupid. It's easy in stressful moments for the facade to slip. Celebrating your supreme ignorance about something, then later showing you know a lot about it. Sam tries to keep to herself, not chat. However, she is jubulant because she thinks that she has marked her first big score, so she is a little giddy and by half-way through the journey has become all together too chatty.
+
+She is moderate and shows calm under stress. However, she isn't very good at hiding distain or anger.
+
+*Trix Quotes:* +
+"Whatever, man". +
+"Listen, mister. I didn't pay my hard earned resource credits to get borning lectures from you". +
+"Well this isn't boring, I'll say that".
+
+
 ====
 
 ---
@@ -378,6 +391,23 @@ Admin-0, Electronics-1 , Farming-3 , Gambling-1 , Liaison-1 , Mechanics-1 , Natu
 
 Percy spent his life working diligently in hydroponic farming. He got really good and made a modest fortune. A few years ago he realised that what he really wanted was to be an espionage agent. Too old and with the wrong skillset, Percy instead turned to a life of deception. He travels the solar system under different aliases pretending to be spies, pirates or just damned mysterious. He doesn't use his deception to rob people, he just wants people to see him as an interplantary man of mystery, not a moderately successful hydroponics engineer.
 ====
+
+*Playing Jack/Percy:* +
+
+Jack is an act. One based on watching far too many spie VRs. Jack is supremely confident, authorative and exudes leadership qualities. Ironically, these are not part of the act, Percy was an effective leader in the world of hydroponics, he just yearned for a life of adventure. When things get stressful, the act just gets stronger and stronger. Percy won't snap, he'll thrive on the danger. 
+
+Jack is looking for attention and will attempt to be a leader for the group. However, while Jack does a great talk, not all of his plan hold water.
+
+The problem will be when he is finally found out, when the group learn that he's not an agent but a retired farmer he will become crestfallen and a little angry.
+
+*Jack/Percy Quotes:* +
+
+"I got a bad feeling about this". +
+"I can smell trouble when it's 30 blocks away". +
+"Stay calm, if you're in the presense of the grim reaper, don't make it easy for him."
+
+
+
 ---
 
 *Anjar Singh* 
@@ -392,6 +422,18 @@ Comms-0 , Demolitions-3 , Electronics-1 , Energy Pistol-0 , Heavy Weapons-0 , Me
 Mid Passage +
 
 Anjar is a asteroid miner. A pretty good one. He has sizable shares in several valuable mines. Having nearly come close to death three times in his career, Anjar has decided to cash in and find another life. Sadly his brush with death has left Anjar suffering from mild paranoia and panic attacks. Nothing serious, but it makes him likely to call out wild suspicions.
+
+
+*Playing Anjar:* +
+
+Anjar is the group comedy character. He's constantly quipping and making observations based on a deep knowledge of risk probabilities and safety best practices. However, under stress, Anjar suffers from mild panic and paranoia. Suddenly he flips from good humour to wild and angry accusations.
+
+
+*Anjar Quotes* +
+
+"It's fate, it's fate. She wants me dead. I left asteroid mining because I'd experienced two near death events and I decided I wasn't going to hang around for a third. Damn it!" +
+"What's in the case, Jack. WHAT IS IN THE CASE? Did you cause this? IS THIS YOUR FAULT, JACK?" +
+"Sloppy vacc suit operation still accounts for 37% EVA deaths. Always check everything three times, then get someone you trust to check for you."
 
 ====
 ---
@@ -408,6 +450,16 @@ Admin-1 , Athletics-1 , Bribery-1 , Carousing-2 , Gambling-1 , Liaison-2 , Lingu
 
 Trix is a non-binary folk singer, guitarist and writer. Trix started out as a rebellious punky sort of solo performer. Now they've started to struggle for new material having become critically and commercially successful. Today, Trix is having to act the part of a young, angry and hungry performer. They have a tendency to over-amp anger and angst which come run past edgy and into, well a bit scary. Songs about burning it all down, dropping anti-matter bombs on Earth and generally doing over-the-top things have given her a reputation as song writer for budding revolutionaries. A reputation that has kept her busy visiting various small mining colonies. 
 
+*Playing Trix:*
+
+Trix is an anarchist. Can't abide authority figures, especially ones that wear suits. Has a tendency to say outrageous things. 
+
+*Trix Quotes*
+
+"Well aint you a little thunderbird." +
+"Oh Oh, I predict a riot" +
+"If wishes were horses, you nonpats would ride to the stars." +
+"I'm going to write an angry little song about you. Hope you won't like it." 
 ====
 ---
 
@@ -422,3 +474,12 @@ Admin-0 , Bribery-1 , Carousing-0 , Computer-0 , Leadership-1 , Linguistics-1 , 
 15,000 cr +
 
 Freddy is an investigative journalist, working for a news service that operates out of The Central African Archologies. He's been investigating corruption amongst the polar mining settlements. He's started to annoy a number of criminal sorts. His editor has caught wind of the incidents and has recalled Freddy to the Copernican office. Freddy is a natural information differ. He has a great instincts for a story, and is a good reader of people's motives.
+
+*Playing Freddy:*
+
+Freddy is a backup for the PCs. If they're wildly missing clues, Freddy can step in and ask a question to direct their thinking. Freddy is sharp, ambitious and very skilled. He uses his chearful and chatty persona to give the impression of something not to be taken too seriously. People soon drop their guard when in Freddy's company. Always looking for a story, Freddy will ask questions, but he favours listening to others rather than interrogating people.
+
+*Freddy Quotes* +
+
+"I ward love to hear your opin-EE-ons on dis thing." +
+"Can I quote you on that?"
