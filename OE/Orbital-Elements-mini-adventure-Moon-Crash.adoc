@@ -291,7 +291,7 @@ If the PCs investigate the chamber they find that extra cabling and system cases
 
 *ACCESS BAY:* [NORTHERN] The access bay leads through to a second bay that is equipped with a small elevator. The elevator is functional and can be used to access any of the levels.
 
-*SECURITY:* The hatch into the security room can only be opened with a command keycard. Even Sam can't access the room. The PCs can try to put together a laser cutter or they might search the bodies for a keycard, otherwise this room will remain out-of-bounds. 
+*SECURITY:* *The hatch into the security room can only be opened with a command keycard.* Even Sam can't access the room. The PCs can try to put together a laser cutter or they might search the bodies for a keycard, otherwise this room will remain out-of-bounds. _Getting access to the security room is the only way the PCs can get inside the *FIRE CONTROL CENTRE* on Level -3._
 
 The security room is a self-contained accomodation for a security team. It has three work consoles, one monitors the station, another monitors the region surounding the site and the third looks to monitor the status of the site's crew. The screen looks to be faulty but watching it you can make out that twelve listed crew all have a killed in action (KIA) status, the last death was recorded to have happened 75 years ago.
 
@@ -305,9 +305,25 @@ image:https://dub01pap003files.storage.live.com/y4mxXIn4rZmnH7dusCyDP8qjj5HQCfkm
 
 image:https://dub01pap003files.storage.live.com/y4mOj4FDVQcUOMuqpwYCrNC5JOvQiTRGQo_MphEz6f_CJUzugUQoiiOeVQFiHjDVYvD0wdideLkcdf812znoMhPFeM1VEnTbUuGHRkxTdrvuGfXdG7Ih4DNRkEs8N5iWeQnRr_GorQr21Azu-jCbBZ1Mx3Gmr3CHtmLSdrFxYgHYYWu3onmmx-OSLPTCa-IeKcA?width=1024&height=724&cropmode=none[MAP3]
 
+*ACCESS BAYS:* [NORTHERN] The access bay separates a utility room from a recreation room.
 
+*REC ROOM:* This room contains VR suites, exercise equipment and a wall mounted entertainment screen. There look to be bullet holes across the screen which occasionally flickers to life then goes dark again. There are signs that a fight took place small amounts of blood and some shell casings.
 
+*COMMON ROOM 1:* This area has purple walls and orange furnishings. It contains a large central table, stools and wall mounted "bunk tunnels". These are like "coffin hotels" that provide a bed and limited space for dressing. They are arranged four banks across each with a stack of two bunks, making for eight in total. To the side is a small toilet and shower room. There's a "MENS" symbol on the door. 
 
+*COMMON ROOM 2:*
+
+*COMMON ROOM 1:* This area contains is a large central table, stools and wall mounted "bunk tunnels". These are like "coffin hotels" that provide a bed and limited space for dressing. They are arranged four banks across each with a stack of two bunks, making for eight in total. To the side is a small toilet and shower room. There's a "WOMENS" symbol on the door. 
+
+*GREEN ROOM:* This room is equipped with a wall-to-wall and ceiling screens, creating a good illusion of sitting in a terrestrial enviroment. There's a large collection of plant pots in the room but all the plans have withered away. This type of room is very common in small isolated outposts and stations. Allowing inhabitants to sit an enjoy bright simulatd sunlight, a breeze. It was found that these are important for long-term mental health. The screens have faded so it's hard to tell what's actually being projected but there's the sound of dirds playing.
+
+*ACCESS BAYS:* [SOUTHERN] The access bay separates the GREEN ROOM from the TRAINING ROOM.
+
+*TRAINING ROOM:* A large room devoted to various practice operations, such as gunnery control, damange control, maintanence. There are VR rigs and a large screen on the outer wall. 
+
+*FIRE CONTROL CENTRE:* This chamber has been dug out of the rock and is equipped with an immensely strong hatch. It quickly becomes apparent that this door can't be openned manually. The PCs will need to find a way to open the door.
+
+*UTILITY ROOM:* A storage area that contains a broad range of equipment equippment for various tasks. There's a console on an hold wo
 
 image:https://dub01pap003files.storage.live.com/y4mTKSI68m1BhDNydHY3Jokd5HEyM860IXNbvQBYUkC7q5E6jWCnPziM45Vph-e9IdIph__0y6tOrFniRV0yEcUYfBMb9LTCZG6ZDDSxr-PAztEskbXg68BbUPDA6uMXY9TcoHO_3rLf5eYBPNpzQR5RQt-s4GFR4jlTRrbCsCNVDxSj7EgvdU8_0oFDourGoRL?width=1024&height=724&cropmode=none[MAP4]
 
