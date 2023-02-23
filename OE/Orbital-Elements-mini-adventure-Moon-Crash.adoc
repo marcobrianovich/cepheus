@@ -1,7 +1,5 @@
 
-
 image:https://dub01pap003files.storage.live.com/y4mrzpdOZBJErW6feztYtcYgcLwb_ZO-Wy83H3uVUmmpmA4g_YLwVGWLPFf_PIPbHPmXC7zP3XO2QLUeHuKMIiXHY-BaQgHJlTkf5wzVaqh8cJkwA8w_BJgnNwBb9qnbqVu3AG17OpHJaXjvMj_KbGoSseFoL3KC5TSnumr36Z5LbrB_Uq_L2WZI6XqSdnx8Zvg?width=1024&height=505&cropmode=none[Cover]
-
 
 [quote]
  Giant steps are what you take +
@@ -14,14 +12,13 @@ image:https://dub01pap003files.storage.live.com/y4mrzpdOZBJErW6feztYtcYgcLwb_ZO-
  Walking on, walking on the moon +
  - 20th Century Police Mantra
 
-
 == Introduction
 
 A one-shot adventure for Orbital Elements Science Fiction Role-Playing Game.
 
 *Setting:*  Mare Imbrium (Sea of Rain) basin. 
 
-*Solarpedia Extract:* Mare Imbrium is a vast lava plain within the Imbrium crator basin, near Luna's northern polar region. It was the site of early Helium-3 mining regions, and one of the most contested. During the Luna war II the region became criss-crossed by a defensive lines, creating pockets of "no man's land", filled with smart mines, hidden missile launchers and killer drones. Today these areas are avoided, except by scavengers and pirates.
+*Solarpedia Extract:* Mare Imbrium is a vast lava plain within the Imbrium crator basin, near Luna's northern polar region. It was the site of early Helium-3 mining regions, and one of the most contested. During the second Luna war the region became criss-crossed by a defensive lines, creating pockets of "no man's land", filled with smart mines, hidden missile launchers and killer drones. Today these areas are avoided, except by scavengers and pirates.
 
 
 == Synopsis
@@ -323,7 +320,7 @@ image:https://dub01pap003files.storage.live.com/y4mOj4FDVQcUOMuqpwYCrNC5JOvQiTRG
 
 *FIRE CONTROL CENTRE:* This chamber has been dug out of the rock and is equipped with an immensely strong hatch. It quickly becomes apparent that this door can't be openned manually. The PCs will need to find a way to open the door.
 
-*UTILITY ROOM:* A storage area that contains a broad range of equipment equippment for various tasks. There's a console on an hold wo
+*UTILITY ROOM:* A storage area that contains a broad range of equipment equippment for various tasks. 
 
 image:https://dub01pap003files.storage.live.com/y4mTKSI68m1BhDNydHY3Jokd5HEyM860IXNbvQBYUkC7q5E6jWCnPziM45Vph-e9IdIph__0y6tOrFniRV0yEcUYfBMb9LTCZG6ZDDSxr-PAztEskbXg68BbUPDA6uMXY9TcoHO_3rLf5eYBPNpzQR5RQt-s4GFR4jlTRrbCsCNVDxSj7EgvdU8_0oFDourGoRL?width=1024&height=724&cropmode=none[MAP4]
 
