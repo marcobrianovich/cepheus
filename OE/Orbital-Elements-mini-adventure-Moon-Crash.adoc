@@ -92,25 +92,25 @@ ____
 * Luna Excursion Rig LER-21, Registration L-XP32-J12P, in transit to Copernicus City
 * Carrying light cargo and five passengers.
 Passenger Manifest: +
-*Jack Derenger*, carrying precious cargo in a suitcase. Declared prototype scematics. +
+*Jack Derringer*, carrying precious cargo in a suitcase. Declared prototype scematics. +
 *Zeena Platts*, 20-year-old interior designer, leaving the polar regions after a number of jobs improving various communes. +
-*Anjar Sing*, 40-year-old surveyor, heading for early retirement after a couple of big mineral finds. +
-*Trix Montang*, nonbinary folk singer and performance artist, returning from a tour. +
-*Freddy Happyness Cheaplove*, journalist from the Azania archology, doing a backpacking tour of Luna. 
+*Anjar Sing*, 34-year-old surveyor, heading for early retirement after a couple of big mineral finds. +
+*Trix Montang*, 34-year-old nonbinary folk singer and performance artist, returning from a tour. +
+*Freddy Happyness Cheaplove*, 28-year-old journalist returning to Copernicus City for a break from his field work.
 ____
 
 .*Player handout-2:* Shuttle sheet
 
 image:https://dub01pap003files.storage.live.com/y4mhNnDnw0tWXMXhWlBhT5z_X_WuH3zv5k_i8YIUA5MOyRFDWdkvmXnH0jCZkP4NuCcPfAC_DAW1gWQ_NoT6YuMhtGrbtB_OsAtQdXoy8Af8T7Cxp1wjDva1eH8hIounpM4LAwaMA9IZyTLrj-fHpiMjlPanP8NP-T5OPyxHeJVrLqT8VNW49AdnaTCXN3TuK47?width=724&height=1024&cropmode=none[Bantam1]
 
-The KV-79 Bantam Deltica is a modern Luna transporers that features a novel two-stage arrangement. The top Lift-section provides flight-to-luna-orbit capabilites, while the truck section can conduct surface operations for upto a week. This arrangement allows a crew to quickly reach an isolated region by flight, then the lift section can repeatedly return to base for fuel and supplies, while the truck remains on site. Both sections can be operated remotely or even autonomously.
+The KV-79 Bantam Deltica is a modern Luna transporer that features a novel two-stage arrangement. The top Lift-section provides flight-to-Luna-orbit capabilites, while the truck section can conduct surface operations for upto a week. This arrangement allows a crew to quickly reach an isolated region by flight, then the lift section can repeatedly return to base for fuel and supplies, while the truck remains on site. Both sections can be operated remotely or even autonomously.
 
 === Key
 
-1. *Forward Airlock* - This is only used when the Bantum docks with a suitable airlock in a dust-free area. There's no anti-dust system built into the airlock chamber. There's pull-down ladder for accessing the roof hatch.
+1. *Forward Airlock* - This is only used when the Bantum docks with a suitable airlock in a dust-free area. There's no anti-dust system built into the airlock chamber. There's a fold-down ladder for accessing a roof hatch.
 2. *Command Deck* - This area contains consoles and crew positions for a pilot and a mission controller. From here both the lift and truck sections can be controlled. The controls for both sections are duplicated, so it's possible to drive from the lift command deck, and it's also possible to fly from the Truck's command consoles. Also, both sections can operate autonomously. For example, a crew could all occupy the lift-section, then remotely drive the truck somewhere. In the centre of the space is the main airlock that leads down to the  Truck section (area 9). The accessway is only usable when the two sections are connected.
 3. *Central Bay* - The cramped central bay contains an airlock that connects the lift-section deck to the airlock at the mid-section of the truck. There's a toilet cubicle and vending machine in the space.
-4. *Lift-section passenger area* - There are six oversized couches, suitable for passengers wearing vacc-suits. At rest, the couches face inwards, but under acceleration the chairs turn to face the direction of accerlation. There are large overhead lockers to carry luggage or equipment. The centre of the bay has webbing to hold down extra cargo.
+4. *Lift-section passenger area* - There are six oversized couches, suitable for passengers wearing vacc-suits. At rest, the couches face inwards, but under acceleration the chairs turn to face the direction of acceleration. There are large overhead lockers to carry luggage or equipment. The centre of the bay has webbing to hold down extra cargo.
 5. *Engineering bay* - Contains a mini-workshop and stores. There's a hatch that leads down to the rear section of the truck (area 13). This accessway in only usable when the two sections are connected.
 6. *Emergency airlock* - The outer opening of the airlock is a square hatch, not a door. It's not intended for use on the ground.
 7. *Truck command cabin* - This area has crew positions for a driver and a systems engineer. The cabin opens out to the passenger bay. 
@@ -129,21 +129,21 @@ image:https://dub01pap003files.storage.live.com/y4mrvzjoAn2TKqykoGkkbnYgYRFPVYcK
 
 .*Player Handout-4:* Readout-1
 ____
-*GM:* The LH41 Bantum flies over the baked white desert of Mare Imbrium, about halfway through the journey and about twenty minutes out from the next refuel stop. You attend to your flight monitoring responsibilites. Behind you, passengers chat.
+*GM:* The KV-79 Bantum flies over the baked white desert of Mare Imbrium, about halfway through the journey and about twenty minutes out from the next refuel stop. You attend to your flight monitoring responsibilites. Behind you, passengers chat.
 
-*Player1:* We're passing over a no-mans-land region. This is where some of the fiercest fighting of the second Luna war happened. In fact this area is considered very dangerous as there's still a lot of autonomous weapon systems laying around. We're inside the area of smart jammers so don't panic if you're unable to connect to LUNAnet.
+*Player1:* We're passing over a no-man's-land region. This is where some of the fiercest fighting of the second Luna war happened. In fact this area is considered very dangerous as there's still a lot of autonomous weapon systems laying around. We're inside the area of where a lot of radio jamming is still active, so don't panic if you're unable to connect to LUNAnet.
 
-*Jack Derenger:* On that note, I'd like to thank everyone for letting me adjust the flight plan to take us this low, slow and with our IFF disabled. I think it only fair that I now explain that I'm an intelligence operator carrying highly sensitive data for the Copornicus City goverment. I needed to fly "off the grid" because there are most certainly operators working for adversary nations who might try to grab the information.
+*Jack Derringer:* On that note, I'd like to thank everyone for letting me adjust the flight plan to take us this low, slow and with our IFF disabled. I think it only fair that I now explain that I'm an intelligence operator carrying highly sensitive data for the Copornicus City goverment. I needed to fly "off the grid" because there are most certainly operators working for adversary nations who might try to grab the information.
 
-*Anjar Sing:* That's alright Mr Derenger. In fact, this flight profile is much safer! In the event of a propulsion system failure, flying fast and high results in a 750% increase in mortality. 
+*Anjar Sing:* That's alright Mr Derringer. In fact, this flight profile is much safer! In the event of a propulsion system failure, flying fast and high results in a 750% increase in mortality. 
 
-*Zeena Platts:* [Dismissive tone] In the event of propulsion failure. What about Mr Derenger's adversaries? What do they do to our odds?
+*Zeena Platts:* [Dismissive tone] In the event of propulsion failure. What about Mr Derringer's adversaries? What do they do to our odds?
 
 *Jack Derenger:* Ha ha, well there you go.
 
-*Trix Montag:* Dick move, Derenger. Shoula told us the truth before we set off.
+*Trix Montag:* Dick move, Derringer. Shoula told us the truth before we set off.
 
-*Jack Derenger:* I'm sorry, Trix. It was not my intention to deceive anyone. As Anjar says, this is actually safer -- if slower and more expensive, and I've covered the extra cost, and some.
+*Jack Derringer:* I'm sorry, Trix. It was not my intention to deceive anyone. As Anjar says, this is actually safer -- if slower and more expensive, and I've covered the extra cost, and some.
 
 *Zeena Platts:* Whatever, man. If you think you're a target, slower might not be safer. And you should have warned the passengers of the fact.
 
@@ -153,9 +153,30 @@ ____
 
 *Freddy:* [Giggles]
 
-*GM:* There's a loud thud. Then a second. Then a third. The Bantum's engines have stopped and the everyone feels a steady downward acceleration. The command consoles light up with countless emergency symbols. An automated message plays out "Warning! Catastrophic engine failure. Automated recovery system enabled. Emergency burn in 3 seconds. Landing speed will be faster than is optimal. Please brace for impact....
+*GM:* There's a loud thud. Then a second. Then a third. The Bantum's engines have stopped and the everyone feels a steady downward acceleration. The command consoles light up with countless emergency symbols. An automated message plays, "Warning! Catastrophic engine failure. Automated recovery system enabled. Emergency burn in 3 seconds. Landing speed will be faster than is optimal. Please brace for impact....
 ____
 
+The players sitting in the command stations can make some rolls to assist in getting safely to the surface.
+
+* Reduce landing speed [Pilot - difficult]
+* Maintain idea orientation [Pilot - average]
+
+Successful rolls do not prevent a crash landing, but they reduce the damage and injury sustained.
+
+[width=50%]
+|===========================
+1D6 | *Injury table*
+|1        | 1D injury to a random characteristic STR/DEX or END
+|2        | 1D-1 injury to DEX
+|3        | 1D-2 injury to END
+|4        | No injury
+|5        | No injury
+|6        | No injury
+|===========================
+
+A successful Difficult Survival or Tactics roll adds a +1 to the roll. If a player character has both skills, they can roll for each.
+
+The damage to the Bantum is small but critical. Three penetrations, one in each engine hub causing a dramatic loss of thrust. The landing is is sufficiently hard that the trucks suspension is cracked. The Batham can't fly or drive away.
 
 == Episode Two: Across the bright face
 
@@ -211,7 +232,7 @@ Metal casings and fragments are scatered around. Maybe some discarded pieces of 
 [width=50%]
 |===========================
 1D6 | *Small Facility Encounter Table*  [_Each time you make a roll on this table, add an additional +1 to each subsquent roll._]
-|1        | A small recharging station. A bank of solar arrays, about the size of an olypic swimming pool, attached to a charging bay. The facility looks to be about 150-years old. It's functional but only provides a trickle of power due to various failures. It's enough to fully recharge the group's suits in about an hour.
+|1        | A small recharging station. A bank of solar arrays, about the size of an Olympic swimming pool, attached to a charging bay. The facility looks to be about 150-years old. It's functional but only provides a trickle of power due to various failures. It's enough to fully recharge the group's suits in about an hour.
 |2        | A small automated turret, about the size of a car. It tracks and engages the group but fortunately hasn't enough power for its laser to penetrate anyone's suit. A cable on the side of the unit has been disconnected. Reconnecting the capble will being a recharge of the laser which will start shooting 1D6 minutes after reconnection. It will then take a shot at a random target every three minutes, doing 3D6 damage.
 |3        | A landing pad surrounded by large cargo canisters and equipment. There's various peices of equipment laying around. Roll 1D6 times on the *Random Equipment Table*.
 |4        | A sloped ramp leads down to a bay door. The heavy door looks to open only on the inside. There are no other means of entry. There's no way in. The more time the PCs spend here, the more air they will waste.
@@ -227,7 +248,7 @@ Metal casings and fragments are scatered around. Maybe some discarded pieces of 
 |3        | A handheld scanner. It can detect manmade objects such as burried mines or hidden turrets at about 1000m. It has to run off a vaccsuit's internal battery and takes quite a lot of power. Ten seconds of operation takes 2 minutes of suit power.
 |4        | A field repair kit. A large rucksack filled with tools and repair equipment. 
 |5        | A body in a damanged vacc-suit, still holding a loaded pistol, along with two additional magazines on a belt.
-|6        | An M81 Guass rifle. A powerful high-penetration rifle. It's operation but only has 1D6+1 rounds left.
+|6        | An M81 rail-rifle. A powerful high-penetration rifle. It's operation but only has 1D6+1 rounds left.
 |===========================
 
 [width=50%]
@@ -238,17 +259,17 @@ Metal casings and fragments are scatered around. Maybe some discarded pieces of 
 |3        | Moderate damage. Radio fails for a few seconds intermittently
 |4        | Minor danage to helmet. Another fall on the helmet is likely to cause a crack that may result in a leek or exposive fracture.
 |5        | Tiny leak. The suit's remaining operating time is halved.
-|6        | Catastrophic damage resulting in immediate suit failure. Other members of the party can perform two very difficult engineering rolls to put a temporary fix in place.
+|6        | Catastrophic damage resulting in immediate suit failure. Other members of the party can perform two difficult (10+) engineering rolls to put a temporary fix in place.
 |===========================
 
 == Episode Three: Oasis
 
 .READOUT-2
 ____
-*GM:* The lead person in the group suddenly feels a change to their feel of their footfall. Looking closely at the ground, it's immediately apparent that the dusty lunar rock is actually a molded metal plate.
+*GM:* The lead person in the group suddenly feels a change to the feel of their footfall. Looking closely at the ground, it's immediately apparent that the dusty lunar rock is actually a molded metal plate. Its fake moon!
 ____
 
-If the PCs check out the area they notice a large circular rim, about 4m in diameter. There's no obvious way of moving the plate but a closer look at a nearby boulder reveals a manhole hidden in the boulder's shadow. A ladder leads down three meters to a small chamber with an airlock. The airlock will be locked from the inside but the moment Zena/Sam enters the chamber, her identity is detected and the airlock will unlock. It shouldn't be apparent at first. It will look like the door just unlocked.
+If the PCs check out the area they notice a large circular rim, about 12m in diameter. There's no obvious way to move the plate but a closer look at a nearby boulder reveals a manhole hidden in the boulder's shadow. A ladder leads down three meters to a small chamber with an airlock. The airlock will be locked from the inside but the moment Zena/Sam enters the chamber, her identity is detected and the airlock will unlock. It shouldn't be apparent at first. It will look like the door just unlocked.
 
 === A Puzzle Box
 
@@ -256,7 +277,7 @@ This episode sees the group find a functioning and seemingly deserted habitat. H
 
 ==== FIRE CONTROL
 
-The main fire control console shows a map of the surrounding region. There are Eight connected hidden weapon systems on a network, controlled from two bunkers. There is a beacon, not too far from the site that is pinging. It doesn't take a lot of work to realise that the beacon is coming from the PCs crashed vehicle. Someone planted a beacon on the vehicle, so that it could be tracked without its own IFF signal. The beacon must have been activated after leaving Nuvo Sputnika otherwise flight control would have alerted the PCs to its presence.
+The main fire control console shows a map of the surrounding region. There are eight connected hidden weapon systems on a network, controlled from two bunkers. There is a beacon, not too far from the site that is pinging. It doesn't take a lot of work to realise that the beacon is coming from the PCs crashed vehicle. Someone planted a beacon on the vehicle, so that it could be tracked without its own IFF signal. The beacon must have been activated after leaving Nuvo Sputnika otherwise polar traffic control would have alerted the PCs to its presence.
 
 This strongly suggests that someone among the group wanted the vehicle to be tracked and probably targetted. When this fact bomb drops it obviously makes everyone paranoid. Everyone will look at everything with suspicion.
 
@@ -269,11 +290,11 @@ The Security room has various messaging logs that provide clues:
 The following messaging corresponds with the time that the PCs vehicle was shot.
 ____
 
-*Jerroopus:* Ready your fire solution. The target will be passing OASIS, OLD WELL and CAIRN. Closest pass will be with CAIRN. Who is assigned to CAIRN, today?" 
+*Jerroopus:* Ready fire solution. The target will be passing OASIS, OLD WELL and CAIRN. Closest pass will be with CAIRN. Who is assigned to CAIRN, today?" 
 
 *Kleinner:* I am, sir. 
 
-*Jerroopus:* Kleinner, I don't want a repeat of last week. If you destroy another target I'll send you to the slave mines. 
+*Jerroopus:* Kleinner, I don't want a repeat of last week. If you destroy another target I'll send you to a work camp. 
 
 *Kleinner:* Don't worry, boss. We're going to be super careful - Lt. Modey is onboard the target. 
 
@@ -289,7 +310,7 @@ STATUS UPDATE: Authorized personnel detected: Lt. SAM MODEY, all security system
 MESSAGE TO [SAM MODEY] Welcome Lt Modey. Access granted to all areas. +
 MESSAGE FROM [SAM MODEY] OASIS, Lock the security room. +
 MESSAGE TO [SAM MODEY] Confirmed. Security room now in locked down. Access still possible with a master keycard. +
-MESSAGE FROM [SAM MODEY] Send an alert to Commander Jerroopus at SALT MINE, message as follows: Party of eight, including target and precious cargo. Arrived at our own gun emplacement. OASIS. Send a recovery team ASAP. +
+MESSAGE FROM [SAM MODEY] Send an alert to Commander Jerroopus at SALT MINE, message as follows: Party of eight, including target and precious cargo. Arrived at our own gun emplacement. What are the chances! It's OASIS. Send a recovery team, ASAP. +
 ____
 
 These clues make it apparent that one of the group is actually some kind of undercover pirate, called Sam Modey, who came on the journey to assist in an ambush and piracy.
@@ -298,15 +319,17 @@ These clues make it apparent that one of the group is actually some kind of unde
 
 There is a chance that the group will turn on Jack and try to get him to unlock his small silver case. If the PCs go along with this scuffle and the case is openned then it immediately becomes apparent that there is not precious cargo. The case contains some confectionary, some adventure VRs and a bag of toiletaries, the bag is labelled "Property of Percy Brennan".
 
-Once the cat is out of the bag, Jack will reveal the truth. He'll be sincerely sorry and that this was never about taking advantage of anyone, he just wanted people to see him as someone exciting and interesting. He was a big deal in hydroponics, but nobody care.
+Once the cat is out of the bag, Jack will reveal the truth. He'll be sincerely sorry and claim that this was never about taking advantage of anyone, he just wanted people to see him as someone exciting and interesting. He was a big deal in hydroponics, but nobody cares about success in growing food from water. Everyone wants dangers, violence, and adventure.
 
 What's interesting is that Zena  will have an absolute fit. 
 
-"That's it? That's what you were hiding. Cheap-ass deodrant, some silly action movies and snacks." "Do you know what you have done?" "THEY WILL KILL ME, OR SEND ME A WORK CAMP".
+"That's it? That's what you were hiding. Cheap-ass deodrant, some silly action movies and snacks." "Do you know what you have done?" "THEY WILL KILL ME, OR SEND ME TO A WORK CAMP".
 
 *Wait, What?*
 
-Zena realises that when the pirates arrive and find no booty, she'll face pretty severe punishment. Not only is it a big waste of resources, coming to the silo puts its secrecy at risk. Zena will burst into tears and confess that she is the Jonah.
+Zena realises that when the pirates arrive and find no booty, she'll face pretty severe punishment. Not only is it a big waste of resources, coming to the site puts its secrecy at risk. Zena will burst into tears and confess that she is a Jonah. She's was kidnapped by the gang when she was twelve. Piracy is the only life she ever knew.
+
+If this happens she will tell the group that a contingent of enforcers are making their way to the site, probably on board trucks. It's a two day drive from SALT MINE. How long until the enforcers arrive will depend on how long it is since the group arrived at the site.
 
 === The site
 
