@@ -248,6 +248,51 @@ ____
 
 If the PCs check out the area they notice a large circular rim, about 4m in diameter. There's no obvious way of moving the plate but a closer look at a nearby boulder reveals a manhole hidden in the boulder's shadow. A ladder leads down three meters to a small chamber with an airlock. The airlock will be locked from the inside but the moment Zena/Sam enters the chamber, her identity is detected and the airlock will unlock. It shouldn't be apparent at first. It will look like the door just unlocked.
 
+=== A Puzzle Box
+
+This episode sees the group find a functioning and seemingly deserted habitat. However, it opens up a mystery. On accessing the FIRE CONTROL ROOM and SECURITY the following facts become apparent:
+
+==== FIRE CONTROL
+
+The main fire control console shows a map of the surrounding region. There are Eight connected hidden weapon systems on a network, controlled from two bunkers. There is a beacon, not too far from the site that is pinging. It doesn't take a lot of work to realise that the beacon is coming from the PCs crashed vehicle. Someone planted a beacon on the vehicle, so that it could be tracked without its own IFF signal. The beacon must have been activated after leaving Nuvo Sputnika otherwise flight control would have alerted the PCs to its presence.
+
+This strongly suggests that someone among the group wanted the vehicle to be tracked and probably targetted. When this fact bomb drops it obviously makes everyone paranoid. Everyone will look at everything with suspicion.
+
+==== SECURITY
+
+The Security room has various messaging logs that provide clues:
+
+
+
+The following messaging corresponds with the time that the PCs vehicle was shot.
+____
+
+*Jerroopus:* Ready your fire solution. The target will be passing OASIS, OLD WELL and CAIRN. Closest pass will be with CAIRN. Who is assigned to CAIRN, today?" 
+
+*Kleinner:* I am, sir. 
+
+*Jerroopus:* Kleinner, I don't want a repeat of last week. If you destroy another target I'll send you to the slave mines. 
+
+*Kleinner:* Don't worry, boss. We're going to be super careful - Lt. Modey is onboard the target. 
+
+*Jerroopus:* Modey flagged the target at Nuvo Sputnika. Modey must be worried that they'll get cheated out of their full cut. This means the target must be some serious bank. DON'T MAKE THEM EXPLODE. I want a forced landing, not another burnt wreck.
+____
+
+
+
+The following message was logged about the time the PCs group arrived at the entrance of the site:
+____
+STATUS: SILO OASIS is locked down. All security systems enabled +
+STATUS UPDATE: Authorized personnel detected: Lt. SAM MODEY, all security systems disabled. +
+MESSAGE TO [SAM MODEY] Welcome Lt Modey. Access granted to all areas. +
+MESSAGE FROM [SAM MODEY] OASIS, Lock the security room. +
+MESSAGE TO [SAM MODEY] Confirmed. Security room now in locked down. Access still possible with a master keycard. +
+MESSAGE FROM [SAM MODEY] Send an alert to Commander Jerroopus at SALT MINE, message as follows: Party of eight, including target and precious cargo. Arrived at our own gun emplacement. OASIS. Send a recovery team ASAP. +
+____
+
+These clues make it apparent that one of the group is actually some kind of undercover pirate, called Sam Modey, who came on the journey to assist in an ambush and piracy.
+
+
 image:https://dub01pap003files.storage.live.com/y4mVZchui5cdnW7BkCDhRgyx2a_l7AXl-H6m7mErydMBMqYhsj9_qLedIW3jSwlC8or6RNNNaKXYZvrQ9Gp94KG-CgEDa_SfXH61vTni-zhJeKV0rUZAFJ3ShuMZz9hHv5Rqm8QjV2Hil41byIhh5JVUBxmJPMx4CNBtv8_o6cPuhp5dFFiYB4GABxFL_E2KtWr?width=1200&height=675&cropmode=none[Cutaway]
 
 The Silo 08-C1S "Oasis" was built more than a hundred years ago, when the region was still being fought over for access to Helium-3. The battles long since ended, but the battlefield has remained a dangerous place because it's covered in autonomous weapons. The danger is even greater then people realise. Pirate groups have set up ambush traps, where their attacks are mistaken for random mine or missile strikes. One such pirate gang has taken over and networked together a number of hidden weapon emplacements that can bring down flying vehicles or criple ground vehicles along a wide range of the no man's land.
