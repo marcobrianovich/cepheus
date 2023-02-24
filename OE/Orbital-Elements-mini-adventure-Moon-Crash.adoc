@@ -29,7 +29,7 @@ However, there's more going on...
 
 === What's going on?
 
-One of the passengers, a mysterious middle-aged man called Jack Deringer told the PCs that he is carrying very sensitive research data. He fears that hostiles may try to intercept him during the journey. He offers to pay ten times his fare to fly to Copernicus "below the radar" and with their IFF beacon turned off. The PCs happily accepted because flying low, slow and quiet is safer. However, all is not what it seems. Jack Deringer's real name is Percy Brennan. He isn't an agent carrying secret research data, he's a retired farmer who now lives out the fantasy of being a secret agent. Locked in his secure case are some snacks, a couple of adventure sims and emergency toiletries.
+One of the passengers, a mysterious middle-aged man called Jack Derringer told the PCs that he is carrying very sensitive research data. He fears that hostiles may try to intercept him during the journey. He offers to pay ten times his fare to fly to Copernicus "below the radar" and with their IFF beacon turned off. The PCs happily accepted because flying low, slow and quiet is safer. However, all is not what it seems. Jack Derringer's real name is Percy Brennan. He isn't an agent carrying secret research data, he's a retired farmer who now lives out the fantasy of being a secret agent. Locked in his secure case are some snacks, a couple of adventure sims and emergency toiletries.
 
 At Nuvo Sputnika, Percy approached several transport services, specifically asking if they could provide an off-the-grid transit. This request was overheard by Sam Modey, a pirate working at Nuvo Sputnika's port who looks for high value targets for ambush. She assumes that Percy is carrying something of very high value, of such high value that she not only did she target Percy for ambush, she is risking travelling on the transporter herself, signing up as a passenger using a stolen identify (Zena Platts). Shortly after leaving Nuvo Sputnika, Sam activated a beacon in her dufflebag, sending the transport's position to her a pirate team. The beacon allows the pirates to quickly travel to one of several hidden weapon systems along the PC's route. When the PC's transport flies close, it is shot twice by a railgun emplacement. The shots are carefully targetted, so that the transporter is forced to make a hard landing, but is not so badly damaged that the transporter can't make a survivable landing. 
 
@@ -306,23 +306,38 @@ image:https://dub01pap003files.storage.live.com/y4mOj4FDVQcUOMuqpwYCrNC5JOvQiTRG
 
 *REC ROOM:* This room contains VR suites, exercise equipment and a wall mounted entertainment screen. There look to be bullet holes across the screen which occasionally flickers to life then goes dark again. There are signs that a fight took place small amounts of blood and some shell casings.
 
-*COMMON ROOM 1:* This area has purple walls and orange furnishings. It contains a large central table, stools and wall mounted "bunk tunnels". These are like "coffin hotels" that provide a bed and limited space for dressing. They are arranged four banks across each with a stack of two bunks, making for eight in total. To the side is a small toilet and shower room. There's a "MENS" symbol on the door. 
+*COMMON ROOM 1:* This area has purple walls and orange furnishings. It contains a large central table, stools and wall mounted "bunk tunnels". These are like "coffin hotels" that provide a bed and limited space for dressing. They are arranged as a row of four banks each with two bunks, one on top of the other. To the side is a small toilet and shower room. There's a "MENS" symbol on the door. 
 
-*COMMON ROOM 2:*
-
-*COMMON ROOM 1:* This area contains is a large central table, stools and wall mounted "bunk tunnels". These are like "coffin hotels" that provide a bed and limited space for dressing. They are arranged four banks across each with a stack of two bunks, making for eight in total. To the side is a small toilet and shower room. There's a "WOMENS" symbol on the door. 
+*COMMON ROOM 2:* This area is almost identical to COMMON ROOM 1, although it has green walls and synthetic-timber furnishings. There's a large central table, stools and wall mounted "bunk tunnels". These are like "coffin hotels" that provide a bed and limited space for dressing. They are arranged four banks across each with a stack of two bunks, making for eight in total. To the side is a small toilet and shower room. There's a "WOMENS" symbol on the door. 
 
 *GREEN ROOM:* This room is equipped with a wall-to-wall and ceiling screens, creating a good illusion of sitting in a terrestrial enviroment. There's a large collection of plant pots in the room but all the plans have withered away. This type of room is very common in small isolated outposts and stations. Allowing inhabitants to sit an enjoy bright simulatd sunlight, a breeze. It was found that these are important for long-term mental health. The screens have faded so it's hard to tell what's actually being projected but there's the sound of dirds playing.
 
-*ACCESS BAYS:* [SOUTHERN] The access bay separates the GREEN ROOM from the TRAINING ROOM.
+*ACCESS BAY:* [SOUTHERN] The access bay separates the GREEN ROOM from the TRAINING ROOM.
 
 *TRAINING ROOM:* A large room devoted to various practice operations, such as gunnery control, damange control, maintanence. There are VR rigs and a large screen on the outer wall. 
 
-*FIRE CONTROL CENTRE:* This chamber has been dug out of the rock and is equipped with an immensely strong hatch. It quickly becomes apparent that this door can't be openned manually. The PCs will need to find a way to open the door.
+*FIRE CONTROL CENTRE:* This chamber has been dug out of the rock and is equipped with an immensely strong hatch. It quickly becomes apparent that this door can't be openned manually. The PCs will need to find a way to open the door. It needs either a security key, a hack in the security room or the use of a heavy plasma burner to cut a hole in the wall.
 
 *UTILITY ROOM:* A storage area that contains a broad range of equipment equippment for various tasks. 
 
 image:https://dub01pap003files.storage.live.com/y4mTKSI68m1BhDNydHY3Jokd5HEyM860IXNbvQBYUkC7q5E6jWCnPziM45Vph-e9IdIph__0y6tOrFniRV0yEcUYfBMb9LTCZG6ZDDSxr-PAztEskbXg68BbUPDA6uMXY9TcoHO_3rLf5eYBPNpzQR5RQt-s4GFR4jlTRrbCsCNVDxSj7EgvdU8_0oFDourGoRL?width=1024&height=724&cropmode=none[MAP4]
+
+*ACCESS BAY:* [NORTHERN] The access bay separates a STORAGE area from the site's power and life support systems.
+
+*STORAGE:* There are empty pallettes and crates stacked against the walls. The room opens out into a space that contains a large platform that has a rail system for moving the site's missile launcher out of its tunnel for either making major repairs or replacing the launcher all together.
+
+*REPLACEMENT MISSILE TURRET INSTALLATION BAY:* There are consoles on either side of the space for controlling overhead cranes and machine-tool carrying arms. None of the system looks to have been used for a long time. There's a very large access hatch on the inner wall that would open out the launcher tunnel.
+
+*STORE 4A:* This storage bay is full of crates filled with launcher parts. However there are open crates for something called an LM27 Medium Rail. This is the rail gun that the pirate gang have fitted onto the missile launcher. It looks like some kind of modification work has been done as there are parts that look to have been cut off the launcher. Cables run across the floor. They connect ports on the inner wall (leading into the missile launcher) with ports on the other wall that lead upwards. 
+
+An intelligence check [Hard] will  verify that this is some kind of jury rigging. It looks like the missile launcher doesn't need to be manually operated. It must be getting its fire control remotely.
+
+*STORE 4B:* This storage bay and the surrounding storage area are completely empty.
+
+*POWER CONTROL:* This chamber contains all of the site's systems. Life support, water and sewage treatment, and power from an antiquated fusion plant, which is actually offline. Large power cables run in from the outer walls. It looks like something has hooked the site up with an external power supply.
+There's a console that monitors power and systems. Everything is green. There is also a jamming control deck. Currently the system is set for heavy radio jamming.
+
+*ACCESS BAY:* [SOUTHERN] The access bay separates the Storage area from power control.
 
 
 == Operating on Luna
@@ -373,7 +388,7 @@ She is moderate and shows calm under stress. However, she isn't very good at hid
 ---
 ====
 
-*Jack Deringer* (Real name: Percy Brennan)
+*Jack Derringer* (Real name: Percy Brennan)
 
 
 
