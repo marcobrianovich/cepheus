@@ -292,6 +292,21 @@ ____
 
 These clues make it apparent that one of the group is actually some kind of undercover pirate, called Sam Modey, who came on the journey to assist in an ambush and piracy.
 
+==== A big reveal
+
+There is a chance that the group will turn on Jack and try to get him to unlock his small silver case. If the PCs go along with this scuffle and the case is openned then it immediately becomes apparent that there is not precious cargo. The case contains some confectionary, some adventure VRs and a bag of toiletaries, the bag is labelled "Property of Percy Brennan".
+
+Once the cat is out of the bag, Jack will reveal the truth. He'll be sincerely sorry and that this was never about taking advantage of anyone, he just wanted people to see him as someone exciting and interesting. He was a big deal in hydroponics, but nobody care.
+
+What's interesting is that Zena  will have an absolute fit. 
+
+"That's it? That's what you were hiding. Cheap-ass deodrant, some silly action movies and snacks." "Do you know what you have done?" "THEY WILL KILL ME, OR SEND ME A WORK CAMP".
+
+*Wait, What?*
+
+Zena realises that when the pirates arrive and find no booty, she'll face pretty severe punishment. Not only is it a big waste of resources, coming to the silo puts its secrecy at risk. Zena will burst into tears and confess that she is the Jonah.
+
+=== The site
 
 image:https://dub01pap003files.storage.live.com/y4mVZchui5cdnW7BkCDhRgyx2a_l7AXl-H6m7mErydMBMqYhsj9_qLedIW3jSwlC8or6RNNNaKXYZvrQ9Gp94KG-CgEDa_SfXH61vTni-zhJeKV0rUZAFJ3ShuMZz9hHv5Rqm8QjV2Hil41byIhh5JVUBxmJPMx4CNBtv8_o6cPuhp5dFFiYB4GABxFL_E2KtWr?width=1200&height=675&cropmode=none[Cutaway]
 
@@ -418,7 +433,9 @@ Zeena is a "Jonah". A passenger who operates as an insider for pirates.
 
 *Playing Zeena/Sam:* +
 
-Zena is an act. Sam maybe overdoes the dizzy young woman act. Playing stupid. It's easy in stressful moments for the facade to slip. Celebrating your supreme ignorance about something, then later showing you know a lot about it. Sam tries to keep to herself, not chat. However, she is jubulant because she thinks that she has marked her first big score, so she is a little giddy and by half-way through the journey has become all together too chatty.
+Zena is an act. Sam maybe overdoes the dizzy young woman act. Playing stupid. It's easy in stressful moments for her facade to slip - Celebrating her supreme ignorance about something, then later showing that she knows a lot about it. Sam tries to keep to herself, not chat. However, she is jubulant because she thinks that she has marked her first big score, so she is a little giddy and by half-way through the journey has become all together too chatty. She will appear to be very risk aversed, but in fact she is trying to make it easier for the group to be captured by her pirate buddies. She'll suggest staying with the crashed vehicle -- nobody else likes that idea. She'll suggest not going into the silo, but she'll later concede that the group probably shouldn't risk searching any longer. 
+
+She'll point the finger of suspicion at Jack. "I heard him asking around the transport pilots, asking to travel without the IFF. Doesn't that sound very suspect."
 
 She is moderate and shows calm under stress. However, she isn't very good at hiding distain or anger.
 
@@ -455,6 +472,8 @@ Jack is an act. One based on watching far too many spie VRs. Jack is supremely c
 
 Jack is looking for attention and will attempt to be a leader for the group. However, while Jack does a great talk, not all of his plan hold water.
 
+Jack won't openly call out any suspicions about who the Jonah is. He realises that if you star accusing people, they're going to start accusing back and his facade is not likely to survive a violent episode.
+
 The problem will be when he is finally found out, when the group learn that he's not an agent but a retired farmer he will become crestfallen and a little angry.
 
 *Jack/Percy Quotes:* +
@@ -481,10 +500,16 @@ Mid Passage +
 Anjar is a asteroid miner. A pretty good one. He has sizable shares in several valuable mines. Having nearly come close to death three times in his career, Anjar has decided to cash in and find another life. Sadly his brush with death has left Anjar suffering from mild paranoia and panic attacks. Nothing serious, but it makes him likely to call out wild suspicions.
 
 
+
+
 *Playing Anjar:* +
 
 Anjar is the group comedy character. He's constantly quipping and making observations based on a deep knowledge of risk probabilities and safety best practices. However, under stress, Anjar suffers from mild panic and paranoia. Suddenly he flips from good humour to wild and angry accusations.
 
+Anjar will suspect and callout everyone, frequently. He'll pick up silly things, but might also make observations that are true.
+
+"Ms Platts jumped aboard at the last minute. I think that's suspect."
+"Montang has written songs about blowing stuff up. Maybe this is some kind of statement against Luna mining. I think she's suspect."
 
 *Anjar Quotes* +
 
@@ -511,6 +536,14 @@ Trix is a non-binary folk singer, guitarist and writer. Trix started out as a re
 
 Trix is an anarchist. Can't abide authority figures, especially ones that wear suits. Has a tendency to say outrageous things. 
 
+Trix suspects Jack but her instincts are buzzing on the subject. Something doesn't add up, even though he seems to be the mostly likely suspect.
+
+* "Sam..Sam...who looks like a sam? Jack, I think this is all about you. But you're no Sam. I don't think you are a Jack, either."
+
+* "Zena. Hip young designer eh? What's the complimentary colour of grey?" +
+Zena gives Trix a scolding look, "White, pink, or soft blue". +
+"I still don't buy you, love. I think you're a stand out by not standing out."
+
 *Trix Quotes*
 
 "Well aint you a little thunderbird." +
@@ -535,6 +568,15 @@ Freddy is an investigative journalist, working for a news service that operates 
 *Playing Freddy:*
 
 Freddy is a backup for the PCs. If they're wildly missing clues, Freddy can step in and ask a question to direct their thinking. Freddy is sharp, ambitious and very skilled. He uses his chearful and chatty persona to give the impression of something not to be taken too seriously. People soon drop their guard when in Freddy's company. Always looking for a story, Freddy will ask questions, but he favours listening to others rather than interrogating people.
+
+Freddy absolutely won't call out anyone, but he'll throw in probing questions:
+
+* "So Jack, If you really wanted to avoid attention, why were you asking around about who could fly you to Copernicus on the quiet. That seems likely to draw unwanted attention.*
+*Jack:* Risk I had to take. Didn't work though. Someone planted a tracker on us.
+
+* "So Trix, I understand that you got into hot water at Chang-Hu-war City over bomb threats. That sounds like trouble." +
+*Trix:* "That was a complete misunderstanding followed by criminal misrepresentation. They were song lyrics that some dumb miners started to use as grafitti. The press painted me as a terrorist leader cos of that."
+
 
 *Freddy Quotes* +
 
