@@ -56,7 +56,7 @@ The episode ends with the PCs deciding on a course of action. They might wait ne
 
 The PCs have a map of the region. They must decide where to walk. They're on foot and have limited air and water. Enough for 48 hours. As they travel across the lunar no man's land they roll on an encounter table each hour of travel. They may encounter discarded equipment, derelict shacks, killer drones or even pirates.
 
-At some point the players will roll 6 on the facilities table, at which point they find Missile Silo 792, which takes them to Episode 3.
+The players will eventually roll 6 on the facilities table, at which point they find Missile silo 08-C1S, which takes them to Episode 3.
 
 
 === Episode Three: Oasis
