@@ -37,13 +37,13 @@ At Nuvo Sputnika, Percy approached several transport services, specifically aski
 
 While it's possible to do the journey using a "hopper" that actually launches into space then comes back down anywhere on the moon in less than 20-minutes, it's super expensive to get the transit permits. Luna orbit is now a crowded place, and there are restructions due to the two space elevators that create exclusion zones on the equator. The journey of about 1000km is a little longer than normal for a small rig, but the rig will complete the journey in about 5-hours, cruising at 250 Kph, about 1000m above the surface.
 
-The subject of the scenario is how the player characters deal with the crash and the dangers of finding a place to shelter. The pirate angle becomes apparent when, on finding a missing launch facility they identify that someone has put a beacon on their rig. Almost certainly one of the passengers as it would need to be activated some time after leaving polar traffic control.
+The subject of the scenario is how the player characters deal with the crash and the dangers of finding a place to shelter. The pirate angle becomes apparent when, on finding a missile launch facility they identify that someone has put a beacon on their rig. Almost certainly one of the passengers as it would need to be activated some time after leaving polar traffic control.
 
 The adventure is broken down into the following episodes:
 
 === Episode One: Moon crash
 
-The PCs are introduced to their current situation. They don't get much time to prepare before their vehicle is hit by a small missile. Their rig immediately goes down. The PC piloting the vehicle gets to roll for how severe the crash is, and where exactly they land. On landing, it's clear that their vehicle is wrecked, and in danger of being shot at by any number of autonomous drones or hidden launchers. The PCs must decide how long they risk stripping equipment from the vehicle before a likely strike arrives. Eventually another missile is launched, resulting in the crashed vehicle being peppered by a cloud of penetrators. Potentially lethal for anyone still in the vehicle. 
+The PCs are introduced to their current situation. They don't get much time to prepare before their vehicle is hit by something (three railgun projectiles). Their rig immediately goes down. The PC piloting the vehicle gets to roll for how severe the crash is, and where exactly they land. On landing, it's clear that their vehicle is wrecked, and in danger of being shot at by any number of autonomous drones or hidden launchers. The PCs must decide how long they risk stripping equipment from the vehicle before a likely strike arrives. In fact no further hits occur. The ambushers don't want to risk causing damage to the precious cargo. 
 
 The episode ends with the PCs deciding on a course of action. They might wait near the vehicle - not a good idea. They might head out and try to find some kind of refuge from where they can wait out until a search party arrives. Normally a personal communicator works fine, but the no mans land regions are usually covered by heavy jamming and interference. 
 
@@ -56,23 +56,25 @@ The episode ends with the PCs deciding on a course of action. They might wait ne
 
 The PCs have a map of the region. They must decide where to walk. They're on foot and have limited air and water. Enough for 48 hours. As they travel across the lunar no man's land they roll on an encounter table each hour of travel. They may encounter discarded equipment, derelict shacks, killer drones or even pirates.
 
-The players will eventually roll 6 on the facilities table, at which point they find Missile silo 08-C1S, which takes them to Episode 3.
+The players will eventually roll 6 on the facilities table, at which point they find Missile silo 08-C1S, which takes them to Episode three.
 
 
 === Episode Three: Oasis
 
-Eventually, the PCs find the entrance to some kind of underground base. It's a hidden missile silo, apparantly intact and operational - the missiles are gone, but someone has rigged a railgun into the missile launcher. It's the strongest source of local jamming and although there's a functional communication system but it is locked down with encryption, the jammer itself could be modified to send out an S.O.S. signal. The PCs can spend time exploring the base, learning a little about people who once mannned the station. At some point a group of pirates rigged the silo to launch missiles at low flying or ground vehicles.
+Eventually, the PCs find the entrance to some kind of underground base. It's a hidden missile silo, apparantly intact and operational - the missiles are gone, but someone has rigged a railgun into the missile launcher. It's the strongest source of local jamming and although there's a functional communication system it is locked down with encryption, the jammer itself could be modified to send out an S.O.S. signal. The PCs can spend time exploring the base, learning a little about people who once mannned the station. The pirate agent, Sam belongs to the gang that operates the site, her identity is encoded into the security, so that the site opens up when she approaches the secure airlock.  The station's computer will say that station security is now disabled, now that authorized personnel have arrived. At some point the PCs will realise that this actually means that someone in the group is part of whichever gang set the site up. 
 
-If they manage to modify the jammer to send a signal, the first people to turn up won't be a rescue party, it will be a contingent of pirates wanting to know who is messing with their missile silo. A fight will ensue.
+Sam is able to datavise a message to her pirate comrades to come and retrieve her, along with the supposed booty.
 
-This episode is part puzzle, part who-done-it. Sam/Zena is a member of the pirate gang that has wired this this station up as part of a network of weapon systems that it uses to bring down low-flying traffic. As such, Sam's arrival at the station unlocks most of the security. The station's computer will say that station security is now disabled, now that authorized personnel have arrived. At some point the PCs will realise that this actually means that someone in the group is part of whichever gang set the site up. 
+If the PCs manage to modify the jammer to send a signal, the pirate group will rush more quickly to the site. They fear that the secret of their weapons network will be lost if too much attention falls on the area.
 
-Sam will send a message through the encrypted hardline saying that she needs a team sending out to the site to extract her and the booty.
+This episode is part puzzle, part who-done-it. Sam/Zena is a member of the pirate gang that has wired this this station up as part of a network of weapon systems that it uses to bring down low-flying traffic. As such, Sam's arrival at the station unlocks most of the security.
 
 
 === Episode Four: Moon Siege
 
-An alarm triggers. Two vehicles are driving towards the bunker. They're just over an hour away. Remote sensors indicate the vehicles are medium-sized armoured transporters. They look like pirates. The PCs have about an hour to prepare for an attack on the bunker. During their journey in Episode 2, several useful items were encountered that might help in the bunker's defense. A ground of combat drones. Small arms from a drop pod. The PCs could hack the bunker's railgun
+An alarm triggers. Two vehicles are driving towards the site. They're just over an hour away. Remote sensors indicate the vehicles are medium-sized armoured transporters. They look like pirates. The PCs have about an hour to prepare for an attack. During their journey in Episode 2, several useful items were encountered that might help in the bunker's defense. A ground of combat drones. Small arms from a drop pod. The PCs could even hack the bunker's railgun.
+
+The episode is a straight up fight, where the PCs can set up traps, hide. However, Sam will make her move if she gets an opportunity. She might find a way to lock some or all of the group in a room..
 
 === Episode Four: Moon Cavalry
 
@@ -80,7 +82,7 @@ If the PCs lose the fight, a rescue party will arrive just in time to save them.
 
 === Epilogue
 
-The PCs are taken to the nearest settlement where the local security force will debrief them. 
+The PCs are taken to the nearest settlement where the local security force debriefs them. 
 
 
 == Episode One: Moon crash
