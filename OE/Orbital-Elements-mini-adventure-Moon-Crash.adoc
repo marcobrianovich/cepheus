@@ -335,18 +335,25 @@ If this happens she will tell the group that a contingent of enforcers are makin
 
 image:https://dub01pap003files.storage.live.com/y4mVZchui5cdnW7BkCDhRgyx2a_l7AXl-H6m7mErydMBMqYhsj9_qLedIW3jSwlC8or6RNNNaKXYZvrQ9Gp94KG-CgEDa_SfXH61vTni-zhJeKV0rUZAFJ3ShuMZz9hHv5Rqm8QjV2Hil41byIhh5JVUBxmJPMx4CNBtv8_o6cPuhp5dFFiYB4GABxFL_E2KtWr?width=1200&height=675&cropmode=none[Cutaway]
 
-The Silo 08-C1S "Oasis" was built more than a hundred years ago, when the region was still being fought over for access to Helium-3. The battles long since ended, but the battlefield has remained a dangerous place because it's covered in autonomous weapons. The danger is even greater then people realise. Pirate groups have set up ambush traps, where their attacks are mistaken for random mine or missile strikes. One such pirate gang has taken over and networked together a number of hidden weapon emplacements that can bring down flying vehicles or criple ground vehicles along a wide range of the no man's land.
+The Silo 08-C1S "Oasis" was built more than a hundred years ago, when the region was still being fought over for access to Helium-3. The battles long since ended, but the battlefield has remained a dangerous place because it's covered in autonomous weapons. The danger is even greater then people realise. Pirate groups have set up ambush traps, where their attacks are mistaken for random mine or missile strikes. One such pirate gang has taken over and networked together a number of hidden weapon emplacements that can bring down flying vehicles or cripple ground vehicles along a wide range of the no man's land.
 
-Oasis is equipped with a pop-up missile launch system. However, the actual missile launcher is out of commission, so the pirate group have mounted a modern medium railgun on top of the launcher.
+Oasis is equipped with a pop-up missile launch system. However, the actual missile launcher is out of commission, so the pirate group have mounted a modern medium-calibre railgun on top of the launcher.
 
 === Key
 
-The silo is located in a flat but boulder-strewn area. The personnel access tunnel is obscured by a large boulder that somewhat overhangs the tunnel entrance. A heavy-duty ladder runs from the surface to about 6m below, leading to a square chamber that looks to have been laser-cut out of luna rock with a smooth fuzed rock walls.
+The silo is located in a flat, boulder-strewn area. The personnel access tunnel is obscured by a large boulder that somewhat overhangs the tunnel entrance. A heavy-duty ladder runs from the surface to about 6m below, leading into a cube-shaped chamber that looks to have been laser-cut out of luna rock with a smooth fuzed rock walls.
 The room is completely bare, except for a heavy-duty airlock and a small screen.
 
 image:https://dub01pap003files.storage.live.com/y4mV8bcU_eCg9CbqHL97StqEbtaoPub05nk1pAaJ-TGe-sfBX5jbALi2sL-HaTUAZ2Dykq15XZry01r-5FbyvMOrXVTrKyNlgPwIdN4jO5VIfO_46ppBlPkXPqFYFgoTEaz_zEKM0RPPAuhL4iAAKKTDjeafQz4u4wrvp6HwoFm47Q3SZSxQ4_uTfy6t8PLnlZH?width=1024&height=724&cropmode=none[MAP1]
 
 The facility is locked-down and the airlock secured against entry. However, when Zena/Sam enters the chamber the airlock will automatically unlock.
+A radio message is transmitted to the group, "Authorized personnel detected. Airlock cycling. Welcome to U.S. Luna Missile Launcher Silo Zero Eight Dash CEE ONE ESS"
+
+____
+*Trix:* Derringer, this your doing? This place belong to your spook friends?
+
+*Jack:* No, Trix. This was built by the American Military, more than a hundred years ago. Everything was closed down when the war ended. Someone looks to have taken the place over. I don't understand why it thinks we're authorized personnel. Could be a lucky glitch in the system.
+____
 
 *DECON:* The first room is equipped with high-pressure air jets an extraction system that removes lunar dust from all entrants. The system is automated and appears to be still working. On one wall is a large mirror window. There are dried blood splatters along the floor and what look like streak where bodies where pulled away.
 
@@ -356,7 +363,7 @@ ____
 Anjar does a little jig dance as air blasts remove dust from your space suits. He looks down at the floor and notices a mass of dried blood, splatters and streaks where bodies must have been dragged away.
 ____
 
-*EVA GALLERY:* This room is filled with racks for supporting vaccsuits and equipment for going onto the surface. There are various vacc suit parts but no full suits. There is a system for filling air supply and water tanks. The PCs might take time to replemish their vacc suits.
+*EVA GALLERY:* This room is filled with racks for supporting vacc-suits and equipment for going onto the surface. There are various vacc-suit parts but no full suits. There is a system for filling air supply and water tanks. The PCs might take time to replemish their vacc-suits.
 
 *DOOR CONTROL:* The room is filled with heavy machinary and some control surfaces in the inner wall. It appears to control the opening of the large circular sliding door that the group encountered on the surface. schematics on the walls confirm that the station is a hidden surface to space missile site. The diagrams show a central cyclindrical chamber that goes down to a depth of about thirty metres. Four levels of Donut-shaped chambers ring the central cylinder. The group are currently standing in Level -1. 
 If the PCs investigate the chamber they find that extra cabling and system cases have been wired up. Either to replace broken equippment, or more like to provide a kind of remote control for the operation of the door.
