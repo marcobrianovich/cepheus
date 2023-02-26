@@ -471,7 +471,7 @@ She'll point the finger of suspicion at Jack. "I heard him asking around the tra
 
 She is moderate and shows calm under stress. However, she isn't very good at hiding distain or anger.
 
-*Trix Quotes:* +
+*Zena Quotes:* +
 "Whatever, man". +
 "Listen, mister. I didn't pay my hard earned resource credits to get borning lectures from you". +
 "Well this isn't boring, I'll say that".
@@ -603,10 +603,10 @@ Freddy is a backup for the PCs. If they're wildly missing clues, Freddy can step
 
 Freddy absolutely won't call out anyone, but he'll throw in probing questions:
 
-* "So Jack, If you really wanted to avoid attention, why were you asking around about who could fly you to Copernicus on the quiet. That seems likely to draw unwanted attention.*
-*Jack:* Risk I had to take. Didn't work though. Someone planted a tracker on us.
+* *Freddy:* "So Jack, If you really wanted to avoid attention, why were you asking around about who could fly you to Copernicus on the quiet. That seems likely to draw unwanted attention." +
+*Jack:* "Risk I had to take. Didn't work though. Someone planted a tracker on us."
 
-* "So Trix, I understand that you got into hot water at Chang-Hu-war City over bomb threats. That sounds like trouble." +
+* *Freddy:* "So Trix, I understand that you got into hot water at Chang-Hu-war City over bomb threats. That sounds like trouble." +
 *Trix:* "That was a complete misunderstanding followed by criminal misrepresentation. They were song lyrics that some dumb miners started to use as grafitti. The press painted me as a terrorist leader cos of that."
 
 
