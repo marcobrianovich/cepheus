@@ -432,6 +432,10 @@ There's a console that monitors power and systems. Everything is green. There is
 *ACCESS BAY:* [SOUTHERN] The access bay separates the Storage area from power control.
 
 
+=== Moon Siege
+
+In this chapter the PCs must prepare for an attack by pirate enforcers.
+
 == Operating on Luna
 
 Operating on Luna introduces the following challenges, that should factor into many of the actions that the PCs may wish to take:
