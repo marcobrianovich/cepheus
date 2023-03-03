@@ -41,9 +41,10 @@ One of the passengers, a mysterious middle-aged man called Jack Derringer told t
 
 Before settling on the PCs transport, Percy asked a number of crews if they could provide an off-the-grid transit. This request was overheard by Sam Modey, a pirate working at Nuvo Sputnika's port who looks for high value targets for ambush. She assumes that Percy is carrying something of very high value. In fact, of such high value that, not only does she target Percy for ambush, she risks travelling on the transporter herself, signing up as a passenger using a stolen identify (Zena Platts). Shortly after leaving Nuvo Sputnika, Sam activated a beacon in her dufflebag, sending the transport's position to her pirate team. The beacon allows the pirates to quickly coordinate an ambush using a network of weapon systems along the PC's route. When the PC's transport flies close, it is shot twice by a railgun emplacement. The shots are carefully targetted, so that the transporter is forced to make a hard landing, not a catastrophic crash.
 
-=== Journey facts
-
-While it's possible to do the journey using a "hopper" that actually launches into space then comes back down anywhere on the moon in less than 20-minutes, it's super expensive to get the transit permits. Luna orbit is now a crowded place, and there are restructions due to the two space elevators that create exclusion zones on the equator. The journey of about 1000km is a little longer than normal for a small rig, but the rig will complete the journey in about 5-hours, cruising at 250 Kph, about 1000m above the surface.
+[NOTE]
+====
+**Why slow and low:** While it's possible to do the journey using a "hopper" that actually launches into space then comes back down anywhere on the moon in less than 20-minutes, it's super expensive to get the transit permits. Luna orbit is now a crowded place, and there are restructions due to the two space elevators that create exclusion zones on the equator. The journey of about 1000km is a little longer than normal for a small rig, but the rig will complete the journey in about 5-hours, cruising at 250 Kph, about 1000m above the surface.
+====
 
 The subject of the scenario is how the player characters deal with the crash and the dangers of finding a place to shelter. The pirate angle becomes apparent when, on finding a missile launch facility they identify that someone has put a beacon on their rig. Almost certainly one of the passengers as it would need to be activated some time after leaving polar traffic control.
 
