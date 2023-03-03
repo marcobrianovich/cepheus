@@ -1,3 +1,11 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
 
 image:https://dub01pap003files.storage.live.com/y4mrzpdOZBJErW6feztYtcYgcLwb_ZO-Wy83H3uVUmmpmA4g_YLwVGWLPFf_PIPbHPmXC7zP3XO2QLUeHuKMIiXHY-BaQgHJlTkf5wzVaqh8cJkwA8w_BJgnNwBb9qnbqVu3AG17OpHJaXjvMj_KbGoSseFoL3KC5TSnumr36Z5LbrB_Uq_L2WZI6XqSdnx8Zvg?width=1024&height=505&cropmode=none[Cover]
 
