@@ -140,7 +140,7 @@ image:https://dub01pap003files.storage.live.com/y4mrvzjoAn2TKqykoGkkbnYgYRFPVYcK
 ____
 *GM:* The KV-79 Bantum flies over the baked white desert of Mare Imbrium, about halfway through the journey and about twenty minutes out from the next refuel stop. You attend to your flight monitoring responsibilites. Behind you, passengers chat.
 
-*Player1:* We're passing over a no-man's-land region. This is where some of the fiercest fighting of the second Luna war happened. In fact this area is considered very dangerous as there's still a lot of autonomous weapon systems laying around. We're inside the area of where a lot of radio jamming is still active, so don't panic if you're unable to connect to LUNAnet.
+*Player1:* We're passing over a no-man's-land region. This is where some of the fiercest fighting of the second Luna war happened. In fact this area is considered very dangerous as there's still a lot of autonomous weapon systems laying around. We're inside the area where a lot of radio jamming is still active, so don't panic if you're unable to connect to LUNAnet.
 
 *Jack Derringer:* On that note, I'd like to thank everyone for letting me adjust the flight plan to take us this low, slow and with our IFF disabled. I think it only fair that I now explain that I'm an intelligence operator carrying highly sensitive data for the Copornicus City goverment. I needed to fly "off the grid" because there are most certainly operators working for adversary nations who might try to grab the information.
 
