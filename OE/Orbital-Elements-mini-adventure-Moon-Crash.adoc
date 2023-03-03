@@ -168,7 +168,7 @@ ____
 The players sitting in the command stations can make some rolls to assist in getting safely to the surface.
 
 * Reduce landing speed [Pilot - difficult]
-* Maintain idea orientation [Pilot - average]
+* Maintain optimal orientation [Pilot - average]
 
 Successful rolls do not prevent a crash landing, but they reduce the damage and injury sustained.
 
