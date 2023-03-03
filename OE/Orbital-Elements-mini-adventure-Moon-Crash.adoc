@@ -76,14 +76,14 @@ Sam is able to datavise a message to her pirate comrades to come and retrieve he
 
 If the PCs manage to modify the jammer to send a signal, the pirate group will rush more quickly to the site. They fear that the secret of their weapons network will be lost if too much attention falls on the area.
 
-This episode is part puzzle, part who-done-it. Sam/Zena is a member of the pirate gang that has wired this this station up as part of a network of weapon systems that it uses to bring down low-flying traffic. As such, Sam's arrival at the station unlocks most of the security.
+This episode is part puzzle, part who-done-it. Exploring the site will reveal clues that reveal that someone was tracking the PCs vehicle and fired upon it using another weapon emplacement, and most significant of all, one of the passengers is in all likelyhood, working with the ambushers.
 
 
 === Episode Four: Moon Siege
 
-An alarm triggers. Two vehicles are driving towards the site. They're just over an hour away. Remote sensors indicate the vehicles are medium-sized armoured transporters. They look like pirates. The PCs have about an hour to prepare for an attack. During their journey in Episode 2, several useful items were encountered that might help in the bunker's defense. A ground of combat drones. Small arms from a drop pod. The PCs could even hack the bunker's railgun.
+An alarm triggers. Two vehicles are driving towards the site. They're just over an hour away. Remote sensors indicate the vehicles are medium-sized armoured transporters. They look like pirates. The PCs have about an hour to prepare for an attack. During their journey in Episode 2, several useful items were encountered that might help in the bunker's defense. A ground of combat drones. Small arms from a drop pod. The PCs could even hack the bunker's railgun. This episode is more open-ended and depends on the creativity of the players to resolve successfully.
 
-The episode is a straight up fight, where the PCs can set up traps, hide. However, Sam will make her move if she gets an opportunity. She might find a way to lock some or all of the group in a room..
+The episode might play out as a straight up fight, where the PCs can set up traps, hide. However, Sam will make her move if she gets an opportunity. She might find a way to lock some or all of the group in a room, taking control of the site.
 
 === Episode Four: Moon Cavalry
 
@@ -98,11 +98,11 @@ The PCs are taken to the nearest settlement where the local security force debri
 
 .*Player handout-1:* Travel Manifest
 ____
-* Luna Excursion Rig LER-21, Registration L-XP32-J12P, in transit to Copernicus City
+* Luna Excursion Rig KV-79 Bantam Deltica, Registration L-XP32-J12P, in transit to Copernicus City
 * Carrying light cargo and five passengers.
 Passenger Manifest: +
-*Jack Derringer*, carrying precious cargo in a suitcase. Declared prototype scematics. +
-*Zeena Platts*, 20-year-old interior designer, leaving the polar regions after a number of jobs improving various communes. +
+*Jack Derringer*, 50-year-old, intel type, carrying precious cargo in a small titanium brief case. Declared as research data. +
+*Zeena Platts*, 20-year-old interior designer, leaving the polar regions after a number of jobs improving various mining settlements. +
 *Anjar Sing*, 34-year-old surveyor, heading for early retirement after a couple of big mineral finds. +
 *Trix Montang*, 34-year-old nonbinary folk singer and performance artist, returning from a tour. +
 *Freddy Happyness Cheaplove*, 28-year-old journalist returning to Copernicus City for a break from his field work.
