@@ -17,7 +17,10 @@ Galactic Star Alliance (GSA) is a far-future science fiction roleplaying game, s
 
 #### Origins
 
-Humanity spread throughout the galaxy in the late 2900s, after the development of the non-locality(NL) drive. It found many a galaxy teeming with sentient alien races, but not as technologically advanced as humanity. After years of exploration it was realised that many advanced races had come before us, but had since left for places unknown, leaving only mysterious ruins and a stockpile of exotic matter we call MyB-n. The leading theory is that races that reach sufficient level of technology because "unbound", leaving the limits of space and time behind. MyB-n is a silver
+Humanity spread throughout the galaxy in the late 2900s, after the development of the non-locality(NL) drive. It found a galaxy teeming with sentient alien races, but few as technologically advanced as humanity. After years of exploration it was realised that there had been many races more advanced than us, but they had suddenly vanished, leaving only mysterious ruins and a stockpile of exotic matter we call MyB-n (pronounced Mib-En or My-Bin). The leading theory is that races that reach a sufficient level of technology become "unbound", leaving the limits of space and time behind. 
+
+NOTE: MyB-n is a silver-coloured metal that is exists in a strange island of stability well beyond the heaviest elements on the periodic table. How it is made remains a mystery, even to 37th century scientists.
+
 Hundreds of colony worlds were settled, across the entire expance of the galaxy. By 3400 A.D. humanity held a dominant position in the galaxy, having shared its technologies with many alien races, helping them to set up their own colonies.For hundreds of years, the galactic civilisation expands and thrives.
 
 #### Empire
