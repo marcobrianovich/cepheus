@@ -4,9 +4,18 @@
 
 === Introduction
 
-==== Table-top Roleplaying Games
+==== What is a Table-top Roleplaying Game?
+
+In a table-top roleplaying game (RPG) players take on the roles of characters in a game setting, either by acting out their character, or describing the actions that they wish their character to take. Many of these character actions can be said to automatically succeed. A character opening a opening an unlocked door, for example. When action's success is not certain, then the game rules are used to decided the action's outcome. In most modern RPGs each such action has a probability of success assigned, then the success or failure of the action is decided by rolling game dice, sometimes with a modifiers to nudge the chance of success higher or lower. Orbital Elements inherits the Traveller/Cepheus rule system that only uses trusty old six-sided dice. Collaborative storytelling is hard. To make the game flow better one of the players takes on the job of being "game master". As a game master you drive the story, describing the situation to the other players and acting as a referee for making final decisions about things. It's important to understand that the game master isn't playing to oppose the players, even though it is the game master who decides that a group of angry asteroid miners, armed with improvised weapons are currently running towards the players' characters. The game master places obsticles and opponents in front of the player group, but they should do so with an eye to fairness and encouraging enjoyment for the whole party. To be a game master is to wield awesome power. You can make it very easy or very hard for the players. If the players feel like you are going out of your way to constantly give them a hard time, you can expect their enjoyment of play to be sapped, and they might not be coming back for more. The best games are where the danger and drama flows naturally from player decisions rather than from the whims of a capricious game master. 
+
+
+==== Orbital Elements in a nutshell
+
+==== Conventions
 
 === Core Rules
+
+ v
 
 === Character Generation
 
