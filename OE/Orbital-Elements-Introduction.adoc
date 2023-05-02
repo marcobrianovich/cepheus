@@ -1,5 +1,21 @@
 == Introduction
 
+=== Table-top roleplaying games
+
+In a table-top roleplaying game (RPG), players take on the roles of characters in a game setting, either by acting out their character or describing the actions they wish their character to take. Many actions automatically succeed, opening an unlocked door, for example. When an action's success is uncertain, we use the game rules to decide the outcome. In most RPGs, the game master assigns a probability for the action's success. Then the player whose character is taking the action rolls dice to decide if the action succeeds or fails. The result of the dice roll may be modified by additional factors, nudging the chance of success higher or lower. For example, let's say that the PC attempts to open the unlocked door but finds it jammed shut. If the PC is physically strong, this would likely increase their chance of success. On the other hand, perhaps the PC is suffering the effects of a tranquillizer dart, making their success less likely.
+
+Orbital Elements uses the Traveller/Cepheus rule system in which you only use trusty old six-sided dice (D6 for short). One advantage of using the D6 is that you can raid old board games to gather a few extra dice for play.
+
+Collaborative storytelling is hard. To make the game flow better, one of the players takes on the job of being the "game master". As a game master, you drive the story, describing the situation to the other players and acting as a referee for making final decisions. As a game master, you don't oppose the other players. While it's your job to place obstacles and opponents in front of the player group, you should be impartial and aim to make play enjoyable for the whole party. To be a game master is to wield god-like power. When the PCs open a door, it is the game master who decides if this reveals a missing cat or a hungry lion. If the players feel like you always give them a hard time, this may sap their enjoyment of play, and they might not be coming back for more. In the best games, danger and drama flow naturally from player decisions rather than from the whims of a capricious game master.  
+
+Orbital Elements is rules-light, but here are foundational rules for play:
+
+* There are no absolute rules, except:
+* The game master's decision is final. 
+* The game master's priority should be making play fun for everyone.
+
+=== Oribital Elements roleplaying game
+
 **Extract from  "How I'd describe life in 2277 to my ancestors" by Benji Reesman**
 =====
 What a time to be alive! Or, if you're a sentient machine, not alive, technically. It's 2277AD, there's good news and bad. If you thought we'd fix the climate, add that one to the bad news list. Earth is a hot mess. Burning deserts stretch across half the remaining landmass. Hurricane season is every season and almost everywhere. The biosphere hangs on by a thread. Hey, we stopped things getting worse - everyone moved into giant archologies that trap the heat they create underground. When the archologies got full, we started to move people to the space colonies. Now, we're everywhere. Which is quite good. Kicking-up Helium-3-rich rust on Mercury, floating above the Sulphuric-acid-rich clouds of Venus, we're big on Mars, and all the way out to the Keipers. 
