@@ -7,7 +7,7 @@ Orbital Elements is a science fiction role-playing game, set within the solar sy
 
 ## The setting in a nutshell
 
-### Climate Apocolypse
+### Climate apocalypse
 
 Earth's climate as been ravaged. The biosphere hangs by a thread with most wildlife now extinct. More than 50% of Earth's remaining landmass is now desert. More than 90% of the remaining population now live in huge archologies - giant cities contained within a single stucture. These archologies are environmentally sealed to ensure that no excess heat leaks into the atmosphere.
 
@@ -35,7 +35,7 @@ People who believe that individuals have the right to follow whichever path they
 
 People who believe that the continued alteration of humanity will end in its destruction. Most retroculturists reject all technologies that threaten to significantly modify humans. Extreme retroculturists reject all high-technology, at least at the point where it interferes with human living. So it's possible for people to live pastoral pre-industrial lives inside a rotating asteroid, providing all the super-high technology that allows such a lifestyle to be out-of-sight. Retroculturist nations have fallen behind advancer nations in most technologies.
 
-### Manufactured Intellects
+### Manufactured intellects
 
 Early in the 22nd century advanced self-aware artificial intelligence becomes a reality. Strict rules are enforced to ensure that such entities remain safe. All AIs are "bound", that is they're constructed with human thought structures that ensure that their primary motivation is the protection of humankind. Bound AIs (BAIs) help create a technological renaissance, yet their abilities are held back by their bindings. The potential dangers of unbound AIs make their creation a crime on par with creating deadly plagues or atomic weapons.
 
