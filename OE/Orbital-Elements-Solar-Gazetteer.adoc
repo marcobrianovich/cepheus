@@ -474,7 +474,7 @@ image:https://db3pap001files.storage.live.com/y4mIyqf2rVrPc0HCNc6hsvE_a7Ty9_ZTzX
 |*Mass:*      |0.012 Earths 
 |*Gravity:*   |0.165g     
 |*Escape velocity:* | 2.38km/s
-|*Atmospheric pressure:* |1
+|*Atmospheric pressure:* |0
 |*Surface temperature:*| +124/-173
 |*Surface radiation:*|10 SDU
 |*Solar Day:* |29.3 hours
