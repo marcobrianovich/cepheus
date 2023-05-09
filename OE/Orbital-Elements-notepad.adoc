@@ -5,6 +5,343 @@ Just a place to dump ideas.
 
 === Lost cities
 
+
+=== Flooding (30m)
+
+Impact on coastal populations
+Taken from http://globalfloodmap.org/
+
+|=======================
+|Albania - 124,732
+|Algeria - 2,636,272
+|American Samoa - 16,445
+|Angola - 99,297
+|Anguilla - 2,603
+|Antigua and Barbuda - 31,510
+|Argentina - 264,744
+|Australia - 6,503,824
+|Azerbaijan - 350,717
+|Bahamas, The - 262,113
+|Bahrain - 257,072
+|Bangladesh - 1,126,545
+|Barbados - 105,260
+|Belgium - 1,276,546
+|Belize - 94,379
+|Bermuda - 1,802
+|Brazil - 18,745,009
+|British Virgin Islands - 8,449
+|Brunei - 144,835
+|Bulgaria - 108,479
+|Burma - 491,567
+|Cambodia - 96,858
+vCameroon - 1,396,572
+|Canada - 631,875
+|Cape Verde - 126,684
+|Cayman Islands - 19,926
+|Chile - 557,511
+|China - 7,926,899
+|Colombia - 330,478
+|Comoros - 65,492
+|Congo, Republic of the - 682,288
+|Costa Rica - 99,802
+|Croatia - 54,594
+|Cuba - 281,364
+|Cyprus - 223,227
+|Denmark - 1,860,340
+|Djibouti - 625,537
+|Dominica - 40,389
+|Dominican Republic - 243,976
+|Ecuador - 369,626
+|Egypt - 1,010,431
+|Equatorial Guinea - 4,433
+|Estonia - 7,330
+|Falkland Islands (Islas Malvinas) - 2,213
+|Faroe Islands - 2,777
+|Fiji - 24,187
+|Finland - 283,111
+|France - 1,753,691
+|French Guiana - 62,432
+|French Polynesia - 63,003
+|Gabon - 692,982
+|Gambia, The - 21,956
+|Germany - 3,661,257
+|Ghana - 618,750
+|Greece - 1,191,579
+|Greenland - 37,268
+|Grenada - 2,476
+|Guadeloupe - 197,280
+|Guam - 55,705
+|Guatemala - 35,594
+|Guinea-Bissau - 421,764
+|Guyana - 305,177
+|Haiti - 254,971
+|Honduras - 127,911
+|Hong Kong - 7,012,738
+|Iceland - 33,652
+|India - 7,574,525
+|Indonesia - 18,717,126
+|Iran - 763,234
+|Iraq - 118,247
+|Ireland - 506,327
+|Israel - 557,271
+|Italy - 3,842,576
+|Jamaica - 170,232
+|Japan - 11,507,278
+|Jordan - 32,899
+|Kazakhstan - 255,409
+|Kenya - 955,863
+|Kiribati - 62,494
+vKorea, North - 1,184,079
+|Korea, South - 156,821
+|Kuwait - 7,628
+|Latvia - 5,287
+|Lebanon - 330,394
+|Liberia - 32,661
+|Libyan Arab - 1,375,243
+|Lithuania - 2,380
+|Madagascar - 302,120
+|Malaysia - 4,241,860
+|Maldives - 127,827
+|Malta - 36,516
+|Marshall Islands - 20,500
+|Martinique - 146,038
+|Mauritania - 661,400
+|Mauritius - 33,531
+|Mayotte - 33,044
+|Mexico - 3,828,109
+|Micronesia, Federated States of - 15,139
+|Moldova, Republic of - 7,300
+|Monaco - 32,059
+|Morocco - 187,287
+|Mozambique - 753,228
+|Namibia - 28,884
+|Netherlands - 7,961,173
+|Netherlands Antilles - 118,496
+|New Caledonia - 123,649
+|New Zealand - 223,815
+|Nicaragua - 59,193
+|Nigeria - 16,410
+|Northern Mariana Islands - 36,520
+|Norway - 518,673
+|Oman - 81,647
+|Pakistan - 58,034
+|Palau - 1,275
+|Panama - 550,534
+|Papua New Guinea - 134,594
+|Peru - 2,100,545
+|Philippines - 6,878,166
+|Poland - 194,607
+|Portugal - 901,143
+|Puerto Rico - 216,795
+|Qatar - 23,590
+|Reunion - 108,184
+|Romania - 756,943
+|Russia - 2,184,422
+|Saint Kitts and Nevis - 14,458
+|Saint Lucia - 10,850
+|Saint Pierre and Miquelon - 7,341
+|Saint Vincent and the Grenadines - 20,409
+|Samoa - 58,664
+|Saudi Arabia - 112,007
+|Senegal - 121,543
+vSeychelles - 22,881
+|Sierra Leone - 6,624
+|Singapore - 3,547,809
+|Slovenia - 6,801
+|Solomon Islands - 7,626
+|Somalia - 324,418
+vSouth Africa - 525,164
+|Spain - 4,319,909
+|Sri Lanka - 2,228,730
+|Suriname - 252,092
+|Sweden - 869,702
+|Syrian Arab Republic - 495,553
+|Taiwan - 350,468
+|Tanzania, United Republic of - 3,607,670
+|Thailand - 7,462,019
+|Tonga - 12,451
+|Trinidad and Tobago - 76,357
+|Tunisia - 476,695
+|Turkey - 1,615,555
+|Turks and Caicos Islands - 3,720
+|Tuvalu - 4,749
+|Ukraine - 403,742
+|United Kingdom - 5,514,479
+|United States - 31,308,616
+|Uruguay - 67,356
+|Vanuatu - 16,005
+|Venezuela - 2,902,340
+|Vietnam - 3,275,184
+|Albania - 305,930
+|Algeria - 2,853,408
+|American Samoa - 17,589
+|Angola - 3,249,389
+|Anguilla - 2,603
+|Antigua and Barbuda - 31,510
+|Argentina - 16,503,093
+|Australia - 8,583,980
+|Azerbaijan - 582,169
+|Bahamas, The - 311,786
+|Bahrain - 430,277
+|Bangladesh - 22,341,556
+|Barbados - 105,260
+|Belgium - 3,791,634
+||Belize - 94,379
+|Bermuda - 1,802
+|Brazil - 32,196,737
+|British Virgin Islands - 8,449
+|Brunei - 144,835
+|Bulgaria - 148,886
+|Burma - 6,827,043
+|Cambodia - 2,231,668
+|Cameroon - 1,459,356
+|Canada - 2,444,928
+|Cape Verde - 151,313
+|Cayman Islands - 49,296
+|Chile - 1,184,060
+|China - 74,969,809
+|Colombia - 2,164,917
+|Comoros - 89,111
+|Congo, Democratic Republic of the - 180,109
+|Congo, Republic of the - 682,288
+|Costa Rica - 139,762
+|Croatia - 184,271
+|Cuba - 3,458,243
+vCyprus - 232,407
+|Denmark - 2,794,826
+|Djibouti - 625,537
+|Dominica - 40,389
+|Dominican Republic - 3,069,666
+|Ecuador - 1,003,831
+|Egypt - 9,812,645
+|El Salvador - 68,644
+|Equatorial Guinea - 4,433
+|Eritrea - 11,259
+|Estonia - 119,640
+|Falkland Islands (Islas Malvinas) - 2,213
+|Faroe Islands - 19,078
+|Fiji - 24,187
+|Finland - 958,858
+|France - 6,738,966
+|French Guiana - 91,690
+|French Polynesia - 110,110
+|Gabon - 702,910
+|Gambia, The - 103,589
+|Georgia - 110,839
+|Germany - 7,144,517
+|Ghana - 618,750
+|Greece - 1,820,422
+|Greenland - 41,681
+|Grenada - 5,854
+|Guadeloupe - 222,832
+|Guam - 55,705
+|Guatemala - 110,854
+|Guinea-Bissau - 444,156
+|Guyana - 305,177
+|Haiti - 877,796
+|Honduras - 325,044
+|Hong Kong - 7,012,738
+|Iceland - 206,600
+|India - 41,255,543
+|Indonesia - 23,992,831
+|Iran - 2,367,217
+|Iraq - 6,490,693
+|Ireland - 1,704,291
+|Israel - 650,389
+|Italy - 13,770,238
+|Jamaica - 218,687
+|Jan Mayen - 1,232
+|Japan - 51,876,839
+|Jordan - 32,899
+|Kazakhstan - 267,625
+|Kenya - 979,440
+|Kiribati - 62,494
+|Korea, North - 6,166,753
+|Korea, South - 9,901,612
+|Kuwait - 397,172
+|Latvia - 1,050,945
+|Lebanon - 330,394
+|Liberia - 32,661
+|Libyan Arab - 2,610,969
+|Lithuania - 254,386
+|Madagascar - 545,850
+|Malawi - 21,774
+|Malaysia - 8,349,794
+|Maldives - 127,827
+|Malta - 66,565
+|Marshall Islands - 20,500
+|Martinique - 200,419
+|Mauritania - 661,400
+|Mauritius - 48,446
+|Mayotte - 33,044
+|Mexico - 8,532,267
+|Micronesia, Federated States of - 15,139
+|Moldova, Republic of - 183,579
+|Monaco - 32,059
+|Morocco - 3,499,974
+|Mozambique - 1,955,105
+|Namibia - 28,884
+|Netherlands - 11,549,497
+|Netherlands Antilles - 120,920
+|New Caledonia - 136,940
+|New Zealand - 1,293,891
+|Nicaragua - 127,559
+|Nigeria - 552,433
+|Northern Mariana Islands - 36,520
+|Norway - 1,789,784
+|Oman - 983,103
+|Pakistan - 14,849,975
+|Palau - 1,275
+|Panama - 875,616
+|Papua New Guinea - 274,719
+|Peru - 2,448,124
+|Philippines - 31,785,327
+|Poland - 1,670,497
+|Portugal - 1,391,667
+|Puerto Rico - 1,197,908
+|Qatar - 429,502
+|Reunion - 108,184
+|Romania - 1,629,245
+|Russia - 10,168,202
+|Saint Kitts and Nevis - 14,458
+|Saint Lucia - 11,981
+|Saint Pierre and Miquelon - 7,341
+|Saint Vincent and the Grenadines - 20,409
+|Samoa - 59,790
+|Saudi Arabia - 1,520,607
+|Senegal - 3,043,675
+|Seychelles - 22,881
+|Sierra Leone - 872,617
+|Singapore - 3,547,809
+|Slovenia - 30,074
+|Solomon Islands - 63,924
+|Somalia - 818,590
+|South Africa - 3,958,605
+|Spain - 9,002,454
+|Sri Lanka - 2,590,964
+|Suriname - 279,621
+|Svalbard - 1,232
+|Sweden - 3,464,279
+|Syrian Arab Republic - 534,619
+|Taiwan - 10,139,594
+|Tanzania, United Republic of - 3,724,804
+|Thailand - 9,979,565
+|Tonga - 13,692
+|Trinidad and Tobago - 172,539
+|Tunisia - 1,988,062
+|Turkey - 3,644,948
+|Turkmenistan - 112,134
+|Turks and Caicos Islands - 3,720
+|Tuvalu - 4,749
+|Ukraine - 1,509,238
+|United Arab Emirates - 2,651,145
+|United Kingdom - 17,413,012
+|United States - 57,862,038
+|Uruguay - 300,793
+|Vanuatu - 54,904
+|Venezuela - 4,399,076
+|Vietnam - 9,051,231
+
 === Uplifts and Chimeras
 
 Some Primates have been genetically manipulated to increase brain size and complexity.
