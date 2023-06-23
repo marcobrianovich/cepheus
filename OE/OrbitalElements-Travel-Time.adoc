@@ -8,19 +8,19 @@ Most space vehicles that are performing a orbital transit travel at a constant 1
 .An example table
 [options="header,footer"]
 |=======================
-|Journey from Earth|Duration     
-|Earth to  Luna: |3h
-|Venus: |1d 11h 
-|Mercury:| 2d 
-|Mars: |1d 21h 
-|Ceres: |2d 10h
-|Domus: |2d 25h
-|Jupiter: |5d 16h
-|Saturn: |8d 2h 
-|Uranus: |11d 20h 
-|Neptune: |15d 8h 
-|Pluto-Charon: |15d 7h
-|Keipers: |19d 5h
+|Journey from Earth|Duration -closest  | -farthest    
+|Earth to  Luna: |3h |3h
+|Venus: |1d 11h | 2d 22h
+|Mercury:| 2d | 4d
+|Mars: |1d 21h |3 18h
+|Ceres: |2d 10h | 4d 20h
+|Domus: |2d 25h | 5d 2h
+|Jupiter: |5d 16h | 12d 8h
+|Saturn: |8d 2h | 14d 4h
+|Uranus: |11d 20h | 17d 20h
+|Neptune: |15d 8h | 21s  8h
+|Pluto-Charon: |15d 7h | 21d 3h
+|Keipers: |19d 5h | 19d 5h
 |=======================
 
 Duration is for 1g constant acceleration, then turning around and decelerating through the second half.
