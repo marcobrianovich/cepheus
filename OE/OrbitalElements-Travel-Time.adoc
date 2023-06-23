@@ -1,0 +1,28 @@
+== Travel Times
+
+Most space vehicles that are performing a orbital transit travel at a constant 1g, providing simulated gravity for those onboard. Some ships are capable of much higher impulse, but this is not sustainable due to crew comfort. Combat vessels use higher maximum acceleration to get into a favourable position more quickly.
+
+
+
+
+.An example table
+[options="header,footer"]
+|=======================
+|Journey from Earth|Duration     
+|Earth to  Luna: |3h
+|Venus: |1d 11h 
+|Mercury:| 2d 
+|Mars: |1d 21h 
+|Ceres: |2d 10h
+|Domus: |2d 25h
+|Jupiter: |5d 16h
+|Saturn: |8d 2h 
+|Uranus: |11d 20h 
+|Neptune: |15d 8h 
+|Pluto-Charon: |15d 7h
+|Keipers: |19d 5h
+|=======================
+
+Duration is for 1g constant acceleration, then turning around and decelerating through the second half.
+
+Space vehicles intended to operate only in a single orbital don't require more than a day's fuel capacity, while long-range vehicles might carry nearly a month of fuel. Most space vehicles are designed for travelling between the inner planets and maybe as far as Jupiter, where most vehicles refuel. A duration of 10 days is common.
