@@ -12,7 +12,7 @@ Most space vehicles that are performing a orbital transit travel at a constant 1
 |Earth to  Luna: |3h |3h
 |Venus: |1d 11h | 2d 22h
 |Mercury:| 2d | 4d
-|Mars: |1d 21h |3 18h
+|Mars: |1d 21h |3d 18h
 |Ceres: |2d 10h | 4d 20h
 |Domus: |2d 25h | 5d 2h
 |Jupiter: |5d 16h | 12d 8h
