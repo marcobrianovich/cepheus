@@ -1,0 +1,17 @@
+== Orbital. Elements. Space. Warfare. OESC
+
+A hybrid Deck-and-Map based space combat game for Orbital Elements.
+
+
+
+
+What's different? You want crunchy, we got crunchy. You want fast play..... Zooooota!
+
+So OESC is designed to have plenty of moving elements, parameters to tweak but with a faster-than-expected game loop.
+
+
+=== Encounter begins
+
+A combat encounter between hostile space vehicles begins with setting u
+
+
