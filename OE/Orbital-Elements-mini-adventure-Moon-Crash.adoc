@@ -608,7 +608,7 @@ Journalist (2 terms) Rank 3 - Investigative Reporter +
 Admin-0 , Bribery-1 , Carousing-0 , Computer-0 , Leadership-1 , Linguistics-1 , Piercing Weapons-1 , Streetwise-1 , Tracked Vehicle-1 +
 15,000 cr +
 
-Freddy is an investigative journalist, working for a news service that operates out of The Central African Archologies. He's been investigating corruption amongst the polar mining settlements. He's started to annoy a number of criminal sorts. His editor has caught wind of the incidents and has recalled Freddy to the Copernican office. Freddy is a natural information differ. He has a great instincts for a story, and is a good reader of people's motives.
+Freddy is an investigative journalist, working for a news service that operates out of The Central African Archologies. He's been investigating corruption amongst the polar mining settlements. He's started to annoy a number of criminal sorts. His editor caught wind of the incidents and recalled Freddy to the Copernican office. Freddy is a natural information miner. He has great instincts for a story and is a good reader of people's motives.
 
 *Playing Freddy:*
 
