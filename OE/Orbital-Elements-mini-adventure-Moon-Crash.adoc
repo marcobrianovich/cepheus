@@ -26,33 +26,33 @@ A one-shot adventure for Orbital Elements Science Fiction Role-Playing Game.
 
 *Setting:*  Mare Imbrium (Sea of Rain) basin. 
 
-*Solarpedia Extract:* Mare Imbrium is a vast lava plain within the Imbrium crator basin, near Luna's northern polar region. It was the site of early Helium-3 mining, and one of the most contested. During the second Luna war the region became criss-crossed with trenches and defensive lines, creating areas of "no man's land", filled with smart mines, hidden missile launchers, and killer drones. Today, these areas are avoided, except by scavengers and pirates.
+*Solarpedia Extract:* Mare Imbrium is a vast lava plain within the Imbrium crater basin near Luna's northern polar region. It was the site of early Helium-3 mining and one of the most contested. During the Second Luna War, the region became crisscrossed with trenches and defensive lines, creating areas of "no man's land" filled with smart mines, hidden missile launchers, and killer drones. Today, these areas are avoided except by scavengers and pirates.
 
 
 == Synopsis
 
-In this one-shot adventure, the PCs are the crew of a small transport rig that carries passengers and cargo between the countless Luna settlements. The adventure begins part way through a journey from Nuvo Sputnika to Copernicus Arc. The transport is hit by a ground-based weapon, forcing a crash landing, right in the middle of a no man's land region that is littered with automated weapon systems left over from the second Luna War. The place is covered in smart jammers that make radio communication from the ground all but impossible, so there's no way to call for help. The PCs must try to lead their passengers to safety, walking across a trackless waste, filled with unseen dangers.
+In this one-shot adventure, the PCs are the crew of a small transport rig that carries passengers and cargo between the countless Luna settlements. The adventure begins partway through a journey from Nuvo Sputnika to Copernicus Arc. The transport is hit by a ground-based weapon, forcing a crash landing right in the middle of a no man's land region littered with automated weapon systems left over from the second Luna War. The place is covered in smart jammers that make radio communication from the ground all but impossible, so there's no way to call for help. The PCs must try to lead their passengers to safety, walking across a trackless waste filled with unseen dangers.
 
 However, there's more going on...
 
 === What's going on?
 
-One of the passengers, a mysterious middle-aged man called Jack Derringer told the PCs that he is carrying very sensitive research data. He fears that hostiles may try to intercept him during the journey. He offers to pay ten times his fare to fly to Copernicus "below the radar" and with their IFF beacon turned off. The PCs happily accepted because flying low, slow and quiet is safer. However, all is not what it seems. Jack Derringer's real name is Percy Brennan. He isn't an agent carrying secret research data, he's a retired farmer who now lives out the fantasy of being a secret agent. Locked in his secure case are some snacks, a couple of adventure sims and emergency toiletries.
+One of the passengers, a mysterious middle-aged man named Jack Derringer tells the PCs that he's carrying very sensitive research data. He fears that hostiles may try to intercept him during the journey. He offers to pay ten times his fare to fly to Copernicus "below the radar" with their IFF beacon turned off. The PCs happily accept this because flying low, slow, and quiet is safer. However, all is not what it seems. Jack Derringer's real name is Percy Brennan. He isn't an agent carrying secret research data; he's a retired farmer who now lives out the fantasy of being a secret agent. Locked in his secure case are some snacks, a couple of adventure sims and emergency toiletries.
 
-Before settling on the PCs transport, Percy asked a number of crews if they could provide an off-the-grid transit. This request was overheard by Sam Modey, a pirate working at Nuvo Sputnika's port who looks for high value targets for ambush. She assumes that Percy is carrying something of very high value. In fact, of such high value that, not only does she target Percy for ambush, she risks travelling on the transporter herself, signing up as a passenger using a stolen identify (Zena Platts). Shortly after leaving Nuvo Sputnika, Sam activated a beacon in her dufflebag, sending the transport's position to her pirate team. The beacon allows the pirates to quickly coordinate an ambush using a network of weapon systems along the PC's route. When the PC's transport flies close, it is shot twice by a railgun emplacement. The shots are carefully targetted, so that the transporter is forced to make a hard landing, not a catastrophic crash.
+Before settling on the PCs transport, Percy asked other taxis crews if they could provide an off-the-grid transit. This request was overheard by Sam Modey, a pirate working at Nuvo Sputnika's port who looks for high value targets for ambush. She assumes that Percy is carrying something of very high value. In fact, it is of such high value that not only does she target Percy for ambush, but she risks travelling on the transporter herself, signing up as a passenger using a stolen identity (Zena Platts). Shortly after leaving Nuvo Sputnika, Sam activated a beacon in her duffle bag, sending the transport's position to her pirate team. The beacon allows the pirates to quickly coordinate an ambush using a network of weapon systems along the PC's route. When the PC's transport flies close, it is shot twice by a railgun emplacement. The shots are carefully targetted so that the transporter is forced to make a hard landing, not a catastrophic crash.
 
 [NOTE]
 ====
-**Why slow and low:** While it's possible to do the journey using a "hopper" that actually launches into space then comes back down anywhere on the moon in less than 20-minutes, it's super expensive to get the transit permits. Luna orbit is now a crowded place, and there are restructions due to the two space elevators that create exclusion zones on the equator. The journey of about 1000km is a little longer than normal for a small rig, but the rig will complete the journey in about 5-hours, cruising at 250 Kph, about 1000m above the surface.
+**Why slow and low:** While it's possible to do the journey using a "hopper" that actually launches into space then comes back down anywhere on the moon in less than 20-minutes, it's super expensive to get the transit permits. Luna orbit is now a crowded place, and there are restrictions due to the two space elevators that create exclusion zones on the equator. The journey of about 1000km is a little longer than normal for a small rig, but the rig will complete the journey in about 5-hours, cruising at 250 Kph, about 1000m above the surface.
 ====
 
-The subject of the scenario is how the player characters deal with the crash and the dangers of finding a place to shelter. The pirate angle becomes apparent when, on finding a missile launch facility they identify that someone has put a beacon on their rig. Almost certainly one of the passengers as it would need to be activated some time after leaving polar traffic control.
+The subject of the scenario is how the player characters deal with the crash and the dangers of finding a place to shelter. The pirate angle becomes apparent when, on finding a missile launch facility they identify that someone has put a beacon on their rig. Almost certainly one of the passengers, as it would need to be activated sometime after leaving Polar traffic control.
 
 The adventure is broken down into the following episodes:
 
 === Episode One: Moon crash
 
-The PCs are introduced to their current situation. They don't get much time to prepare before their vehicle is hit by something (three railgun projectiles). Their rig immediately goes down. The PC piloting the vehicle gets to roll for how severe the crash is, and where exactly they land. On landing, it's clear that their vehicle is wrecked, and in danger of being shot at by any number of autonomous drones or hidden launchers. The PCs must decide how long they risk stripping equipment from the vehicle before a likely strike arrives. In fact no further hits occur. The ambushers don't want to risk causing damage to the precious cargo. 
+The PCs are introduced to their current situation. They don't get much time to prepare before their vehicle is hit by something (three railgun projectiles). Their rig immediately goes down. The PC piloting the vehicle gets to roll for how severe the crash is, and where exactly they land. On landing, it's clear that their vehicle is wrecked and in danger of being shot at by any number of autonomous drones or hidden launchers. The PCs must decide how long they risk stripping equipment from the vehicle before a likely strike arrives. In fact no further hits occur. The ambushers don't want to risk causing damage to the precious cargo. 
 
 The episode ends with the PCs deciding on a course of action. They might wait near the vehicle - not a good idea. They might head out and try to find some kind of refuge from where they can wait out until a search party arrives. Normally a personal communicator works fine, but the no mans land regions are usually covered by heavy jamming and interference. 
 
@@ -65,14 +65,14 @@ The episode ends with the PCs deciding on a course of action. They might wait ne
 
 The PCs have a map of the region. They must decide where to walk. They're on foot and have limited air and water. Enough for 48 hours. As they travel across the lunar no man's land they roll on an encounter table each hour of travel. They may encounter discarded equipment, derelict shacks, killer drones or even pirates.
 
-The players will eventually roll 6 on the facilities table, at which point they find Missile silo 08-C1S, which takes them to Episode three.
+The players will eventually roll 6 on the facilities table, at which point they find Missile silo 08-C1S, which takes them to Episode Three.
 
 
 === Episode Three: Oasis
 
-Eventually, the PCs find the entrance to some kind of underground base. It's a hidden missile silo, apparantly intact and operational - the missiles are gone, but someone has rigged a railgun into the missile launcher. It's the strongest source of local jamming and although there's a functional communication system it is locked down with encryption, the jammer itself could be modified to send out an S.O.S. signal. The PCs can spend time exploring the base, learning a little about people who once mannned the station. The pirate agent, Sam belongs to the gang that operates the site, her identity is encoded into the security, so that the site opens up when she approaches the secure airlock.  The station's computer will say that station security is now disabled, now that authorized personnel have arrived. At some point the PCs will realise that this actually means that someone in the group is part of whichever gang set the site up. 
+Eventually, the PCs find the entrance to an underground base. It's a hidden missile silo, apparently intact and operational - the missiles are gone, but someone has rigged a railgun into the missile launcher. It's the strongest source of local jamming and although there's a functional communication system it is locked down with encryption, the jammer itself could be modified to send out an S.O.S. signal. The PCs can spend time exploring the base and learn about people who once manned it. The pirate agent, Sam belongs to the gang that operates the site, her identity is encoded into the security, so that the site opens up when she approaches the secure airlock.  The station's computer will say that station security is now disabled, now that authorized personnel have arrived. At some point, the PCs will realise that this actually means that someone in the group is part of whichever gang set the site up. 
 
-Sam is able to datavise a message to her pirate comrades to come and retrieve her, along with the supposed booty.
+Sam is able to "datavise" a message to her pirate comrades to come and retrieve her, along with the supposed booty.
 
 If the PCs manage to modify the jammer to send a signal, the pirate group will rush more quickly to the site. They fear that the secret of their weapons network will be lost if too much attention falls on the area.
 
@@ -81,9 +81,9 @@ This episode is part puzzle, part who-done-it. Exploring the site will reveal cl
 
 === Episode Four: Moon Siege
 
-An alarm triggers. Two vehicles are driving towards the site. They're just over an hour away. Remote sensors indicate the vehicles are medium-sized armoured transporters. They look like pirates. The PCs have about an hour to prepare for an attack. During their journey in Episode 2, several useful items were encountered that might help in the bunker's defense. A ground of combat drones. Small arms from a drop pod. The PCs could even hack the bunker's railgun. This episode is more open-ended and depends on the creativity of the players to resolve successfully.
+An alarm triggers. Two vehicles are driving towards the site. They're just over an hour away. Remote sensors indicate the vehicles are medium-sized armoured transporters. They look like pirates. The PCs have about an hour to prepare for an attack. During their journey in Episode 2, several useful items were encountered that might help in the bunker's defence. A ground of combat drones. Small arms from a drop pod. The PCs could even hack the bunker's railgun. This episode is more open-ended and depends on the creativity of the players to resolve successfully.
 
-The episode might play out as a straight up fight, where the PCs can set up traps, hide. However, Sam will make her move if she gets an opportunity. She might find a way to lock some or all of the group in a room, taking control of the site.
+The episode might play out as a straight-up fight where the PCs can set up traps and hide. However, Sam will make her move if she gets an opportunity. She might find a way to lock some or all of the group in a room, taking control of the site.
 
 === Episode Four: Moon Cavalry
 
@@ -91,7 +91,7 @@ If the PCs lose the fight, a rescue party will arrive just in time to save them.
 
 === Epilogue
 
-The PCs are taken to the nearest settlement where the local security force debriefs them. 
+The PCs are taken to the nearest settlement, where the local security force debriefs them. 
 
 
 == Episode One: Moon crash
@@ -101,29 +101,29 @@ ____
 * Luna Excursion Rig KV-79 Bantam Deltica, Registration L-XP32-J12P, in transit to Copernicus City
 * Carrying light cargo and five passengers.
 Passenger Manifest: +
-*Jack Derringer*, 50-year-old, intel type, carrying precious cargo in a small titanium brief case. Declared as research data. +
+*Jack Derringer*, 50-year-old, intel type, carrying precious cargo in a small titanium briefcase. Declared as research data. +
 *Zeena Platts*, 20-year-old interior designer, leaving the polar regions after a number of jobs improving various mining settlements. +
 *Anjar Sing*, 34-year-old surveyor, heading for early retirement after a couple of big mineral finds. +
 *Trix Montang*, 34-year-old nonbinary folk singer and performance artist, returning from a tour. +
-*Freddy Happyness Cheaplove*, 28-year-old journalist returning to Copernicus City for a break from his field work.
+*Freddy Happyness Cheaplove*, 28-year-old journalist returning to Copernicus City for a break from his fieldwork.
 ____
 
 .*Player handout-2:* Shuttle sheet
 
 image:https://dub01pap003files.storage.live.com/y4mhNnDnw0tWXMXhWlBhT5z_X_WuH3zv5k_i8YIUA5MOyRFDWdkvmXnH0jCZkP4NuCcPfAC_DAW1gWQ_NoT6YuMhtGrbtB_OsAtQdXoy8Af8T7Cxp1wjDva1eH8hIounpM4LAwaMA9IZyTLrj-fHpiMjlPanP8NP-T5OPyxHeJVrLqT8VNW49AdnaTCXN3TuK47?width=724&height=1024&cropmode=none[Bantam1]
 
-The KV-79 Bantam Deltica is a modern Luna transporer that features a novel two-stage arrangement. The top Lift-section provides flight-to-Luna-orbit capabilites, while the truck section can conduct surface operations for upto a week. This arrangement allows a crew to quickly reach an isolated region by flight, then the lift section can repeatedly return to base for fuel and supplies, while the truck remains on site. Both sections can be operated remotely or even autonomously.
+The KV-79 Bantam Deltica is a modern Luna transporter that features a novel two-stage arrangement. The top Lift Section provides flight-to-Luna-orbit capabilities, while the truck section can conduct surface operations for up to a week. This arrangement allows a crew to quickly reach an isolated region by flight. The lift section can repeatedly return to the base for fuel and supplies while the truck remains on site. Both sections can be operated remotely or even autonomously.
 
 === Key
 
 1. *Forward Airlock* - This is only used when the Bantum docks with a suitable airlock in a dust-free area. There's no anti-dust system built into the airlock chamber. There's a fold-down ladder for accessing a roof hatch.
 2. *Command Deck* - This area contains consoles and crew positions for a pilot and a mission controller. From here both the lift and truck sections can be controlled. The controls for both sections are duplicated, so it's possible to drive from the lift command deck, and it's also possible to fly from the Truck's command consoles. Also, both sections can operate autonomously. For example, a crew could all occupy the lift-section, then remotely drive the truck somewhere. In the centre of the space is the main airlock that leads down to the  Truck section (area 9). The accessway is only usable when the two sections are connected.
-3. *Central Bay* - The cramped central bay contains an airlock that connects the lift-section deck to the airlock at the mid-section of the truck. There's a toilet cubicle and vending machine in the space.
-4. *Lift-section passenger area* - There are six oversized couches, suitable for passengers wearing vacc-suits. At rest, the couches face inwards, but under acceleration the chairs turn to face the direction of acceleration. There are large overhead lockers to carry luggage or equipment. The centre of the bay has webbing to hold down extra cargo.
+3. *Central Bay* - The cramped central bay contains an airlock that connects the lift-section deck to the airlock at the mid-section of the truck. It also has a toilet cubicle and vending machine in the space.
+4. *Lift-section passenger area* - There are six oversized couches suitable for passengers wearing vacc-suits. At rest, the couches face inwards, but under acceleration, the chairs turn to face in the direction of acceleration. There are large overhead lockers to carry luggage or equipment. The centre of the bay has webbing to hold down extra cargo.
 5. *Engineering bay* - Contains a mini-workshop and stores. There's a hatch that leads down to the rear section of the truck (area 13). This accessway in only usable when the two sections are connected.
 6. *Emergency airlock* - The outer opening of the airlock is a square hatch, not a door. It's not intended for use on the ground.
 7. *Truck command cabin* - This area has crew positions for a driver and a systems engineer. The cabin opens out to the passenger bay. 
-8. *Truck passenger bay* - This contains eight counches. At rest, the couches face inwards, but under acceleration the chairs turn to face the direction of accerlation. There are overhead monitors and consoles. At the top of each couch headrest is a bracket that holds a vacc-suit helmet. Some variants of the Bantam Deltica reconfigure this section into a cargo area, with a floor-based elevator.
+8. *Truck passenger bay* - This contains eight counches. At rest, the couches face inwards, but under acceleration, the chairs turn to face the direction of acceleration. There are overhead monitors and consoles. At the top of each couch headrest is a bracket that holds a vacc-suit helmet. Some variants of the Bantam Deltica reconfigure this section into a cargo area, with a floor-based elevator.
 9. *EVA area* - Equipment for setting up vacc suits for space or surface operations. A ladder leads up to the lift section (area 3). 
 10. *Decontamination* - powerful jets and extraction equipment blast entrants to ensure they don't bring in too much dust. This area leads to the main side airlock. While in drive mode, the airlock is 2 metres above the ground. An easy jump on the moon but in parking mode the suspension system  lowers the airlock door by a metre and a steps fold out from beneath the airlock's extrusion.
 11. *Galley* - Food and drink stores and a toilet/wash cubical.
@@ -140,7 +140,7 @@ image:https://dub01pap003files.storage.live.com/y4mrvzjoAn2TKqykoGkkbnYgYRFPVYcK
 ____
 *GM:* The KV-79 Bantum flies over the baked white desert of Mare Imbrium, about halfway through the journey and about twenty minutes out from the next refuel stop. You attend to your flight monitoring responsibilites. Behind you, passengers chat.
 
-*Player1:* We're passing over a no-man's-land region. This is where some of the fiercest fighting of the second Luna war happened. In fact this area is considered very dangerous as there's still a lot of autonomous weapon systems laying around. We're inside the area where a lot of radio jamming is still active, so don't panic if you're unable to connect to LUNAnet.
+*Player1:* We're passing over a no-man's-land region. This is where some of the fiercest fighting of the second Luna war happened. In fact, this area is considered very dangerous as there are still a lot of autonomous weapon systems lying around. We're inside the area where a lot of radio jamming is still active, so don't panic if you're unable to connect to LUNAnet.
 
 *Jack Derringer:* On that note, I'd like to thank everyone for letting me adjust the flight plan to take us this low, slow and with our IFF disabled. I think it only fair that I now explain that I'm an intelligence operator carrying highly sensitive data for the Copornicus City goverment. I needed to fly "off the grid" because there are most certainly operators working for adversary nations who might try to grab the information.
 
@@ -189,7 +189,7 @@ The damage to the Bantum is small but critical. Three penetrations, one in each 
 
 == Episode Two: Across the bright face
 
-The PC's group are making an effort to walk to any kind of shelter or settlement. They might formulate a plan amongst themselves, or just walk in a random direction. They have the regional map, with their approximate position marked on. The episode is managed by making an roll on the Encounter Table each hour the group spends travelling. Each time that a roll is made on one of the sub-tables (crash sites, ruins and facilities) then  add a cumulative +1 to the next roll on the table. For example, if you make three rolls in the ruins table, then the fourth roll will be D6+3. This makes it very unlikely for the group to run out of air before they find Oasis and move to episode three.
+The PC's group are making an effort to walk to any kind of shelter or settlement. They might formulate a plan amongst themselves or just walk in a random direction. They have the regional map, with their approximate position marked on. The episode is managed by making an roll on the Encounter Table each hour the group spends travelling. Each time that a roll is made on one of the sub-tables (crash sites, ruins and facilities) then  add a cumulative +1 to the next roll on the table. For example, if you make three rolls in the ruins table, then the fourth roll will be D6+3. This makes it very unlikely for the group to run out of air before they find Oasis and move to episode three.
 
 [width=50%]
 |===========================
@@ -206,13 +206,13 @@ The PC's group are making an effort to walk to any kind of shelter or settlement
 |===========================
 1D6 | *Debris Encounter Table* 
 |1        | Scattered rocks
-|2        | A small crater, about 10m in diameter surounded by rock fragments.
+|2 | A small crater, about 10m in diameter, surrounded by rock fragments.
 |3        | A large crater, about 50m in diameter. + 
 Walking through the crater requires some checks against dexterity. 6+ to avoid a fall. 
 |4        | Signs of fighting. + 
-Metal casings and fragments are scatered around. Maybe some discarded pieces of equipment
-|5        | Signs of a battle. Equipment and some empty magazines scattered around. Pieces of space suit. No bodies remain but you definitely get a feeling that people met their end here. 
-|6        | An intact lander sits on the edge of a small crater. It doesn't look have been stripped, but the PCs quickly identify that tiny bomblets covering the area. Any attempt to get to the lander will likely result in your death. However, if the PCs are creative they can liberate about CR3000 from the site.
+Metal casings and fragments are scattered around. Maybe some discarded pieces of equipment
+|5        | Signs of a battle. Equipment and some empty magazines were scattered around. Pieces of space suit. No bodies remain but you definitely get a feeling that people met their end here. 
+|6        | An intact lander sits on the edge of a small crater. It doesn't look have been stripped, but the PCs quickly identify tiny bomblets covering the area. Any attempt to get to the lander will likely result in your death. However, if the PCs are creative they can liberate about CR3000 from the site.
 |===========================
 
 
@@ -229,13 +229,13 @@ Metal casings and fragments are scatered around. Maybe some discarded pieces of 
 
 [width=50%]
 |===========================
-1D6 | *Small Ruin Encounter Table*  [_Each time you make a roll on this table, add an additional +1 to each subsquent roll._]
-|1        | A survival shelter. A solitary emergency tent equipped with a small porta-loo sized airlock. The shelter is deflated. It looks like it was punctured by shrapnel. No bodies or equipment inside. Nothing of note.
+1D6 | *Small Ruin Encounter Table*  [_Each time you make a roll on this table, add an additional +1 to each subsequent roll._]
+|1        | A survival shelter. A solitary emergency tent equipped with a small porta-loo-sized airlock. The shelter is deflated. It looks like it was punctured by shrapnel. No bodies or equipment inside. Nothing of note.
 |2        | A collection of six emergency shelters. The shelters are intact but there's nothing but litter, the remains of emergency provisions and some sunblasted artifacts.
-|3        | A Cabin shelter, about the size of a caravan. It's been stripped of anything valuable, expect its oxygen supply which remains at 20% capacity. Enough for everyone in the party to reset their air capacity to 100%.
+|3        | A Cabin shelter, about the size of a caravan. It's been stripped of anything valuable, except its oxygen supply, which remains at 20% capacity. Enough for everyone in the party to reset their air capacity to 100%.
 |4        | A small trench, about 20m long and 2m deep, with two dugout chambers. Both chambers are breached and filled with jagged metal. There's a body in a vacc-suit that looks to have suffered a catastrophic puncture. There's not much of value in the chambers. Random equipment from what looks to have been an observation nest.
-|5        | A mooncrete platflorm, about 10m square and 1m high. There's an airlock in its sloped wall. On top of the platform are several fist sized holes. Their airlock is smalled open. A tunnel leads down 2m to a pile of rubble. It looks like a penetrator strike has collapsed the interior of whatever this was.
-|6        | Small facility. Roll on the facilties table.
+|5        | A mooncrete platflorm, about 10m square and 1m high. There's an airlock in its sloped wall. On top of the platform are several fist-sized holes. Their airlock is small and open. A tunnel leads down 2m to a pile of rubble. It looks like a penetrator strike has collapsed the interior of whatever this was.
+|6        | Small facility. Roll on the *Small Facility table*.
 |===========================
 
 [width=50%]
@@ -266,7 +266,7 @@ Metal casings and fragments are scatered around. Maybe some discarded pieces of 
 |1        | No damage or injury
 |2        | Minor damage, no immediate effect. 
 |3        | Moderate damage. Radio fails for a few seconds intermittently
-|4        | Minor danage to helmet. Another fall on the helmet is likely to cause a crack that may result in a leek or exposive fracture.
+|4        | Minor damage to helmet. Another fall on the helmet will likely cause a crack that may result in a leek or explosive fracture.
 |5        | Tiny leak. The suit's remaining operating time is halved.
 |6        | Catastrophic damage resulting in immediate suit failure. Other members of the party can perform two difficult (10+) engineering rolls to put a temporary fix in place.
 |===========================
@@ -275,18 +275,18 @@ Metal casings and fragments are scatered around. Maybe some discarded pieces of 
 
 .READOUT-2
 ____
-*GM:* The lead person in the group suddenly feels a change to the feel of their footfall. Looking closely at the ground, it's immediately apparent that the dusty lunar rock is actually a molded metal plate. Its fake moon!
+*GM:* The lead person in the group suddenly feels a change in the feel of their footfall. Looking closely at the ground, it's immediately apparent that the dusty lunar rock is actually a moulded metal plate. It's fake moon rock!
 ____
 
-If the PCs check out the area they notice a large circular rim, about 12m in diameter. There's no obvious way to move the plate but a closer look at a nearby boulder reveals a manhole hidden in the boulder's shadow. A ladder leads down three meters to a small chamber with an airlock. The airlock will be locked from the inside but the moment Zena/Sam enters the chamber, her identity is detected and the airlock will unlock. It shouldn't be apparent at first. It will look like the door just unlocked.
+If the PCs check out the area, they notice a large circular rim, about 12m in diameter. There's no obvious way to move the plate but a closer look at a nearby boulder reveals a manhole hidden in the boulder's shadow. A ladder leads down three meters to a small chamber with an airlock. The airlock will be locked from the inside, but the moment Zena/Sam enters the chamber, her identity is detected, and the airlock will unlock. It shouldn't be apparent at first. It will look like the door just unlocked.
 
 === A Puzzle Box
 
-This episode sees the group find a functioning and seemingly deserted habitat. However, it opens up a mystery. On accessing the FIRE CONTROL ROOM and SECURITY the following facts become apparent:
+This episode sees the group find a functioning and seemingly deserted habitat. However, it opens up a mystery. On accessing the FIRE CONTROL ROOM and SECURITY, the following facts become apparent:
 
 ==== FIRE CONTROL
 
-The main fire control console shows a map of the surrounding region. There are eight connected hidden weapon systems on a network, controlled from two bunkers. There is a beacon, not too far from the site that is pinging. It doesn't take a lot of work to realise that the beacon is coming from the PCs crashed vehicle. Someone planted a beacon on the vehicle, so that it could be tracked without its own IFF signal. The beacon must have been activated after leaving Nuvo Sputnika otherwise polar traffic control would have alerted the PCs to its presence.
+The main fire control console shows a map of the surrounding region. There are eight connected hidden weapon systems on a network controlled from two bunkers. There is a beacon, not too far from the site that is pinging. It doesn't take a lot of work to realise that the beacon is coming from the PCs crashed vehicle. Someone planted a beacon on the vehicle so that it could be tracked without its own IFF signal. The beacon must have been activated after leaving Nuvo Sputnika; otherwise, polar traffic control would have alerted the PCs to its presence.
 
 This strongly suggests that someone among the group wanted the vehicle to be tracked and probably targetted. When this fact bomb drops it obviously makes everyone paranoid. Everyone will look at everything with suspicion.
 
@@ -296,7 +296,7 @@ The Security room has various messaging logs that provide clues:
 
 
 
-The following messaging corresponds with the time that the PCs vehicle was shot.
+The following message corresponds with the time that the PC's vehicle was shot.
 ____
 
 *Jerroopus:* Ready fire solution. The target will be passing OASIS, OLD WELL and CAIRN. Closest pass will be with CAIRN. Who is assigned to CAIRN, today?" 
@@ -312,7 +312,7 @@ ____
 
 
 
-The following message was logged about the time the PCs group arrived at the entrance of the site:
+The following message was logged about the time the PC's group arrived at the entrance of the site:
 ____
 STATUS: SILO OASIS is locked down. All security systems enabled +
 STATUS UPDATE: Authorized personnel detected: Lt. SAM MODEY, all security systems disabled. +
@@ -326,17 +326,17 @@ These clues make it apparent that one of the group is actually some kind of unde
 
 ==== A big reveal
 
-There is a chance that the group will turn on Jack and try to get him to unlock his small silver case. If the PCs go along with this scuffle and the case is openned then it immediately becomes apparent that there is not precious cargo. The case contains some confectionary, some adventure VRs and a bag of toiletaries, the bag is labelled "Property of Percy Brennan".
+There is a chance that the group will turn on Jack and try to get him to unlock his small silver case. If the PCs go along with this scuffle and the case is opened, then it immediately becomes apparent that there is no precious cargo. The case contains some confectionary, some adventure VRs, and a bag of toiletries; the bag is labelled "Property of Percy Brennan."
 
-Once the cat is out of the bag, Jack will reveal the truth. He'll be sincerely sorry and claim that this was never about taking advantage of anyone, he just wanted people to see him as someone exciting and interesting. He was a big deal in hydroponics, but nobody cares about success in growing food from water. Everyone wants dangers, violence, and adventure.
+Once the cat is out of the bag, Jack will reveal the truth. He'll be sincerely sorry and claim that this was never about taking advantage of anyone. He just wanted people to see him as someone exciting and interesting. He was a big deal in hydroponics, but nobody cares about success in growing food from water. Everyone wants danger, violence, and adventure.
 
 What's interesting is that Zena  will have an absolute fit. 
 
-"That's it? That's what you were hiding. Cheap-ass deodrant, some silly action movies and snacks." "Do you know what you have done?" "THEY WILL KILL ME, OR SEND ME TO A WORK CAMP".
+"That's it? That's what you were hiding. Cheap-ass deodorant, some silly action movies and snacks." "Do you know what you have done?" "THEY WILL KILL ME OR SEND ME TO A WORK CAMP".
 
 *Wait, What?*
 
-Zena realises that when the pirates arrive and find no booty, she'll face pretty severe punishment. Not only is it a big waste of resources, coming to the site puts its secrecy at risk. Zena will burst into tears and confess that she is a Jonah. She's was kidnapped by the gang when she was twelve. Piracy is the only life she ever knew.
+Zena realises that when the pirates arrive and find no booty, she'll face pretty severe punishment. Not only is it a big waste of resources, but coming to the site puts its secrecy at risk. Zena will burst into tears and confess that she is a Jonah. She was kidnapped by the gang when she was twelve. Piracy is the only life she ever knew.
 
 If this happens she will tell the group that a contingent of enforcers are making their way to the site, probably on board trucks. It's a two day drive from SALT MINE. How long until the enforcers arrive will depend on how long it is since the group arrived at the site.
 
@@ -344,14 +344,14 @@ If this happens she will tell the group that a contingent of enforcers are makin
 
 image:https://dub01pap003files.storage.live.com/y4mVZchui5cdnW7BkCDhRgyx2a_l7AXl-H6m7mErydMBMqYhsj9_qLedIW3jSwlC8or6RNNNaKXYZvrQ9Gp94KG-CgEDa_SfXH61vTni-zhJeKV0rUZAFJ3ShuMZz9hHv5Rqm8QjV2Hil41byIhh5JVUBxmJPMx4CNBtv8_o6cPuhp5dFFiYB4GABxFL_E2KtWr?width=1200&height=675&cropmode=none[Cutaway]
 
-The Silo 08-C1S "Oasis" was built more than a hundred years ago, when the region was still being fought over for access to Helium-3. The battles long since ended, but the battlefield has remained a dangerous place because it's covered in autonomous weapons. The danger is even greater then people realise. Pirate groups have set up ambush traps, where their attacks are mistaken for random mine or missile strikes. One such pirate gang has taken over and networked together a number of hidden weapon emplacements that can bring down flying vehicles or cripple ground vehicles along a wide range of the no man's land.
+The Silo 08-C1S "Oasis" was built more than a hundred years ago when the region was still being fought over for access to Helium-3. The battles have long since ended, but the battlefield has remained dangerous because it's covered in autonomous weapons. The danger is even greater then people realise. Pirate groups have set up ambush traps, where their attacks are mistaken for random mine or missile strikes. One such pirate gang has taken over and networked together a number of hidden weapon emplacements that can bring down flying vehicles or cripple ground vehicles along a wide range of the no man's land.
 
 Oasis is equipped with a pop-up missile launch system. However, the actual missile launcher is out of commission, so the pirate group have mounted a modern medium-calibre railgun on top of the launcher.
 
 === Key
 
-The silo is located in a flat, boulder-strewn area. The personnel access tunnel is obscured by a large boulder that somewhat overhangs the tunnel entrance. A heavy-duty ladder runs from the surface to about 6m below, leading into a cube-shaped chamber that looks to have been laser-cut out of luna rock with a smooth fuzed rock walls.
-The room is completely bare, except for a heavy-duty airlock and a small screen.
+The silo is located in a flat, boulder-strewn area. A large boulder that somewhat overhangs the tunnel entrance obscures the personnel access tunnel. A heavy-duty ladder runs from the surface to about 6m below, leading into a cube-shaped chamber that looks to have been laser-cut out of Luna rock with smooth fuzed rock walls.
+The room is completely bare except for a heavy-duty airlock and a small screen.
 
 image:https://dub01pap003files.storage.live.com/y4mV8bcU_eCg9CbqHL97StqEbtaoPub05nk1pAaJ-TGe-sfBX5jbALi2sL-HaTUAZ2Dykq15XZry01r-5FbyvMOrXVTrKyNlgPwIdN4jO5VIfO_46ppBlPkXPqFYFgoTEaz_zEKM0RPPAuhL4iAAKKTDjeafQz4u4wrvp6HwoFm47Q3SZSxQ4_uTfy6t8PLnlZH?width=1024&height=724&cropmode=none[MAP1]
 
@@ -399,17 +399,17 @@ image:https://dub01pap003files.storage.live.com/y4mxXIn4rZmnH7dusCyDP8qjj5HQCfkm
 
 *ACCESS BAYS:* [NORTHERN] The access bay separates a large storage area that takes up half the level. There are neatly stacked crates in the centre of the room that contain general supplies, replacement parts such as bulbs and electronics, as well as tools and equipment. There is a STORE 2A and a STORE 2B that correspond with those on the level above. 
 
-*ORDNACE WORKSHOP:* This area takes up about half the level. It contains machinary for assembling missiles. There are tables and work benches that contain partly assembled missings but they look old. At the end of the room is a large heavy duty hatch labelled with "DANGER: WARHEAD STORAGE". The door ha status lights and environment readouts. The readouts indicate that the temperature inside is -60 degrees. If the hatch is openned the PC find that the room is completely stripped, except for a chair at the end of the chamber in which a dead man sits, frozen solid. It looks like he was beaten up.
+*ORDNANCE WORKSHOP:* This area takes up about half the level. It contains machinery for assembling missiles. There are tables and work benches that contain partly assembled machines but they look old. At the end of the room is a large heavy-duty hatch labelled with "DANGER: WARHEAD STORAGE". The door has status lights and environmental readouts. The readouts indicate that the temperature inside is -60 degrees. If the hatch is opened, the PCs find that the room is completely stripped, except for a chair at the end of the chamber in which a dead man sits, frozen solid. It looks like he was beaten up.
 
 image:https://dub01pap003files.storage.live.com/y4mOj4FDVQcUOMuqpwYCrNC5JOvQiTRGQo_MphEz6f_CJUzugUQoiiOeVQFiHjDVYvD0wdideLkcdf812znoMhPFeM1VEnTbUuGHRkxTdrvuGfXdG7Ih4DNRkEs8N5iWeQnRr_GorQr21Azu-jCbBZ1Mx3Gmr3CHtmLSdrFxYgHYYWu3onmmx-OSLPTCa-IeKcA?width=1024&height=724&cropmode=none[MAP3]
 
 *ACCESS BAYS:* [NORTHERN] The access bay separates a utility room from a recreation room.
 
-*REC ROOM:* This room contains VR suites, exercise equipment and a wall mounted entertainment screen. There look to be bullet holes across the screen which occasionally flickers to life then goes dark again. There are signs that a fight took place small amounts of blood and some shell casings.
+*REC ROOM:* This room contains VR suites, exercise equipment and a wall-mounted entertainment screen. There look to be bullet holes across the screen that occasionally flickers to life then goes dark again. There are signs that a fight took place small amount of blood and some shell casings.
 
 *COMMON ROOM 1:* This area has purple walls and orange furnishings. It contains a large central table, stools and wall mounted "bunk tunnels". These are like "coffin hotels" that provide a bed and limited space for dressing. They are arranged as a row of four banks each with two bunks, one on top of the other. To the side is a small toilet and shower room. There's a "MENS" symbol on the door. 
 
-*COMMON ROOM 2:* This area is almost identical to COMMON ROOM 1, although it has green walls and synthetic-timber furnishings. There's a large central table, stools and wall mounted "bunk tunnels". These are like "coffin hotels" that provide a bed and limited space for dressing. They are arranged four banks across each with a stack of two bunks, making for eight in total. To the side is a small toilet and shower room. There's a "WOMENS" symbol on the door. 
+*COMMON ROOM 2:* This area is almost identical to COMMON ROOM 1, although it has green walls and synthetic timber furnishings. There's a large central table, stools and wall-mounted "bunk tunnels". These are like "coffin hotels" that provide a bed and limited space for dressing. They are arranged four banks across, each with a stack of two bunks, making for eight in total. To the side is a small toilet and shower room. There's a "WOMEN" symbol on the door. 
 
 *GREEN ROOM:* This room is equipped with a wall-to-wall and ceiling screens, creating a good illusion of sitting in a terrestrial enviroment. There's a large collection of plant pots in the room but all the plans have withered away. This type of room is very common in small isolated outposts and stations. Allowing inhabitants to sit an enjoy bright simulatd sunlight, a breeze. It was found that these are important for long-term mental health. The screens have faded so it's hard to tell what's actually being projected but there's the sound of dirds playing.
 
@@ -443,11 +443,11 @@ There's a console that monitors power and systems. Everything is green. There is
 
 === Moon Siege
 
-In this chapter the PCs must prepare for an attack by pirate enforcers.
+In this chapter, the PCs must prepare for an attack by pirate enforcers.
 
 == Operating on Luna
 
-Operating on Luna introduces the following challenges, that should factor into many of the actions that the PCs may wish to take:
+Operating on Luna introduces the following challenges that should factor into many of the actions that the PCs may wish to take:
 
 * *Gravity:* You weigh about 16% of your mass. If you're not wearing a heavy vacc-suit then much care is required while walking or running as there's a serious danger of hitting your head when you take too big a step. 
 
