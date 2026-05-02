@@ -2,6 +2,11 @@
 
 This is a place to jot (okay, type) any ideas about anything. Progress has been slowed because the paths onwards go in every direction. I've been stuck on deciding which path to take. I could have taken any path. This place is a glances at all directions. As ideas cement, they'll be moved out or expanded upon in more appropriate places.
 
+
+=== Digital Twins
+
+There is a special kind of MI common to Advancer nations that is a implanted as a tiny module to the upper service of a newborn baby's posterior inferior frontal gyrus. This module incorporates a companion intellect present within the child's consciousness, a distinct voice that serves as a lifelong companion. Although it has only a fraction of a full MI's potential, it offers some incredible advantages: a digital twin can handle background reasoning, such as working through a problem while its host handles other tasks. It provides additional assistance with emotional and executive reasoning, like having a more mature, sensible brother or sister whispering in your ear. In play, a digital twin can provide a +2 Int and Edu. However, some retro societies have proscriptions on their presence, requiring that someone with a Digital Twin sedate them while on station and wear some kind of indicator, such as an arm band.
+
 === Cults
 
 Small groups of people go and live in interplanetary isolation. They share a set of odd life rules and principles. Those rules and principles are driven by the community leadership. Over time, this setup creates a feedback loop that drives aderence to the leader and punishes those who break with the rules. Small isolated communities become cults. It's not a healthy model for living. It can easily create extremism and if the leadership group are bad, the whole group becomes tainted.
@@ -12,6 +17,9 @@ Retured MIs, living deep inside asteroids. They can only be visited through the 
 
 === Synthetic Organisms
 
-Athena created a new race of Humans. She also created all sorts of exotic organisms. Some uplifts of animals from Earth, including Dinosaurs. The most exotic synths are the vacuum-dwellers. Life forms engineered to live in space. seeding asteroids, consuming raw materials, metals and volitiles. 
+Athena created a new race of Humans. She also created all sorts of exotic organisms. Some uplifts of animals from Earth, including Dinosaurs. The most exotic synths are the vacuum-dwellers. Life forms engineered to live in space. seeding asteroids, consuming raw materials, metals and volatiles. These are strange indeed, a cross between ocean-going whales, coral and crabs. 
+Prompt:
+A genetically engineered life-form that can live in the vacuum of space, using solar power and the absorption of volatiles to survive, they have varied forms but are often likened to a cross between coral-encrusted whales with huge solar sails instead of fins and long crab-like appendages.
+
 
 
